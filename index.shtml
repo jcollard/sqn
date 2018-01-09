@@ -94,9 +94,9 @@ image10.src = "/tabs/misctabover.gif";
 
 // End -->
 </script>
-<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+<LINK REL="SHORTCUT ICON" HREF="favicon.ico" type="image/x-icon" />
 </head>
-<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('/tabs/maintabover.gif','/tabs/sq1tabover.gif','/tabs/sq2tabover.gif','/tabs/sq3tabover.gif','/tabs/sq4tabover.gif','/tabs/sq5tabover.gif','/tabs/sq6tabover.gif','/tabs/sq7tabover.gif','/tabs/misctabover.gif')">
 <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
   <tr> 
     <td colspan="3" valign="top" background="tabs/tabback.gif"> 

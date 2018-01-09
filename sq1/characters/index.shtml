@@ -1,0 +1,279 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 1 Characters</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq1up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 1 Characters &gt; </strong>Roger encounters a number of 
+                strange and interesting aliens during his adventure. This page 
+                offers a description of the most important ones.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq1down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../../navmenu/sq1menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq1between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td valign="top"> <table width="100%" border="0" cellspacing="1" cellpadding="1">
+              <tr> 
+                <td align="left" valign="top"><div align="justify"><font color="#FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Jerry</strong></font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+                    <img 
+src="jerry.gif" alt="Jerry - one of Roger's former crew mates" width="100" height="22" border="0" align=left>&quot;Hey, 
+                    I know this man. This is Jerry. Poor fellow. This mission 
+                    was going to be Jerry's last tour of duty and he was planning 
+                    to celebrate by having a gender-change operation during the 
+                    voyage home. He wanted to surprise his wife.&quot;</font></div></td>
+              </tr>
+            </table>
+            <font size="2" face="Arial, Helvetica, sans-serif"><br>
+            </font> <table width="100%" border="0" cellspacing="1" cellpadding="1">
+              <tr> 
+                <td align="left" valign="top"><div align="justify"><font color="#FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>The 
+                    Orat</strong></font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+                    <img 
+src="orat.gif" alt="The Orat" width="90" height="94" border="0" align=left>They 
+                    live in caves and hunt for Grell at night. The Orat is a native 
+                    Keronian creature and can only be found there. Roger encountered 
+                    one of these savage creatures and managed to kill it. Nowadays, 
+                    the Orat has almost become extinct because it's a very popular 
+                    snack by Monolith Burger visitors.</font></div></td>
+              </tr>
+            </table>
+            <font size="2" face="Arial, Helvetica, sans-serif"><br>
+            </font> <table width="100%" border="0" cellspacing="1" cellpadding="1">
+              <tr> 
+                <td align="left" valign="top"><div align="justify"><font color="#FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>The 
+                    Keronian Race</strong></font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+                    <img 
+src="keronian.gif" alt="The Keronian leader" width="100" height="71" border="0" align=left>The 
+                    Keronian civilization is the oldest of Kerona, as they are 
+                    the original inhabitants. Sadly, since the arrival of space 
+                    settlers and immigrants, the rich Keronian culture is suppressed 
+                    and they are forced to live underground. The new colonists 
+                    don't share their way of life, you see. The peaceful Keronians 
+                    are always scared to have their underground cities and hide 
+                    outs discovered, and despise the Orat. The image you see here 
+                    on the left is a holographics projection of the Keronian leader 
+                    called &quot;Tunuctipin&quot;.</font></div></td>
+              </tr>
+            </table>
+            <font size="2" face="Arial, Helvetica, sans-serif"><br>
+            </font> <table width="100%" border="0" cellspacing="1" cellpadding="1">
+              <tr> 
+                <td height="96" align="left" valign="top"><div align="justify"><font color="#FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>The 
+                    Chdnarian sales bug</strong></font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+                    <img 
+src="salesbug.jpg" alt="The Chdnarian sales bug" width="94" height="75" border="0" align=left>The 
+                    sales bug appears to be a Chdnarian, a race renowned for their 
+                    predatory sales techniques. This bug has won a prize for &quot;Salesbug 
+                    of the year&quot;. Better count your fingers once you've completed 
+                    your transaction. Roger encountered this creature on Kerona 
+                    when looking for a navigational droid.</font></div></td>
+              </tr>
+            </table>
+            <font size="2" face="Arial, Helvetica, sans-serif"><br>
+            </font> <table width="100%" border="0" cellspacing="1" cellpadding="1">
+              <tr> 
+                <td align="left" valign="top"><p align="justify"><font color="#FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>The 
+                    Sarien Race</strong></font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+                    <img 
+src="sariens.gif" alt="A Sarien battle trooper" width="60" height="72" border="0" align=left>Although 
+                    the cosmos contains a diverse spectrum of life forms, the 
+                    Sariens are universally considered amoung the ugliest and 
+                    worst-dressed. They are space thugs who cruise the galaxies 
+                    causing havoc by exposing aerosol cans to open flame or fire 
+                    - Living as nomads, without a world to call their own. Eons 
+                    ago, they lived in the Earnonian solar system with the Xenonian 
+                    race. But these two highly intelligent races could not coexist. 
+                    A battle was to be fought. In the famous Telecommunications 
+                    War, the Xenonians won and the Sariens were expelled. This 
+                    happened literally eons ago, so one would think they would 
+                    have gotten over it by now, but apparently they still hold 
+                    a grudge. The Sariens are still determined to make the Humans 
+                    from Xenon pay, and they did... With the mad scientist Sludge 
+                    Vohaul as their leader, they stole the newly developed Star 
+                    Generator (a powerful weapon if it were to fall in the wrong 
+                    hands). The only problem was that our friend Roger Wilco interfered. 
+                    He destroyed the Star Generator which was aboard the mighty 
+                    Sarien battlecruiser, the Deltaur. Since that time, almost 
+                    all of the Sariens' pirate-like activities have ceased. It 
+                    is feared that the Sariens are still roaming the Galaxy, waiting 
+                    for a new opportunity to strike.</font></p></td>
+              </tr>
+            </table>
+            <font size="2" face="Arial, Helvetica, sans-serif"><br>
+            </font> <table width="100%" border="0" cellspacing="1" cellpadding="1">
+              <tr> 
+                <td align="left" valign="top"><div align="justify"><font color="#FFFFB1" size="2" face="Arial, Helvetica, sans-serif"><strong><font size="3">A 
+                    Sarien Spider Droid</font></strong></font><font size="3" face="Arial, Helvetica, sans-serif"></font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+                    <img 
+src="spider.jpg" alt="The vicious Sarien Spider Droid" width="139" height="94" border="0" align=left>Rats! 
+                    If the eyes don't deceive, that's a Sarien Spider Droid. Its 
+                    red scanner probes the terrain for anything that moves. Roger 
+                    Wilco recalls reading in an old issue of Space Piston Magazine 
+                    that this droid was designed to seek out organic life forms 
+                    and self-destruct when close proximity to the target has been 
+                    achieved. One was sent after Roger, but it is not known what 
+                    happened to it, as it suddenly disappeared from Sarien deep 
+                    space scanner probes. It must have suffered a defective leg 
+                    servo. Truly an icon of terror.</font></div></td>
+              </tr>
+            </table>
+            <font size="2" face="Arial, Helvetica, sans-serif"><br>
+            </font> <table width="100%" border="0" cellspacing="1" cellpadding="1">
+              <tr> 
+                <td align="left" valign="top"><div align="justify"><font color="#FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Tiny</strong></font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+                    <img 
+src="tiny.gif" alt="Tiny" width="103" height="86" border="0" align=left>This man 
+                    is a used spacecraft seller on the planet Kerona. Although 
+                    he looks friendly, he is only interested in selling his ships 
+                    for appealing amounts of money. It so happens that Roger Wilco 
+                    did buy a ship at &quot;Tiny's used spacecrafts lot&quot;. 
+                    He got near the Sarien battlecruiser Deltaur with it. It is 
+                    said that Tiny was killed by one of the Ulence Flats gangmembers 
+                    because he sold a ship that wasn't his.</font></div></td>
+              </tr>
+            </table>
+            <font size="2" face="Arial, Helvetica, sans-serif"><br>
+            </font> <table width="100%" border="0" cellspacing="1" cellpadding="1">
+              <tr> 
+                <td height="56" align="left" valign="top"><p><font color="#FFFFB1" size="2" face="Arial, Helvetica, sans-serif"><strong><font size="3">A 
+                    Keronian Thief</font></strong></font><font size="3" face="Arial, Helvetica, sans-serif"></font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+                    <img 
+src="thief.gif" alt="A mugger from Kerona" width="39" height="77" border="0" align=left>One 
+                    of the many muggers on Kerona who are involved in gang activities.</font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">&quot;Say 
+                    there, pal. It's come to my attention that you're in the market 
+                    for some transportation. Just follow me.....&quot;<br>
+                    &quot;Hold it right there, pal! This is a stick-up! I'll just 
+                    relieve you of your cash, thank you very much.&quot;</font></p>
+                  <p><font color="#000000" size="2" face="Arial, Helvetica, sans-serif">___</font></p></td>
+              </tr>
+            </table>
+            <p align="justify"><strong><font color="#FFFFB1" size="3" face="Arial, Helvetica, sans-serif">Slash 
+              Vohaul<br>
+              </font></strong><font size="2" face="Arial, Helvetica, sans-serif">Not
+               much is known about Slash Vohaul. (Sludge&#8217;s brother). He
+               continued Sludge's work on the Star Generator after Sludge was
+               banned from
+               
+              the project (we learn more about Sludge in Space Quest 2). Slash
+                mysteriously died just after the Star Generator project was completed,
+               
+              but he managed to sent out an encrypted data storage cartridge
+               that  contain the bue prints of the secret Star Generator (volume
+               Astral 
+              Body, the Untold Story). It is believed that Slash somehow learned
+                about his brother's evil intention to steal the Star Generator...</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Sludge 
+              was then brotherless, or so it seems.... hahahaha!</font></p>
+            <p align="justify"><font color="#000000" size="2" face="Arial, Helvetica, sans-serif">__</font> 
+            </p>
+            </td>
+        </tr>
+      </table></td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

@@ -1,0 +1,273 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 1 Documentation</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center"> <a name="top"></a>
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq1up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 1 Documentation &gt; </strong>Here you can download high 
+                resolution scans of the documentation that shipped with Space 
+                Quest 1.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq1down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../../navmenu/sq1menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq1between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td valign="top"><p align="justify"><font color="ffffb1" size="3" face="Arial, Helvetica, sans-serif"><strong>Space 
+              Quest 1 Manual</strong></font><font color="ffffb1" size="2" face="Arial, Helvetica, sans-serif"><strong><font size="3"><font size="2"><br>
+              </font></font></strong></font><font size="2" face="Arial, Helvetica, sans-serif"> 
+              There are two versions of the Space Quest 1 manual. The EGA version 
+              (the original), and the VGA version (the remake). The VGA manual 
+              contains a somewhat different introduction, which is more funny 
+              but contains less background details. A pretty much pointless but 
+              funny detail: the VGA manual is messing up the meaning of the words: 
+              &quot;sun&quot;, &quot;galaxy&quot; and &quot;solar system&quot;. 
+              According to the manual, Earnon is a galaxy. But later on, it's 
+              made clear that the &quot;sun&quot; of Earnon is dying. AND, it 
+              describes Earnon as an &quot;old system&quot;. The manual is actually 
+              talking about the &quot;solar system&quot; Earnon, which contains 
+              a planet called &quot;Xenon&quot;. A galaxy contains billions of 
+              stars, not one. A solar system, however, contains one star only. 
+              To put even more weight on this statement, the EGA manual says: 
+              &quot;Far beyond the reaches of known space lies a <em>planetary 
+              system</em> known to its inhabitants as Earnon&quot;. Also, the 
+              word &quot;sun&quot; is the name of our star, which planet Earth 
+              is orbiting. The manual should have said &quot;star&quot;.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">The 
+              manuals themselves aren't all that exciting, but they are both cool 
+              collectors items. So I'll have to warn those who expect to see a 
+              Galactic Inquirer, a Popular Janitronics or Piston Magazine style-like 
+              manual. They are just plain text! The images are scanned, edited 
+              and compressed with great care. Enjoy.</font></p>
+            <p align="justify"><img src="../../extraimages/line.gif" width="100%" height="3"></p>
+            <table width="100%" border="0">
+              <tr align="left" valign="top"> 
+                <td colspan="3"> <font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Space 
+                  Quest 1 EGA Manual</strong></font> </td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td width="9%" rowspan="2"><font face="Arial, Helvetica, sans-serif" size="2"><img src="ega/frontklein.jpg" alt="Space Quest 1 EGA Manual" width="150" height="194"></font></td>
+                <td width="43%" valign="top"><font face="Arial, Helvetica, sans-serif" size="2"><a href="ega/front.jpg" target="_blank">Frontcover</a> 
+                  <font color="#CC0000">(176 KB)</font><br>
+                  <a href="ega/pag01.gif" target="_blank">Page 1</a> <font color="#CC0000">(52.8 
+                  KB)</font><br>
+                  <a href="ega/pag02.gif" target="_blank">Page 2</a> <font color="#CC0000">(19.7 
+                  KB)</font><br>
+                  <a href="ega/pag03.gif" target="_blank">Page 3</a> <font color="#CC0000">(78.9 
+                  KB)</font><br>
+                  <a href="ega/pag04.gif" target="_blank">Page 4</a> <font color="#CC0000">(54.8 
+                  KB)</font><br>
+                  <a href="ega/pag05.gif" target="_blank">Page 5</a> <font color="#CC0000">(63 
+                  KB)</font><br>
+                  <a href="ega/pag06.gif" target="_blank">Page 6</a> <font color="#CC0000">(61.5 
+                  KB)</font></font></td>
+                <td width="48%" valign="top"><font face="Arial, Helvetica, sans-serif" size="2"><a href="ega/pag07.gif" target="_blank">Page 
+                  7</a> <font color="#CC0000">(77.5 KB)</font><br>
+                  <a href="ega/pag08.gif" target="_blank">Page 8</a> <font color="#CC0000">(52.8 
+                  KB)</font><br>
+                  <a href="ega/pag09.gif" target="_blank">Page 9</a> <font color="#CC0000">(48.4 
+                  KB)</font><br>
+                  <a href="ega/pag10.gif" target="_blank">Page 10</a> <font color="#CC0000">(47 
+                  KB)</font><br>
+                  <a href="ega/pag11.gif" target="_blank">Page 11</a> <font color="#CC0000">(71.3 
+                  KB)</font><br>
+                  <a href="ega/pag12.gif" target="_blank">Page 12</a> <font color="#CC0000">(43.3 
+                  KB)</font><br>
+                  <a href="ega/rear.jpg" target="_blank">Rear page</a> <font color="#CC0000">(163 
+                  KB)</font></font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td colspan="2" valign="top"><p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">You 
+                    can also download the handy dandy PDF file. <a href="ega/sq1egamanual.pdf"> 
+                    Click here</a> <font color="#CC0000">(1 MB)</font> to download 
+                    it. You'll need the free Adobe Acrobat Reader to open PDF 
+                    files.</font></p></td>
+              </tr>
+            </table>
+            <font size="2" face="Arial, Helvetica, sans-serif"><br>
+            </font> <table width="100%%" border="0" cellpadding="1" cellspacing="1">
+              <tr align="left" valign="top"> 
+                <td colspan="3"> <p><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Space 
+                    Quest 1 VGA Manual</strong></font></p></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td width="9%" rowspan="3"><font face="Arial, Helvetica, sans-serif" size="2"><img src="vga/frontklein.jpg" alt="Space Quest 1 VGA Manual" width="150" height="194"></font></td>
+                <td width="43%" valign="bottom"><font face="Arial, Helvetica, sans-serif" size="2"><a href="vga/front.jpg" target="_blank">Frontcover</a> 
+                  <font color="#CC0000">(176 KB)</font><br>
+                  <a href="vga/pag00.gif" target="_blank">Page 0</a> <font color="#CC0000">(28.1 
+                  KB)</font></font><font face="Arial, Helvetica, sans-serif" size="2"><br>
+                  <a href="vga/pag01.gif" target="_blank">Page 1</a> <font color="#CC0000">(22.5 
+                  KB)</font><br>
+                  <a href="vga/pag02.gif" target="_blank">Page 2</a> <font color="#CC0000">(92.4 
+                  KB)</font><br>
+                  <a href="vga/pag03.gif" target="_blank">Page 3</a> <font color="#CC0000">(76.6 
+                  KB)</font><br>
+                  <a href="vga/pag04.gif" target="_blank">Page 4</a> <font color="#CC0000">(75.0 
+                  KB)</font><br>
+                  <a href="vga/pag05.gif" target="_blank">Page 5</a> <font color="#CC0000">(49.2 
+                  KB)</font><br>
+                  <a href="vga/pag06.gif" target="_blank">Page 6</a> <font color="#CC0000">(51.0 
+                  KB)</font></font></td>
+                <td width="48%" valign="bottom"><font face="Arial, Helvetica, sans-serif" size="2"><a href="vga/pag07.gif" target="_blank">Page 
+                  7</a> <font color="#CC0000">(44.6 KB)</font><br>
+                  <a href="vga/pag08.gif" target="_blank">Page 8</a> <font color="#CC0000">(67.0 
+                  KB)</font><br>
+                  <a href="vga/pag09.gif" target="_blank">Page 9</a> <font color="#CC0000">(43.0 
+                  KB)</font><br>
+                  <a href="vga/pag10.gif" target="_blank">Page 10</a> <font color="#CC0000">(128 
+                  KB)</font><br>
+                  <a href="vga/pag11.gif" target="_blank">Page 11</a> <font color="#CC0000">(171 
+                  KB)</font><br>
+                  <a href="vga/pag12.gif" target="_blank">Page 12</a> <font color="#CC0000">(84.1 
+                  KB)</font><br>
+                  <a href="vga/pag13.gif" target="_blank">Page 13</a> <font color="#CC0000">(36.6 
+                  KB)</font></font><font face="Arial, Helvetica, sans-serif" size="2"><br>
+                  <a href="vga/rear.jpg" target="_blank">Rear page</a> <font color="#CC0000">(147 
+                  KB)</font></font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td colspan="2" align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2">You 
+                    can also download the handy dandy PDF file. <a href="vga/sq1vgamanual.pdf"> 
+                    Click here</a> <font color="#CC0000">(1.3 MB)</font> to download 
+                    it. You'll need the free Adobe Acrobat Reader to open PDF 
+                    files.</font></div></td>
+              </tr>
+            </table>
+            
+            <p align="justify"><font color="ffffb1" size="3" face="Arial, Helvetica, sans-serif"><strong>Space 
+              Quest EGA Misc Documentation</strong></font><font color="ffffb1" size="2" face="Arial, Helvetica, sans-serif"><strong><font size="3"><font size="2"><br>
+              </font></font></strong></font><font size="2" face="Arial, Helvetica, sans-serif"> 
+              Space Quest 1 also shipped with a registration card and a reference 
+              card. The originally supplied registration cards were numbered while 
+              newer ones aren't, but they offered the new &quot;Sierra Newletter&quot; 
+              for free. I've scanned the first version of this card, both <a href="registrationcardfront.jpg" target="_blank">front</a> 
+              <font color="#CC0000">(32 KB)</font> and <a href="registrationcardback.jpg" target="_blank">back</a> 
+              <font color="#CC0000">(144 KB)</font>. Also included was <a href="wantahint.jpg" target="_blank">this 
+              leaflet</a><font color="#CC0000"> (112 KB)</font> to order the official 
+              hint book. The reference card is a six page folded document containing 
+              basic information about the AGI engine:</font></p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="50%"><font size="2" face="Arial, Helvetica, sans-serif"><a href="referencecardpage1.jpg" target="_blank">Page 
+                  1</a> <font color="#CC0000">(80 KB)</font><br>
+                  <a href="referencecardpage2.jpg" target="_blank">Page 2</a> 
+                  <font color="#CC0000">(92 KB)</font><br>
+                  <a href="referencecardpage3.jpg" target="_blank">Page 3</a> 
+                  <font color="#CC0000">(76 KB)</font></font></td>
+                <td width="50%"><font size="2" face="Arial, Helvetica, sans-serif"><a href="referencecardpage4.jpg" target="_blank">Page 
+                  4</a> <font color="#CC0000">(72 KB)</font><br>
+                  <a href="referencecardpage5.jpg" target="_blank">Page 5</a> 
+                  <font color="#CC0000">(96 KB)</font><br>
+                  <a href="referencecardpage6.jpg" target="_blank">Page 6</a> 
+                  <font color="#CC0000">(132 KB)</font></font></td>
+              </tr>
+            </table>
+            <p><font color="#000000">___</font></p></td>
+        </tr>
+      </table> </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

@@ -1,0 +1,208 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 2 Soundtrack</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center"> <a name="top"></a>
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq2up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 2 Soundtrack &gt; </strong>On this page you'll find the 
+                complete Space Quest 2 soundtrack. You can choose songs recorded 
+                from the IBM, the Apple IIgs and the Tandy 1000.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq2down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> <!--#include virtual="../../navmenu/sq2menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq2between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td valign="top"> <p align="justify"><font color="ffffb1" size="3" face="Arial, Helvetica, sans-serif"><strong>Space 
+              Quest 2 Soundtrack<br>
+              </strong></font><font face="Arial, Helvetica, sans-serif" size="2">Space 
+              Quest 2 (aka &quot;The King's Quest set in outer space&quot;) has 
+              always been the &quot;black sheep&quot; of the series. One can argue 
+              about several things, but a real loss is the lack of music (although 
+              Space Quest 1 EGA also didn't feature real music, the VGA remake 
+              did). When playing Space Quest 2, the music and special effects 
+              were produced by the pathetic sounding PC-speaker. I must admit 
+              the PC-speaker DOES give the game a kinda kinky feeling, but that 
+              must be the nostalgia surrounding the whole thing. But let's face 
+              it, the PC-speaker is no match against the mighty soundcards and 
+              sound modules like the Adlib, the Roland MT32 etc. But at the time 
+              Space Quest 2 was released, soundcards didn't even exist! Mind you, 
+              the first Space Quest with true music was Space Quest 3, and that 
+              was a culture shock in PC land, I can assure you. So, basically 
+              the Two Guys couldn't really help it, but <img src="../../extraimages/sqnet.gif" width="87" height="11" alt="SpaceQuest.Net"> 
+              can.</font></p>
+            <p align="left"><font size="2" face="Verdana"><img src="../../extraimages/line.gif" width="100%" height="3"></font></p>
+            <p align="left">&nbsp;</p>
+            <p align="left"><font color="#CC0000" face="Arial, Helvetica, sans-serif" size="2"><strong><font color="FFFFB1" size="3">The 
+              IBM songs</font></strong></font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><a href="sq2agiintrosc.ogg">SQ2_01 
+              The Intro</a> <font color="#CC0000">(1.2 MB)</font> 1 minute and 
+              23 seconds<br>
+              <a href="sq2deaththemesc.ogg">SQ2_02 The Death Theme</a> <font color="#CC0000">(244 
+              KB)</font> 17 seconds<br>
+              <a href="sq2vohaulsc.ogg">SQ2_03 The Vohaul Theme</a> <font color="#CC0000">(196 
+              KB)</font> 13 seconds</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Total 
+              file size: 1.6 MB</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Please 
+              note: these files are Ogg Vorbis files, an improved sound format. 
+              You should be able to play these files using <a href="http://www.winamp.com" target="_blank">WinAmp</a>. 
+              For those lucky few who own a MacIntosh, you can download a free 
+              QuickTime plug-in from <a href="http://sourceforge.net/project/showfiles.php?group_id=41359" target="_blank">this 
+              site</a>. Simply put the component it into your LIBRARY -&gt; QUICKTIME 
+              folder to make it work. More information can be found at <a href="http://www.vorbis.com/" target="_blank">http://www.vorbis.com/</a>.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><img src="../../extraimages/line.gif" width="100%" height="3"></font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="#CC0000" face="Arial, Helvetica, sans-serif" size="2"><strong><font color="FFFFB1" size="3">The 
+              Apple IIgs songs</font></strong><br>
+              </font><font face="Arial, Helvetica, sans-serif" size="2">The following 
+              mp3's were created by playing the PC version of SQ2 on the Apple 
+              IIgs-emulator Kegs32 and plugging the output into a second PC, and 
+              recording it (and encoding the wav's to mp3's). Since I never used 
+              a real Apple IIgs I can't really say how close to the real thing 
+              this is. It cracks, pops and hisses quite a bit.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">For 
+              those who didn't know, the Apple IIgs versions of Sierra's AGI games 
+              sounds quite different from other platforms. Apart from the music 
+              sounding better they also have sampled sound effects!</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">The 
+              songs included in the zip file <a href="SQ2music-AppleIIgs.zip">SQ2music-AppleIIgs</a> 
+              <font color="#CC0000">(2.20 MB)</font>:</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">Theme 
+              - The Space Quest theme.<br>
+              Death - Death tune.<br>
+              MarrowMatic - This tune is played while Roger is being chased by 
+              the Vohaul Marrow-Matic at the end. I don't think there is any music 
+              at all there in other versions.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><img src="../../extraimages/line.gif" width="100%" height="3"></font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font size="3" face="Arial, Helvetica, sans-serif" color="FFFFB1"><strong>The 
+              Tandy 1000 songs</strong></font><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000"><br>
+              </font><font face="Arial, Helvetica, sans-serif" size="2">The following 
+              mp3's were created by playing the PC version of SQ2 on a Tandy 1000-emulator 
+              and plugging the output into a second PC, and recording it (and 
+              of course encoding the wav's to mp3's). Since I never used a real 
+              Tandy 1000, I can't really say how close to the real thing this 
+              is, but it sounds way better than single voice PC speaker anyway! 
+              The SQ2 music sounds a bit odd in places so the emulation may not 
+              be perfect.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">For 
+              those who didn't know, the Tandy 1000 &amp; IBM PCjr where PC compatibles 
+              which had different sound circuits from other PC's, as well as better 
+              graphics (back when most PC's had 4 color CGA). All of Sierra's 
+              AGI games support these sounds &amp; graphic modes.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              The songs included in the zip file <a href="SQ2music-Tandy1000.zip">SQ2music-Tandy1000</a> 
+              <font color="#CC0000">(1.05 MB)</font>:</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">Theme 
+              - The Space Quest theme version 2.0!<br>
+              Death - Death tune.</font></p>
+            <p align="justify"><font color="#000000" size="2" face="Arial, Helvetica, sans-serif">_</font></p>
+            </td>
+        </tr>
+      </table> </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

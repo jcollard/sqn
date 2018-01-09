@@ -1,0 +1,210 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Sierra News Magazine Summer 1991</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="interactionup.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>InterAction 
+                Magazine &gt;</strong> Sierra used to publish its own gaming magazine 
+                (which was called &quot;Sierra Newsletter&quot; and &quot;Sierra 
+                News Magazine&quot; before fall 1991). This chapter features SQ 
+                related articles of these magazines.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="interactiondown.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../../navmenu/miscmenu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="interactionbetween.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br> 
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td colspan="2" valign="top"> <p align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Sierra 
+              News Magazine Summer 1991</strong></font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <a href="snmV4N2cover.jpg" target="_blank"><img src="snmV4N2coverk.jpg" width="122" height="159" border="0" align="right"></a>Although 
+              released some time ago, Space Quest 4 (winter 1990) and Space Quest 
+              1 (september 1990) were still &quot;hot&quot; stuff. Space Quest 
+              4 was just re-released in Multimedia CD-ROM format (March 1991), 
+              so the eyes where once again focused upon the Space Quest games. 
+              </font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">The 
+              cover on the right </font> <font face="Arial, Helvetica, sans-serif" size="2" color="#CC0000">(175 
+              KB) </font><font face="Arial, Helvetica, sans-serif" size="2"> features 
+              our space hero, along with some other minor celebrities:</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">&quot;Whoa, 
+              what a line-up! Can this much fun be legal? You may recognize the 
+              two suspicious characters on the left, but who's that guy with the 
+              bow? How about the rowdy kid with the skateboard? That sharp-dressed 
+              dragon on the end sure doesn't look worried. In fact, all of these 
+              playful perpetrators will plead &quot;no contest&quot; to First 
+              Degree Fun. To ferret out the facts in the case of Sierra's New 
+              Games, see the Fall Line-up preview on page 30! Meanwhile, take 
+              a look at computer gaming's &quot;Most Wanted&quot; list.&quot;</font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>In 
+              Praise of One</strong></font><font face="Arial, Helvetica, sans-serif" size="2"> 
+              <font color="547ED9">- SQ related part only</font><br>
+              Is an article written by <a href="johnwilliams.htm" target="_blank">John 
+              Williams</a> (Ken Williams' brother) about the new VGA remakes of 
+              Leisure Suit Larry, King's Quest, Police Quest and of course Space 
+              Quest:</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">&quot;It's 
+              no secret that Sierra game sequels are the industry's hottest sellers. 
+              But as much as we here at Sierra love to get that next exciting 
+              installment out the door, we also love the classics; those first-in-a-series 
+              adventures that started it all, like the original King's Quest, 
+              Space Quest, or good old Leisure Suit Larry.&quot; You can <a href="snmV4N2inpraiseof.jpg" target="_blank">click 
+              here</a> for a scan <font color="#CC0000">(184 KB)</font> of the 
+              Space Quest section of this article. A funny note: <a href="../rwcomic/index.shtml">the 
+              Roger Wilco Comic books</a> are also mentioned in this small article.</font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font size="3" color="FFFFB1" face="Arial, Helvetica, sans-serif"><strong>Official 
+              Space Quest 4 Hint Book Ad</strong> </font><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif">- 
+              complete</font><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <a href="SNM-V4N2-13.jpg" target="_blank">Click here</a> <font color="#CC0000">(202 
+              KB)</font> for a cool ad.</font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font size="3" color="FFFFB1" face="Arial, Helvetica, sans-serif"><strong>Review 
+              from Game Player's Magazine</strong></font> <font color="547Ed9" size="2" face="Arial, Helvetica, sans-serif">- 
+              complete</font><font face="Arial, Helvetica, sans-serif"><a name="gameplayers"></a><br>
+              <font size="2">Second is a review of Space Quest 4, reprinted with 
+              permission from Game Player's Magazine. An interesting thing about 
+              this article is a major screw up. They mentioned you can use the 
+              timepod to go to &quot;Space Quest II: Vohaul's Revenge&quot;. Well, 
+              they probably mean Space Quest XII: Vohaul's Revenge II... Amateurs.... 
+              The following 5 pages are scans of this article:</font></font><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <a href="SNM-V4N2-7.jpg" target="_blank">Page 1</a> <font color="#CC0000">(209 
+              KB)</font><br>
+              <a href="SNM-V4N2-8.jpg" target="_blank">Page 2</a> <font color="#CC0000">(250 
+              KB)</font><br>
+              <a href="SNM-V4N2-9.jpg" target="_blank">Page 3</a> <font color="#CC0000">(226 
+              KB)</font><br>
+              <a href="SNM-V4N2-10.jpg" target="_blank">Page 4</a> <font color="#CC0000">(262 
+              KB)</font><br>
+              <a href="SNM-V4N2-11.jpg" target="_blank">Page 5</a> <font color="#CC0000">(268 
+              KB)</font></font></p>
+            <p align="justify"><font color="#CC0000" size="3" face="Arial, Helvetica, sans-serif"><br>
+              <strong><font color="FFFFB1">The Official Guide to Roger Wilco's 
+              Space Adventures</font></strong></font><font face="Arial, Helvetica, sans-serif" size="2"> 
+              <font color="457ED9">- complete</font><br>
+              This book is a large hintbook for the first 4 Space Quest games 
+              (<a href="../bookreviews/index.shtml">review here</a>). An <a href="SNM-V4N2-togtrwsa.jpg" target="_blank"> 
+              ad</a> <font color="#CC0000">(199 KB)</font> of this book appeared 
+              in this issue of the Sierra News Magazine.<br>
+              </font></p>
+            <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Weird 
+              rear</strong></font><strong><font color="FFFFB1" size="2" face="Arial, Helvetica, sans-serif"> 
+              </font></strong><font color="547ed9" size="2" face="Arial, Helvetica, sans-serif">- 
+              complete</font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              The rear of this magazine features an ad for Space Quest 1, <a href="SNM-V4N2-rear.jpg" target="_blank">click 
+              here</a> <font color="#CC0000">(213 KB)</font> to take a look. It's 
+              special because it seems like they forgot to add the text! Compare 
+              it with <a href="../rwcomic/comic1/rear.jpg" target="_blank">the 
+              rear</a> <font color="#CC0000">(193 KB)</font> of the <a href="../rwcomic/index.shtml">Roger 
+              Wilco Comic books</a> issue 1 or 2 to see what I mean.</font></p>
+            <p align="justify"><font color="#000000">___</font></p></td>
+        </tr>
+      </table>
+      
+    </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

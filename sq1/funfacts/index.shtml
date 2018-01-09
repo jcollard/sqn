@@ -1,0 +1,404 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 1 Fun Facts</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center"> <a name="top"></a>
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq1up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 1 Fun Facts &gt; </strong>This page contains everything 
+                you wanted to know about Space Quest 1 and then some!</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq1down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../../navmenu/sq1menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq1between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td valign="top"><p align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Space 
+              Quest 1 Funfacts EGA version</strong></font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">Scott 
+              and Mark first met eachother during work on &quot;the Black Cauldron&quot; 
+              game. The two got together and decided to do a game of their own, 
+              in their favorite genre - science fiction. The Two Guys were determined 
+              and in their spare time programmed what later became the first four 
+              rooms the Sarien Encounter. Ken loved the demo and gave them green 
+              light to proceed. Mark did the graphics, key puzzles and the basic 
+              storyline while Scott programmed and provided the sardonic humor 
+              and dialog. The rest, is history.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">Mark 
+              Crowe: &quot;The idea of having alter designer egos did not occur 
+              until late in development. We were winding down and had to start 
+              thinking about things like credits. I thought it would be a hoot 
+              to be these two alien dudes and have our picture on the back of 
+              the box. It just went with the whole wacky space thing. I think 
+              the point back then was to make fun of the other designers of the 
+              day who had this rock star mentality and had to have thier mugs 
+              all over the product. Scott concurred and I picked up these funky 
+              red mohawk bald head things for us to wear. We did not have time 
+              to throw together space costumes so Scott came up with the idea 
+              to wear touristy hawaiian shirts and go have our picture taken in 
+              Yosemite like we were on vacation. The &quot;Two guys&quot; thing 
+              we borrowed from a east coast pizza chain &quot;Two Guys from Italy&quot;. 
+              I thought &quot;Yeah! Scott and me--we're just two guys makin' software!&quot; 
+              Thus, the Two Guys were born.&quot;</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><img src="jerry.gif" alt="Jerry - one of Roger's former crew mates" width="100" height="22" align="right">Kick 
+              one of your dead crew mates in Space Quest 1 EGA and you'll lose 
+              one point! But who would do such a thing?</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">Type 
+              &quot;holy shit&quot; when playing with the slot machine. Beating 
+              the machine will be an easy one! This works only in game version 
+              2.2.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">The 
+              title theme song is composed by Mark Crowe.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              Apple IIgs version of Space Quest 1 replaced the purple sky of Kerona 
+              with a dull looking orange. Please <a href="orangesky.html" onClick="NewWindow(this.href,'popup','320','189','no');return false;">click 
+              here</a> for a screenshot.</font></p>
+            <p align="justify"> <font size="2" face="Arial, Helvetica, sans-serif">When 
+              you sell the land skimmer upon your arrival in Ulence Flats you 
+              can only &quot;look skimmer&quot; in versions 1.1a and 2.2, getting 
+              one of two messages (&quot;You watch as the skimmer is driven away 
+              by it's new owner.&quot; OR &quot;The skimmer is attempting to leave. 
+              Get out of the way, you geek!&quot;). In version 1.0x you can't 
+              look at the skimmer or it's owner as it flies away.</font></p>
+            <p align="justify"> <font size="2" face="Arial, Helvetica, sans-serif">There's 
+              a weird bug that can occur when loading your navigational droid 
+              into the cruiser. If you stand in front of the ladder and enter 
+              (warm up your typing skills) &quot;climb ladder&quot; and then &quot;press 
+              button&quot; really quickly (the idea is to hit enter on &quot;press 
+              button&quot; before Roger is finished climbing the ladder), the 
+              droid will not load straight up into the ship but at a diagonal 
+              - up and to the left. Is this the prescence of an earlier, different 
+              loading animation intended for a different type ship? This bug is 
+              only present in game versions 1.0x and 1.1a and NOT in version 2.2. 
+              Additionally, in any version of Space Quest I EGA you can keep the 
+              droid loading continually by hitting F3 and enter over and over 
+              again -- in the case of this bug, the droid dances diagonally across 
+              the screen.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Okay, 
+              here's a weird one. A telephone number Sierra used back in 1988 
+              was (209) 683-6858. The last four numbers are &quot;6858&quot; is 
+              the code used to disable the Star Generator.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              song played by ZZ Top is called &quot;Sharp Dressed Man&quot; from 
+              their 1983 album &quot;Eliminator&quot;. The Blues Brothers are 
+              playing &quot;Can't Turn You Loose&quot;, which is included on the 
+              soundtrack &quot;Blues Brothers 2000&quot;.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2"> 
+              When starting Space Quest 1, you are asked to enter your name. If 
+              you don't enter a name your name will automatically be &quot;Roger 
+              Wilco&quot;. Many people think this name was introduced in Space 
+              Quest 3, but as you can see here, that's not true.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              first version of Space Quest 1 EGA was released in 1986 and the 
+              game kept coming out in newer versions until the end of 1987. There 
+              are a few pretty interesting differences between the oldest and 
+              newest version which are listed below. One of the version numbers 
+              out there are: 1.0X, 1.1A, 2.2 and possibly many others.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              - Version 1.0X didn't use the menu version 2.2 used (which you bring 
+              up with the escape button). Instead, pressing escape will bring 
+              up the PAUZE feature. Speed control is much much better in version 
+              2.2. If you run &quot;fast mode&quot; in 1.0X the game is almost 
+              unplayable. This is because later versions included the latest AGI 
+              interpreters engine available.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">- 
+              After entering a new screen, your character will stop. In version 
+              2.2 he'll continue walking.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">- 
+              Some changes were made concerning the parser. The most notable difference 
+              is that you can &quot;insert cartridge in slot&quot; in the underground 
+              settlement of the Keronians to read about Slash Vohaul. This is 
+              actually the ONLY command which works with versions 1.0X. Later 
+              versions also allowed the command: &quot;put card in slot&quot;. 
+              While inserting something into a slot makes a lot of sense, I think 
+              many non-native speakers got stuck there. Imagine you can't use 
+              the command TAKE or GRAB but only GET. Can get quite a challenge 
+              that way.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#CC0000"><img 
+src="ken.gif" alt="Ken Williams - 16 colour style" width="51" height="63" align=right></font><font size="2" face="Arial, Helvetica, sans-serif">- 
+              In version 1.0X you could type &quot;Ken&quot; (referring to Ken 
+              Williams, the big boss of Sierra in those days) in the first screen 
+              of the Arcada. Ken would walk into the screen and complain that 
+              the game was behind schedule. This does NOT work with version 2.2. 
+              My guess is that Ken made the Two Guys remove that gag in later 
+              releases.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#CC0000"><img 
+src="dx.gif" alt="Model DX Retrieval Unit" width="61" height="35" align=left></font><font size="2" face="Arial, Helvetica, sans-serif">- 
+              To your left is a Model DX Retrieval Unit from the data archive 
+              room, right? WRONG! In 1.0X of the Sarien Encounter this unit is 
+              described as a D12 model. The DX Model also has a longer claw.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">- 
+              Then, of course, we have the famous Droids'R'Us scene, which was 
+              later changed on into Droids'B'us. Interesting detail is that also 
+              the coupon supplied with the game package was changed. Needless 
+              to say, the Droids'R'us coupon is a collectors item (read about 
+              the law suit in the VGA section of the funfacts).</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">- 
+              The slot machine &quot;holy shit&quot; gag / debug doesn't work 
+              in version 1.0X, which surprised me. Also, I found out the slot 
+              machine is a little bit harder to beat in 1.0X, but that might as 
+              well be my terrible luck.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><img src="oratscave.gif" alt="Orat's Cave" width="160" height="100" align="right">- 
+              The biggest difference is actually the Orat puzzle. Let's start 
+              with version 2.2. Orat is in his cave waiting for you to walk in. 
+              If the spider droid falls down from the sky, returning to the cave 
+              will reveal an empty one. Guess Orat decided to go hunting for Grell. 
+              If you want to make Orat collide with the spider droid, you'll have 
+              to successfully visit the holographic image. In version 1.0X the 
+              Orat puzzle is a little bit more refined. You see, Orat isn't there 
+              at all unless you've spoken with the Keronian leader. Who, of course, 
+              sends you out to capture the Orat. Now you can capture that savage 
+              beast using either your dehydrated water or with help from the spider 
+              droid. When the droid is on the scene, get your butt to Orat's cave 
+              and hide behind the rocks - as seen on the left bottom side of the 
+              screen. Orat will appear from the hollows you see in the top right 
+              position of the screen. He walks very slowly this time, way different 
+              if you were alone with the guy. The spider will enter momentarily 
+              and both guys will head straight for each other until physical contact 
+              has been established. Unless you're in the way. I found the message 
+              that comes with the explosion is pretty funny: <em>&quot;The cave 
+              interior now features a lovely new jagges Metal / Liberated Entrails 
+              motive. The stench? Whew! Not even an all-text adventure would attempt 
+              that description.&quot;</em> But that certainly isn't the end of 
+              story. Do you remember that natural land bridge which cracks beneath 
+              your feet if you walk on it? With version 2.2 it's possible to cross 
+              the bridge only once: from east to west en-route to the underground. 
+              With version 1.0X you might have a serious problem. I'll explain. 
+              As I told you, Orat isn't there when you first enter the cave. You 
+              must first meet the Keronian leader in the underground. This means 
+              you'll have to cross the bridge one time. After you've spoken to 
+              the guy, he'll kick you back onto the surface. That's the second 
+              time you'll need to cross the bridge. That is, if you want to meet 
+              Orat. And of course, when you've completed your assignment you need 
+              to get back underground, thus crossing the bridge one last time. 
+              This leaves little room for error. Everybody knows the bridge will 
+              cave-in after 5 crossings. This means if you did everything according 
+              to the book there is no return. Yes, you can cross it again but 
+              walking back is not an option anymore. To me, this entire scene 
+              is much more challenging than in version 2.2. And much more fun 
+              too.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">As 
+              you can see in the menu bar of Space Quest 1 EGA, you can get a 
+              maximum of 202 points. But if you know some tricks, you can actually 
+              get 205 and even 207 points! Here are some tips:<br>
+              - When you've entered the Deltaur through the airlock, get inside 
+              the trunk as usual. When you've reached the laundry room, exit the 
+              trunk and close it. Climb on the trunk and use your army knife to 
+              open the vent. Climb in the vent and return to the laundry room 
+              again. This will award you with some extra points.<br>
+              - You'll also get an extra point if you kiss a Sarien guard. Scott 
+              Murphy adds: &quot;Kissing the Sarien was all Ken Williams' doing. 
+              We let him do some programming and just because he runs the company 
+              he thinks he can do whatever he wants. Go figure.&quot;<br>
+              - Try talking to a Sarien guard. When he asks you if you've played 
+              King's Quest II, say &quot;yes&quot;.<br>
+              - Get the second grenade in the weapon room after you've dropped 
+              the first to kill the Star Generator guard. Simply give the droid 
+              your ID-card again and quickly take the other grenade.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">This 
+              will earn you 205 points! Game version 1.0X is slightly different, 
+              though. The One point score in the vents on the Deltaur has been 
+              re-allocated in later versions. In version 1.1a and 2.2 you get 
+              one point for exiting the vent back into the laundry room. In version 
+              1.0x that point is found by entering the vent, going left to the 
+              ladder, down one screen and right until you crush your nose on another 
+              vent. &quot;Kick vent&quot; for the extra point. Here is the breakdown:</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Version 
+              1.1a and 2.2: <br>
+              Ride trunk to laundry room (3 points)<br>
+              Enter vent (2 points)<br>
+              Kick other vent, one screen down (0 points)<br>
+              Exit vent back to laundry room (1 point)</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Version 
+              1.0x:<br>
+              </font><font size="2" face="Arial, Helvetica, sans-serif">Ride trunk 
+              to laundry room (3 points)<br>
+              Enter vent (2 points)<br>
+              Kick other vent, one screen down (1 point)<br>
+              Exit vent back to laundry room (0 points)</font></p>
+            <p align="justify"> <font size="2" face="Arial, Helvetica, sans-serif">BUT 
+              WAIT, there's more! In version 1.0x you can get 207 of 202 points! 
+              When the escape pod crash lands on Kerona, type &quot;get kit&quot;, 
+              then &quot;look kit&quot;, then &quot;get kit&quot; again and you'll 
+              take the Xenon Survival Kit twice. There will only be one in your 
+              inventory but you'll get an extra 2 points - 207 of 202 (of course, 
+              you must do the other extra's described above)!</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">When 
+              you shoot a Sarien, you'll earn a couple of points. However, if 
+              you shoot another one, you'll start losing points (you're blowing 
+              your cover!). Now, the interesting part is that there's a bug in 
+              the point system. Continue shooting Sariens until you've got no 
+              points left. When you shoot another Sarien, you'll get 254 points 
+              all of the sudden! For gun food, just walk out of a room, and return 
+              over and over again. Sariens appear at random.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">Included 
+              in the box of the original release of Space Quest 1 EGA are two 
+              coupons. One for the Droids-B-Us store and the other one for the 
+              Oasis Bar. The fun is you can actually use these coupons in the 
+              game. When buying your droid at Droids-B-Us, Roger will give one 
+              of the coupons automatically, but in the bar you have to type &quot;GIVE 
+              THE COUPON&quot;. For your trouble, you'll receive 5 bucks and a 
+              Keronian Ale from the bartender. These coupons aren't included in 
+              most collections and budget releases.</font></p>
+            <div align="justify"> 
+              <table width="100%" border="0" cellspacing="1" cellpadding="1">
+                <tr> 
+                  <td width="33%"> <div align="left"><font size="2" face="Arial, Helvetica, sans-serif"><a href="coupondbu.html" onClick="NewWindow(this.href,'popup','600','305','no');return false;"><img src="coupondbuklein.jpg" alt="Droids-B-Us coupon" width="150" height="76" border="0"></a><br>
+                      <font color="#CC0000">(44 KB) </font></font></div></td>
+                  <td width="34%"> <div align="center"><font size="2" face="Arial, Helvetica, sans-serif"><a href="coupondRu.html" onClick="NewWindow(this.href,'popup','440','227','no');return false;"><img src="coupondRuklein.jpg" alt="Droids-R-Us coupon" width="150" height="76" border="0"></a><br>
+                      <font color="#CC0000">(28 KB) </font></font></div></td>
+                  <td width="33%"> <div align="right"> 
+                      <p><font size="2" face="Arial, Helvetica, sans-serif"><a href="couponbar.html" onClick="NewWindow(this.href,'popup','600','302','no');return false;"><img src="couponbarklein.jpg" alt="Oasis Bar coupon" width="150" height="76" border="0"><br>
+                        </a><font color="#CC0000">(44 KB)</font></font></p>
+                    </div></td>
+                </tr>
+              </table>
+            </div>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">As 
+              shown in the pictures above, there are actually two versions of 
+              the Droid-B-Us coupons out there. It's obvious that the lawsuit 
+              had something to do with it. It seems that Sierra was forced to 
+              change the the &quot;R&quot; from earlier game versions into the 
+              &quot;B&quot;. My guess is Toys-R-Us were pleased enough with this 
+              change and left Sierra alone after this change was made. Click on 
+              the coupons for a close up.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><img src="messeduprear.jpg" alt="Mirrored Two Guys photo" width="100" height="95" align="right">Some 
+              of the first Space Quest 1 boxes have the picture of The Two Guys 
+              mirrored by mistake (see picture on the left). According to Scott 
+              Murphy some doofus doing the final layout for that box put the film 
+              in backwards. There are only a few thousand of these out there. 
+              The Sierra Newsletter Vol 1 #2 announces this little mistake.</font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Space 
+              Quest 1 Funfacts VGA version</strong></font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              All the foreign versions of Space Quest 1 (and SQ4Disk) also have 
+              the English language files included. Just go to the control panel 
+              and click on the Sierra About Logo. The last button on the right 
+              changes it from English to whatever the foreign language you're 
+              playing. Apparently, SQ1VGA and SQ4Disk are the only Sierra games 
+              that include this option.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><img src="../../extraimages/newitem.gif" width="62" height="44" align="right">When
+                you die during the skimmer sequence, the amiga version of SQ1VGA
+                let's you choose to &quot;try again&quot;. The original PC version only
+                gives you the options to &quot;Restore&quot;, &quot;Restart&quot; and &quot;Quit&quot;.</font></p>
+            <p align="center"><font size="2" face="Arial, Helvetica, sans-serif"><img src="tryagain.gif" alt="Try Again death message" width="237" height="64"></font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><img src="../../extraimages/newitem.gif" width="62" height="44" align="right">At
+                the end of  SQ1VGA, the scene changes from the last scene
+              to the credits and  a familiar tune is played. This little piece
+                of music is poking fun at Star Wars. John Williams, composer
+                of the
+                Star Wars music, always adds the same tune to all of the Star
+                Wars films as they change
+              from the last scene to the credits. You can download a MP3 clip <a href="starwars.mp3">here</a>              <font color="#CC0000">(191
+              KB)</font>. It's from the
+                Star Wars soundtrack and the Space Quest 1 VGA soundtrack. The
+              similarities are obvious.</font></p>
+            <p align="justify"><font color="#000000" size="2" face="Arial, Helvetica, sans-serif">__</font></p>
+          </td>
+        </tr>
+      </table> </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All
+          original content (c) Frans van Hofwegen. All Space Quest related
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

@@ -1,0 +1,852 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 5 Hint Book</title>
+<STYLE TYPE="text/css">
+
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center"> <a name="top"></a>
+<!--#include virtual="../../tabs/tabmenu.html" -->
+      </div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq5up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 5 Official Hint Book &gt; </strong>Being stuck on a puzzle 
+                for too long is frustrating. On this page you won't find a walk 
+                through but the hints from the official hint book. A hint doesn't 
+                spoil the game like a walk through does.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq5down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> <!--#include virtual="../../navmenu/sq5menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq5between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td valign="top"> <p align="justify"><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Space 
+              Quest 5 Official Hint Book</strong></font><font size="2"><br>
+              This page is about the official Space Quest 5 hint book, released 
+              by Sierra in 1993. The hint book is of the usual Sierra hint book 
+              size, namely 15 x 11.5 centimeters. It consists of 71 pages and 
+              includes a &quot;making of&quot; article (which has been reprinted 
+              in <a href="../funfacts/index.shtml">the Funfacts page</a>), character 
+              descriptions, design sketches, maps, a pointlist and more. It </font><font face="Arial, Helvetica, sans-serif" size="2"> 
+              is written by David Selle, the assistant director of the Space Quest 
+              5 project. </font></font><font face="Arial, Helvetica, sans-serif" size="2">Watch 
+              out for fake hints or &quot;Red Herrings&quot;! </font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Scans: <a href="cover.html" onClick="NewWindow(this.href,'popup','452','600','no');return false;">cover 
+              closeup</a> <font color="#CC0000">(64 KB)</font> - <a href="pag34.html" onClick="NewWindow(this.href,'popup','486','600','no');return false;">page 
+              34 with adventure window</a> <font color="#CC0000">(96 KB)</font></font></p>
+            <table width="100%" border="0">
+              <tr valign="top" align="left"> 
+                <td><font color="278b1f" face="Arial, Helvetica, sans-serif" size="2"><img src="hintbook.jpg" alt="Space Quest Hintbook" width="150" height="201" align="left"></font><font face="Arial, Helvetica, sans-serif" size="2"><a href="#academy">Academy 
+                  daze</a><br>
+                  <a href="#garbage">A Garbage Scow by any other name... (still 
+                  smells as bad)</a><br>
+                  <a href="#droid">How to avoid the droid</a><br>
+                  <a href="#spacebar">Monkey business at the Space Bar</a><br>
+                  <a href="#klorox">Much ado at Klorox II</a><br>
+                  <a href="#thrakus">Thrakus: Fun with Fungi</a><br>
+                  <a href="#overboard">Man overboard!</a><br>
+                  <a href="#nottobea">To Bea, or not to Bea; that's the question</a><br>
+                  <a href="#genetix">Genetix: a Roger-fly in the ointment</a><br>
+                  <a href="#conflict">The Final Conflict (more or less)</a><br>
+                  <a href="#eureka">Eureka! I'm back...</a></font></td>
+              </tr>
+            </table>
+            <p><font size="2" face="Arial, Helvetica, sans-serif"><img src="../../extraimages/line.gif" width="100%" height="3"></font></p>
+            <p>&nbsp;</p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="79%"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Academy 
+                  Daze</strong></font><font face="Arial, Helvetica, sans-serif" size="3" color="#CC0000"><a name="academy"></a></font></td>
+                <td width="21%"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000">:: 
+                    <a href="#top"> Back to top</a> ::</font></div></td>
+              </tr>
+            </table>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I can't figure 
+              out what I'm supposed to do at StarCon Academy.<br>
+              <font color="#333333">- You have several tasks to complete at the 
+              academy.<br>
+              - Remember where Captain Quirk told you to go?<br>
+              - You need to get to class.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I'm in class 
+              taking the SAT but I don't know any of the answers.<br>
+              <font color="#333333">- Timing is everything.<br>
+              - Eye the big-head cadet's test when the Proctormatic 9000 droid 
+              is facing away from you.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I got busted 
+              by the Protormatic 9000.<br>
+              <font color="#333333">- &quot;Look&quot; at the droid for a clue 
+              on how to avoid getting caught.<br>
+              - Discretion is the better part of plagiarism, so to speak.<br>
+              - Don't look at anyone else's test unless the droid is facing away 
+              from you.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">All the other 
+              cadets are really mean to me!<br>
+              <font color="#333333">- Did you try giving them some candy?<br>
+              - What's that? You don't have any?<br>
+              - Did you try the vending machines?<br>
+              - Actually, there aren't any vending machines.<br>
+              - You can't do anything about your fellow cadets' bad attitudes, 
+              just stick it out and you'll persevere in the end.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I was told to 
+              clean the academy crest but I don't know how.<br>
+              <font color="#333333">- You'll need some cleaning supplies.<br>
+              - Check out the janitorial closet in the hallway.<br>
+              - Make sure you take the Scrub-O-Matic floor scrubber and the orange 
+              safety cones.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">Okay, I got 
+              the cleaning supplies, now what?<br>
+              <font color="#333333">- Proceed to the floor of the main rotunda.<br>
+              - You will use the Scrub-O-Matic floor scrubber to clean the floor, 
+              but you have to do something else, first.<br>
+              - Did you get the orange safety cones from the janitorial closet?<br>
+              - Place the cones at each corner of the StarCon Crest.<br>
+              - Board the Scrub-O-Matic (put it on the floor and click the Hand 
+              icon on it twice) and use the Brush icon to clean all parts of the 
+              crest).</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">There are several 
+              areas that are &quot;off-limits&quot; to me. I need to get back 
+              there to hide from the sentry robots!<br>
+              <font color="#333333">- Did you try bribing the security guards?<br>
+              - Didn't work? Hmm. Maybe you should try a creative approach.<br>
+              - Wait until the guard take a coffee break, then slather some Insta-Bond 
+              liquid cement on his chair. When he comes back, he'll be stuck to 
+              his seat and unable to reach the alarm button.<br>
+              - Actually, you can't get to any of the areas that are off-limits 
+              to cadets (snicker). This clua is a &quot;Red Herring&quot; or, 
+              as the French say: a &quot;Poisson Rouge.&quot;</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I've finished 
+              cleaning the crest and interrupted the conference meeting, now what?<br>
+              <font color="#333333">- One of your classmates tells you something.<br>
+              - Something to do with the SAT test, remember?<br>
+              - Go to the bulletin board and pick up your test score, if you answered 
+              at least 50% correctly you'll pass, otherwise it's &quot;Hasta la 
+              Vista, Baby!&quot; (SAT scores are posted on the bulletin board 
+              next to the classroom).</font><br>
+              <br>
+              </font></p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="79%"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>A 
+                  garbage Scow by any other name... (still smells as bad)</strong></font><font face="Arial, Helvetica, sans-serif" size="2"><a name="garbage"></a></font></td>
+                <td width="21%"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000">:: 
+                    <a href="#top"> Back to top</a> ::</font></div></td>
+              </tr>
+            </table>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I'm Captain 
+              of the SCS Eureka, but I don't know what to do.<br>
+              <font color="#333333">- Well Captain Wilco, it's time to take &quot;command' 
+              of the situation.<br>
+              - Read the portion of the Inquirer walk-through that describes the 
+              Command icon.<br>
+              - Try giving some orders to your crew.<br>
+              - Click the Command icon on Flo and select HAIL STARCON from her 
+              order menu.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I've been ordered 
+              to undertake a Refuse Recovery Mission, but I can't find the coordinates 
+              I need to get there.<br>
+              <font color="#333333">- You have them, you just don't know you have 
+              them.<br>
+              - What do you want us to do, draw you a map?<br>
+              - We did.<br>
+              - Examine your documentation carefully.<br>
+              - Read &quot;Gir Draxon's Predictions for 3010&quot;. (That is, 
+              if you have <a href="../manual/index.shtml">the manual</a>)<br>
+              - See those little dots with planets names and numbers next to them? 
+              Duuh.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I'm having trouble 
+              recovering refuse.<br>
+              <font color="#333333">- You will need to give several orders in 
+              the correct sequence to complete a pick-up.<br>
+              - If you overshoot your destination, you'll have to start over from 
+              scratch.<br>
+              - Listen to your crew, they'll give you some hints.<br>
+              - When Droole says &quot;Approaching our distination, Sir&quot;, 
+              click the command icon on him and choose REGULAR SPEED.<br>
+              - After Flo says &quot;I'm tracking a waste beacon,&quot; click 
+              the Command icon on Droole and choose ACTIVATE RRS.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I want to beam 
+              down to some of the planets, but I can't.<br>
+              <font color="#333333">- You cannot beam to any of the planets on 
+              your initial garbage runs.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">The Eureka keeps 
+              losing hull integrity and I don't know what to do.<br>
+              <font color="#333333">- Pay attention to what your crew says to 
+              you.<br>
+              - Have you checked the garbage compartment?<br>
+              - Look in the trash compartment (in the engineering section).<br>
+              - After you rescue Spike you must figure out how to &quot;neutralize&quot; 
+              him.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I rescued this 
+              cute little, um, &quot;thing&quot;, but it keeps making holes in 
+              the deck.<br>
+              <font color="#333333">- The baby face-hugger's metabolism is highly 
+              acidic.<br>
+              - There is a place you can store Spike, if you &quot;neutralize&quot; 
+              him first.<br>
+              - What do you do if you have an upset stomach?<br>
+              - Did you check Cliffy's toolbox? (it's in the engineering section).<br>
+              - Take the antacids from Cliffy's toolbox.<br>
+              - Put Spike in the &quot;Habitube&quot; in the science lab/transporter 
+              room.<br>
+              - Put the antacids in the specimen tank while Spike is in it.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">Apollo, the 
+              sun god, grabbed my ship with a giant hand and he won't let it go!<br>
+              <font color="#333333">- You'll have to transport to the surface 
+              of Lukaszuk II.<br>
+              - The only way you can escape is to beat him in a contest of skill.<br>
+              - When the toga-clad deity comments on your &quot;strange garb&quot; 
+              choose the dialogue response, &quot;Nice dress apollo, did your 
+              mom buy it for you?&quot; He will then challenge you to a duel.<br>
+              - At the Gladiator games menu, choose PAPER, SCISSORS, STONE.<br>
+              - Pick STONE, PAPER, PAPER, STONE, PAPER, PAPER, SCISSORS in that 
+              order.<br>
+              - Ha! You bozo! Stop reading ahead. This is a &quot;Red Herring!&quot;</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I got ambushed 
+              by an android!<br>
+              <font color="#333333">- You cannot avoid this, so make the best 
+              of it.<br>
+              - She's not bluffing.<br>
+              - Beam down to the surface of Kiz Urazgubi or she'll blow up your 
+              ship.</font><font color="#333333"><br>
+              <br>
+              </font></font></p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="50%"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>How 
+                  to Avoid the Droid</strong></font><font face="Arial, Helvetica, sans-serif" size="2"><a name="droid"></a></font></td>
+                <td width="50%"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000">:: 
+                    <a href="#top"> Back to top</a> ::</font></div></td>
+              </tr>
+            </table>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I keep getting 
+              nailed on Kiz Urazgubi!<br>
+              <font color="#333333">- When in doubt, run away!<br>
+              - Keep moving. If you stay in any one place for too long, you're 
+              toast.<br>
+              - WD40's targeting system take a couple shots to bracket you, but 
+              she'll hit you by the third shot every time.<br>
+              - Try a little spelunking.<br>
+              - Use the network of caves to avoid the android.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">How can I fight 
+              something I can't even see?<br>
+              <font color="#333333">- Be creative.<br>
+              - You'll need to &quot;stick&quot; this one out.<br>
+              - Crawl out onto the small tree branch to the left of the big log 
+              in the &quot;big log&quot; scene.<br>
+              - After the branch breaks you falldown to the pool below, pick up 
+              the stick.<br>
+              - Make your way up to the scene with the boulder balanced on the 
+              cliff.<br>
+              - Walk over to the left-most cave and wait until WD40 appears in 
+              the foreground.<br>
+              - As soon as you can see her, enter the cave (you should then see 
+              her footprints in the pool and her silhouette as she walks through 
+              the waterfall). When you get to the cliff, jump across and climb 
+              up to the boulder above the mouth of the small cave.<br>
+              - Use the stick as a lever to pry the boulder loose while WD40 is 
+              still in the cave. Note: you must do this while she is still in 
+              the cave. If your timing is off, you'll have to start over.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I've bould&quot;er&quot; 
+              over with my ingenuity, now what?<br>
+              <font color="#333333">- For your efforts to be &quot;fruitful&quot; 
+              you must use something found in the &quot;big log&quot; scene.<br>
+              - &quot;Look&quot; at everythin in the room.<br>
+              - Notice those clusters of fruit haning just out of reach?<br>
+              - The fruit cluster on the far right is the one you want.<br>
+              - Can't reach it? Stick around.<br>
+              - Use the branch to swing the fruit cluster. Grab a fruit when the 
+              cluster swing near you --- timing is the key!<br>
+              - The banana-like fruit mightier than the sword (when applied correctly).<br>
+              - Did you notice that big hollow log?<br>
+              - Ever heard of the &quot;banana in the tailpipe&quot; gag?<br>
+              - Hide inside the hollow log, when WD40 appears, shove the banana-like 
+              fruit in the tailpipe of her jet-pack.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">Egad! Cliffy 
+              won't let me beam back up to the Eureka!<br>
+              <font color="#333333">- Listen to what he has to say.<br>
+              - He wants something.<br>
+              - Search the &quot;big log&quot; scene carefully.<br>
+              - Did you notice the small, round, metallic object laying on the 
+              ground?<br>
+              - The ground object is the android's head. Pick it up and Cliffy 
+              will beam you back up to the Eureka.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">Help! I've fallen 
+              and I can't get up!<br>
+              <font color="#333333">- That just needed to be said.<br>
+              - What are you still reading this for? This isn't a hint.<br>
+              - Have you ever been talking to someone at lunch and had a big goober 
+              of partially chewed sandwich fly out of your mouth and hit them 
+              in the face?<br>
+              - I hate it when that happens!</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I foundWD40's 
+              ship, but I can't get inside.<br>
+              <font color="#333333">- Did you notice what she did when she arrived 
+              at Kiz Urazgubi?<br>
+              - Have a chat with Cliffy back on the Eureka.<br>
+              - Did Cliffy give you a &quot;souvenir&quot;?<br>
+              - You can use this object to open WD40's ship.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I can't figure 
+              out how to open the nondescript panel.<br>
+              <font color="#333333">- At first you don't succeed, try, try again.<br>
+              - Oh come on, it's not THAT hard!<br>
+              - Try the following:<br>
+              1. </font></font><font face="Arial, Helvetica, sans-serif" size="2" color="#333333">Open 
+              the two center vertical latches.<br>
+              2. Turn top left knob.<br>
+              3. Turn bottom right knob.<br>
+              4. Open top left panel.<br>
+              5. Open bottom left panel.<br>
+              6. Turn bottom left know.</font><font face="Arial, Helvetica, sans-serif"><br>
+              <font size="2" color="#333333">7. Turn top right know.<br>
+              </font></font><font face="Arial, Helvetica, sans-serif" size="2" color="#333333">8. 
+              Open top right panel.<br>
+              9. Open bottom left panel.<br>
+              10. Take the device.</font><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <br>
+              </font></p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="50%"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Monkey 
+                  Business at the Space Bar</strong></font><font face="Arial, Helvetica, sans-serif" size="2"><a name="spacebar"></a></font></td>
+                <td width="50%"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000">:: 
+                    <a href="#top"> Back to top</a> ::</font></div></td>
+              </tr>
+            </table>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I can't win 
+              Star Cruiser.<br>
+              <font color="#333333">- Read the &quot;on-line&quot; directions.<br>
+              - Practise makes perfect.<br>
+              - Use your probes.<br>
+              - Fire in a &quot;checkerboard pattern&quot; (every other square).<br>
+              - If you can't beat Quirk, don't sweat it too much. You can stilll 
+              &quot;win&quot; the game even if you lose here.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">Cliffy got busted, 
+              what should I do?<br>
+              <font color="#333333">- Maybe your crew will have some suggestions.<br>
+              - Talk to Droole and Flo in the booth.<br>
+              - You need to rescue Cliffy!</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">Cliffy is in 
+              the brig and I can't get past the guards!<br>
+              <font color="#333333">- The obvious approach isn't necessarily the 
+              correct one.<br>
+              - You will need to create a diversion.<br>
+              - A little &quot;monkey-ing around&quot; is in order.<br>
+              - Dump the packet of Space Monkeys in your drink (at the booth).<br>
+              - Make sure you turn off the force-field in the detention erea.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I found Cliffy, 
+              but I can't extract him from his predicament.<br>
+              <font color="#333333">- Be creative.<br>
+              - You'll need some help to get through the bars.<br>
+              - Parhaps your &quot;li'l buddy&quot; can help.<br>
+              - Get Spike and put him on the bars to Cliffy's cell.<br>
+              - Get out there before teh station blows!</font><font color="#333333"><br>
+              <br>
+              </font></font></p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="50%"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Much 
+                  Ado at Klorox II</strong></font><font face="Arial, Helvetica, sans-serif" size="2"><a name="klorox"></a></font></td>
+                <td width="50%"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000">:: 
+                    <a href="#top"> Back to top</a> ::</font></div></td>
+              </tr>
+            </table>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I've been ordered 
+              to Klorox II for an auxiliary garbage pickup, but there isn't any 
+              trash to recover.<br>
+              <font color="#333333">- Take it over with your crew.<br>
+              - Orbit the colony.<br>
+              - Order Flo to HAIL PLANET.<br>
+              - Ask WD40 for a &quot;recommendation.&quot;<br>
+              - Beam down to the surface.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">Ugh! I can't 
+              escape the &quot;Loogies of Death.&quot;<br>
+              <font color="#333333">- Quick reflexes are a life saver.<br>
+              - You need to use your eyes and ears.<br>
+              - When you hear the mutant hawwwk up a loogie, it's time to duck.<br>
+              - Move your head the moment he expectorates (spits).<br>
+              - After you beat him, pay close attention to what he says to you.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I found a computer 
+              terminal, but I don't know the access code.<br>
+              <font color="#333333">- It's right under your nose, more or less.<br>
+              - Did you notice the mutant drop anything before he attacked you?<br>
+              - Search the floor of the greenhouse.<br>
+              - See that little ship of paper?<br>
+              - The access code for the colony is written on the slip of paper.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I got the colonist's 
+              body into the Med-Lab. Should I use the Autodoc to conduct an autopsy?<br>
+              <font color="#333333">- You'll need to restore power first.<br>
+              - Now, if you only knew which program to use.<br>
+              - Aww skip it. Just shove the body into the chipper/shredder near 
+              the compost heap.<br>
+              - BAD HUMAN! You're reading ahead again. This is another Red Herring!</font><font color="#333333"><br>
+              <br>
+              </font></font></p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="50%"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Thrakus: 
+                  Fun with Fungi!</strong></font><font face="Arial, Helvetica, sans-serif" size="2"><a name="thrakus"></a></font></td>
+                <td width="50%"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000">:: 
+                    <a href="#top"> Back to top</a> ::</font></div></td>
+              </tr>
+            </table>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I died as soon 
+              as I beamed down to the planet's surface.<br>
+              <font color="#333333">- You died because you were dumb.<br>
+              - Remember the question on the SAT test about beaming down to an 
+              unknown planet for the first time?<br>
+              - Did you order WD40 to SCAN PLANET?<br>
+              - Did you try holding your breath? (Press [Ctrl]+[Alt]+&quot;H&quot;+&quot;B&quot; 
+              keys &amp; right mouse button simultaneously)<br>
+              - Actually you need some hardware.<br>
+              - An air mask, yeah, that's the ticket.<br>
+              - Look in the Eureka's pod bay.<br>
+              - There's a rebreather mask in the storage compartment immediately 
+              to the left of the pressure suits.</font><br>
+              </font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I've looked 
+              everywhere and there's nothing down here!<br>
+              <font color="#333333">- Patience.<br>
+              - If you don't detect the homing beacon from orbit, there's no point 
+              in beaming down to the surface.<br>
+              - If there is nothing of interest on Thrakus when you visit, come 
+              back later, there will be.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I see a steaming 
+              &quot;pod&quot; but I can't get to it.<br>
+              <font color="#333333">- You cannot jump the chasm.<br>
+              - It will require a short walk.<br>
+              The the narrow path leading to the west.<br>
+              - When you enter the next scene, look around carefully.<br>
+              - Look at the stems of the large Fungi.<br>
+              - The large stem to the east has a cleft in it. You can gain access 
+              to the pod via this passage.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I got &quot;pucked-out&quot; 
+              after I looked in the Pod.<br>
+              <font color="#333333">- Look around the pod's interior carefully 
+              before you leave.<br>
+              - Notice anything its former occupant may have left?<br>
+              - Look under the &quot;frock&quot;.<br>
+              - Turn off the homing beacon.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I got munched 
+              by the Mold Monster!<br>
+              <font color="#333333">- Did you take the Dr. Schmolls anti-fungal 
+              odor-eating boot inserts from the locker back at the academy?<br>
+              - Get upwind from the beast and set your boot inserts on fire with 
+              the laser torch.<br>
+              - The cloud of anti-fungal smoke you create will blind and confuse 
+              the Mold Monster causing him to fall over the precipice.<br>
+              - NOT!<br>
+              - You're BAD! Stop scamming the hints. This is another &quot;Red 
+              Herring&quot;!</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">The ambassador 
+              knocked me over the cliff! (I've heard of falling for a girl, but 
+              this is ridiculous!)<br>
+              <font color="#333333">- The ambassador is a spunky little thing, 
+              isn't she?<br>
+              - Actually there's nothing you can do to prevent this.<br>
+              - Hang in there baby!</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I'm precariously 
+              hanging over the edge of a 10,000 foot cliff with a woman pulling 
+              my pants down while a horde of slimy mutants is shooting noxious 
+              spitballs at me! What should I do!<br>
+              <font color="#333333">- First things first; save the ambassador 
+              (if she dies, you will too because of a time paradox).<br>
+              - Did you get the frock from the escape pod?<br>
+              - Lower the frock down to the ambassador.<br>
+              - After she scrambles up, call the Eureka on your communicator.<br>
+              - When Beatrice lowers you a vine, grab it!</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">The woman of 
+              my dreams got slimed!<br>
+              <font color="#333333">- There aren't many options open to you.<br>
+              - You cannot cure her, yet.<br>
+              - She needs to &quot;chill out&quot; for awhile.<br>
+              - Put her in the Eureka's cryo-chamber (in the science lab).<br>
+              - Make sure you read the directions on the Cryochef.</font><br>
+              <br>
+              </font></p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="50%"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Man 
+                  overboard!</strong></font><font face="Arial, Helvetica, sans-serif" size="2"><a name="overboard"></a></font></td>
+                <td width="50%"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000">:: 
+                    <a href="#top"> Back to top</a> ::</font></div></td>
+              </tr>
+            </table>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">The Goliath 
+              blew me away after I beamed back from Thrakus!<br>
+              <font color="#333333">- There's no way you can come out ahead in 
+              direct confrontation with the Goliath.<br>
+              - Be &quot;evasive&quot;.<br>
+              - Order Droole to take EVASIVE ACTION when the Goliath attacks.<br>
+              - Choose the O.K., Let's risk almost cetain death in the asteriod 
+              field, response.</font><br>
+              </font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">Cliffy is &quot;lost 
+              in space.&quot;<br>
+              <font color="#333333">- You're going to have to rescue him yourself.<br>
+              - Maybe your crew will have some helpful ideas.<br>
+              - Ask WD40 for a recommendation.<br>
+              - Hmm... maybe you should use the EVA pod from the Eureka.<br>
+              - Make sure you give it the once-over though, you wouldn't want 
+              to run out of any critical supplies.<br>
+              - You'll need to bring along some extra air.<br>
+              - The extra air is in a storage locker locker to the left of the 
+              oxygen mask storage area.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I'm having a 
+              hard time grappling with the EVA pod.<br>
+              <font color="#333333">- Read the on-line instructions.<br>
+              - Save your game as soon as you get into the pod.<br>
+              - Maneuver the pod towards the red dot on your scope (it's Cliffy).<br>
+              - When Cliffy fills your screen and you can't get any closer, extend 
+              the claw.<br>
+              - Maneuver right or left intil you see a green targeting rectangle. 
+              When it is visible, you can successfully grapple Cliffy.<br>
+              - Beat back to the Eureka before your fuel or air runs out.</font><br>
+              <br>
+              </font></p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="50%" height="7"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>To 
+                  Bea, or no to Bea; that is the question.</strong></font><font face="Arial, Helvetica, sans-serif" size="2"><a name="nottobea"></a></font></td>
+                <td width="50%" height="7"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000">:: 
+                    <a href="#top"> Back to top</a> ::</font></div></td>
+              </tr>
+            </table>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I don't know 
+              whether I should try to find a way to cure Beatrice or if I should 
+              concentrate on going after the pukoids.<br>
+              <font color="#333333">- Actually, these goals are not mutually exclusive.<br>
+              - Talk it over with your crew.<br>
+              - You need to fin the &quot;source&quot; of the substance which 
+              caused the mutations.<br>
+              - Then you can cure Bea and go after the mutants.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"> I want to track 
+              down the source of these mutants but I don't know where to look.<br>
+              <font color="#333333">- You've been given a hint already, though 
+              you may not recall it.<br>
+              - Remember the colonist on Klorox II?<br>
+              - There is a piece of evidence there which could air your search 
+              greatly.<br>
+              - There is an empty container...<br>
+              - Take the secret path at the west of the ridge overlooking the 
+              settlement (near the abandoned mining equipment).<br>
+              - Read the label on the canister. It lists the coordinates of the 
+              Genetix Research Corporation.</font><font color="#333333"><br>
+              <br>
+              </font></font></p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="50%"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Genetic: 
+                  A Roger-Fly in the Ointment</strong></font><font face="Arial, Helvetica, sans-serif" size="2"><a name="genetix"></a></font></td>
+                <td width="50%"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000">:: 
+                    <a href="#top"> Back to top</a> ::</font></div></td>
+              </tr>
+            </table>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I went to Genetix 
+              but they warned me to leave!<br>
+              <font color="#333333">- Are you surpriced? It is a top secret research 
+              facility after all.<br>
+              - Actually, you cannot enter the facility until certain events have 
+              transpired.<br>
+              - Come back later (trust us).</font> </font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I had a transporter 
+              malfunction and it really &quot;bugs&quot; me!<br>
+              <font color="#333333">- Deal with it. You can't avoid this &quot;accident&quot;.<br>
+              - Actually, it might give you a chance to scout around in places 
+              you couldn't normally go.<br>
+              - Buzz on over to the &quot;waterfall&quot; room.<br>
+              - See that little slit in the rock?<br>
+              - It's an electronic locking mechanism.<br>
+              - Pay REALLY close attention to what's going on in there. You might 
+              want to get a pencil and paper.<br>
+              - Walk across various light beams and note the effects, if any.<br>
+              - Fly into the lab, and land on the computer. Read the files and 
+              view the three security cameras.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I tried to talk 
+              to Cliffy, but he squished me!<br>
+              <font color="#333333">- He thinks you're just an ordinary fly.<br>
+              - You'll have to let him know what happened to you.<br>
+              - This will require some communications.<br>
+              - Did you notice your &quot;better-half&quot; dropped something 
+              as you beamed in?<br>
+              - Fly near the east edge of the pool. When the amphibian creature 
+              jumps to catch you, it will miss and land on the communicator's 
+              &quot;transmit&quot; button.<br>
+              - Land on the communicator and &quot;talk&quot; to Flo.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I've talked 
+              to Flo but I can't figure out how I'm supposed to get back to normal.<br>
+              <font color="#333333">- You'll need some help.<br>
+              - Cliffy's help to be exact.<br>
+              - You'll have to visit the secret underground laboratory first.<br>
+              - After you see CLiffy on the security monitors, &quot;fly&quot; 
+              (get it?) to the waterfall room and land on Cliffy's nose.<br>
+              - Fly over to the compost bin you saw on the security monitor in 
+              the lab after you talk to Cliffy.<br>
+              - Follow Cliffy's instructions.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I'm feeling 
+              like myself again, but I can't figure out how to get inside the 
+              lab.<br>
+              <font color="#333333">- Talk to Cliffy, maybe he has a few ideas.<br>
+              - Maybe you can devise a key.<br>
+              - Did you pay attention inside the locking mechanism when you were 
+              a fly?<br>
+              - Remember the business card the &quot;Merchant of Venus&quot; gave 
+              you?<br>
+              - Did you take the hole puncher from Cliffy's toll box?<br>
+              - Punch holes in the card to make a fake key.<br>
+              - I hope you remember what you saw when you were a fly! (Hint: You 
+              have to make five holes.)<br>
+              - You only get five chances.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">O.K., I busted 
+              into the lab, but now I'm stuck.<br>
+              <font color="#333333">- You need to get something here.<br>
+              - Something you couldn't get as a fly.<br>
+              - Look around the room very carefully.<br>
+              - Did you read the Primordial Soup information on the computer?<br>
+              - See the large machinery near the staircase?<br>
+              - Open the storage chamber in the large piece of machinery.<br>
+              - Take the canisters of liquid nitrogen.<br>
+              - If you're read all the information on the computer and retrieved 
+              the liquid nitrogen, you're done.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">Beatrice croaks 
+              when I try to cure her!<br>
+              <font color="#333333">- Have you read all the information on the 
+              Genetix computer?<br>
+              - Did you li'l buddy Spike give you a hint?<br>
+              - You'll need Cliffy's help, too.<br>
+              - ou must prepare het first.<br>
+              - Read the &quot;defrost&quot; instructions for the Cryochef.<br>
+              - After Spike does his &quot;lassie&quot; bit, defrost Beatrice 
+              and put her on the transport pad.</font><br>
+              <br>
+              </font></p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="50%"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>The 
+                  Final Conflict (more or less)</strong></font><font face="Arial, Helvetica, sans-serif" size="2"><a name="conflict"></a></font></td>
+                <td width="50%"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000">:: 
+                    <a href="#top"> Back to top</a> ::</font></div></td>
+              </tr>
+            </table>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I'm ready to 
+              go after the Goliath, but she blows me away every time I try to 
+              get near her.<br>
+              <font color="#333333">- This may require some &quot;cloak&quot; 
+              and dagger work.<br>
+              - Talk to your crew. They may have a few suggestions.<br>
+              - Cliffy will need to jury-rig a device to make it possible for 
+              you to approach the Goliath.<br>
+              - Remember WD40's ship back on Kiz Urazgubi?<br>
+              - You will need to get the cloaking device from inside her ship.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I figured out 
+              how I can sneak up on the Goliath, bit I'm at a loss as to what 
+              I should do next.<br>
+              <font color="#333333">- WD40 may have some insightful analysis.<br>
+              - Cliffy can probably come up with some strange creative ideas.<br>
+              - You need to get aboard the Goliath, but you'll need a plan of 
+              attack.<br>
+              - Cliffy can give you an idea where the Goliath's defenses are weakest.<br>
+              - WD40 can tell you how to sneak aboard.<br>
+              - When you're in the EVA pod, look carefully at the hull of the 
+              Goliath.<br>
+              - You'll need a tool to cut your way into the hull of the Goliath.<br>
+              - Don't forget to bring along the laser torch! You'll need it to 
+              cut through the Goliath's hull.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I managed to 
+              get to the Goliath but there was a Pukoid welcoming committee waiting 
+              for me.<br>
+              <font color="#333333">- We don't want to belador the obvious, but 
+              you landed in the wrong spot.<br>
+              - Next time, make sure you pay close attention to what Cliffy says 
+              to you.<br>
+              - Look carefully at the schematic of the Goliath when Cliffy shows 
+              it to you in the science lab.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I made it to 
+              the Goliath's engine room, what now?<br>
+              <font color="#333333">- Make sure you avoid the guard patrolling 
+              the catwalk (wait until he leaves the room).<br>
+              - You need to do something here.<br>
+              - Remember the warp distributor cap Beatrice gave you?<br>
+              - You need to place it on the console at the top of the stairs.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">No matter which 
+              way I try to go in the hallway, I die.<br>
+              <font color="#333333">- I bet you would be grate-full if we gave 
+              you a hint.<br>
+              - The answer is right at your feet.<br>
+              - Look at the grating in the floor.<br>
+              - Lift it up and climb into the subfloor.<br>
+              - While you're in the subfloor, you'll need to avoid the Pukoid 
+              walking above you.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I'm completely 
+              baffled and utterly confused by the layout of the subfloor crawlspaces.<br>
+              <font color="#333333">- Time to get out that pencil and paper.<br>
+              - If at first you don't succeed, try, try again.</font><br>
+              </font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I made it through 
+              the maze and shut down the generator, but I still died.<br>
+              <font color="#333333">- You forgot something.<br>
+              - Did you get the liquid nitrogen back at Genetix?<br>
+              - I don't think so. You'll have to restore a saved game (you did 
+              save your game, didn't you?).</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I'm in the transport 
+              room but I can't restore the Goliath's crew.<br>
+              <font color="#333333">- Timing is critical.<br>
+              - Wait until the Pukoids are on the transporter pad and the doors 
+              close before you give Cliffy the go-ahead.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">Quirk escaped! 
+              Then he metamorphosed and trashed the Goliath.<br>
+              <font color="#333333">- Think fast!<br>
+              - You need to return to the Eureka to defeat the Quirkoid blob creature.<br>
+              - Choose the CALL CLIFFY and tell him to beam over to the Eureka 
+              response when Flo radios you on the Goliath bridge.</font><font color="#333333"><br>
+              <br>
+              </font></font></p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="50%"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Eureka! 
+                  I'm back...</strong></font><font face="Arial, Helvetica, sans-serif" size="2"><a name="eureka"></a></font></td>
+                <td width="50%"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000">:: 
+                    <a href="#top"> Back to top</a> ::</font></div></td>
+              </tr>
+            </table>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">The blob crushed 
+              the Goliath, and it took me out too!<br>
+              <font color="#333333">- You need to act quickly to prevent this.<br>
+              - A distraction would be handy.<br>
+              - What could be more distracting than a firefight?<br>
+              - Order Droole to FIRE ON THE BLOB.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I stopped the 
+              Blob from squashing the Goliath, but then it munched down on the 
+              Eureka.<br>
+              <font color="#333333">- You can't kill the Blob with your weapons.<br>
+              - The Eureka can stop the Blob in its tracks, however.<br>
+              - Think REFUSE RECOVERY MISSION.<br>
+              - Order Droole to ACTIVATE RRS.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I confined the 
+              Blob, but the ship is coming apart at the seams.<br>
+              <font color="#333333">- The Eureka can't hold the Blob very long.<br>
+              - You don't need your crew's help any more.<br>
+              - Order Flo to ABANDON SHIP.<br>
+              - Set the Eureka self-destruct mechanism.<br>
+              - Get out of there!</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I'm ready to 
+              go, but the transporter blew up!<br>
+              <font color="#333333">- Don't blow a fuse, it's not the end of the 
+              world!<br>
+              - You can rebuild it, better, stronger, faster, than it was before... 
+              Ahem, excuse us, we got a bit carried away.<br>
+              - You'll need something of Cliffy's to repair it.<br>
+              - Did you get the fuse from Cliffy's tool box?<br>
+              - Climb into the service tunnel and replace the bad fuse in teh 
+              sub-panel.<br>
+              - Put bea through the repaired transporter before you.<br>
+              - Don't forget Spike!<br>
+              </font></font></p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="50%"><font face="Arial, Helvetica, sans-serif" size="3" color="#000000">.</font></td>
+                <td width="50%"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000">:: 
+                    <a href="#top"> Back to top</a> ::</font></div></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table> </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

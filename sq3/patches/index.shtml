@@ -1,0 +1,169 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 3 Patches and Fixes</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center"> <a name="top"></a>
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq3up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 3 Patches and Fixes &gt; </strong> This chapter contains 
+                software to repair or update your game.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq3down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../../navmenu/sq3menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq3between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td colspan="2" valign="top"> <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Space 
+              Quest 3 Patches and Fixes</strong></font></p>
+            <p align="justify"><font size="3" face="Arial, Helvetica, sans-serif"><a href="../../downloads/sndblastfix.zip">Space 
+              Quest 3 soundblaster driver fix</a></font><font size="2" face="Arial, Helvetica, sans-serif"> 
+              <font color="#CC0000">(52 KB)</font><br>
+              This patch includes a more suitable sound driver for Space Quest 
+              3, which enables you to listen to special sound effects (like Roger 
+              saying &quot;Where am I&quot;). The ZIP file also includes GoSierra3 
+              for an alternative installation. Sierra designed SQ3 to sound like 
+              this: a must have fix!</font></p>
+            <p align="justify"> <font size="2" face="Arial, Helvetica, sans-serif">Step 
+              1) First you need to know which IRQ number your soundblaster card 
+              is using:</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">DOS: 
+              In the DOS command line type &quot;set&quot; and locate the line 
+              that reads &quot;BLASTER&quot;. Example: if the line reads &quot;BLASTER=A220 
+              I5 D1&quot;, it's using IRQ5.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              WINDOWS: Open the Device Manager: Click Start, point to Settings, 
+              and then click Control Panel. Double-click System, click the Hardware 
+              tab, and then click Device Manager. Double click on &quot;Sound, 
+              video and game controllers&quot; and locate your soundcard. Double 
+              click on its name. A new window pops up, click on the Resource tab 
+              and locate the Interrupt Request in the resource settings listing. 
+              The number showing is the IRQ number your soundblaster uses under 
+              Windows.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              If the IRQ number reads 5 or 7, you should use the SNDBLAST.DRV 
+              file in folder &quot;IRQ5AND7&quot;. If the number reads 3 or 7, 
+              you'll need the SNDBLAST.DRV in folder &quot;IRQ3AND7&quot;. If 
+              it reads a different number than you're out of luck. Read the ALTERNATIVES 
+              chapter for a possible solution.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              Step 2) Copy the right SNDBLAST.DRV file into the SQ3 folder. <br>
+              Step 3) Run INSTALL.EXE and set the music to Sound Blaster. <br>
+              Step 4) Run the game and enjoy!</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">ALTERNATIVES<br>
+              If you're IRQ differs, you might want to do the following:<br>
+              1) Get GoSierra v3 (offered with this download).<br>
+              2) Install KQ1SCI (not offered with this download) and put the GoSierra 
+              executable into the folder. <br>
+              3) Run GoSierra and let it patch the SNDBLAST.DRV file. <br>
+              4) Copy the SNDBLAST.DRV file into the SQ3 folder. <br>
+              5) Run INSTALL.EXE and set the music to Sound Blaster. <br>
+              6) Run the game and enjoy!</font></p>
+            <p align="justify"><font color="#000000" size="2" face="Arial, Helvetica, sans-serif">___</font></p>
+            </td>
+        </tr>
+      </table></td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

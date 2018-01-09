@@ -1,0 +1,213 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Vohaul's Mines</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, mark crowe, josh mandel, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../../tabs/infobox.gif"><img src="../fanficup.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Vohaul's
+                    Mines &gt;</strong> Here
+                  you can find information  about the upcoming Vohaul's Mines
+                    fanproject.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../fanficdown.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../../../navmenu/miscmenu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../../navmenu/lineleftgreyright.jpg"><img src="../fanficbetween.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../../navmenu/topblack.gif" width="100%" height="20"><br> 
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td colspan="2" valign="top"><p align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Vohaul's
+                  Mine - Basic Plot</strong></font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">What
+                would happen if Roger Wilco made it to the mines instead of getting
+                stranded on Labion? You will
+              have to make your may out of the mines, and to defeat Vohaul
+            as well!</font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Vohaul's
+              Mine - Demo Trailer</strong></font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">A
+                demo trailer is available <a href="SQVM_trailer.zip">here</a> <font color="#CC0000">(284
+                KB)</font>.</font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Vohaul's
+                  Mine - News February 2005</strong></font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><img src="vohaulsminesshot.gif" alt="Vohaul's Mines - Early screenshot" width="171" height="106" hspace="5" vspace="0" align="right">What
+                if the hoovercraft that took Roger to the Orium Mines didn't
+                run out of fuel? Fanproject &quot;Vohaul's Mines&quot; has just
+                opened their <a href="http://www.vohauls-mines.com/" target="_blank">new
+                website</a> and has released a trailer. The trailer shows the
+                basic plot (which is based upon <a href="../fanstories/sq2fanfic.shtml">a
+                fanfictional story</a> I wrote for <img src="../../../extraimages/sqnet.gif" alt="SpaceQuest.Net" width="87" height="11">)
+            and shows the general look and feel of the actual game. </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">After
+                seeing this trailer, what conclusions can we make? I think a
+                whole lot. My first impression is positive. I caught my 21-year-old-self
+                feeling rather excited upon seeying the first original screen
+                the team made. The graphics are very decent and I was glad to
+                notice few graphics and animations taken from the original games.
+                Some screens from <a href="http://www.frostbytei.com/space/" target="_blank">The
+                Lost Chapter</a> and <a href="http://www.wiw.org/%7Ejess/replicated.html" target="_blank">Replicated</a> were
+                taken from the original games and modified a bit. No challenge
+                there. Let's hope Vohaul's Mines chooses to use hand-made backgrounds
+                rather than plundering the original sourcecode of early Space
+                Quest games. Vonster D Monster, designer of The Lost Chapter,
+                is doing part-time work for the team, thus making his huge experience
+                available to the Vohaul's Mines team. This alone should give
+                the project a headstart in programming and in artwork. The team
+                entrusted me with some early in-game screenshots and I was very
+                impressed. Sadly, I'm not allowed to share those pictures with
+                you.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Yet
+                despite all this praise, it is clear when looking at the trailer
+                that this project hasn't gone through - what I like to call -
+                its &quot;professionalization phase&quot; yet. A phase all fanprojects
+                must go through one time or another. It is clear that this fanproject
+                has potential, no denying that, but it shares flaws from TLC.
+                The backgrounds are missing detail and atmosphere; two very important
+                elements that make scenes realistic and emersive. Now they are
+                just that: pretty pictures but without the SQ soul. You probably
+                ask yourself how it's possible to make 16 colour low resolution
+                graphics emmersive? Well, can you remember how Scott and Mark
+                achieved this? By creating an old shoe box diorama-like view.
+                Vohaul's Mines clearly misses this.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> My
+                second point of critic is the use of texts and dialogue in the
+                trailer. It comes close to being a pain. Not everything needs
+                words to explain what's happening. For instance, we can all see
+                the Apeman reaching down the counter but why do we need the text
+                that follows? It's as if the designers are scared their audience
+                will miss things. With over-doing the text bit, they create exactly
+                the opposite of what I think they're trying to do: Be clear and
+                understanble. The original Space Quest games, and any other early
+                Sierra adventure for that matter, doesn't have all that much
+                text. It can be said the project clearly misses somebody who's
+                good with the ol' fashion pen. The texts are straight forward,
+                dry, without humor and full with grammar mistakes. I know I'm
+                being rather strict here. We must not forget we're seeying a
+                very early look of the game, but that shouldn't keep the team
+                from striving for perfection. Text and dialogue is what made
+                the old Sierra games stand out. If there are any mistakes in
+                the texts, people will most certainly judge the game for it.
+                I therefore advice the team to look into this matter more closely
+                before they release the actual game.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Is
+                it fair to conclude THAT much from the trailer? It might sound
+                to you like I'm axing this project. But I'm not. I think this
+                project has truck loads of potential. It seems like they're avoiding
+                the typical fangame route. Which is a good thing. They're not
+                doing a new SQ. No, they're doing an <em>alternative</em> SQ
+                which will start and end exactly the same as the original game
+                thus not being an obsctruction to the SQ timeline. It takes true
+                talent to be able to tackle a fancreation like that.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">What
+                if the hoovercraft that took Roger to the mines didn't crash?
+                Coming as soon as possible.</font></p>
+            <p align="justify"><font color="#000000" size="2" face="Arial, Helvetica, sans-serif">__</font></p></td>
+        </tr>
+      </table>
+      
+    </td>
+    <td width="25" valign="top" background="../../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All
+          original content (c) Frans van Hofwegen. All Space Quest related
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

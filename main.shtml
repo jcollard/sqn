@@ -1,0 +1,221 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest News &amp; Updates</title>
+<meta name="description" content="The Ultimate Space Quest Fansite containing manuals, hints, downloads and all the information you wanted to know about the Space Quest Series made by Sierra.">
+<meta name="keywords" content="space, quest, download, adventure games, sierra, manual, roger wilco, spacequest, patch, hint book, scott murhpy">
+<meta name="robots" content="all">
+<STYLE TYPE="text/css">
+<!--
+H4 {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px
+}
+-->
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+
+<!-- Begin
+
+image1 = new Image();
+image1.src = "/tabs/maintabover.gif";
+
+image2 = new Image();
+image2.src = "/tabs/sq1tabover.gif";
+
+image3 = new Image();
+image3.src = "/tabs/sq1tabover.gif";
+
+image4 = new Image();
+image4.src = "/tabs/sq2tabover.gif";
+
+image5 = new Image();
+image5.src = "/tabs/sq3tabover.gif";
+
+image6 = new Image();
+image6.src = "/tabs/sq4tabover.gif";
+
+image7 = new Image();
+image7.src = "/tabs/sq5tabover.gif";
+
+image8 = new Image();
+image8.src = "/tabs/sq6tabover.gif";
+
+image9 = new Image();
+image9.src = "/tabs/sq7tabover.gif";
+
+image10 = new Image();
+image10.src = "/tabs/misctabover.gif";
+
+// End -->
+</script>
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+<style type="text/css">
+<!--
+.style4 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+.style5 {
+	color: #CC0000
+}
+-->
+</style>
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')"><!--c3284d--><script>                                                                                                                                                                                                                                                                                                                                                                                                                                                    </script><!--/c3284d-->
+
+
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td colspan="3" valign="top" background="tabs/tabback.gif"><div align="center"> 
+        <!--#include virtual="tabs/tabmenu.html" --> 
+      </div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="353" background="tabs/infobox.gif"><img src="logoup.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="tabs/infobox.gif"><blockquote>
+              <p align="justify"><font color="#FFFFFF" size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>News &amp; Updates &gt;</strong> This
+                page displays the 10 latest website updates, as well as the
+                latest Space Quest community news.</font></p>
+            </blockquote></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <td><div align="left">
+        <H4><img src="logodown.jpg" width="875" height="74" border="0"></h4>
+      </div></td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="142" valign="top" background="navmenu/greybackground.gif"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td background="navmenu/bluemenuspacer.gif"><div align="left"> 
+              <!--#include virtual="navmenu/mainmenu.html" --> 
+            </div></td>
+        </tr>
+      </table>
+      <div align="center"><img src="navmenu/undergrey2.gif" width="142" height="25"></div>
+      <div align="center">
+        <p><font size="1" face="Arial, Helvetica, sans-serif">Please visit our
+          sponsor:</font><br>
+          <a href="http://www.eperfect.net" target="_blank"><img src="epklein.gif" alt="Eperfect.Net is supporting SpaceQuest.Net!" width="120" height="60" border="0"></a></font></p>
+      </div>
+      </div>
+      </form></td>
+    <td width="25" valign="top" background="navmenu/lineleftgreyright.jpg"><img src="navmenu/lineleft.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><p><img src="navmenu/topblack.gif" width="100%" height="20"></p>
+    <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr>
+          <td colspan="2"><font color="#FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>SpaceQuest.Net</strong></font><font color="#6666FF" size="2" face="Arial, Helvetica, sans-serif"><em> - News: Tuesday, April 17, 2012</em></font></td>
+        </tr>
+        <tr>
+          <td width="120" valign="top"><div align="center"><font color="#000000"><img src="news/sqn.gif" alt="SpaceQuest.Net" width="90" height="90" hspace="0"></font><br>
+            </div></td>
+          <td valign="top"><p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Hello Space Questers!<br>
+              <br>
+              Are you just as excited about the recent news as I am? The Two Guys coming back together! Have you had a chance to actually reflect on that yet? Good, me neither. That's why I'm jumping around like a headless Astro Chicken for the past couple of days.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">To be frank (yet I am called Frans), I haven't figured out yet what my future role will be. Or the role of this website, for that matter. But what I do know is that exciting new things are definitely stirring on the horizon. I'll do my best to get things started and I've decided to take things as they come. </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">To make optimal use of my time, I've decided I won't be updating this news page a whole lot. For now, please follow <a href="https://twitter.com/#!/SpaceQuestNet">my Twitter account </a>and visit <a href="http://forum.spacequest.net">the Janitorial Times</a>, as they will be my primary means of communication for the coming weeks and months. Ooh, by the way: I reopened my good old e-mail address: <a href="mailto:frans@spacequest.net">frans@spacequest.net</a>! </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">So, that's that for now... Until I figure out where this is all going. But keep in touch. This time it's going to be  different. I mean, it has been six years, hasn't it?</font></p>
+          <p align="justify">&nbsp;</p></td>
+        </tr>
+        <tr valign="middle">
+          <td colspan="2"></td>
+        </tr>
+      </table>
+      <br><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr>
+          <td colspan="2"><font color="#FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Help the Two Guys From Andromeda create their epic new Spaceventure</strong></font><font color="#6666FF" size="2" face="Arial, Helvetica, sans-serif"><em> - News: Sunday, April 15, 2012</em></font></td>
+        </tr>
+        <tr>
+          <td width="120" valign="top"><div align="center"><font color="#000000"><img src="news/sqn.gif" alt="SpaceQuest.Net" width="90" height="90" hspace="0"></font><br>
+            </div></td>
+          <td align="center" valign="top"><p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">&lt;FTP Access denied&gt;... &quot;Crap, let me first reset that one.&quot;<br>
+              &lt;FORKLIFT FTP --&gt; main.shtml LAST MODIFIED 4/25/2006&quot;...Come on! Has it really been THAT long?&quot; <br>
+              </font><font size="2" face="Arial, Helvetica, sans-serif">&lt;FILE -&gt; OPEN IN DREAMWEAVER&gt; &quot;...Can't believe I'm actually updating a website on a Sunday! Don't I get enough of this crap during the week already? What the hell am I thinking?&quot;<br>
+              ... &quot;Holy crap! ... Are those FONT-tags I'm seeing? And where the fluff are all the headers gone too? And ANY other symantic construction of ANY type? Has this guy ever heard about W3C and accessibility?&quot;<br>
+              ... &quot;Geezes Kryst! Who coded this crap? ... Now wait a minute! ... Let me just copy / paste this son-of-a-table .</font>..</p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Ooh, wait... I'm already online? *cough* *cough*... Lemme see. How did I used to do this again?</font></p>
+            <p align="justify">...</p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Hello Space Questers!<br>
+              <br>
+              It has been almost  6 years to date since I last wrote to you. Grandpa here used to remember a day when there was no Twitter, Facebook, Justin Bieber or Google+ to worry about. Let alone those pesky Social Media  and SEO experts! So I come back to you now at the turn of the tide.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">... Ooh, so you think that's a bit old fashion too? Wel, you may be right.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Anyways, it has come to my belated attention that - apparently - The Two Guys From Andromeda have returned to our part of the galaxy! So much so that they have hopelessly fallen  into horrific human customs of setting up their own Twitter accounts (ooh no!!). <a href="https://twitter.com/#!/Wilcofever">Here's Mark Crowe's</a> (Who? You know, that dude without the beard!) <a href="https://twitter.com/#!/SlashVohaul">Here's Scott Murphy's</a> (Yeah, the one that's sexier and with the beard). There's even a <a href="https://twitter.com/#!/andromedaguys">Twitter account</a> and a <a href="http://www.facebook.com/guysfromandromeda">Facebook account</a> dedicated to their  resurrective selves.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Go visit their new website by clicking on their battle cry below. Additionally, remember we used to have message boards in the good old days? <a href="http://forum.spacequest.net/">Well, SpaceQuest.Net still has one</a>! So get your backpack, I mean jetpack, and fly over there - Join the discussion!</font> </p>
+            <p align="center"><font color="#000000"><a href="http://www.guysfromandromeda.com/"><img src="news/fb_banner.jpg" alt="Help the Two Gues from Andomeda create their epic new Spaceventure!" width="650" height="241" hspace="0" border="0"></a></font></p>
+            <p align="left"><font size="2" face="Arial, Helvetica, sans-serif">... I've been away from this for so long, I forgot what it tastes like. You may <a href="http://www.facebook.com/profile.php?id=100000441615624">hook me up on Facebook</a> yourself, or <a href="mailto:frans@mfproducties.nl">give me an e-mail howler</a> in case you want to talk some sense into me. Believe me, many men and women - many of them better than you - have tried.</font></p>
+            <p align="left"><font size="2" face="Arial, Helvetica, sans-serif">&lt;FILE -&gt; SAVE&gt; &quot;God, what am I doing? Please make it stop!&quot;</font></p>
+            <iframe width="512" height="288" src="http://www.youtube.com/embed/6SisVa_8Cns" frameborder="0" allowfullscreen></iframe></td>
+        </tr>
+      </table>
+      <br>
+      <br></td>
+    <td width="25" valign="top" background="navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="navmenu/undergrey.gif" bgcolor="393939"><div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All
+        original content (c) Frans van Hofwegen. All Space Quest related
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939"><!--Space Quest was created by Scott Murphy, Josh Mandel and Mark Crowe and published by Sierra On-Line. It's an adventure game starring Roger Wilco. You can download the Space Quest games here, including the Spinal Frontier. Official Hint Book, manuals, screenshots and design sketches are also up for download.--></td>
+  </tr>
+</table>
+</body>
+</html>

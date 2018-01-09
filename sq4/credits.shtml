@@ -1,0 +1,263 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 4 Credits</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../tabs/infobox.gif"><img src="sq4up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 4 Credits &gt;</strong> Take a trip through space and time 
+                as Roger embarks on a topsy-turvey adventure through his own past 
+                and distant future. The deadly Sequel Police are out to make this 
+                the last Space Quest ever.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="sq4down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../navmenu/sq4menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../navmenu/lineleftgreyright.jpg"><img src="sq4between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../navmenu/topblack.gif" width="100%" height="20"><br> 
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td colspan="2" valign="top"> <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Space 
+              Quest 4 Credits<font size="2"><br>
+              </font></strong></font><font size="2" face="Arial, Helvetica, sans-serif">Executive 
+              producer: Ken Williams</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              Creative director: Bill Davis</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              Producer: Guruka Singh Khalsa</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              Designed by: Scott Murphy and Mark Crowe</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              Art designer: Mark Crowe</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              Lead programmer: Scott Murphy</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              Music director: Mark Seibert</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              Programmers: Scott Murphy, Doug Oldfield, Dan Carver, Neil Matz, 
+              Bob Andrews, Max Deardorff, Oliver Brelsford, Carlos Escobar, Brian 
+              K. Hughes, Randy MacNeill, Doug Oldfield, Raoul Said and Jerry Shaw</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              Animators<b>:</b> Jon Bock, Jane Cardinal, Jeff Crowe, Mark Crowe, 
+              Max Deardorff, Desie Hartman, Eric Kasner, Jim Larsen, Nathan Larsen, 
+              Suzi Livengood, Cheryl Loyd, Michael A. Milo, Gerald More, Cheryl 
+              Sweeney, Willis Wong, Dana Dean, Don Waller and Karen A. Young</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              Music and sound effects: Ken Allen, Rob Atesalp, Mark Seibert, Rick 
+              Spurgeon, Orpheus Hanley, Aubrey Hodges and Veronica Oldfield</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              System development: Jeff Stephenson, Robert E. Heitman, Pablo Ghenis, 
+              Dan Foy, Larry Scott, Terry McHenry, Mark Hood, Eric Hart, Ken Koch, 
+              Chris Smith, Jack Magne and Martin Peters</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              Additional material (Space Piston and others) by : Josh Mandel, 
+              Marti McKenna and Cheryl Sweeney</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              Quality Assurance: Bill Hilton, Matt Genesi, Mike Harian and Dan 
+              Scott</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              CD-producer: Dan Carver</font></p>
+            <div align="justify"> 
+              <table width="100%" border="0">
+                <tr align="left" valign="top"> 
+                  <td colspan="2" height="13"> <div align="left"><font size="2" face="Arial, Helvetica, sans-serif">Voice 
+                      cast:</font></div></td>
+                </tr>
+                <tr align="left" valign="top"> 
+                  <td width="22%"> <div align="left"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Gary 
+                      Owens </font></div></td>
+                  <td width="78%"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Narrator 
+                    </font></td>
+                </tr>
+                <tr align="left" valign="top"> 
+                  <td width="22%"> <div align="left"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Jeff 
+                      Bender</font></div></td>
+                  <td width="78%"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Roger 
+                    Wilco</font></td>
+                </tr>
+                <tr align="left" valign="top"> 
+                  <td width="22%"> <div align="left"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Stuart 
+                      Moulder</font></div></td>
+                  <td width="78%"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Roger 
+                    Wilco Jr.</font></td>
+                </tr>
+                <tr align="left" valign="top"> 
+                  <td width="22%"> <div align="left"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Scott 
+                      Murphy</font></div></td>
+                  <td width="78%"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Sludge 
+                    Vohaul and The Mustard</font></td>
+                </tr>
+                <tr align="left" valign="top"> 
+                  <td width="22%"> <div align="left"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Kelli 
+                      Spurgeon</font></div></td>
+                  <td width="78%"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Zondra</font></td>
+                </tr>
+                <tr align="left" valign="top"> 
+                  <td width="22%"> <div align="left"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Josh 
+                      Mandel</font></div></td>
+                  <td width="78%"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Monolith 
+                    Burger Manager</font></td>
+                </tr>
+                <tr align="left" valign="top"> 
+                  <td width="22%"> <div align="left"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Jane 
+                      Jensen</font></div></td>
+                  <td width="78%"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Maebot</font></td>
+                </tr>
+                <tr align="left" valign="top"> 
+                  <td width="22%"> <div align="left"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Mark 
+                      Seibert </font></div></td>
+                  <td width="78%"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Sequel 
+                    Police 1</font></td>
+                </tr>
+                <tr align="left" valign="top"> 
+                  <td width="22%"> <div align="left"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Orpehus 
+                      Hanley</font></div></td>
+                  <td width="78%"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Sequel 
+                    Police 2</font></td>
+                </tr>
+                <tr align="left" valign="top"> 
+                  <td width="22%" height="2"> <div align="left"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Barry 
+                      Smith</font></div></td>
+                  <td width="78%" height="2"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Monochrome 
+                    Boy, Hz. So Good Salesbot and Bartender</font></td>
+                </tr>
+                <tr align="left" valign="top"> 
+                  <td width="22%"> <div align="left"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Neil 
+                      Matz</font></div></td>
+                  <td width="78%"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">The 
+                    Pickle</font></td>
+                </tr>
+                <tr align="left" valign="top"> 
+                  <td width="22%"> <div align="left"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Max 
+                      Deardorff</font></div></td>
+                  <td width="78%"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">The 
+                    Lettuce</font></td>
+                </tr>
+                <tr align="left" valign="top"> 
+                  <td width="22%"> <div align="left"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Bill 
+                      Hilton</font></div></td>
+                  <td width="78%"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">The 
+                    PermaBuns</font></td>
+                </tr>
+                <tr align="left" valign="top"> 
+                  <td width="22%"> <div align="left"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Vana 
+                      Baker </font></div></td>
+                  <td width="78%"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">The 
+                    Mayonnaise</font></td>
+                </tr>
+                <tr align="left" valign="top"> 
+                  <td width="22%"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Bill 
+                    Shockley</font></td>
+                  <td width="78%"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">The 
+                    Ketchup</font></td>
+                </tr>
+              </table>
+            </div>
+            <p align="justify"> <font color="#000000">___</font></p></td>
+        </tr>
+      </table>
+      
+    </td>
+    <td width="25" valign="top" background="../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

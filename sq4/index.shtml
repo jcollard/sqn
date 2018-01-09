@@ -1,0 +1,196 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 4 Story</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+<!-- Begin
+
+image1 = new Image();
+image1.src = "../tabs/maintabover.gif";
+
+image2 = new Image();
+image2.src = "../tabs/sq1tabover.gif";
+
+image3 = new Image();
+image3.src = "../tabs/sq1tabover.gif";
+
+image4 = new Image();
+image4.src = "../tabs/sq2tabover.gif";
+
+image5 = new Image();
+image5.src = "../tabs/sq3tabover.gif";
+
+image6 = new Image();
+image6.src = "../tabs/sq4tabover.gif";
+
+image7 = new Image();
+image7.src = "../tabs/sq5tabover.gif";
+
+image8 = new Image();
+image8.src = "../tabs/sq6tabover.gif";
+
+image9 = new Image();
+image9.src = "../tabs/sq7tabover.gif";
+
+image10 = new Image();
+image10.src = "../tabs/misctabover.gif";
+
+// End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../tabs/infobox.gif"><img src="sq4up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 4 Story &gt;</strong> Take a trip through space and time 
+                as Roger embarks on a topsy-turvey adventure through his own past 
+                and distant future. The deadly Sequel Police are out to make this 
+                the last Space Quest ever.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="sq4down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../navmenu/sq4menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../navmenu/lineleftgreyright.jpg"><img src="sq4between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../navmenu/topblack.gif" width="100%" height="20"><br> 
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td colspan="2" valign="top"> <p align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Space 
+              Quest 4 Story</strong></font><br>
+              <font size="2" face="Arial, Helvetica, sans-serif">After Roger rescued 
+              the Two Guys from Andromeda in his last adventure, he decides a 
+              pitstop on Magmetheus is in order. He finds himself spending his 
+              buckazoids in a spacy space bar. Just when he zipped down his third 
+              drink, problems appeared on the horizon. Rudely interrupting his 
+              conversation with two weird looking aliens, Roger is taken outside 
+              by so-called &quot;Sequel Police&quot; for a holo-message. It's 
+              that demented evil scientist again, Sludge Vohaul! But didn't Roger 
+              took care of Sludge in one of his previous adventures? Sludge is 
+              up to no good, and to be sure he succeeds, Roger must die. Just 
+              when the the Sequel Police prepare to open fire, Roger is saved 
+              by two mysterious looking dudes. He is forced to jump into a time 
+              rip and his fourth adventure is already underway...</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">Thanks 
+              to the time rip, Roger ends up in the Space Quest 12 time era. Hey 
+              wait, this looks just like Xenon! It IS Xenon. It's... It's... It's 
+              really a pile. What happened here? He will soon find out.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">After
+                some wandering around, Roger finds a timepod. And not just a
+                time
+              pod, oh no! It's the Timebuster 2000 SUX (the follow up of the
+                 Timeslug 1000 S-EX). &quot;Woah!&quot;, is Roger's intelligent
+              reaction  when looking at the pod's interior. Why, a panel with
+              strange symbols! 
+              These symbols might resemble a code to another time area. &quot;Gosh,
+               Now what? I don't know any times codes. Well, here we go.&quot; 
+              Without thinking, Roger puts his hand before his eyes and presses
+               6 of them pretty looking symbols. And it works... Well, it should
+              
+              have, 'cause Roger just demonstrated his famous dumb luck.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2"> 
+              Not wasting any time, he's off to Space Quest 10 in his quest to 
+              finish off Sludge Vohaul for good... Will he succeed? Well, there 
+              is a Space Quest 5, isn't there? Why don't you find out for yourself?</font><font face="Verdana" size="2"></font></p>
+            <p align="justify"> <font color="#000000">___</font></p></td>
+        </tr>
+      </table>
+      
+    </td>
+    <td width="25" valign="top" background="../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All
+          original content (c) Frans van Hofwegen. All Space Quest related
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

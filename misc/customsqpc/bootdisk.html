@@ -1,0 +1,461 @@
+<html>
+<head>
+<title>SpaceQuest.Net - Sierra Boot Disk Instructions</title>
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"> 
+<meta name="Description"
+content="This page contains DOS boot disk instructions to run Space Quest correctly.">
+</head>
+
+<body bgcolor="#000000" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#CC0000">
+<p align="left"><font size="3" face="Arial, Helvetica, sans-serif" color="FFFFB1"><strong>Space 
+  Quest Boot Disk Instructions</strong></font></p>
+<p> <font face="Arial, Helvetica, sans-serif"> <font color="#CC0000" size="2">(DOS 
+  5.0 and above)</font><font size="2"> revised 6/20/95 <br>
+  </font></font><font size="2" face="Arial, Helvetica, sans-serif">IMPORTANT NOTE: 
+  Please read the entire instructions prior to starting at Step 1. You can skip 
+  Steps 3 and 4 if you are not playing a CD game.</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif"><br>
+  STEP 1<br>
+  FORMATTING THE DISK<br>
+  To make a boot disk, format a high density diskette in the A: drive. (It is 
+  necessary to reformat the disk if it is already formatted.) Formatting the disk 
+  with the /S switch will transfer the 'system files' to the disk and allow the 
+  computer to boot up correctly. The disk must be in the A: <br>
+  drive; the computer will not boot from the B: drive. Type the FORMAT command 
+  as follows:</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">FORMAT A: /S &lt;ENTER&gt;</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">If you get a 'Bad command 
+  or file name' error message, type: </font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">PATH=C:\DOS &lt;ENTER&gt;</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">Then retype the FORMAT command 
+  above. If you receive the error again, the MS-DOS FORMAT command may not be 
+  on your system, or it may have been renamed. Programs such as PC Tools and Norton 
+  Disk Utilities sometimes rename the FORMAT command to prevent accidental loss 
+  of data. If you are using a program of this type, check your documentation to 
+  find out how to format a SYSTEM DISK, then proceed to Step 2. </font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif"><br>
+  STEP 2<br>
+  LOCATING THE MOUSE DRIVER<br>
+  If you are playing a game that uses a mouse, the Microsoft compatible mouse 
+  driver must be loaded into memory with the boot disk. There are two kinds of 
+  mouse drivers available: those that load in the CONFIG.SYS file and those that 
+  load in the AUTOEXEC.BAT file. CONFIG.SYS mouse drivers have an extension of 
+  .SYS (MOUSE.SYS) and AUTOEXEC.BAT drivers have either a .COM or .EXE extension 
+  (MOUSE.COM, MOUSE.EXE). You must load at least one of these drivers, but it 
+  is not necessary to load them all. </font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">If you do not know where 
+  the mouse drivers are located on your system, the command below should help 
+  you locate them. Type the following at <br>
+  the C:\ prompt:</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">DIR MOUSE* /S &lt;ENTER&gt;</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">This command will cause 
+  the system to search all subdirectories for a file called MOUSE. If the system 
+  locates a MOUSE file, it will display the path where the file is located. For 
+  example, if the MOUSE.COM file is located in a C:\MOUSE directory, the system 
+  will display:</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">Directory of C:\MOUSE<br>
+  MOUSE.SYS 55160 03-10-92 3:10a<br>
+  MOUSE.COM 56408 03-10-03 6:00a</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">If this procedure does not 
+  locate a MOUSE file, your mouse driver may have a different name. Some common 
+  names for mouse drivers are IMOUSE, GMOUSE and HPMOUSE. Your should check your 
+  mouse documentation for the exact file names and how to install them. Once you 
+  have located the mouse driver, you must copy it to the boot disk. The following 
+  example assumes that the mouse drivers are located in the C:\MOUSE directory 
+  as shown in the step above. To copy the MOUSE files to the boot disk, type:</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">COPY C:\MOUSE\MOUSE.* A: 
+  &lt;ENTER&gt;</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">Substitute the appropriate 
+  path and file names for your mouse drivers in the command above. After you press 
+  ENTER, you should see a message indicating that some files were copied.</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif"> STEP 3<br>
+  LOCATING THE CD ROM DEVICE DRIVER (skip if not playing a CD game) The CD ROM 
+  drive requires a device driver loaded in the CONFIG.SYS file. This driver must 
+  be loaded correctly or you will be unable to access your CD ROM drive. To make 
+  sure that the device driver loads correctly on the boot disk, look at the CONFIG.SYS 
+  on the hard drive and copy the driver line from there. At the C:\ prompt, type:</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">TYPE CONFIG.SYS|MORE</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">NOTE: The | is called a 
+  'pipe' command and is created by pressing &lt; SHIFT&gt; &lt;BACKSLASH&gt;.</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">The CONFIG.SYS file will 
+  display on the screen. Look for the line that loads the CD ROM device driver. 
+  This line will contain the same '/D:' switch as the MSCDEX line in the AUTOEXEC.BAT 
+  file. The line should look something like this:</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">DEVICE=C:\DRV\CDROMDRV.SYS 
+  /D:MSCD001 /P:220<br>
+  DEVICEHIGH=C:\DRV\CDROMDRV.SYS /D:MSCD001 /P:220<br>
+  DEVICEHIGH /L:14652 =C:\DRV\CDROMDRV.SYS /D:MSCD001 /P:220</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">The device driver in your 
+  CONFIG.SYS may differ slightly from those listed above. Carefully write down 
+  the line for use in your boot disk. Leave out the '/L:' information, if any. 
+  Your CD ROM device line should appear as follows:</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">DEVICEHIGH=C:\DRV\CDROMDRV.SYS 
+  /D:MSCD001 /P:220</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">NOTE: If you have a SCSI 
+  CD ROM drive, there may be an additional driver in your CONFIG.SYS that must 
+  be loaded for the CD ROM device drivers to load correctly. Check your CD drive 
+  documentation for more information. </font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif"><br>
+  STEP 4<br>
+  LOCATING THE MSCDEX CD ROM EXTENSION (skip if not playing a CD game) In addition 
+  to the CD ROM device driver in the CONFIG.SYS, your CD ROM drive requires MSCDEX, 
+  the Microsoft extension for CD ROM drives. If this extension is not loaded correctly 
+  in the AUTOEXEC.BAT, you will be unable to access your CD ROM drive. To make 
+  sure that MSCDEX loads correctly on the boot disk, look at the AUTOEXEC.BAT 
+  on the hard drive and copy the MSCDEX line from there. At the C:\ prompt, type:</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">TYPE AUTOEXEC.BAT|MORE &lt;ENTER&gt;</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">The AUTOEXEC.BAT file will 
+  display on the screen. Look for the line that loads the MSCDEX extension. It 
+  should look something like this:</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">C:\DOS\MSCDEX /D:MSCD001<br>
+  LH C:\DOS\MSCDEX /D:MSCD001 <br>
+  LOADHIGH /L:14429 C:\DOS\MSCDEX /D:MSCD001</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">The MSCDEX line in your 
+  AUTOEXEC.BAT may differ slightly from the ones above. Carefully write down the 
+  line for use in your boot disk. Leave out the '/L:' information, if any. If 
+  the 'LH' is missing, add it. For example, any of the above lines will appear 
+  on your boot disk as follows:</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">LH C:\DOS\MSCDEX /D:MSCD001</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif"><br>
+  STEP 5<br>
+  LOCATING THE SOUND CARD DRIVERS<br>
+  Many sound cards have drivers or initialization lines that must be loaded in 
+  the AUTOEXEC.BAT or CONFIG.SYS. Some sound cards that require these drivers 
+  or initialization routines are the SoundBlaster 16, MAD16 and the Aria 16.</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">At the end of these Boot 
+  Disk Intructions, you will find a section labelled 'Sound Cards'. These tables 
+  contain the sound card lines for many common sound cards. Check to see if your 
+  sound card is on the list. If it is, then you will need to add the appropriate 
+  lines to the AUTOEXEC.BAT and/or CONFIG.SYS on your boot disk. If your sound 
+  card is not on the list, you should check your documentation for information 
+  on what needs to load in the AUTOEXEC.BAT and CONFIG.SYS. </font></p>
+<p></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">STEP 6<br>
+  CREATING THE CONFIG.SYS FILE<br>
+  To create the CONFIG.SYS file on the boot disk, switch to the A: drive and type 
+  the following:</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">COPY CON CONFIG.SYS &lt;ENTER&gt; 
+  (the cursor will drop down one line and blink)<br>
+  DEVICE=C:\DOS\HIMEM.SYS &lt;ENTER&gt;<br>
+  DEVICE=C:\DOS\EMM386.EXE NOEMS &lt;ENTER&gt;<br>
+  DOS=HIGH,UMB &lt;ENTER&gt;<br>
+  FILES=30 &lt;ENTER&gt;<br>
+  BUFFERS=20 &lt;ENTER&gt;</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">If you are using the MOUSE.SYS 
+  file to load your mouse, add the following line to the CONFIG.SYS:</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">DEVICEHIGH=A:\MOUSE.SYS 
+  &lt;ENTER&gt;</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">If you're playing a CD game, 
+  add the CD ROM device driver as you wrote it down in the 'Locating the CD ROM 
+  Device Driver' section. For example:</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">DEVICEHIGH=C:\DRV\CDROMDRV.SYS 
+  /D:MSCD001 /P:220 &lt;ENTER&gt;</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">If you need to load any 
+  sound card drivers, copy them from the 'Sound Cards' section now. The following 
+  example lines are for the SoundBlaster 16:</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">DEVICEHIGH=C:\SB16\DRV\CTSB16.SYS 
+  /UNIT=0 /BLASTER=A:220 I:5 D:1 H:5 &lt;ENTER&gt;<br>
+  DEVICEHIGH=C:\SB16\DRV\CTMM.SYS &lt;ENTER&gt;</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">Complete the file by pressing 
+  &lt;F6&gt; &lt;ENTER&gt;.</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif"><br>
+  STEP 7<br>
+  CREATING THE AUTOEXEC.BAT FILE<br>
+  To create the AUTOEXEC.BAT file on the boot disk, switch to the A: drive and 
+  type the following:</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">COPY CON AUTOEXEC.BAT &lt;ENTER&gt; 
+  (the cursor will drop down one line and blink)<br>
+  @ECHO OFF &lt;ENTER&gt;<br>
+  C:\ &lt;ENTER&gt;<br>
+  SET COMSPEC=C:\COMMAND.COM &lt;ENTER&gt;<br>
+  PROMPT SIERRA BOOT DISK $_$P$G &lt;ENTER&gt;<br>
+  PATH=C:\;C:\DOS;C:\SIERRA &lt;ENTER&gt;</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">If you are using the MOUSE.COM 
+  or MOUSE.EXE file to load your mouse driver, add the appropriate line:</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">LH A:\MOUSE.EXE &lt;ENTER&gt;</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">If you're playing a CD game, 
+  add the MSCDEX line as you write it down in the 'Locating the MSCDEX CD ROM 
+  Extension' section. For example:</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">LH C:\DOS\MSCDEX /D:MSCD001 
+  &lt;ENTER&gt;</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif"><br>
+  If you need to run any sound card initialization programs or load any drivers, 
+  copy them from the 'Sound Cards' section now. The following example lines are 
+  for the SoundBlaster 16:</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">SET BLASTER=A220 I5 D1 H5 
+  T6 &lt;ENTER&gt;<br>
+  SET SOUND=C:\SB16 &lt;ENTER&gt;<br>
+  SET MIDI=SYNTH:1 MAP:E &lt;ENTER&gt;<br>
+  C:\SB16\SB16SET /M:220 /VOC:220 /CD:220 /MIDI:220 /LINE:220 &lt;ENTER&gt;<br>
+  C:\SB16\DIAGNOSE /S &lt;ENTER&gt;</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">Complete the file by pressing 
+  &lt;F6&gt; &lt;ENTER&gt;.</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif"><br>
+  STEP 8<br>
+  REBOOT THE SYSTEM AND START THE GAME<br>
+  Reboot your system by pressing the &lt;RESET&gt; button on your computer or 
+  by using the &lt;CTRL&gt; &lt;ALT&gt; &lt;DELETE&gt; key sequence on your keyboard. 
+  Refer to your game documentation for the steps to start the game.</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">SOUND CARDS</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">NOTE: The sound card drivers 
+  and initialization lines in this section are the default settings for these 
+  devices. You should check your AUTOEXEC.BAT and CONFIG.SYS on your hard drive 
+  to see if you are using any non-default settings.</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">Sound Card<br>
+  Autoexec.bat<br>
+  Config.sys<br>
+  Notes</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">Aria 16<br>
+  Common on IBMs<br>
+  SET ARIA=C:\ARIA<br>
+  SET BLASTER=A220 I5 D1 T5<br>
+  C:\DOS\SOUNDCLT.COM*<br>
+  DEVICE=C:\ARIA\BIN\SOUNDCFG.SYS<br>
+  DEVICE=C:\ARIA\BIN\SNDSAVER.SYS</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif"><br>
+  Boka Sound Express<br>
+  SET BLASTER=A220 I5 D1 T5<br>
+  DEVICE=C:\SE1440\CSACMOD1.EXE*</font></p>
+<p></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">Crystal Clear Wave <br>
+  Table by Crstal Lake<br>
+  SET BLASTER=A220 I5 D1 T5<br>
+  C:\CCLEAR\CSACMAX1<br>
+  C:\CCLEAR\CSACHMX1<br>
+  DEVICE=C:\CCLEAR\CSAMOD1.EXE</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif"><br>
+  Diamond LX<br>
+  SET SONIC=C:\SONIC<br>
+  C:\SONIC\SONIC /B/C*<br>
+  SET BLASTER=A220 I5 D1 T5<br>
+  NONE<br>
+  *Use /C switch for SB mode<br>
+  *Use /B switch for MSS mode</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif"><br>
+  Ensoniq Soundscape<br>
+  Common on Gateways<br>
+  SET BLASTER=A220 Ixx Dx<br>
+  SET SNDSCAPE=C:\SNDSCAPE<br>
+  C:\SNDSCAPE\SSINIT /I*<br>
+  NONE<br>
+  *Older drivers use /FM for Soundblaster mode, /GM for General Midi mode.</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">ESS Audio Drive<br>
+  Common on Compaque<br>
+  SET BLASTER=A220 I5 D1 <br>
+  NONE</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif"><br>
+  Forte 16<br>
+  Common on Packard <br>
+  Bells<br>
+  SET BLASTER=<br>
+  SET GALAXY=<br>
+  SET SOUND=C:\FORTE16<br>
+  C:\FORTE16\UTILITY\EMUTSR*<br>
+  NONE</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif"><br>
+  Galant<br>
+  SET BLASTER=A220 I5 D1<br>
+  NONE</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif"><br>
+  Galaxy<br>
+  See Multi-Media Pro 16<br>
+  See Multi-Media Pro 16</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif"><br>
+  Gateway 2000 Audio <br>
+  Drive<br>
+  C:\G2KAUDIO\UTILITY\GWBVOL<br>
+  SET BLASTER=A220 I5 D1 T5<br>
+  SET GALAXY=*<br>
+  SET SOUND=C:\G2K<br>
+  NONE<br>
+  *Check the AUTOEXEC.BAT on your hard drive for the full SET GALAXY line.</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">Gravis Ultrasound<br>
+  SET ULTRASND=*<br>
+  SET ULTRADIR=*<br>
+  C:\ULTRASND\ULTRINIT<br>
+  SBOS.BAT**<br>
+  SET BLASTER=A220 I5 D1<br>
+  NONE<br>
+  *Check the AUTOEXEC.BAT on your hard drive for complete SET lines for the GUS.<br>
+  **The SBOS.BAT line must be loading to enable the card's Soundblaster emulation.</font></p>
+<p></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif"><br>
+  IBM PS/1<br>
+  SET BLASTER=A220 I5 D1<br>
+  NONE</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif"><br>
+  ISP 16</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">C:\ISP16\ISPINIT /B/M*<br>
+  NONE<br>
+  *Use /B switch for SB mode<br>
+  *Use /M switch for MSS Mode</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">Jazz 16<br>
+  SET BLASTER=A220 I5 D1 <br>
+  DEVICE=C:\JAZZ\JAZZ.SYS D:* Q:*<br>
+  *D: DMA CHANNEL.<br>
+  *Q: IRQ SETTING.<br>
+  Specific values and directories may change</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">Mad 16<br>
+  SET MAD16=C:\MAD16<br>
+  SET BLASTER=A220 I5 D1 <br>
+  C:\MAD16\M16INIT /B /M*<br>
+  NONE<br>
+  *Use /B switch for SB mode<br>
+  *Use /M switch for MSS Mode</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif"><br>
+  Magic S20<br>
+  SET BLASTER=A220 I5 D1<br>
+  SET SOUND16=C:\MAGICS20<br>
+  C:\MAGICS20\SNDINIT /B /M*<br>
+  NONE<br>
+  *Use /B switch for SB mode<br>
+  *Use /M switch for MSS Mode</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif"><br>
+  Magitek Green 16<br>
+  SET BLASTER=A220 I5 D1<br>
+  NONE</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif"><br>
+  Media Concept<br>
+  SET MC=C:\MC<br>
+  NONE</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif"><br>
+  Media Vision<br>
+  SET BLASTER=A220 I5 D1<br>
+  DEVICE=C:\MEDVSN\PROS.SYS</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif"><br>
+  Monte Carlo by Turtle <br>
+  Beach<br>
+  SET BLASTER=A220 I5 D1<br>
+  C:\MCARLO\MCHKMIX<br>
+  DEVICE=C:\MCARLO\MCMODE -S -W*<br>
+  *Use -S switch for SB mode<br>
+  *Use -W switch for MSS Mode</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">Mozart Sound Card<br>
+  Common on Cannons<br>
+  SET BLASTER=A220 I5 D1<br>
+  SET SOUND=C:\MOZART<br>
+  C:\MOZART\MTZVOL.EXE<br>
+  DEVICE=C:\MOZART\MZTINIT.SYS WSS /530*</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">*WSS /530 Puts the card 
+  into WSS mode port 530</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif"><br>
+  Multi-Media Pro 16<br>
+  SET BLASTER=A220 I5 D1<br>
+  SET GALAXY=*<br>
+  SET SOUND=C:\MMP16P</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">*Check the AUTOEXEC.BAT 
+  on your hard drive for the full SET GALAXY line.</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">Orchid Gamewave<br>
+  SET BLASTER=A220 I5 D1<br>
+  SET SOUND=*<br>
+  C:\GW32\GW32.EXE<br>
+  NONE</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif"><br>
+  Orchid Soundwave</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">SET BLASTER=*<br>
+  SET SOUND=*<br>
+  C:\SW32\SW32.EXE<br>
+  NONE<br>
+  *Check the AUTOEXEC.BAT on your hard drive for the complete SET SOUND line.</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">Phillips<br>
+  NONE<br>
+  NONE</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif"><br>
+  Pro Audio Spectrum 16<br>
+  SET BLASTER=A220 I5 D1<br>
+  DEVICE=C:\SPECTRUM\MVSOUND.SYS D:*Q:*<br>
+  D: DMA CHANNEL. Q: IRQ SETTING.<br>
+  &lt; DIR&gt; may be PROAUDIO on older drivers.</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">Pro Sonic<br>
+  SET BLASTER=A220 I5 D1<br>
+  DEVICE=C:\PROSONIC\PROSYS.SYS</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif"><br>
+  Soundblaster AWE 32<br>
+  SET BLASTER=A220 I5 D1<br>
+  SET SOUND=C:\SB16<br>
+  C:\SB16\SB16SET /P/Q<br>
+  C:\SB16\DIAGNOSE /S<br>
+  C:\SB16\AWEUTIL /S<br>
+  DEVICE=C:\SB16\DRV\CTSB16.SYS /UNIT=0<br>
+  /BLASTER=A:220 I:5 D:1 H:5</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">DEVICE=C:\SB16\DRV\CTMM.SYS**</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">**This line is only required 
+  to enable the sound card's cd-rom interface.</font></p>
+<p></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif"><br>
+  Soundblaster Pro<br>
+  SET BLASTER=A220 I5 D1<br>
+  SET SOUND=C:\SBPRO*<br>
+  C:\SBPRO\SBP_SET*<br>
+  NONE</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">*On newer cards the drivers 
+  and such may look like the SB16 except loading out of a different directory.</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">Soundblaster 16<br>
+  SET BLASTER=A220 I5 D1 H5 T6<br>
+  SET SOUND=C:\SB16<br>
+  SET MIDI=SYNTH:1 MAP:E<br>
+  C:\SB16\SB16SET*<br>
+  C:\SB16\DIAGNOSE /S**<br>
+  DEVICE=C:\SB16\DRV\CTSB16.SYS<br>
+  /UNIT=0 /BLASTER=A:220 I:5 D:1 H:5</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">DEVICE=C:\SB16\DRV\CTMM.SYS***</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">*Check the AUTOEXEC.BAT 
+  on your hard drive for the complete SB16SET line as the values may vary.<br>
+  **May be C:\SB16\SBCOFIG /S on older cards.<br>
+  ***This line is only required to enable the sound card's cd-rom interface.</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">Sound EZ<br>
+  See Mad 16<br>
+  See Mad 16</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif"><br>
+  Sound 16A<br>
+  Common on Packard <br>
+  Bells<br>
+  1 OF 2**<br>
+  SET BLASTER=A220 I5 D1<br>
+  SET GALAXY=<br>
+  C:\SOUND16A\UTILITY\<br>
+  SETMODE /MSS*<br>
+  SET SOUND16=C:\SOUND16A<br>
+  NONE<br>
+  *Use /SB switch for SB mode<br>
+  *Use /MSS switch for MSS Mode</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif"><br>
+  Sound 16A<br>
+  Common on Packard <br>
+  Bells<br>
+  2 OF 2**<br>
+  SET BLASTER=A220 I5 D1<br>
+  SET GALAXY=*<br>
+  C:\AUDIO\SNDINIT.EXE /B**<br>
+  SET SOUND16=C:\AUDIO<br>
+  NONE<br>
+  *Check the AUTOEXEC.BAT on your hard drive for the complete SET GALAXY line.<br>
+  **Use /B switch for SB mode<br>
+  **Use /M switch for MSS Mode</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">Sound 144<br>
+  Common on Packard <br>
+  Bell<br>
+  SET BLASTER=A220 I5 D1<br>
+  SET GALAXY=*<br>
+  SET SOUND=SOUND144<br>
+  NONE<br>
+  *Check the AUTOEXEC.BAT on your hard drive for the complete SET GALAXY line.</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">Vibra 16<br>
+  SET BLASTER=A220 I5 D1 H5 T6<br>
+  SET SOUND=C:\VIBRA16<br>
+  SET MIDI=*<br>
+  C:\VIBRA16\DIAGNOSE /S<br>
+  C:\VIBRA16\MIXERSET /P/Q<br>
+  DEVICE=C:\VIBRA16\DRV\VIBRA16.SYS<br>
+  DEVICE=C:\VIBRA16\DRV\CTMMSYS.SYS**</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">*Check the AUTOEXEC.BAT 
+  on your hard drive for the complete SET MIDI line.<br>
+  **This line is required for CD ROM compatibility.</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">Voyetra Sound<br>
+  SET BLASTER=A220 I5 D1<br>
+  SET ISP16=ISP16*<br>
+  C:\ISP16\ISPINIT /B<br>
+  NONE<br>
+  *May be SET ISP16=VOYETRA</font></p>
+</body>
+</html>

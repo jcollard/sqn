@@ -1,0 +1,1159 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Building the Ultimate Space Quest Computer</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, mark crowe, josh mandel, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="customsqpcup.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Custom 
+                Build PC &gt;</strong> This is an extensive article on how to 
+                build a computer yourself from scratch, suitable for playing the 
+                Space Quest games.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="customsqpcdown.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../../navmenu/miscmenu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="customsqpcbetween.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br> 
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td colspan="2" valign="top"> <p align="justify"><font color="ffffb1" size="3" face="Arial, Helvetica, sans-serif"><strong>Building 
+              the Ultimate Space Quest Computer<br>
+              </strong></font><font size="2" face="Arial, Helvetica, sans-serif">You 
+              must understand the Space Quest games simply aren't designed to 
+              work with your Pentium 4 3Ghz Windows XP machine (or whatever they're 
+              selling now). You can try any slow down utility to help you through 
+              <a href="../timerissues/index.shtml">the timer bugs</a>, but it 
+              won't prevent most of the bugs from happening anyway. You can try 
+              any DOS emulator there is, but it still won't get the job done right. 
+              You'll get a game in return that doesn't act like it should. Not 
+              to mention using slow down utilities make the animations rusty and 
+              degrade game play. And who wants to use stupid utilities anyway? 
+              You just want to play the games, without any hassle. Without timer 
+              problems, without memory shortages, without that frustrating &quot;out 
+              of hunk&quot; message. Your best solution is simply to play Space 
+              Quest on a fast 486 computer or early Pentium. Most people don't 
+              know DOS about old computers, so this article is here to guide you 
+              a little bit. More importantly, I hope to encourage you to buy an 
+              old computer. It'll make the games shine like you've never seen 
+              before. If you're a die-hard fan of the Series, other old Sierra 
+              games, or any old game for that matter (that doesn't run 100% on 
+              today's computer), than the little bit of trouble is worth it! And 
+              i</font><font size="2" face="Arial, Helvetica, sans-serif">t's also 
+              a lot of fun to build your own Space Quest Computer! So let's get 
+              going!</font><font color="ffffb1" size="3" face="Arial, Helvetica, sans-serif"><strong> 
+              </strong></font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2"> 
+              <img src="../../extraimages/line.gif" width="100%" height="3"></font></p>
+            <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>The 
+              hardware</strong></font></p>
+            <blockquote> 
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Buying 
+                the right computer<br>
+                Processor, CD-Rom drive, disk drive and outer casing<br>
+                Hard drive, RAM<br>
+                Video card and screen<br>
+                Sound card: the Creative Labs SoundBlaster CT4170<br>
+                Others<br>
+                Conclusion</font></p>
+            </blockquote>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>The 
+              Disk Operating System</strong></font><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif"> 
+              - DOS</font></p>
+            <blockquote> 
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Installing 
+                Disk Operating System 5.0 English and make the keyboard work<br>
+                Mouse driver<br>
+                CD-Rom driver<br>
+                Sound card driver<br>
+                Conclusion </font></p>
+            </blockquote>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Installing 
+              the SQ games</strong></font></p>
+            <blockquote> 
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Space 
+                Quest 1 EGA<br>
+                Space Quest 1 VGA<br>
+                Space Quest 2<br>
+                Space Quest 3<br>
+                Space Quest 4 CD-Rom talkie version, as supplied with the collection<br>
+                Space Quest 5 English<br>
+                Space Quest 6 DOS<br>
+                Space Quest 6 DEMO<br>
+                Crazy Nick's Picks<br>
+                Before playing the games: installing the Sierra Boot Disk</font></p>
+            </blockquote>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Fine 
+              tuning your system</strong></font></p>
+            <blockquote> 
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Additional 
+                reading<br>
+                Some simple trouble shooting<br>
+                I've still got Timer Problems! - Install the Timer Fixes<br>
+                I've still got Timer Problems! - Disable your processor cache<br>
+                Installing patches to improve the games<br>
+                Installing saved games<br>
+                Installing mini games<BR>
+                Optimizing the mouse</font></p>
+            </blockquote>
+            <p align="justify"><img src="../../extraimages/line.gif" width="100%" height="3"></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><font color="547ED9">Before 
+              reading any further</font><br>
+              Now, I know what you think. DOS: Isn't that the old typewriter my 
+              father used to work with in the old days? But don't get discouraged! 
+              I've made my own custom build Space Quest computer with just a little 
+              bit of outside help. Blimey, if I can do it, you can too. Not to 
+              mention I didn't had such a neat article to read. The only thing 
+              I ask from you is a little bit of computer knowledge. I assume you 
+              can open a computer and don't run screaming to your mom because 
+              the wires look like they haven't been dusted in ages. Seriously 
+              though, this is what I expect from you:</font></p>
+            <blockquote> 
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+                A little bit of DOS knowledge, just the primitive basics like: 
+                changing directories, listing directories, using the DOS editor 
+                (opening, saving and editing some simple text files), know how 
+                about software drivers and stuff like that. No major hacker crap 
+                required.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+                A little bit of hardware knowledge: I expect you can open a computer 
+                and be able to locate its major components. I'll provide pictures 
+                of those in the article where ever possible. Being able to locate 
+                the processor, the internal memory, the hard drive, the CD-ROM 
+                drive, the IDE cables, the sound card and the video card is considered 
+                to be enough. </font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">If 
+                this talk makes you dizzy, there's no use in reading any further. 
+                You simply needed to have at least some basic computer knowledge 
+                when you had a computer back in the 1980-1995 era. And since we're 
+                going to make such a computer, you can do the math. I don't consider 
+                myself as a major computer nerd, but I think I do know the basics. 
+                If you don't, please buy a booklet that explains things about 
+                DOS and old computer hardware. These booklets should be easy be 
+                find in your local bookshop for a buck or two. Make sure you find 
+                a book with lots of illustrations and that doesn't go into too 
+                much hardware and software details.</font></p>
+            </blockquote>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Enough 
+              already! Let's DOS!</font></p>
+            <img src="../../extraimages/line.gif" width="100%" height="3"> <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>The 
+              hardware<font size="2"><br>
+              </font></strong></font><font size="2" face="Arial, Helvetica, sans-serif"><img src="oldpc.jpg" alt="A tower design" width="120" height="218" align="left"></font><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif">Buying 
+              the right computer</font><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif"><br>
+              </font><font size="2" face="Arial, Helvetica, sans-serif">Before 
+              you can play Space Quest you'll need a computer. Try your local 
+              garage sales, dumb shops or whatever. Maybe you can get an old computer 
+              from your school or buy one at your computer shop for a few bucks? 
+              What about the good old attic? What about grandma and/or other near-dead 
+              relatives and/or friends who might have an old computer laying around? 
+              Check out the ads in your local newspaper. There are lots of suckers 
+              who want to sell their &quot;useless&quot; computer. You might even 
+              want to check online auction sites like <a href="http://www.ebay.com" target="_blank">Ebay</a>. 
+              I'm sure you'll be able to buy a 80486, Pentium 90 or Pentium 120 
+              for under 25 bucks or so. A complete system that includes a keyboard, 
+              mouse, screen and software (the one thing we won't need to have 
+              included, mind you) might cost about 50 bucks. I don't think you 
+              should go any higher than that. After all, it's antique we're talking 
+              about.</font></p>
+            <p align="justify"><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif">Processor, 
+              CD-Rom drive, disk drive and outer casing</font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              I recommend buying a computer which isn't faster as 150 Mhz, preferably 
+              a Pentium 1 90Mhz. I think the 486 is just a little bit too slow 
+              for Space Quest 6. However, running Space Quest when using a Pentium 
+              200Mhz will already be enough to trigger <a href="../timerissues/index.shtml">the 
+              timer issues</a>. And that, my friends, we don't want. I myself 
+              own a specially Space Quest build Pentium 1 120Mhz which had some 
+              timer issues at first. However, these were solved when I installed 
+              the cool timer fixes! Anyway, let's not get into too much of that 
+              kind of detail already.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">I 
+              recommend buying a tower casing, and not a desktop-build. Desktops 
+              are much more closed systems and don't allow you to explore, build 
+              and expand that easily. Buy a nice tower with a cd-rom player (24 
+              speed is more than enough), a 3,5&quot; disk drive and one 5,25&quot; 
+              slot empty (you might want to install a 5,25&quot; disk drive later 
+              on for the ultimate experience). Before you run out of your home 
+              to buy the computer, you'll need to consider a few other things.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><img src="oldpcopen.jpg" alt="A dinosaus laying on his back" width="379" height="263" align="right">At
+                first, I had a 486 Compaq computer which used a rather weird
+                CD-Rom
+              bay system. I wanted to install a CD-Rom drive (it didn't come
+                with any) which I bought in a local computer shop. Installing
+                the drive
+              was possible, but I needed some kind of metal guiders which didn't
+                come with the pc. So, recalling that experience, I don't recommend
+                buying a brand pc like Compaq, Dell, HP or something like that
+                (those
+              guys always have their own system and hardware). Try finding a
+                brand-less computer (or a brand nobody has ever heard about).
+                You might
+              want to take a look inside the computer and see if there's any
+                weird railing system that suspends the CD-Rom or other internal
+                components
+              before you decide to buy it. As you can see in the image here to
+                the right, the spot marked with the number 1 confirms that this
+                system locks the cd-rom drive and 3,5 disk drive into place with
+                simple screws. However, you might want to look at the other side
+              to be sure there aren't any railings or stuff like that. </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Number 
+              2 points to an empty 5,25&quot; bay. Perfect for that old 5,25&quot; 
+              disk drive. If the computer doesn't come with a CD-Rom drive (which 
+              is quite possible with these oldies) buy one at your local computer 
+              shop. Don't buy anything fancy. Those 52 speeds cd-rom drives only 
+              make a lot of noise. I recommend a 12, 24 or 36 speed (not higher, 
+              it's useless) ATAPI IDE cd-rom drive which shouldn't cost you more 
+              than 20 bucks. It'll come with an instruction manual but I know 
+              for sure you guys out there who are going to buy a second hand oldy 
+              don't have such documents. You might want to download <a href="cdrom.pdf">this 
+              standard ATAPI IDE CD-Rom manual</a> <font color="#CC0000">(188 
+              KB, PDF file)</font>. And <a href="aboutide.pdf">this document</a> 
+              <font color="#CC0000">(140 KB, PDF file)</font> explains more about 
+              IDE, jumper settings and MASTER/SLAVE related stuff. Highly recommend 
+              reading, straight from this site's fast server. If you're already 
+              worrying about installing DOS drivers, don't. I'll explain all that 
+              later on. For now, we just need to get you some serious hardware 
+              to get the job done. Anyway, we're drifting off. Maybe your computer 
+              already comes with CD-Rom drive and you don't need to install one. 
+              </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Let's 
+              sum up what we've gotten so far: I recommend the Pentium 1 90Mhz 
+              system as ultimate Space Quest computer, constructed inside a (mini)tower 
+              with 3,5&quot; disk drive and CD-Rom drive. Now we've decided with 
+              what kind of basic configuration we're going to work with, we can 
+              talk about more important things like RAM and sound cards.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><font color="#547ED9">Hard 
+              drive, RAM</font><font color="#CC0000"><br>
+              </font><img src="harddrive.jpg" alt="A hard drive" width="150" height="101" align="right">I 
+              don't think the hard drive is all that important. You might want 
+              to ask the former owner if it was extensively used. A hard drive 
+              of 250MB is already more than enough for your Space Quest games, 
+              even when choosing the full installation option for all of the games, 
+              demo's, save games and patches. If you want to install more than 
+              just Space Quest on your computer, you might need a larger drive. 
+              I recommend a drive of 250 to 800MB. I think it's possibly to use 
+              hard drives in excess of 2GB with DOS (the OS we're going to use) 
+              but I don't recommend it. Please note that hard drives any larger 
+              than 800MB's are considered to be extremely huge for the DOS OS. 
+              They won't come with your second hand computer anyway. So, whatever 
+              hard drive comes with your computer, it'll be large enough for the 
+              Space Quest games. For once, we won't have to deal with any available 
+              disk space!</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><img src="8mbram.jpg" alt="8MB RAM" width="300" height="75" align="left">Make 
+              sure you've got &quot;lots of RAM&quot; in it. The last 3 SQ's run 
+              more smoothly if you have, let's say, 8MB to 32MB RAM (32MB is quite 
+              a large amount, mind you) in your computer. Buying RAM that is suited 
+              for your 486, P90 or P120 motherboard shouldn't be all that hard 
+              to find. If you don't know what kind of RAM module you need to buy, 
+              locate your RAM module and see if there's any space for another 
+              one. Most of the time you'll have 2 empty slots left. If all of 
+              them are full than you're out of luck. On the other side, if all 
+              of them are full you might not need any more RAM. Boot your computer 
+              and see how far your memory counter... Uhhhm... counts (32MB equals 
+              32768KB). To buy more RAM, remove the current module from your computer 
+              and bring it along to the computer shop and ask if they have any 
+              of those RAM modules for your computer. You might want to <a href="http://www.google.com" target="_blank">search 
+              Google</a> for &quot;buy 16 MB EDO RAM&quot; or something like that. 
+              A 8MB RAM module shouldn't cost more than 5 bucks. Don't worry about 
+              it too much, though. Space Quest 6 will run fine when using as little 
+              as 8MB.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><font color="547ED9">Video 
+              card and Screen</font><br>
+              <img src="isapci.jpg" alt="AGP, PCI and ISA slots" width="145" height="140" align="left">The 
+              first Space Quest is happy when it can run using a CGA card, but 
+              you'll need a SVGA video card to play Space Quest 6 in full glory. 
+              I recommend using an ISA or PCI card. You can recognize an ISA card 
+              by the typical size of the golden connector at the bottom of the 
+              card. Also, an ISA card fits into a large black socket (or slot) 
+              in the motherboard. If your video card is connected to a white socket 
+              than you have a newer card: a PCI card. I don't recommend a AGP 
+              video card for your Space Quest computer (they are installed in 
+              the brown slot). DOS wasn't designed to work with AGP.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">It's 
+              possible your video card is integrated into your motherboard. If 
+              this is the case, you don't need to worry all that much, unless 
+              it's a P1 120Mhz + motherboard (note the plus). But as I said earlier, 
+              I don't recommend using such &quot;fast&quot; systems anyway. The 
+              amount of RAM on your card is totally irrelevant. As long as your 
+              card is VGA compatible than you're fine. And I guess all cards that 
+              comes with a 486, P1 90Mhz or P1 120Mhz are.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><img src="videocard.jpg" alt="An ISA video card" width="200" height="140" align="right">The 
+              screen is not really important either. I recommend using a 14&quot; 
+              or larger screen. It'll be pretty cool playing Space Quest 1 EGA 
+              on a 21&quot; screen, but that's overdoing the whole thing. Not 
+              to mention your second hand computer will probably come with a 15&quot; 
+              max, which is more than perfect for the job. I use a 12&quot; IBM 
+              color screen, the same one supplied with the Junior PC. It might 
+              as well be one of the first color computer screens ever produced. 
+              It plays SQ6 just nicely. I personally think a small screen adds 
+              more &quot;nostalgia&quot; to the whole thing, but that's just me. 
+              For that reason, I would personally choose a small screen in favor 
+              of a larger one. So whatever comes with your computer will be fine. 
+              If you want any hard figures from me, find an ISA or PCI video card 
+              with at least 1 or 2 MB RAM and a screen that runs SVGA at 640 x 
+              480 pixels @ 85hz.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">I 
+              can draw a quick and simple conclusion. If you buy a 486, P1 90Mhz 
+              or P1 120Mhz computer, the video card will be good enough to play 
+              Space Quest 6. So all this whining I just told you is really not 
+              all that important. However, you might want to check if your computer 
+              DOES NOT come with an AGI video card. We <em>might have</em> trouble 
+              with DOS later on.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><font color="547ED9">Sound 
+              card: the Creative Labs SoundBlaster CT4170</font><font color="#CC0000"><br>
+              </font>The things we've talked about so far are really the most 
+              basic things we need for our Space Quest computer. Basically, whatever 
+              comes with your 486, P1 90Mhz or P1 120Mhz is perfect for all your 
+              Space Quest needs... Except the sound card, which is a nasty exception 
+              to this rule. It's important to know what kind of sound card you 
+              have as your ultimate Space Quest computer might not come with any 
+              manuals and drivers.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Before 
+              we'll talk about the sound characteristics of sound cards I want 
+              to talk about the hardware part. Locating the sound card is probably 
+              the most important thing of the entire hardware chapter. It's also 
+              quite easy. Please take a look at the image below. That's a standard 
+              sound card. It doesn't matter how the four in- and outputs are arranged 
+              but you'll almost always find: a microphone input, a line out or 
+              speaker output (you'll connect your speakers to this one), a line 
+              in and the so-called &quot;game port&quot;. You can connect a joystick 
+              or a musical instrument, like a keyboard, to this input. </font></p>
+            <p align="center"><font size="2" face="Arial, Helvetica, sans-serif"><img src="soundcardrear.jpg" alt="The  back of a soundcard" width="300" height="61"></font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">So 
+              far so good. We've located the sound card. If you can't locate it, 
+              you're either incredibly stupid or you simply don't have one. If 
+              you don't have a card, tough luck, but don't give up hope. A simple 
+              ISA sound card is easy to get and is dirty cheap. </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Locating 
+              the card is one thing, identifying it is another. First of all, 
+              if you have a PCI sound card (you've read in the video card part 
+              how you can identify PCI) you're out of luck. These card are fine 
+              when using Windows, but we're going to use DOS. And DOS has a problem 
+              with PCI cards because they are too complex (modern). Some of you 
+              nerds out there can probably make some PCI sound cards work in DOS, 
+              but I'm not going to try nor am I going to explain it in this article. 
+              And that's besides the point that SQ1 VGA, SQ3, SQ4 and SQ5 are 
+              not designed for PCI sound cards so we're not going to work with 
+              those. As I said earlier, your sound card might be integrated into 
+              the motherboard. This means the sound in- and outputs are connected 
+              to your motherboard instead of a separate card. I don't think 486, 
+              P1 90Mhz and P1 120Mhz already came with integrated sound cards, 
+              but this might as well be the case. If so, all should be compatible 
+              with the Sound Blaster standard (we'll talk about that later) and 
+              fine for Space Quest. The downside is you can't switch cards that 
+              easily. If your integrated card sucks, than you're out of luck. 
+              I'm not going to talk about turning off the integrated card and 
+              using another one in this article. Switching a sucky ISA sound card 
+              for a better one, at the other hand, is as easy as pie.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><img src="soundblaster.jpg" alt="A Creative Labs SoundBlaster" width="200" height="141" align="right">Gathering 
+              more information about your card is required to successfully run 
+              the games. You might want to take the card out of the computer and 
+              examine it. <a href="soundcardcloseup.jpg" target="_blank">Maybe 
+              you can find the brand and type</a> <font color="#CC0000">(188 KB)</font>? 
+              If you succeed in doing so, downloading the right driver (or: software 
+              package to make your card work) for your card will be much easier. 
+              Most companies offer drivers at their website. </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Now, 
+              the quality of sound you will have for your Space Quest games depends 
+              whether or not your sound card has a nice quality MIDI table. You 
+              see, all the Space Quest games rely heavily on your sound card's 
+              MIDI WAVE table. And you can't see that from the outside whether 
+              or not your card has a good one. It's embedded, so to speak, in 
+              the chipset of your card. If it sucks, the games will sound like 
+              crap too. You've probably heard a few of this site's songs, located 
+              in the soundtrack pages. These songs are recorded using the MT-32 
+              and other mind blowers. These sound cards or sound modules were 
+              considered the best of their time, and as far as MIDI playback goes, 
+              this still stands. If you want the ultimate Space Quest sound experience, 
+              I recommend you to get a Roland MT-32 sound module along with a 
+              Creative SoundBlaster to make it work. Be prepared to cough up some 
+              bucks. </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Simply 
+              put, 95% of the cards out there won't come even close to that kind 
+              of quality. However, when using a standard ISA 16bit SoundBlaster 
+              card (or an ADLIB, Roland or compatible card) your Space Quest games 
+              will sound nice, but probably rather unimpressive. Discussing whether 
+              or not a card is good is simply your personal taste. Of course, 
+              I'll be the first to agree with you if you've decided to get another 
+              sound card because the one supplied with your Space Quest computer 
+              simply isn't cutting it. First, we need to make the sound card work, 
+              so we won't have any quality debates soon.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">To
+                 sum it up: I recommend an ISA 16bit sound card. SoundBlaster,
+                ADLIB, 
+              Roland or compatible. If your computer doesn't come with any, it's
+                 back to a computer store that still sells old parts. Or,
+                brows 
+              <a href="http://search.ebay.com/search/search.dll?MfcISAPICommand=GetResult&query=isa%2B16%2Bbit%2Bsound%2Bcard&sr=y&from=R8&ht=1&combine=y" target="_blank">Ebay</a> 
+              for one. 10 bucks will be enough to make yourself owner of such
+               fine cards. If you want more information about which card you
+              should 
+              choose, please visit the <a href="http://www.sierramusic.tk/" target="_blank">Sierra
+               Music Central</a> and mail the webmaster, Alistair Gillett. I
+               myself use a Creative Labs model number CT4170 Sound Blaster card.
+               Which
+               
+              is fine, but not really impressive. Still, it beats the hell out
+                of today's cheaply integrated sound cards. Try playing a decent
+               
+              midi using a Pentium 3 or higher. It's pathetic. If you want something
+               better than the CT4170, try the  AWE32. That card is completely
+               General MIDI compatible and thus ultra suitable for the Space
+               Quest games. Quite a bit better than the AWE32 is the Roland SC-55.
+               But it's also a lot more expensive. In my opinion, the ultimate
+               sound
+               machine
+               for
+               the
+               Space
+               Quest Series still is the Roland MT-32 (or the internal version
+               of the MT-32, the LAPC-1). However, please note that the  
+               MT-32 isn't the best choice for SQ5 and 6 (whereas it is for SQ1,
+               3 and 4).</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Just 
+              to illustrate the differences between soundcards and soundsetting, 
+              please hear the following four soundclips. The last one (Roland 
+              LAPC-1) sounds the way SQ3 is meant to sound. As you can hear, it's 
+              vitally important which music system you use. The SoundBlaster card 
+              in our computer is a mixture of the Adlib and the Roland card so 
+              to speak. A pretty acceptable outcome, but far from perfect.<br>
+              <a href="pcjr_sq3.mp3">PC JR</a> <font color="#CC0000">(160 KB)</font></font><br>
+              <font size="2" face="Arial, Helvetica, sans-serif"><a href="imfc_sq3.mp3">IBM 
+              Music Feature Card</a> <font color="#CC0000">(160 KB)<br>
+              </font><font size="2" face="Arial, Helvetica, sans-serif"><a href="adlib_sq3.mp3">Adlib 
+              card</a> <font color="#CC0000">(160 KB)</font></font><br>
+              <a href="lapc_sq3.mp3">Roland LAPC-1</a> <font color="#CC0000">(160 
+              KB)</font></font></p>
+            <p align="justify"><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif">Others</font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              That leaves use with unimportant things like keyboards, mouse, joystick, 
+              speakers and other crap. It's really unimportant what you have. 
+              Using a three buttoned mouse is fine, but two or one will work too. 
+              If you happen to need an adaptor plug for your keyboard or mouse, 
+              they are widely available at your computer store. I have personally 
+              never used joysticks for the Space Quest games. And of course, the 
+              better your speakers, the better the sound.</font></p>
+            <p align="justify"><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif">Conclusion</font><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif"><br>
+              </font><font size="2" face="Arial, Helvetica, sans-serif">Well, 
+              that's about it for the hardware. I wish you good luck in finding 
+              a suited system. Let me give you a list of my Space Quest computer:</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Processor: 
+              Pentium-S 120 Mhz<br>
+              Motherboard: Intel PT-2006 with 82430 VX PCIset chipset<br>
+              Harddisk: Maxtor 81630A4 1.6GB hard disk (this size is NOT recommended 
+              for your computer)<br>
+              RAM: 32 MB EDO RAM (this is a HUGE amount for this configuration)<br>
+              Phoenix SVGA video card, 2 MB (chipset S3 trio64v+ 86c765 PCI)<br>
+              Creative Labs model number CT4170 Sound Blaster card (16 bit)<br>
+              12&quot; IBM Junior PC color monitor, capable of running 640 x 480 
+              @ 85 HZ<br>
+              3.5&quot; 1.44 MB disk drive (A:\ Double Side High Density)<br>
+              5.25&quot; 1.2 MB disk drive (B:\ Double Side High Density)<br>
+              Hitachi CDR-7930 8 speed CD-Rom drive <br>
+              3 buttoned Logitech mouse<br>
+              Standard QWERTY US Keyboard<br>
+              DOS 6.22 English</font></p>
+            <p><img src="../../extraimages/line.gif" width="100%" height="3"></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>The 
+              Disk Operating System</strong></font><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif"> 
+              - DOS</font></p>
+            <p align="justify"><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif">Before 
+              reading any further</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              This article assumes you have 8 empty HD disks ready and have a 
+              basic knowledge about the Disk Operating System or DOS for short. 
+              If you don't know anything about DOS, learn the basics <a href="http://www.gla.ac.uk/services/computing/documentarchive/dos/un501.html%20" target="_blank">here</a>. 
+              Further more, the computer you're using now to browse my site must 
+              have a 3,5&quot; disk drive and <a href="http://www.winzip.com" target="_blank">WINZIP</a> 
+              installed (or <a href="http://www.stuffit.com" target="_blank">Drop 
+              Zip</a> if you're using a Macintosh). Both programs are free and 
+              are needed to unpack the ZIP archives that are offered in this article. 
+              You'll have to know how to unpack the ZIP archives and put them 
+              onto a disk or you won't be able to follow the instructions of the 
+              article below.</font></p>
+            <p align="justify"><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif">Installing 
+              Disk Operating System 5.0 English and make the keyboard work</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">After 
+              a lot of searching you've finally found the right computer for the 
+              job. I assume you have bought a second hand computer from some place 
+              which still has the Operating System (and possibly the previous 
+              owner's files) on the hard drive. We're going to empty your hard 
+              drive by using the format command. Turn on the computer and wait 
+              until the Operating System loads. This is probably DOS or Windows 
+              95. If it's Windows 95, please click on the START menu, click SHUT 
+              DOWN and than select the option REBOOT THE COMPUTER IN DOS (or something 
+              that looks like that). The computer will load in DOS. If your computer 
+              came with DOS installed, you don't need to do anything and are ready 
+              for the job. If your computer doesn't boot at all, the hard drive 
+              will probably already be empty. Insert disk 1 of DOS 5.0 and turn 
+              on your computer.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">To 
+              format your hard drive type: &quot;FORMAT C:&quot; to start the 
+              formatting sequence. The computer will give you a warning that all 
+              the information, files and data on the hard drive will be erased 
+              and after having pressed the &quot;Y&quot; key on your keyboard, 
+              the formatting will start. After a few seconds you've got a perfectly 
+              clean hard drive for our little project. DOS 5.0 comes with three 
+              disks and installing it should be easy as pie. I assume you already 
+              have DOS 5.0 or have <a href="Dos50.zip">downloaded it</a><font color="#CC0000"> 
+              (1.3 MB)</font> from my site. If you've downloaded it please unpack 
+              the ZIP files and copy the files from the folders dos5d1, dos5d2 
+              and dos5d3 onto three empty disks. You might want to label the disks.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              If you're having problems with installing the DOS 5.0 package, I 
+              can also offer you <a href="ms-dos_622_all_4_disks.exe">DOS 6.22</a>. 
+              As the readme file says, you should use WinImage or Rawrite to make 
+              the floppy disks (I suggest <a href="rawritewin.zip">Rawrite</a> 
+              for Windows 2000 and XP <font color="#CC0000">(237 KB)</font>). 
+              DOS 6.22 offers some excellent features like scandisk and a defragmentation 
+              program. Needless to say, I've tested the Series on both OS myself.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Put 
+              disk 1 into the computer and press CTRL ALT DELETE to reboot, or 
+              hit your computer's reset button. The installation should begin 
+              momentarily. When the installation loads, follow the onscreen instructions. 
+              Please disable the option to boot the computer in DOS SHELL. We 
+              won't need such crap for you Space Quest computer. Be sure to select 
+              the right keyboard. This is almost certainly the US keyboard. If 
+              the installation gives you any errors regarding the keyboard, don't 
+              worry, we can fix that. Just go with the flow, and let DOS decide 
+              which keyboard it wants to use. Make sure DOS is properly installed 
+              in the DOS folder (which is the default folder). After the third 
+              disk completed the installation procedure, remove it and reboot 
+              the computer as instructed.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              computer will load your clean DOS 5.0 and it's ready to rock and 
+              roll. Try testing if DOS selected the right keyboard for you. You 
+              can easily test this by hitting the semi colon &quot;;&quot; key. 
+              If it shows indeed the &quot;;&quot; and when using the SHIFT key 
+              the &quot;:&quot; than you're all set. If it doesn't than DOS thinks 
+              you have a foreign non-standard keyboard. This will probably only 
+              happen if you use a different language version of DOS, like German, 
+              French or Dutch. To fix this enter the command:</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">&quot;KEYB 
+              US&quot;</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">This 
+              will set your keyboard to the standard US ones. To make sure DOS 
+              will boot with this setting every time, you need to edit the AUTOEXEC.BAT 
+              files. This is done by typing the command:</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">&quot;EDIT 
+              AUTOEXEC.BAT&quot; (assuming you are in the root directory, which 
+              is &quot;C:\&gt;&quot;)</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              DOS editor will load, and will open the AUTOXEC.BAT file (make sure 
+              you don't make any typo's or nothing will load). You'll probably 
+              see a few lines of text, which will look something like:</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">@ECHO 
+              OFF<br>
+              C:<br>
+              PATH C:\DOS<br>
+              prompt $p$g</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Simply 
+              enter the text: &quot;KEYB US&quot; underneath it. Make sure you 
+              save the file before exiting the editor. Reboot and test the &quot;:&quot; 
+              key. You'll see if it works. So, this solves any keyboard issues 
+              you might have. I highly recommend using a standard US QWERTY layout 
+              keyboard for your computer and not some weird foreign thing.</font></p>
+            <p align="justify"><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif">Mouse</font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              Make sure you've got a working mouse and that it has been correctly 
+              connected to your computer. Before we can use a mouse, we need to 
+              install a standard mouse driver for your computer. You can <a href="mouse.zip">download 
+              one here</a> <font color="#CC0000">(76 KB)</font>. Unzip the files 
+              and put them onto an empty disk. Put your mouse driver disk into 
+              the disk drive of your Space Quest computer and type &quot;A:&quot;. 
+              DOS will try to access the disk. Now type &quot;INSTALL&quot; to 
+              begin the mouse driver installation. The installation program will 
+              put the mouse files into a new directory on your hard drive called 
+              &quot;TRMOUSE&quot;. Confirm this by hitting the enter key. The 
+              Boeder Mouse Driver Setup will copy the necessary files to that 
+              folder and after the setup has been completed hit CNTR ALT DELETE 
+              like the program asks you to. You can now use your mouse. To test 
+              this type: </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">&quot;C:\TRMOUSE\TRTEST&quot;</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">You 
+              might want to change the speed of the mouse. But we'll do that later 
+              on in the fine tune section of this article.</font></p>
+            <p align="justify"><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif">CD-Rom 
+              drive</font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              Now we need to set up your CD-Rom drive. First, you'll need <a href="cdrom.zip">a 
+              CD-Rom driver</a> <font color="#CC0000">(248 KB)</font> which can 
+              tell DOS what do to. Download the file, extract the zip archive 
+              and put the files onto a blank disk. Now, put this disk into your 
+              Space Quest computer. Once again, you must type &quot;A:&quot; and 
+              than &quot;INSTALL&quot; to start the setup procedure. A window 
+              will appear which tells you the program is about to copy the CD-Rom 
+              files to the &quot;CDROM&quot; directory on your hard drive. This 
+              is okay, so press enter or use your newly installed mouse to click 
+              on &quot;OK&quot;. After the installation procedure you must once 
+              again reboot. When DOS is loaded once more, try testing the CD-Rom 
+              drive by loading your Space Quest Collection cd into the drive and 
+              type &quot;D:&quot;. DOS should try to access the drive. Type &quot;DIR&quot; 
+              to ask DOS to open the cd for you. You'll see a list of all the 
+              files on the cd. You've just successfully installed your CD-Rom 
+              drive!</font></p>
+            <p align="justify"><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif">Sound 
+              card</font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              Now the most &quot;delicate&quot; part of the installation procedure: 
+              making the sound card work. This article assumes you have a Creative 
+              Labs Sound Blaster 16 bit model CT4170. The driver supplied on this 
+              page will probably work with any ISA 16 bit Creative Sound Blaster 
+              card, but I cannot guarantee this.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              You'll need <a href="ctcm.zip">the Creative Manager</a> <font color="#CC0000">(672 
+              KB)</font> for any Creative Labs SoundBlaster card. The ZIP archive 
+              itself contains a file archive which needs to be copied onto an 
+              empty disk. Take the floppy that contains the Creative Manager file 
+              and copy it to your Space Quest computer's hard drive. I recommend 
+              creating the directory MANAGER first. In the &quot;C:\&gt;&quot; 
+              type &quot;MD MANAGER&quot;. Now type &quot;COPY A:\ C:\MANAGER\&quot;. 
+              DOS will copy the floppy to your newly created directory. When DOS 
+              is finished, go the the MANAGER directory and type: &quot;CTCMSSB&quot;, 
+              which is the name of the file you just copied. The file will run 
+              and expand itself, extracting a lot of files. Once the extraction 
+              is completed, type: &quot;INSTALL&quot; and the installation procedure 
+              will begin. The Configuration Manager will install itself into the 
+              CTCM directory, which will be created during installation. Follow 
+              the onscreen instructions and complete the setup. Once the installation 
+              procedure has been competed you can remove the MANAGER directory 
+              and all its files from your hard drive. In the &quot;C:\&gt;&quot; 
+              type DEL MANAGER. Press the &quot;Y&quot; key to confirm. Next type 
+              &quot;RD MANAGER&quot; which will delete the now empty directory 
+              MANAGER.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">If 
+              all went well, you've just successfully installed the configuration 
+              manager for your SoundBlaster sound card. To successfully use your 
+              card, you need to <a href="soundblast.zip">download the driver here</a> 
+              <font color="#CC0000">(1.1 MB)</font>. This driver is suitable for 
+              any 16bit Creative Lab SoundBlaster card and should not be installed 
+              if you have some other card. Now you must once again extract the 
+              zip file onto an empty disk and put this disk into your Space Quest 
+              computer. And, as before with the CTCMSBB file, you need to copy 
+              the file from the floppy to your hard drive. First create a directory 
+              called SOUND. In C:\&gt; type: &quot;MD SOUND&quot;. Now you can 
+              copy the floppy to the hard drive. Type: &quot;COPY A:\ C:\SOUND\&quot;. 
+              Go to your newly made SOUND directory and type: &quot;SBBASIC&quot;. 
+              The file will run and expand itself, extracting a lot of files. 
+              now type &quot;INSTALL&quot; to start the audio software setup. 
+              After you've started the setup, you'll soon read about the PnP Configuration 
+              Manager. This is the program we've installed minutes ago so you 
+              can continue the installation. Press ENTER and it'll ask for the 
+              Configuration Manager Installation Disk. We don't have that disk 
+              because we've made a complete directory on the hard drive instead 
+              of a floppy. The program needs your help to locate the Configuration 
+              Manager Installation Disk which is installed in the CTCM directory. 
+              You can see &quot;C:\SOUND&quot; at the bottom. Change this into: 
+              &quot;C:\CTCM&quot; and continue the installation. If all goes well 
+              your sound card will be correctly installed and configured. You 
+              can delete the SOUND directory. In the &quot;C:\&gt;&quot; type 
+              &quot;DEL SOUND&quot;. Press the &quot;Y&quot; key to confirm. Next 
+              type &quot;RD SOUND&quot; which will delete the now empty directory 
+              SOUND.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">This 
+              entire section might be useless to you if you have another sound 
+              card. In that case, try to find the driver of your card by searching 
+              the internet. Let's say you've got a Yamaha model X card. Try searching 
+              for &quot;Yamaha model X DOS driver&quot; in <a href="http://www.google.com" target="_blank">Google</a>. 
+              Whatever driver you'll need, it will always come with installation 
+              instructions. Follow them to successfully install the driver so 
+              that your card will work with the Space Quest games.</font></p>
+            <p align="justify"><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif">Conclusion</font><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif"><br>
+              </font><font size="2" face="Arial, Helvetica, sans-serif">If all 
+              went well, your computer is ALMOST ultimately configured to play 
+              Space Quest. We'll only need to make DOS to load in HIGHMEM, which 
+              is done by creating the Sierra Boot Disk and copying the files to 
+              the hard drive. I'll come back about that in full detail in the 
+              section below.</font> </p>
+            <p><img src="../../extraimages/line.gif" width="100%" height="3"></p>
+            <p>&nbsp; </p>
+            <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Installing 
+              the SQ games</strong></font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><img src="sqcol-ver2-frontk.jpg" alt="The Space Quest Collection" width="120" height="100" align="right">Phew! 
+              Now we finally get to the part where we're actually going to install 
+              the games. This article assumes you have the latest Space Quest 
+              Collection. If you don't have this particular collection, don't 
+              worry. Installing the games is easy. Just go to your cd (type &quot;D:\&quot; 
+              in DOS and type &quot;DIR/w&quot; and locate the &quot;INSTALL&quot; 
+              file and run it. Or locate and run/edit any &quot;README&quot; file 
+              to find information how to install your Space Quest. Use the manual 
+              that came with the CD if you need any more guidance. The installation 
+              program provided with the game is easy and understandable for all, 
+              though. Anyway, we're going to install the following games to your 
+              computer using the latest SQ collection:</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Space 
+              Quest 1 EGA<br>
+              Space Quest 2 VGA<br>
+              Space Quest 3<br>
+              Space Quest 4 (the cd-rom version with speech as supplied with the 
+              collection)<br>
+              Space Quest 5 English<br>
+              Space Quest 6 CD<br>
+              Space Quest 6 Demo<br>
+              Crazy Nick's Budget Picks (or Nick's Picks for short)</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">To 
+              install the games put your Space Quest cd labeled: &quot;SQI, SQII, 
+              SQIII, SQIV &amp;SQV&quot; into your CD-Rom drive and type &quot;D:&quot; 
+              in DOS. Then type &quot;INSTALL&quot;. What you need to do next 
+              is pretty obvious. Please follow the instructions provided in this 
+              article.</font></p>
+            <div align="justify"><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif"> 
+              Space Quest 1 EGA</font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              In DOS go to &quot;D:&quot; and run &quot;INSTALL&quot;. The collection 
+              installation menu will load. Press the &quot;A&quot; key to install 
+              SQ1EGA. It'll ask you to enter your hard disk letter, which is &quot;C&quot;. 
+              So, press &quot;C&quot; and then the &quot;ENTER&quot; key to begin 
+              installation. To play Space Quest 1 EGA type &quot;SQ&quot; in the 
+              &quot;C:\SIERRA\SQ\&quot; directory.</font></div>
+            <p align="justify"><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif">Space 
+              Quest 1 VGA</font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              Here we go. Once again, like you did when installing SQ1EGA, go 
+              to &quot;D:&quot; and run &quot;INSTALL&quot;. Now press the &quot;B&quot; 
+              key to install SQ1VGA. The installation program will load. Make 
+              sure you've got the right options selected. For my computer, for 
+              instance, it's:<br>
+              Graphics -&gt; VGA or IBM PS/2 - 256 colors. You want to play SQ1VGA 
+              in color and not in black and white, so make sure the right option 
+              is selected.<br>
+              Music -&gt; You can see from the list which option you can use. 
+              If you have a SoundBlaster card use that option, and not the &quot;SoundBlaster 
+              / Adlib (or compatible)&quot; one. If you don't have a sound card 
+              use the &quot;internal speaker&quot; option.<br>
+              Joystick -&gt; Use only if you have a joystick. I recommend using 
+              a mouse for this game (and all the other SQ's for that matter).<br>
+              Mouse -&gt; &quot;Use a Microsoft compatible mouse&quot; if you 
+              want to use a mouse.<br>
+              Memory -&gt; &quot;Use your machine's extra memory&quot; to give 
+              game performance a boost.<br>
+              Select the &quot;ACCEPT THESE CHOICES AND BEGIN INSTALLATION&quot; 
+              option to start installation. To play Space Quest 1 VGA type &quot;SQ1VGA&quot; 
+              in the &quot;C:\SIERRA\SQ1VGA\&quot; directory.</font></p>
+            <p align="justify"><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif">Space 
+              Quest 2</font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              This game installs like SQ1 did. So once again, in DOS go to &quot;D:&quot; 
+              and run &quot;INSTALL&quot;. The collection installation menu will 
+              load. This time press the &quot;C&quot; key to install SQ2. It'll 
+              ask you to enter your hard disk letter, which is &quot;C&quot;. 
+              So, press &quot;C&quot; and than the ENTER key to begin installation. 
+              To play Space Quest 2 type &quot;SQ2&quot; in the &quot;C:\SIERRA\SQ2\&quot; 
+              directory.</font></p>
+            <p align="justify"><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif">Space 
+              Quest 3</font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              Just like SQ1VGA, SQ3 will load a special installation program. 
+              In DOS go to &quot;D:&quot; and run &quot;INSTALL&quot;. The collection 
+              installation menu will load. This time press the &quot;D&quot; key 
+              to install SQ3. Make sure you've got the right options selected. 
+              You don't really have to use the mouse in SQ3. Now that I think 
+              about it, I recommend only using the keyboard. What ever you want 
+              to use is up to you. I highly recommend playing SQ3 with the right 
+              sound option as the music of the game rocks big time. If you don't 
+              have a sound card select the &quot;internal speaker&quot; option 
+              and when playing keep in mind that you're missing a whole lot. Select 
+              the &quot;ACCEPT THESE CHOICES AND BEGIN INSTALLATION&quot; option 
+              to start installation. To play Space Quest 3 type &quot;SQ3&quot; 
+              in the &quot;C:\SIERRA\SQ3\&quot; directory.</font></p>
+            <p align="justify"><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif">Space 
+              Quest 4</font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              This gets rather monotonous as SQ4 installs just like SQ3 and SQ1VGA. 
+              In DOS go to &quot;D:&quot; and run &quot;INSTALL&quot;. The collection 
+              installation menu will load. This time press the &quot;E&quot; key 
+              to install SQ3. Make sure you've got the right options selected. 
+              Select the &quot;ACCEPT THESE CHOICES AND BEGIN INSTALLATION&quot; 
+              option to start installation. To play Space Quest 4 type &quot;SQ4&quot; 
+              in the &quot;C:\SIERRA\SQ4\&quot; directory.</font></p>
+            <p align="justify"><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif">Space 
+              Quest 5</font><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif"><br>
+              </font><font size="2" face="Arial, Helvetica, sans-serif">Same as 
+              SQ4. If you're either German or French than you're in luck. You 
+              can install SQ5 in your language. We're going to install SQ5 English, 
+              so in DOS go to &quot;D:&quot; and run &quot;INSTALL&quot;. The 
+              collection installation menu will load. Press the &quot;F&quot; 
+              key to install SQ5 English. Make sure you've got the right options 
+              selected. Select the &quot;ACCEPT THESE CHOICES AND BEGIN INSTALLATION&quot; 
+              option to start installation. To play Space Quest 5 type &quot;SQ5&quot; 
+              in the &quot;C:\SIERRA\SQ5\&quot; directory. This is almost too 
+              easy.</font></p>
+            <p align="justify"><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif">Space 
+              Quest 6</font><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif"><br>
+              </font><font size="2" face="Arial, Helvetica, sans-serif"> In DOS 
+              go to &quot;D:&quot; and run &quot;INSTALL&quot;. The collection 
+              installation menu will load. Press the &quot;I&quot; key to install 
+              SQ6 DOS. You can't play SQ6 without a sound card so be sure you 
+              have one correctly installed. I recommend selecting option 3 (if 
+              I recall correctly) for a full installation. The game will run much 
+              faster. To play SQ6 you must first load the other cd that came with 
+              your Space Quest collection labeled SQVI, SQVII Demo. Type &quot;SQ6DOS&quot; 
+              in the &quot;C:\SIERRA\SQ6DOS\&quot; directory and it's time to 
+              party. Failing to insert the correct cd will result in an error 
+              message.</font></p>
+            <p align="justify"><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif">Space 
+              Quest 6 Demo</font><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif"><br>
+              </font><font size="2" face="Arial, Helvetica, sans-serif"> Installation 
+              is almost the same as with SQ6. In DOS go to &quot;D:&quot; and 
+              run &quot;INSTALL&quot;. The collection installation menu will load. 
+              Press the &quot;J&quot; key to install the SQ6 Demo. Run through 
+              the installation procedure as you can now easily do. To play the 
+              demo type &quot;SQ6DEMO&quot; in the &quot;C:\SIERRA\SQ6DEMO\&quot; 
+              directory. A sound card is required to play this demo.</font></p>
+            <p align="justify"><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif">Crazy 
+              Nick's Budget Picks</font><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif"><br>
+              </font><font size="2" face="Arial, Helvetica, sans-serif">In DOS 
+              go to &quot;D:&quot; and run &quot;INSTALL&quot;. The collection 
+              installation menu will load. Press the &quot;K&quot; key to install 
+              Nick's Picks. Follow the usual procedure and complete installation. 
+              The installations told me to type &quot;PLAY&quot; in the &quot;C:\SIERRA\SQARCADE\&quot; 
+              directory. However, I found this didn't work for my system. I recommend 
+              typing &quot;SCIDHUV&quot; instead. If you can't get the sound card 
+              to work with Nick's Picks, edit the &quot;C:\SIERRA\SQARCADES\RESOURCE.CFG&quot; 
+              file on your hard drive. Change the line &quot;soundDrv = STD.DRV&quot; 
+              to &quot;soundDrv = ADL.DRV&quot;.</font></p>
+            <p align="justify"><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif">Before 
+              playing the games: installing the Sierra Boot Disk</font><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif"><br>
+              </font><font size="2" face="Arial, Helvetica, sans-serif">To be 
+              sure the games will run properly, we'll have to make one more adjustment 
+              to DOS. This one is quite easy. We're going to make a Sierra Boot 
+              Disk and copy the files from that disk to your hard drive. We're 
+              going to use the SQ1VGA installation menu to create the Boot Disk. 
+              In DOS type &quot;D:&quot; and then &quot;INSTALL&quot;. Be sure 
+              you have CD 1 of your Space Quest Collection ready in the CD-Rom 
+              drive (which is labeled with SQI, SQII, SQIII, SQIV &amp; SQV). 
+              The Space Quest Collection installation menu will load, like it 
+              did all the other times. Select the Space Quest 1 VGA option, which 
+              is the &quot;B&quot; key, and <em>NOT</em> the &quot;Make Boot Disk&quot; 
+              option. I personally had troubles using that option so I'm showing 
+              you a small detour to prevent it. Anyway, once the Space Quest 1 
+              VGA installation menu has loaded, select the &quot;MAKE BOOTABLE 
+              FLOPPY&quot; option from the menu. Be sure you have an empty disk 
+              ready. The program will format the disk and when it asks to format 
+              another disk press &quot;N&quot; to tell DOS you don't. The program 
+              will now create the boot disk. When it has finished and you've returned 
+              to the installation menu, select &quot;CANCEL INSTALLATION AND RETURN 
+              TO DOS&quot;. We've only came to the installation menu to create 
+              a boot disk, remember?</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">What 
+              we're going to do now must not fail or all your hard work could 
+              be in vain. Therefore we're going to back up the files we're going 
+              to overwrite with the files from the boot disk. In the root directory 
+              (which is &quot;C:\&gt;&quot;) create the folder named &quot;BACKUP&quot; 
+              by typing &quot;MD BACKUP&quot;. Now copy the files named &quot;AUTOEXEC.BAT 
+              and &quot;CONFIG.SYS&quot; to the &quot;BACKUP&quot; directory. 
+              This is done by entering the following commands: &quot;COPY C:\AUTOEXEC.BAT 
+              C:\BACKUP&quot; and &quot;COPY C:\CONFIG.SYS C:\BACKUP&quot;. In 
+              case anything goes wrong we can copy the backed up files to the 
+              root directory again to reset any damage we might have done.</font> 
+            </p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">With 
+              the Sierra Boot Disk still in your floppy drive enter the following 
+              command: &quot;COPY A:\ C:\&quot;. When you'll reboot DOS, it'll 
+              run DOS in &quot;Turbo Mode&quot; :). This will make it possible 
+              to run SQ1VGA, SQ4 and SQ5 without any memory problems.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Now, 
+              we're going to fine tune the &quot;AUTOEXEC.BAT file from your hard 
+              disk (which still is located in the root directory &quot;C:\&gt;&quot;). 
+              Type &quot;EDIT AUTOEXEC.BAT&quot; and the DOS editor will open 
+              the file. If the screen is blank then you've made a typo. Close 
+              the editor and try again. You'll find the following line in the 
+              file: &quot;PROMPT Sierra Boot Disk $_$p$g&quot;. Replace the entire 
+              line with: &quot;PROMPT $p$g&quot;. You can also find a line which 
+              says: &quot;CD \Sierra\SQ1VGA&quot; (the SQ1VGA part might be some 
+              other SQ if you've created the boot disk using a different installation 
+              menu). Remove the &quot;SQ1VGA&quot; part if you want DOS to start 
+              in the &quot;SIERRA&quot; directory or delete the entire line if 
+              you want DOS to start in the root directory (&quot;C:\&gt;&quot;). 
+              I personally prefer the last option. Put the command &quot;CLS&quot; 
+              on a new line below the rest (!!!) of the lines if you want DOS 
+              to clean the screen right after start up. Your file will look something 
+              like this (IT MIGHT BE DIFFERENT, SO DON'T WORRY IF IT DOES):</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">@ECHO 
+              OFF<br>
+              C:<br>
+              PATH C:\TRMOUSE;C:\DOS<br>
+              PROMPT $p$g<br>
+              SET COMSPEC=C:\COMMAND.COM<br>
+              LOADHIGH c:\trmouse\trmouse /a8<br>
+              LOADHIGH C:\CDROM\MSCDEX /D:MSCD000<br>
+              SET SOUND=C:\SB16<br>
+              SET BLASTER=A220 I5 D1 H1 P330 T6<br>
+              LOADHIGH KEYB US,,C:\DOS\KEYBOARD.SYS<br>
+              CLS</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">You've 
+              successfully installed the Space Quest games! You might want to 
+              run to your nearest <a href="../../downloads/index.shtml">Space 
+              Quest download page</a> to install any patches, demo's and other 
+              neat extra's.</font></p>
+            <p align="justify"><img src="../../extraimages/line.gif" width="100%" height="3"> 
+            </p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Fine 
+              tuning your system</strong></font></p>
+            <p align="justify"><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif">Aditional 
+              reading</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Of 
+              course, this entire article is pretty much centered around one computer 
+              system. If you need more help with your soundcard and/or the Sierra 
+              Boot Disk please read <a href="bootdisk.html" target="_blank">this 
+              article</a>. It came with the Space Quest Collection and includes 
+              a lot of information and settings for YOUR particular sound card.</font></p>
+            <p align="justify"><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif">Some 
+              simple trouble shooting</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Let's 
+              say there isn't any sound when you play a certain Space Quest game. 
+              Then you must have selected the wrong sound option from the installation 
+              menu! You can change this by running the INSTALL file of that particular 
+              SQ game but this time from the folder on your hard drive. Let's 
+              say you want to change the sound options for SQ1VGA than go to: 
+              &quot;C:\SIERRA\SQ1VGA\&quot; and run &quot;INSTALL&quot;. Select 
+              some other option and when finished &quot;ACCEPT THESE CHOICES AND 
+              SAVE CONFIGURATION&quot;. Run the game again and see if this resolved 
+              your (sound) problem.</font></p>
+            <p align="justify"><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif">I've 
+              still got Timer Problems! - Install the Timer Fixes</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Imagine 
+              that! You just went through all this trouble creating the ultimate 
+              Space Quest computer and you still have <a href="../timerissues/index.shtml">timer 
+              problems</a>! Well, before you're going to sue me you might want 
+              to install the &quot;script code fixes against SCI timer bugs&quot;. 
+              Sounds awefully difficult, but it's easier than stealing candy from 
+              a child. Go to <a href="http://geocities.com/belzorash/" target="_blank">this 
+              webpage</a>, follow the instructions and install the patches. There! 
+              I used to tweak my computer's processor cache (read below), because 
+              I still had timer problems with my Pentium 120 MHZ. But not anymore! 
+              These fixes are highly recommended, even if you don't notice any 
+              timer problems.</font></p>
+            <p align="justify"><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif">I've 
+              still got Timer Problems! - Disable your processor cache</font><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif"><a name="cache"></a></font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">If 
+              the timer patches don't work for you for some reason, you might 
+              want to try disabling your processor cache. Pentium 1 and 2 motherboards 
+              allow you to do this and it will help stop any abnormal timer behavior. 
+              Cache is simply put processor memory, like RAM, only much faster. 
+              It greatly improves your processor efficiency. Disabling your processor 
+              cache is done by accessing <a href="bios1.html" onClick="NewWindow(this.href,'popup','500','375','no');return false;">the 
+              BIOS setup</a> <font color="#CC0000">(56KB)</font>. Your computer 
+              always says something like: &quot;hit DEL to enter setup&quot; when 
+              starting up. <a href="bios2.html" onClick="NewWindow(this.href,'popup','500','375','no');return false;">Locate 
+              the CACHE options</a> <font color="#CC0000">(76 KB)</font> and DISABLE 
+              it. Please be sure you know what it is you're doing in the BIOS 
+              setup. Consulting the manual that came with your motherboard can 
+              help you through all this safely. Try searching the internet for 
+              your motherboard's manual if it didn't come with your computer. 
+              It isn't all that hard though, even I got it to work. You might 
+              want to ENABLE the external and/or internal cache when you're going 
+              to play Space Quest 6. It'll run much smoother this way (animation, 
+              the speech and text loading time, etc.). Please note that these 
+              screen shots from the BIOS might differ from your own BIOS. A friendly 
+              notice: disabling your processor cache doesn't work as good as the 
+              patches described above. If the patches work for you then be sure 
+              to ENABLE the external and internal cache for the best possible 
+              animation. </font></p>
+            <p align="justify"><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif">Installing 
+              patches to improve the games</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">At 
+              the &quot;patches and fixes&quot; page in every SQ chapter, you'll 
+              find a few patches. You don't need all of them for your system, 
+              so I would like to talk them through with you. If you encounter 
+              the problems as desrcibed in the patch section of the download page 
+              then download that particular patch and install it. Additionally, 
+              I recommend installing the following patch anyway:</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              Space Quest 1 VGA enhanced sound and graphic drivers. The graphic 
+              driver enables you to see the original dissolve transitions: the 
+              effect you see at the beginning of the game when the Sierra screen 
+              &quot;pixelates&quot; away and the SQ1 title screen &quot;pixelates&quot; 
+              in. The original file that comes with the game doesn't show this 
+              effect on fast computers. Also included are two improved sound drivers. 
+              You'll need these sound drivers if you, for instance, can't hear 
+              the computer saying: &quot;destruct sequence has engaged&quot; at 
+              the beginning of the game. There are actually quite a few more digitalized 
+              sound in SQ1VGA, but this one is the most apparent.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              Space Quest 3 Soundblaster patch: This patch includes a more suitable 
+              sound driver for Space Quest 3, which enables you to listen to special 
+              sound effects (like Roger saying &quot;Where am I&quot;). The ZIP 
+              file also included GoSierra3 for an alternative installation. Sierra 
+              designed SQ3 to sound like this: a must have fix!</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              Space Quest 4 Improved Graphics Driver: A better graphics driver. 
+              This patch fixes several graphics problems. One of which is the 
+              mouse pointer. The mouse pointer starts to flicker madly if you 
+              put it over animation. With the patch, this is greatly reduced.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Space 
+              Quest 4 and 5 Sound Patch: This patch can fix problems with the 
+              Sound Blaster 16 ASP sound card involving hearing only the first 
+              digitized effect. Of course, only install it if you have a Sound 
+              Blaster card. For instance, this patch fixes problems with Space 
+              Quest 5, where you normally wouldn't hear special found effects 
+              (like the farting captain's chair). This patch fixes this problem.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Timer 
+              Problem Fix: Check out my very complete <a href="../timerissues/index.shtml">Timer 
+              Issue article</a>. The article contains links to programs, utilities, 
+              fixes, patches and tips you can use to fix the timer problems! For 
+              starters, check out <a href="http://geocities.com/belzorash/" target="_blank">this 
+              webpage</a>. New Rising Sun has developed some awesome fixes that 
+              COMPLETELY ELIMINATE the timer problems. The website includes enough 
+              information how to install the patches correctly. These patched 
+              are HIGHLY recommended and preferred in favour of slow down utilities 
+              and emulators.</font></p>
+            <p align="justify"><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif">Installing 
+              saved games</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">This 
+              is optional, but I really like this one. You can download &quot;Jeysie's 
+              saved games&quot;, which are saved games for SQ1 to 5. They are 
+              offered on this website at any of the &quot;Game Help sections&quot;. 
+              These saved games can take you to EVERY part of the game. To install 
+              them, follow the instructions supplied with the ZIP files and put 
+              each set of saved games directly into the directory of the right 
+              game. If you've extracted the ZIP file correctly, you will now have 
+              a number of new sub-directories for your SQ game called SAVE1, SAVE2 
+              etc. You can now access these files by changing the directory path 
+              in the RESTORE menu. For instance: &quot;C:\SIERRA\SQ1\SAVE1\&quot;. 
+              As a last suggestion: print out the readme files that came with 
+              the ZIP files. This is handy because you now have a reference guide. 
+              You can easily find the saved game you want, without looking your 
+              ass off in all those different sub-directories first.</font></p>
+            <p align="justify"><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif">Installing 
+              mini games</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">For 
+              the extreme die-hard, I suggest installing the Space Quest Mini 
+              Games, which are offered at <a href="../../downloads/index.shtml">my 
+              download page</a>. Install Astro Chicken, Ms. Astro Chicken. Nick's 
+              Picks are already installed if you've followed my instruction in 
+              the &quot;installing the SQ games&quot; section.</font></p>
+            <p align="justify"><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif">Optimizing 
+              the mouse</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">You 
+              can change the speed of your mouse by altering your mouse's resolution. 
+              In the directory of your mouse driver which is &quot;C:\TRMOUSE&quot; 
+              type &quot;TRMOUSE /a8&quot; and try your new settings with the 
+              &quot;TRTEST&quot; program or a Space Quest game that uses the mouse 
+              (like SQ1VGA). If you think your mouse is too fast or too slow try 
+              a higher or lower number behind the &quot;/a&quot; text. If you 
+              want DOS to load these settings every time it boots up, edit the 
+              autoexec.bat file by typing &quot;EDIT AUTOEXEC.BAT&quot; in the 
+              root directory (&quot;C:\&gt;&quot;). Locate the line that looks 
+              something like this: &quot;LOADHIGH c:\trmouse\trmouse&quot; or 
+              &quot;c:\trmouse\trmouse&quot; and change that line by adding the 
+              &quot;/a8&quot; part (or some other number you'd like to use). After 
+              you've changed it, it should look like this: &quot;LOADHIGH c:\trmouse\trmouse 
+              /a8&quot; (with or without the LOADHIGH text).</font></p>
+            <p align="justify"><img src="../../extraimages/line.gif" width="100%" height="3"></p>
+            <p align="justify">&nbsp; </p>
+            <p align="justify"><strong><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif">The 
+              finish line!</font></strong></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">This 
+              is it! You've reached the end of this article which means you now 
+              know how to make the ultimate Space Quest computer. <a href="sqcomputermooi.jpg" target="_blank">It 
+              should look a bit like this</a>. And that's worth the trouble, right! 
+              Hell, you can also play your other Sierra games on your beauty. 
+              If you need any further assistance, I'd be more than happy to help 
+              you out. Post a message at <a href="http://forum.spacequest.net">The 
+              Janitorial Times</a>!</font></p>
+            <p><font color="#000000">___</font></p>
+      </td>
+        </tr>
+      </table>
+      
+    </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All
+          original content (c) Frans van Hofwegen. All Space Quest related
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

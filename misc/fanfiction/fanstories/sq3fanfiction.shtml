@@ -1,0 +1,288 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Monolith Burger Revisited</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, mark crowe, josh mandel, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../../tabs/infobox.gif"><img src="../fanficup.jpg" width="353" height="76" border="0"></td>
+          <td width="550" height="76" background="../../../tabs/infobox.gif"> 
+            <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Fanfiction 
+                &gt;</strong> The &quot;fan phenomena&quot; of the Space Quest 
+                Community is old and complex. Whether it's a story, an image or 
+                a video, fans have been writing fanfiction since the first fanpage 
+                appeared online.</font></p>
+            </blockquote></td>
+          <td background="../../../tabs/infobox.gif">&nbsp;</td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../fanficdown.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../../../navmenu/miscmenu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../../navmenu/lineleftgreyright.jpg"><img src="../fanficbetween.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../../navmenu/topblack.gif" width="100%" height="20"><br> 
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td colspan="2" valign="top"><p align="justify"><font face="Arial, Helvetica, sans-serif"><font size="3" color="FFFFB1"><strong>Monolith 
+              Burger Revisited</strong></font></font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              &quot;Welcome to sector 62. I'm Ueffo Bleeblenarf, the counter clerk 
+              of Monolith Burger. This establishment is just one of the 6000 Monolith 
+              Burgers. We are the galaxy's number one in fast food. Since its 
+              beginning in the nineteenth century (known as MacDonalds at that 
+              time), Monolith Burger is there for you. Hungry space travelers 
+              and hard to handle aliens are our specialties. The best service 
+              is guaranteed (the food is another story). Now, may I take your 
+              order?&quot;</font></p>
+            <p align="center"><font face="Arial, Helvetica, sans-serif"><img src="monolith.gif" alt="Monolith Burger" width="640" height="190"></font></p>
+            <div align="center">
+              <p align="center"><img src="../../../extraimages/line.gif" width="100%" height="3"> 
+              </p>
+            </div>
+            <p align="left"></p>
+            <p align="left"></p>
+            <p align="center"> <font face="Arial, Helvetica, sans-serif"><img src="newspaper.jpg" alt="a newspaper" width="50" height="50"> 
+              <font size="3" color="FFFFB1"><strong>Monolith Burger News</strong></font></font> 
+              <font face="Arial, Helvetica, sans-serif"><img src="newspaper.jpg" alt="a newspaper" width="50" height="50"></font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif" color="457ED9">THE 
+              NEW ASTRO CHICKEN</font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              ScumSoft has introduced a new video arcade game, Astro Chicken. 
+              The CEO of ScumSoft, Mr Elmo Pug, has signed a contract with Monolith 
+              Burger last week. Now, every Monolith Burger franchise will have 
+              an Astro Chicken videogame. In a related story, Genetix Research 
+              has proven that AstroChicken has very few harmful side-effects and 
+              maximum relaxing capabilities. We regret to inform you, that the 
+              beloved Astro Chicken Flight Hat won't come with the fun meal. For 
+              more information about the Hats and other Astro Chicken merchandise, 
+              please address one of our friendly counter clerks or contact Fester's 
+              World'O'Wonders.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="457ED9">MR. 
+              WILCO'S VISIT</font><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              A lot of unrest lately around Monolith Burger's establishment in 
+              sector 62. All kinds of bad rumours are spreading across the universe. 
+              People are saying that Roger Wilco visited Monolith Burger. This 
+              rumour is denied by the management. Velda Zeenbucket has sued Monolith 
+              Burger. She says: &quot;Monolith claims that its establishments 
+              are safe. But why did they let a fool like Mr. Wilco enter? People 
+              have been exposed to an unnecessary danger. Worst of all Monolith 
+              Burger denies Mr. Wilco's visit. But how can they explain the photographs 
+              taken by Janitorhunter Mr. Frans van Hofwegen?&quot; According to 
+              StarCon, Ms. Zeenbucket has a point but also states that this charge 
+              won't make it the Official Galactic Corrupted Master Court.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif"><b><img src="rogercircled.gif" alt="The Aluminum Mallard arrives" width="230" height="116"> 
+              <img src="eating.gif" alt="Roger Wilco eating" width="48" height="52"> 
+              <img src="drinking.gif" alt="Roger Wilco drinking" width="49" height="53"><br>
+              </b><font size="2">As you can see from one of the pictures, Roger 
+              Wilco is sitting in the cockpit of his Aluminum Mallard. In the 
+              middle picture Roger has just swallowing his Filet-O-Orat. The right 
+              shows Roger drinking his free drink.</font></font></p>
+            <p align="justify"><font size="2" color="457ED9" face="Arial, Helvetica, sans-serif">RECYCLABLE 
+              BAGS INTRODUCED</font><font size="2" color="#CC0000" face="Arial, Helvetica, sans-serif"><br>
+              </font><font face="Arial, Helvetica, sans-serif" size="3" color="#CC0000"><img 
+src="bag.gif" alt="the patented Monolith Burger Keep Warm bag" width="55" height="48" align=left></font><font size="2" face="Arial, Helvetica, sans-serif">Every 
+              meal you order is packed in the patented &quot;Monolith Burger Keep 
+              Warm&quot; bags. The new bags are now 100% recyclable thanks to 
+              the research of Genetix. It no longer contains plutonium 235 but 
+              1.01% moshyoem, the fungi-like-plant we all know from Thrakus. The 
+              future looks bright and clean with Monolith Burger!</font></p>
+            <div align="justify"> 
+              <p><font face="Arial, Helvetica, sans-serif" size="2" color="457ED9">THE 
+                BIG BELCHER COMBO<br>
+                </font><font color="2bff1f" size="2" face="Arial, Helvetica, sans-serif"><b><img src="throwup.gif" alt="Barfing Roger" width="28" height="40" align="right"></b></font><font face="Arial, Helvetica, sans-serif" size="2">In 
+                our Monolith Burger Menu, you can order the famous Big Belcher 
+                Combo. A lot of aliens are claiming that they had gotten sick 
+                after eating our most famous (and only) combo. Monolith Burger 
+                has decided not to sell this type of meal anymore to beings under 
+                75 pounds. We are now only selling a big belcher combo to beings 
+                over 75 pounds, or, if he/she/it says that he/she/it is really 
+                hungry.</font></p>
+              <p><font size="2" color="457ED9" face="Arial, Helvetica, sans-serif">A 
+                FRIENDLY WARNING TO ALL VISITORS</font><font face="Arial, Helvetica, sans-serif"><br>
+                <font size="2">In more than one occasion, people forget which 
+                airlock they have used to dock their ship. The result is that 
+                people are entering the airlock of others. Problems like this 
+                occur very often and sometimes result into a tragedy. Monolith 
+                has now introduced airlocknumbers. Be sure to remember your number 
+                before exiting.</font></font></p>
+            </div>
+            <p align="justify"><font color="457ED9" size="2" face="Arial, Helvetica, sans-serif">EMPLOYEE 
+              OF THE MONTH </font><font face="Arial, Helvetica, sans-serif"><br>
+              <img src="counterclerk.gif" alt="Ueffo in his element" width="85" height="83" align="left"><font size="2">Employee 
+              are rewarded with this price if he/she/it is doing more for the 
+              company then necessary (we must say we don't really know when that's 
+              the case). This month Ueffo Bleeblenarf won the price. He invented 
+              the 'airlocknumbers'. Now each airlock has a number, which enables 
+              even the most mentally-disabled visitor (like humans) to find their 
+              way back to their own airlock.</font></font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              Ueffo Bleeblenarf</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><img src="../../../extraimages/line.gif" width="100%" height="3"></font></p>
+            <p align="center"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Monolith 
+              Menu </strong></font><font face="Arial, Helvetica, sans-serif"><br>
+              <img src="menu.gif" alt="The Monolith Menu" width="320" height="137"></font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="457ED9">1. 
+              mini monolith</font><font face="Arial, Helvetica, sans-serif" size="2"> 
+              This is our burger for little species. It is also highly recommended 
+              if you just want a little snack. It contains ketchup, mustard, a 
+              gherkin and a piece of meat. This meat contains no BSE (not guaranteed 
+              and/or tested).</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="457ED9">2. 
+              monolith</font><font face="Arial, Helvetica, sans-serif" size="2"> 
+              The standard burger. This is the same as the mini monolith only 
+              bigger. It has two pieces of meat (second piece half size) and some 
+              lettuce. Pickle is also added. </font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="457ED9">3. 
+              with polycheese</font><font face="Arial, Helvetica, sans-serif" size="2"> 
+              You will love this one: It's also possible to add polycheeze on 
+              your monolith. This cheese is made from the toes of a Pinkunz. And 
+              tastes like zipysnosth.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="457ED9">4. 
+              filet-o-orat</font><font face="Arial, Helvetica, sans-serif" size="2"> 
+              The Orat can be found in the Keronian desert. It lives in caves 
+              but at night they come out to hunt for Grell. Not so long ago it 
+              was impossible to capture these stupid beasts. But now you can order 
+              your very own piece of orat. First, the meat is grilled and then 
+              put in a lovely blood sauce. Please do not mistake the filet-o-orat 
+              with the orat-on-a-stick.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="457ED9">5. 
+              jumbo monolith with polycheese</font><font face="Arial, Helvetica, sans-serif" size="2"> 
+              The jumbo monolith with polycheese is the biggest burger in the 
+              universe. It has a three double polycheese top stuffed with meat. 
+              Also more lettuce is added than in the normal monolith. Pickle, 
+              ketchup and mustard makes this burger a big hit. It is advised to 
+              brush your teeth (if you have any) after you have eaten a jumbo 
+              monolith.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="457ED9">6. 
+              big belcher combo</font><font face="Arial, Helvetica, sans-serif" size="2"> 
+              Is your hunger bigger then the Galactic Space Trade Centre? Well, 
+              you've come to the right place. Monolith Burger offers a menu which 
+              includes: the original jumbo monolith with polycheese, space spuds 
+              with extra grease and sloppy slurper. You can only order a big belcher 
+              combo if you are heavier than 75 pounds.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="457ED9">7. 
+              monolith fun meal</font><font face="Arial, Helvetica, sans-serif" size="2"> 
+              For children or beings with an IQ lower than 50. It not only contains 
+              a monolith and a small sized tang&copy; but also a fun mail price. 
+              What will it be this time? That stupid Macdonald clown or a neat 
+              decoder ring?</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="457ED9">8. 
+              space spuds</font><font face="Arial, Helvetica, sans-serif" size="2"> 
+              Only this drink has the original spuds. Drink this, and you will 
+              be spaced out until Christmas Eve!</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="457ED9">9. 
+              tang&copy; A Lot of ice and tang&copy;</font><font face="Arial, Helvetica, sans-serif" size="2"> 
+              is the perfect solution to drink away your problems. The ingredients 
+              are secret but we can say that tang&copy; is good for small and 
+              large, young and old, smart and stupid! It comes in three sizes: 
+              a small, b medium and c large. Please note, when drinking a large 
+              tang&copy; your stomach has to be bigger then 12 kilospaces.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="457ED9">sloppy 
+              slurper</font><font face="Arial, Helvetica, sans-serif" size="2"> 
+              Slurp your monolith away with this drink. Guaranteed satisfaction. 
+              (submitted by Keith Richards) Enjoy, but do not drink more than 
+              2 sloppy slurpers per day because it destroys brain cells (a lot 
+              -ed).</font></p>
+            <p align="justify"><font color="#000000">___</font></p>
+            </td>
+        </tr>
+      </table>
+      
+    </td>
+    <td width="25" valign="top" background="../../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

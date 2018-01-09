@@ -1,0 +1,162 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 4 Design Sketches</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq4up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 4 Design Sketches &gt; </strong> SpaceQuest.Net is proud 
+                to offer you exclusive Space Quest 4 Design Sketches.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq4down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../../navmenu/sq4menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq4between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td align="left" valign="top"><div align="justify"> 
+              <p align="justify"><font color="ffffb1" size="2" face="Arial, Helvetica, sans-serif"><strong><font size="3">Space 
+                Quest 4 Design Sketches<font size="2"><br>
+                </font></font></strong></font><font size="2" face="Arial, Helvetica, sans-serif"> 
+                Only a handful of the two hundred or so design sketches made for 
+                Space Quest 4 survived the hands of time. Some of these sketches 
+                look the same as in the real game. Sketches from Zondra and the 
+                Super Computer Complex, though, are very different. This gives 
+                us an insight of what the art designers were up to, which ideas 
+                made it into the game, and which ideas were trashed.</font></p>
+              <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">All 
+                characters and objects were first drawn down on a so called <a href="charactersheet.html" onClick="NewWindow(this.href,'popup','650','636','no');return false;">Character 
+                Sheet (or fact Sheet)</a> <font color="#CC0000">(50,6 KB). </font>These 
+                sheets made it easy for the people who were working on the game 
+                to exchange ideas more efficiently and keep track of them in a 
+                orderly fashion. All the sheets would eventually make up a huge 
+                document, containing all the information and descriptions about 
+                the characters and objects of the game. Space Quest 4 was the 
+                first Space Quest to use those sheets.</font></p>
+              <p align="justify"><img 
+src="vohaulk.jpg" align=left width="125" height="159" alt="Sludge Vohaul"><font face="Arial, Helvetica, sans-serif" size="2"><a href="beatrice.html" onClick="NewWindow(this.href,'popup','503','600','no');return false;">Beatrice 
+                Wankmeister</a> <font color="#CC0000">(49,4 KB)</font><br>
+                <a href="lataxbabesship.html" onClick="NewWindow(this.href,'popup','650','405','no');return false;">Ship 
+                of the Latex Babes</a> <font color="#CC0000">(28 KB)</font><br>
+                <a href="monoboys.html" onClick="NewWindow(this.href,'popup','650','633','no');return false;">Monochrome 
+                Boys</a> <font color="#CC0000">(57,3 KB)</font><br>
+                <a href="roger.html" onClick="NewWindow(this.href,'popup','650','530','no');return false;">Roger 
+                Wilco</a> <font color="#CC0000">(31,6 KB)</font><br>
+                <a href="roger-sr-jr.html" onClick="NewWindow(this.href,'popup','457','600','no');return false;">Roger 
+                Wilco Sr. and Jr. together</a> <font color="#CC0000">(47,4 KB)</font><br>
+                <a href="seaslug.html" onClick="NewWindow(this.href,'popup','650','422','no');return false;">Seaslug</a> 
+                <font color="#CC0000">(33,7 KB)</font><br>
+                <a href="supercomputer.html" onClick="NewWindow(this.href,'popup','650','512','no');return false;">The 
+                Super Computer Complex</a> <font color="#CC0000">(51 KB)</font><br>
+                <a href="vohaul.html" onClick="NewWindow(this.href,'popup','480','600','no');return false;">Sludge 
+                Vohaul</a> <font color="#CC0000">(48,7 KB)</font><br>
+                <a href="zondra.html" onClick="NewWindow(this.href,'popup','650','454','no');return false;">Zondra</a> 
+                <font color="#CC0000">(41,9 KB)</font></font></p>
+            <p><font color="#000000">___</font></p>
+            </div></td>
+        </tr>
+      </table> </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

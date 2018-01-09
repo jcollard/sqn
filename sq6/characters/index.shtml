@@ -1,0 +1,348 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 6 Characters</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq6up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 6 Characters &gt; </strong>Roger meets interesting characters 
+                in Space Quest 6. Please keep in mind that you might not want 
+                to see the information below if you're new to the game.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq6down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> <!--#include virtual="../../navmenu/sq6menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq6between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td height="185" valign="top"> <div align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#999999"><font size="3" color="FFFFB1"><strong>Singent 
+              Flembukit and Nigel Rancid</strong></font><br>
+              <img src="nigel.gif" alt="Nigel Rancid" width="65" height="164" align="left"><img src="singent.gif" alt="Singent Flembukit" width="75" height="164" align="right"></font><font face="Arial, Helvetica, sans-serif" size="2">Those 
+              are some interesting-looking dudes. Must be a couple of real losers 
+              since they seem to be dateless. Of course, that won't be a problem 
+              for you once word gets around that you've hit this planet. Singent 
+              and Nigel are hired thugs working for the evil Sharpei. She ordered 
+              the abduction of Roger Wilco.</font></div></td>
+        </tr>
+        <tr> 
+          <td valign="top"> <div align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="#CC0000"><br>
+              <strong><font color="FFFFB1">The Dew Beam Inn Manager</font></strong></font><font face="Arial, Helvetica, sans-serif"><br>
+              <img src="manager.gif" alt="The Dew Beam Inn Manager" width="88" height="91" align="left"><font size="3"><font size="2">He 
+              looks like he's an expert on energy conservation, mainly his. He 
+              looks friendly now, try to keep it that way. This guy is real sleazy. 
+              I'm sure StarCon didn't forget to book a room for Roger. It's kust 
+              another &quot;smart marketing technique&quot; to fool the weak. 
+              Too bad Roger fits nicely into that category. Oooh well.</font></font></font></div></td>
+        </tr>
+        <tr> 
+          <td valign="top"> <div align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#999999"><font size="3" color="#CC0000"><br>
+              <strong><font color="FFFFB1">Pa Conshohocken</font></strong></font><br>
+              <img src="pa.gif" alt="Pa Conshohocken" width="42" height="52" align="left"></font><font face="Arial, Helvetica, sans-serif" size="2">This 
+              is the proprietor of Boot Liquor. He sits behind the counter by 
+              his favorite possession - something he values greater than his own 
+              life - the cash register. Pa's been in business for quite a while, 
+              as his grizzled look might attest.</font></div></td>
+        </tr>
+        <tr> 
+          <td valign="top"> <div align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#999999"><font size="3" color="#CC0000"><br>
+              <strong><font color="FFFFB1">The Orion's Belt bartender</font></strong></font><br>
+              <img src="bartender.gif" alt="The Orion's Belt bartender" width="83" height="82" align="left"></font><font face="Arial, Helvetica, sans-serif" size="2">A 
+              quick look indicates that the bartender is physically well-balanced 
+              and adroid, a good combination for his profession. The shirt would 
+              further indicate that he has the mentality for it.</font></div></td>
+        </tr>
+        <tr> 
+          <td height="130" valign="top"> <div align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#999999"><font color="#CC0000" size="3"><br>
+              <strong><font color="FFFFB1">Djurkwhad</font></strong></font><br>
+              <img src="djurkwhad.gif" alt="Djurkwhad" width="88" height="90" align="left"></font><font face="Arial, Helvetica, sans-serif" size="2">Vicious, 
+              fast and skilled, Djurkwhad has spent hours behind the Stooge Fighter 
+              3 arcade game perfecting his moves, both secret and finish moves. 
+              He's famous for not having lost so much as one game. It's rumored 
+              Djurkwhad has connections with the slave colonies on Irregion V.</font></div></td>
+        </tr>
+        <tr> 
+          <td valign="top"> <div align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#999999"><font size="3" color="#CC0000"><br>
+              <strong><font color="FFFFB1">Elmo Pug</font></strong></font><br>
+              <img src="elmo.gif" alt="Elmo Pug" width="94" height="88" align="left"></font><font face="Arial, Helvetica, sans-serif" size="2">Elmo 
+              has definitely taken a turn for the worse. After Roger kicked Elmo's 
+              butt in that Nukem Dukem robot, Elmo was the laughing stock around 
+              Scumsoft, marking his last days. Oooh well, if that hadn't gotten 
+              Elmo, some of his creative management techniques would have. These 
+              days, Elmo has got to maintain a fairly modest profile, I guess 
+              you could say. Time heals wounds and all that. You can find him 
+              stumbling around the streets of Polysorbate LX, searching for a 
+              bottle of his favorite hooch (Coldsorian Brandy), while smelling 
+              like a barfed out space pork. Elmo is humiliated to admit that he 
+              is, on rare occasion, resorted to selling cheat sheets for arcade 
+              games. </font></div></td>
+        </tr>
+        <tr> 
+          <td valign="top"> <div align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#999999"><font color="#CC0000" size="3"> 
+              <strong><font color="FFFFB1"><br>
+              Fester Blatz</font></strong></font><br>
+              <img src="fester.jpg" alt="Fester Blatz" width="140" height="128" align="right"></font><font face="Arial, Helvetica, sans-serif" size="2">Yikes! 
+              Can it be? Why, yes, it is. It's Fester, Fester Blatz. Former owner 
+              and proprietor of Fester's World O' Wonders, a cheesy little tourist 
+              trap on the desert planetoid of Pleebhut. The t-shirt looks - and, 
+              unfortunately, smells - like the same one he wore on Phleebhut. 
+              He has the expression of someone enjoying a permanent wedgie. He 
+              has aged somewhat. Looks like he's grown a few more neck rings. 
+              These last few years have been rough on him. From what you remember 
+              of him, he used to be kind of an aqua blue. Now he looks like a 
+              used LungLiner&#153; or the color of a Vorillian miner's loogie. 
+              Fester's from a rare rhinosupian species where the babies are born, 
+              but climb into their parents' cavernous noses where they continue 
+              to grow until they fall out from their sheer weight (Or from a real 
+              good sneeze from their parental unit). He apparently decided to 
+              set up &quot;Implants 'n Stuff&quot; after years of solitude on 
+              that plantetoid Phleebhut. Well, let's hope he strikes rich here 
+              on Polysorbate LX. Fat chance, I'm sure.</font></div></td>
+        </tr>
+        <tr> 
+          <td valign="top"> <div align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="#CC0000"><br>
+              <font color="FFFFB1"><strong>The Endodroid</strong></font></font><font face="Arial, Helvetica, sans-serif"><br>
+              <img src="endodroid.gif" alt="The Endodroid" width="84" height="125" align="left"><font size="2">The 
+              new version of Endodroids are made of liquid metal called Droidium. 
+              Blaine Rohmer is after this particular specimen because it made 
+              some people mad: It jumped out of its program and kind of killed 
+              and/or mangled a score or so of co-workers and, more importantly, 
+              management personnel. A big no-no. No big deal, Blaine Rohmer just 
+              has to take him in for analysis and processing.</font></font></div></td>
+        </tr>
+        <tr> 
+          <td valign="top"> <div align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#999999"><font size="3" color="FFFFB1"><strong><br>
+              Blaine Rohmer - The Endodroid Runner</strong></font><br>
+              <img src="blaime.gif" alt="Blaine Rohmer - The Endodroid Runner" width="30" height="110" align="left"></font><font face="Arial, Helvetica, sans-serif" size="2">This 
+              person is shrouded in secrecy. We do know that Blaine is an endodroid 
+              hunter for Spore Inc. He offered our janitor 50 buckazoids if Roger 
+              could help him out with catching this particular violent Endodroid.</font></div></td>
+        </tr>
+        <tr> 
+          <td valign="top"> <div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><font color="#CC0000" size="3"><br>
+              <strong><font color="FFFFB1">Corpsman Stellar Santiago</font></strong></font> 
+              <br>
+              <img src="stellar.gif" alt="Corpsman Stellar Santiago " width="113" height="106" align="left">Roger 
+              must have had a major malfunction when he hooked up with this girl. 
+              But you know what they say: &quot;The looks aren't everything&quot;. 
+              Guess it can be blamed on Roger's dumb luck that he had a chance 
+              - a once-in-a-life-time-experience - to explore her inner-side. 
+              Boy, can you image Roger was just a tiny bit disappointed after 
+              that Inner Voyage? Whatever one might think of Stellar, she sure 
+              is loyal towards her friends.</font></div></td>
+        </tr>
+        <tr> 
+          <td valign="top"> <div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><font color="FFFFB1" size="3"><strong><br>
+              Jebba the Hop</strong></font><br>
+              <img src="jebbathehop.gif" alt="Jebba the Hop" width="105" height="104" align="left">He's 
+              just one of those StarCon Sickbay people who do just about anything 
+              by the book in hopes of promotion... Jebba the Hop isn't one of 
+              those people who think rules are meant to be broken.. But he'll 
+              bend one or two anyway if you know what to offer him (he's a sucker 
+              for those &quot;free plunge jobs&quot;). Did I mention he had to 
+              remove those two ugly looking tattoo's from his upper arms to join 
+              StarCon? </font></div></td>
+        </tr>
+        <tr> 
+          <td valign="top"> <p align="justify"><font color="#CC0000" size="3" face="Arial, Helvetica, sans-serif"><br>
+              <strong><font color="FFFFB1">Kielbasa</font></strong></font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="kielbasa.gif" alt="Kielbasa" width="173" height="102" align="left"> 
+              Feline Chief of the Deepship 86. Kielbasa is a StarCon Captain with 
+              a manual. Goes to where no cat has gone before ONLY if you bring 
+              along his litter box (a man, I mean cat, just has to have his private 
+              place to think up brilliant idea's) and his Basket/Command Module 
+              (which comes complete with electrical sockets and the Gravis Gamepad)... 
+              </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">As 
+              punishments of his bad combat decisions during the famous Telecommunications 
+              Wars some years ago, StarCon vowed to punish Kielbasa when they 
+              thought the time was right. And that time came when Roger Wilco, 
+              our most beloved janitor (Sanitation Engineer please), was decommissioned 
+              from his Captain rank and was sent to resume his duties as Janitor 
+              Second Class onboard Kielbasa's ship. Those StarCon superiors are 
+              so inventive.</font></p></td>
+        </tr>
+        <tr> 
+          <td valign="top"> <div align="justify"><font color="#CC0000" size="3" face="Arial, Helvetica, sans-serif"><br>
+              <strong><font color="FFFFB1">Admiral Toolman</font></strong></font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="toolman.gif" alt="Admiral Toolman" width="153" height="91" align="left">Although 
+              he was a Rear-Admiral in the days when Admiral's Blundtphang served 
+              StarCon, Toolman was actually nothing but a little coffee boy / 
+              butt kisser (the true reason why this guy was ever promoted to Rear-Admiral 
+              in the first place). What's with the Terminator eye thing, you ask? 
+              Spilling hot boiling coffee all over the place just doesn't do good. 
+              Spilling it in zero gravity is even worse, let me tell ya. It was 
+              only after Blundtphang's death that Toolman was promoted to Admiral.</font></div></td>
+        </tr>
+        <tr> 
+          <td valign="top"> <div align="justify"><font color="#CC0000" size="3" face="Arial, Helvetica, sans-serif"><br>
+              <strong><font color="FFFFB1">Sharpei</font></strong></font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="sharpei.gif" alt="Sharpei" width="90" height="105" align="left">The 
+              widow of the famous StarCon Admiral Blundtphang is involved in building 
+              the Golden Lightyear off-world retirement community. Sharpei is 
+              extremely fearful of dying and it is rumored she's working on a 
+              project called &quot;Immortality&quot;. As the Popular Jantronics 
+              once perfectly stated: &quot;Immortality, a process by which rich 
+              old farts can become young again at someone else' expense.&quot; 
+              She mysteriously disappeared some time ago.</font></div></td>
+        </tr>
+        <tr> 
+          <td valign="top"> <p align="justify"><font color="#CC0000" size="3" face="Arial, Helvetica, sans-serif"><br>
+              <strong><font color="FFFFB1">Dorff</font></strong></font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="dorff.gif" alt="Dorff" width="78" height="103" align="left">Near-sighted 
+              security flop and old friend of Kielbasa. His life motto? &quot;Follow 
+              your nose if you can't see anything.&quot; And his nose just happens 
+              to point right down to his.... Uuhmm.... </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Well, 
+              good thinking!</font></p></td>
+        </tr>
+        <tr> 
+          <td valign="top"> <p align="justify"><font color="#CC0000" size="3" face="Arial, Helvetica, sans-serif"><br>
+              <strong><font color="FFFFB1">Circuit Sidney</font></strong><br>
+              </font><font size="2" face="Arial, Helvetica, sans-serif"><img src="sidney.gif" alt="Circuit Sidney" width="96" height="83" align="left">One 
+              of the few friends Roger has aboard the Deepship 86. Sidney is programmed 
+              to be loyal towards good willing fellow deck-mates aboard the Deepship... 
+              Guess those MicroSoft Quality Assurance guys still do a pretty shitty 
+              job in the 23rd century. Sidney is always willing to lend friend 
+              a hand... Literally.</font></p></td>
+        </tr>
+        <tr> 
+          <td valign="top"> <div align="justify"><font color="#CC0000" size="3" face="Arial, Helvetica, sans-serif"><br>
+              <strong><font color="FFFFB1">Shuttle Bay Guards</font></strong></font><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="shuttlebayguards.gif" alt="Shuttle Bay Guards" width="192" height="130" align="left"></font><font size="2" face="Arial, Helvetica, sans-serif">Yep, 
+              it's Opus and Chesbro guarding that Shuttle Bay Entrance. Nobody 
+              knows why the entrance needs guarding in the first place.</font></div></td>
+        </tr>
+        <tr> 
+          <td valign="top"> <div align="justify"><font color="#CC0000" size="3" face="Arial, Helvetica, sans-serif"><br>
+              <strong><font color="FFFFB1">Manual Auxverride</font></strong></font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="manual.gif" alt="Manual Auxverride" width="78" height="78" align="left">Always 
+              95,2% certain of his action, Manual is the perfect solution for 
+              most of your Hammster Shuttle problems. Ask him stuff like: &quot;How 
+              can I burn CD's?&quot; or &quot;How can I print a word document?&quot; 
+              and you'll soon find this guy is a lot more helpful than his virtual 
+              grandfather called &quot;Clippy&quot;.</font></div></td>
+        </tr>
+        <tr> 
+          <td valign="top"> <div align="justify"><font color="#CC0000" size="3" face="Arial, Helvetica, sans-serif"><br>
+              <strong><font color="FFFFB1">Dr. Belleauxs</font></strong></font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="drbeleaux.gif" alt="Dr. Belleauxs" width="90" height="83" align="left">Dr. 
+              Belleauxs was Sharpei's faithful side kick and the genius behind 
+              Project Immortality. He fell for her... Correction, he fell for 
+              her <em>hard</em>. And although he knew the things he did for Sharpei 
+              were wrong, Dr. Belleauxs continued to carry out his work for her 
+              in the name of love. When Roger managed to make Dr. Belleauxs realize 
+              how wrong Project Immortality was, Belleauxs helped Roger undoing 
+              his evil work.</font></div></td>
+        </tr>
+        <tr> 
+          <td valign="top"> <div align="justify"><font color="#CC0000" size="3" face="Arial, Helvetica, sans-serif"><br>
+              <strong><font color="FFFFB1">Sis Inny</font></strong></font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="sisinny.gif" alt="Sis Inny" width="49" height="48" align="left">Yes! 
+              You bet your bitmap it is! It's Sis Inny, the Information Superhighway 
+              Office Receptionist (ISOR) and 64 by 64 pixel momma (This image 
+              is only 49X48 though). How boring.</font></div></td>
+        </tr>
+      </table> </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

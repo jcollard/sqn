@@ -1,0 +1,165 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Fanimages</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, mark crowe, josh mandel, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../../tabs/infobox.gif"><img src="../fanficup.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Fan 
+                images &gt;</strong> The &quot;fan phenomena&quot; of the Space 
+                Quest Community is old and complex. Whether it's a story, an image 
+                or a video, fans have been writing fanfiction since the first 
+                fanpage appeared online.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../fanficdown.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../../../navmenu/miscmenu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../../navmenu/lineleftgreyright.jpg"><img src="../fanficbetween.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td colspan="2" valign="top"><p align="justify"><font color="ffffb1" size="3" face="Arial, Helvetica, sans-serif"><strong>Scott 
+              Murphy wanted dead or alive<br>
+              </strong></font><font face="Arial, Helvetica, sans-serif"><a href="scottwantedlarge.jpg" target="_blank"><img src="scottwanted-xsmall.jpg" alt="Scott Murphy: WANTED dead or alive!" width="180" height="225" border="0" align="right"></a><font size="2">I've 
+              just returned from my vacation. Let me give you a word of advice: 
+              never trust a vacation-package sales agent who actually has enough 
+              fingers to count how many buckazoids he'll charge you for the slimy 
+              way he's about to rip you off. You see, I couldn't read the vacation-package 
+              waver form, because I had recently forgotten my glasses (an ancient 
+              Earth accessory for sight correction) on the dashboard of my timepod, 
+              which my estranged cousin stole... but that's another story. Anyway, 
+              the sales agent assured me that the space cruise destinations included 
+              such getaway hotspots as Estros, the famed Galaxy Galleria, and 
+              Risa. Needless to say, after signing away most of my life savings 
+              in buckazoids, I was shocked to find myself deposited on such inhospitable 
+              hellholes as Phleebhut, Polysorbate LX, and lastly, Kerona.</font></font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              So there I was, sitting in a dingy bar in Ulence Flats, wearing 
+              my glasses (my disturbed cousin made a few mistakes while time travelling, 
+              and the glasses re-materialized in my pocket) and trying to read 
+              the indecipherably small fine-print on my copy of the vacation-package 
+              waver form, when a practically-mauled Keronian stumbled into the 
+              bar. I recoiled in shock as he focused a wild, furtive, desperate 
+              stare, and then his stumbling lurches, in my direction. Falling 
+              at my feet, he thrust a dirty leaflet into my hand. As he breathed 
+              his last, he managed to choke out: &quot;Run.&quot;</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              Only later, when watching the vidnews in the comfort of my own home 
+              (having narrowly escaped from Kerona after a vicious firefight), 
+              did I hear the story of how this Keronian had been pursued halfway 
+              across Kerona, fighting off hordes of hungry Grell, to find someone, 
+              anyone, who would take that leaflet and make it known to the universe. 
+              So here it is - the portrait of a wanted man. It seems that the 
+              Galactic Port Authority is even more vindictive than the Gippazoid 
+              Novelty Company, and they don't want anyone, especially someone 
+              who might try to save this man, to get in their way.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">You 
+              can click on the leaflet for a closer up <font color="#CC0000">(200 
+              KB)</font>. This leaflet was sent to Scott Murphy on behalf of the 
+              entire Space Quest Community somewhere in April 2003, in hopes of 
+              receiving an e-mail from him. Sadly... He didn't reply.</font></p>
+            <p><font color="#000000">___</font></p></td>
+        </tr>
+      </table></td>
+    <td width="25" valign="top" background="../../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All
+          original content (c) Frans van Hofwegen. All Space Quest related
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

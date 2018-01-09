@@ -1,0 +1,236 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 1 Story</title>
+<meta name="description" content="Space Quest 1 The Sarien Encounter was designed by Scott Murphy and Mark Crowe in 1986. Sierra On-Line's best adventure game starring Roger Wilco.">
+<meta name="keywords" content="space, quest, 1, download, adventure game, sierra, manual, roger wilco, spacequest, patch, hint book">
+<meta name="robots" content="all">
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+<!-- Begin
+
+image1 = new Image();
+image1.src = "../tabs/maintabover.gif";
+
+image2 = new Image();
+image2.src = "../tabs/sq1tabover.gif";
+
+image3 = new Image();
+image3.src = "../tabs/sq1tabover.gif";
+
+image4 = new Image();
+image4.src = "../tabs/sq2tabover.gif";
+
+image5 = new Image();
+image5.src = "../tabs/sq3tabover.gif";
+
+image6 = new Image();
+image6.src = "../tabs/sq4tabover.gif";
+
+image7 = new Image();
+image7.src = "../tabs/sq5tabover.gif";
+
+image8 = new Image();
+image8.src = "../tabs/sq6tabover.gif";
+
+image9 = new Image();
+image9.src = "../tabs/sq7tabover.gif";
+
+image10 = new Image();
+image10.src = "../tabs/misctabover.gif";
+
+// End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../tabs/infobox.gif"><img src="sq1up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 1 Story &gt;</strong> Hey, Wake Up! While Roger was napping 
+                in the broom closet, aliens hijacked his starship and made off 
+                with the top-secret Star Generator. And if Roger can't get it 
+                back, the universe as we know it is toast.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="sq1down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../navmenu/sq1menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../navmenu/lineleftgreyright.jpg"><img src="sq1between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../navmenu/topblack.gif" width="100%" height="20"><br> 
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td colspan="2" valign="top"> <p align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Space 
+              Quest 1 Story</strong></font><br>
+              <font size="2" face="Arial, Helvetica, sans-serif">Far beyond the 
+              reaches of known space lies a planetary system known to its inhabitants 
+              as Earnon. For many years, Earnon's sun has been slowly dying. The 
+              planets are growing cold and food is no longer plentiful. Scientists 
+              predict that only certain insect species and most lawyers will survive 
+              the resulting ice age. The beings of these ever darkening worlds 
+              struggle to maintain the daily balance of life. </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              only hope for Earnon's survival has rested in the scientific community 
+              on the governing planet of Xenon, which has been working for quite 
+              some time on a plan to convert one of the system's lifeless planets 
+              into a new sun. The effort has been centered around the development 
+              of a device called the Star Generator.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              development team for the project has been stationed aboard the spacelab 
+              Arcada and sent to the outer edge of Earnon to further its research. 
+              You, a lowly apprentice sanitation engineer, are employed on the 
+              Arcada in tasks requiring only the lowest security clearance.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">It 
+              is common knowledge aboard the Arcada that the scientists have just 
+              successfully completed the development and first stages of testing 
+              of the Star Generator. Although still in the experimental stages, 
+              it appears to be fully operational. Triumphantly, the good news 
+              is flashed back to Xenon as the crew of the Arcada prepares for 
+              the trip home.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">But 
+              the news does not travel far before it reaches unintented ears. 
+              Monitoring the Arcada's transmissions are Sariens, space pirates 
+              who cruise the galaxies wreaking havoc and exposing aerosol cans 
+              to open flame or fire. Once citizens of Earnon, the Sariens were 
+              banished long ago for their warlike ways (one would think they would 
+              have gotten over it by now, but apparently they still hold a grudge).</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              Sariens' immediate intent is to capture the Star Generator and bring 
+              it aboard their battle cruiser Deltaur. With the Star Generator 
+              in their possession, the Sariens would have the ultimate weapon 
+              with which to be revenged on the civilization that ostracisez them 
+              so long ago. They plan to unleash its awesome power on Xenon, destroying 
+              all life there, and bring the rest of Earnon to its knees. </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              day of reckoning has now come, as the massive battle cruiser swings 
+              into attack position.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">As 
+              your adventure begins, you are currently conducting one of your 
+              famous on-shirt naps in the janitorial storage closet. Suddenly, 
+              you are rudely awakened by explosions that rock the ship. This does 
+              not amuse you as your dream was just getting interesting. Immediately, 
+              the alarm system is activated and an announcement comes over the 
+              intercom that Sarien troops have boarded the ship. From your hiding 
+              place, you hear laser blasts mingled with the screams of your crewmates. 
+              With a well-developed sense of self preservation, you decide to 
+              stay put for a while.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Soon, 
+              the commotion dies down and you get brave enough to take a look 
+              outside. You crack the closet door, and peer into the corridor. 
+              A group of Sariens, apparently admiring their handiwork, are close 
+              enough for you to touch them! You breathe a sign of relief as they 
+              move off. Then, your eyes fall upon a grisly sight. Several of your 
+              fellow crew members' bodies lie strewn about the ship, their posture 
+              indicating a total unwillingness to get up and keep living. Although 
+              you aren't used to doing a lot of thinking (your job doesn't usually 
+              require much), your brain cells kick into high gear. What a mess! 
+              How am I gonna get those blood stains off the floor? In the midst 
+              of this intensely deep thought (well, deep for YOU) you are startled 
+              into serious reality when you hear a laser blast followed quite 
+              closely by a sickening scream. You briefly consider taking another 
+              well-timed nap, but it finally occurs to you that YOU might be in 
+              danger as well.</font></p>
+            <p align="left"><font size="2" face="Arial, Helvetica, sans-serif">This 
+              will never do.</font></p> 
+            <p align="justify"> <font color="#000000">___</font></p></td>
+        </tr>
+      </table>
+      
+    </td>
+    <td width="25" valign="top" background="../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939"><!--Space Quest 1 The Sarien Encounter was created by Scott Murphy and Mark Crowe. Published by Sierra On-Line. It's an adventure game starring Roger Wilco. Official Hint Book, manuals and design sketches, screenshots are also up for download.-->
+    </td>
+  </tr>
+</table>
+</html>

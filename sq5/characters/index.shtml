@@ -1,0 +1,272 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 5 Characters</title>
+<STYLE TYPE="text/css">
+
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq5up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 5 Characters &gt; </strong>Roger meets a number of interesting 
+                characters in Space Quest 5. This page offers a description of 
+                the most important ones. You might not want to see the information 
+                below if you're new to the game.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq5down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> <!--#include virtual="../../navmenu/sq5menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq5between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Beatrice 
+              Creakworm Wankmeister</strong></font><font face="Arial, Helvetica, sans-serif" size="3" color="#CC0000"><br>
+              <img 
+src="bea.jpg" alt="Beatrice Wankmeister" width="90" height="90" align=left></font><font size="2" face="Arial, Helvetica, sans-serif">Rating: 
+              G6 Quadrant's Ambassador to the Star Confederacy<br>
+              Age: 29<br>
+              Personality profile: Striking looks, a keen intellect, and a strong 
+              personality have combined to make Beatrice Wankmeister one of the 
+              most effective negotiators in the history of the G6 Quadrant's diplomatic 
+              corps. An outspoken advocate on sentient species' rights and environmental 
+              issues, Beatrice's vigorous activities in these areas have led to 
+              several legislative measures and two stellar protocols, including 
+              one on hazardous waste disposal. Beatrice's natural inclination 
+              to speak her mind has been tempered, but not eliminated, by her 
+              years of service in the diplomatic corps. She has gone after the 
+              interstellar consortiums with dogged tenacity that, at times, bordered 
+              on the obsessive. Beatrice is currently single, having little time 
+              or interest for anything but her work.</font> </div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="3" face="Arial, Helvetica, sans-serif" color="#CC0000"><br>
+              <strong><font color="FFFFB1">Raems Tipper Quirk</font></strong><br>
+              <img 
+src="quirk.jpg" alt="Raems Tipper Quirk" width="85" height="95" align=left></font><font size="2" face="Arial, Helvetica, sans-serif">Rating: 
+              Captain, SCS Goliath<br>
+              Age: 38<br>
+              Personality profile: His physical image is flawless, the archetypal 
+              Fleet space hero, all good looks, perfect hair and teeth, solid 
+              muscle, a great uniform and stuff. Captain Quirk is an ambitious 
+              and opportunistic sycophant, slithering his way towards the upper 
+              echelons of the StarCon hierarchy. His dislike of Roger is immense. 
+              Captain Quirk's latest scheme for personal aggrandizement is a clandestine 
+              effort with the Genetix corporation to dump toxic wastes illegally 
+              on planets in the G6 quadrant. He also has designs on Ambassador 
+              Beatrice Wankmeister.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="3" face="Arial, Helvetica, sans-serif" color="#CC0000"><br>
+              <strong><font color="FFFFB1">Spike</font></strong><br>
+              <img 
+src="spike.jpg" alt="Spike" width="100" height="87" align=left></font><font size="2" face="Arial, Helvetica, sans-serif">Gosh, 
+              this thing is cute, a baby Facehugger! After trash pickup at Gangularis, 
+              Roger found this new friend in the Eureka's trash compartment. The 
+              creature attached itself to Roger's face, completing their introduction. 
+              Roger decided to keep the poor beast &quot;for further study&quot;. 
+              &quot;Crew, Spike will be a morale booster for all of us. A friend, 
+              Eureka's mascot... Uhhm, hello? Crew?&quot;</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"> <p align="justify"><font size="3" face="Arial, Helvetica, sans-serif" color="#CC0000"><br>
+              <strong><font color="FFFFB1">Florence Qwerty - &quot;Flo&quot;</font></strong><b><br>
+              <img 
+src="flo.jpg" alt="Flo" width="95" height="89" align=left></b></font><font face="Arial, Helvetica, sans-serif" size="2">Rating: 
+              Communications Specialist, Grade 4.<br>
+              Age: 40 something<br>
+              Personality profile: Flo is a highly skilled and effective communications 
+              officer - in the rare moments when the mood strikes her. She spends 
+              most of her time on the bridge reading glamour magazines and doing 
+              her nails. Flo has her own set of priorities and will not undertake 
+              any task she deems pointless or beneath her talents. Needless to 
+              say, this has led to a certain amount of friction with her superior 
+              officers in the past. Flo has a bit of difficulty maintaining long-term 
+              relationships with men, but it's not for lack of trying; her trail 
+              of ex-husbands stretches across the galaxy.</font></p></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="3" face="Arial, Helvetica, sans-serif" color="#CC0000"><br>
+              <strong><font color="FFFFB1">Clifford Clifton Crawford</font></strong><br>
+              </font><font face="Arial, Helvetica, sans-serif"><b><font size="3" color="#CC0000"><img 
+src="cliffy.jpg" alt="Cliffy" width="120" height="83" align=left></font></b><font size="2">Rating: 
+              Chief of the Boat, SCS Eureka. Chief engineering officer.<br>
+              Age: 51<br>
+              Personality profile: Known to all as &quot;Cliffy&quot; because 
+              of his hobby of attempting to climb nearly vertical mountains. He 
+              is, I am told, not terribly good at the skill; although well-practiced, 
+              his overabundant girth makes it impossible for him to see where 
+              to place his feet... Anyway, more at home with machines than people, 
+              Cliffy spends most of his time puttering about the nooks and crannies 
+              of the engineering section. He's the kind of guy who can fix a warp 
+              motivator with bailing wire and chewing gum, and still make it exceed 
+              rated output by 20%. Cliffy is extremely loyal to those few people 
+              he considers friends, but those who don't know him often find Cliffy 
+              bad-tempered and querulous.</font></font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif"><br>
+              <font size="3" color="FFFFB1"><strong>Droole</strong></font><br>
+              <img src="droole.jpg" alt="Droole" width="110" height="92" align="left"> 
+              <font size="2">Rating: Nav/weapons technician, second class.<br>
+              Age: 102<br>
+              Personality profile: This is Droole, the reddish-hued humanoid from 
+              the edge of the Gargoyle Cluster. He is a surly and sarcastic navigation/weapons 
+              officer with an itchy trigger finger. Given the chance, Droole will 
+              shoot first and ask questions later. His current posting to the 
+              Eureka is the result of an unfortunate incident involving an unarmed 
+              freighter and a defective com-link. Droole speaks little and says 
+              less, which is fine by me given the fact that he lives up to his 
+              name when he opens his mouth.</font></font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif"><br>
+              <font size="3" color="FFFFB1"><strong>WD40</strong></font><font size="3" color="#CC0000"><br>
+              </font><img src="wd40.gif" alt="WD40" width="120" height="74" border="0" align="left"> 
+              <font size="3" color="#CC0000"><a name="wd40"></a></font></font><font size="2" face="Arial, Helvetica, sans-serif">Yep, 
+              Roger thought it was all over with after he had that run in with 
+              Arnoid on the planet Phleebhut a few years back. This is WD40, sent 
+              after Roger by the Gippazoid Novelty Company for his mailfraud back 
+              in Space Quest 2... WD-40 calls itself a goddess-class Wonderwoman 
+              Droid with a low serial number. But in fact, the womanoid is a DeathStalker 
+              Mark VI Annihilator android from the planet Oakhurst IV. These units 
+              are reported to have a 99.99% kill efficiency. Nonetheless, Roger 
+              managed to disable it somehow. Cliffy reprogrammed her to serve 
+              as a member of the Eureka's crew. WD40 is both cool and efficient, 
+              maintaining a cybernetic aloofness no matter how tense the situation 
+              may be.</font></div></td>
+        </tr>
+        <tr> 
+          <td height="119" align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif"><br>
+              <font size="3" color="FFFFB1"><strong>&quot;Maggot&quot;</strong></font><font size="3" color="#CC0000"><br>
+              </font><img src="maggot.gif" alt="Maggot" width="120" height="79" border="0" align="left"><font size="2"> 
+              His real name is unknown. It is said that this person works for 
+              the secret Genetix company. Visitors of the Space Bar claimed to 
+              have seen him with Captain Quirk from the SCS Goliath in more than 
+              one occasion. The Eureka has intercepted a transmission of this 
+              person once. There are rumors this guy is a member of the so-called 
+              &quot;Sludge Bandits&quot;, but The Truth Is Still Out There&#153;.</font></font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="#CC0000"><br>
+              <strong><font color="FFFFB1">Proctormatic 9000 Anticheat droid</font></strong></font><font face="Arial, Helvetica, sans-serif"><br>
+              <img src="anticheatdroid.gif" alt="Proctormatic 9000 Anticheat droid" width="100" height="110" align="left"> 
+              <font size="2">A round, metallic, floating enforcer and executioner 
+              rented especially for the StarCon Aptitude Test. So important are 
+              the SAT's to StarCon, that any cheating - or suspected cheating 
+              - is punishable by immediate incineration. The Proctormatic 9000 
+              finds their victims via line-of-sight; it's not terribly efficient, 
+              but does keep their prices way down. As long as the droid can't 
+              see you, you're OK. It's not that StarCon disapproves of cheating, 
+              it's just that the policy is that there is no room in the Fleet 
+              for officers who actually get caught.</font></font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="#CC0000"><br>
+              <strong><font color="FFFFB1">Harry Kerry</font></strong></font> 
+              <font size="2" face="Arial, Helvetica, sans-serif">(currently undergoing 
+              personal construction)</font><font face="Arial, Helvetica, sans-serif"><br>
+              <img src="harrykerry.jpg" alt="Harry Kerry" width="95" height="85" align="left"> 
+              <font size="2">Colony administrator of Klorox II.</font></font></div></td>
+        </tr>
+      </table> </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

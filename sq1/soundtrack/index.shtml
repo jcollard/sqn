@@ -1,0 +1,264 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 1 Soundtrack</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center"> <a name="top"></a>
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq1up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 1 Soundtrack &gt; </strong>On this page you'll find the 
+                complete Space Quest 1 soundtrack. All the songs are recorded 
+                from the Roland MT32, except the sond with a star (*): these are 
+                recorded using General Midi.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq1down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../../navmenu/sq1menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq1between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td valign="top"><p align="justify"><font color="ffffb1" size="3" face="Arial, Helvetica, sans-serif"><strong>Space 
+              Quest 1 Soundtrack<br>
+              </strong></font><font size="2" face="Arial, Helvetica, sans-serif">As 
+              an avid Space Quest 1 EGA player, I always thought playing the VGA 
+              version wasn't all that much fun. Later I realized that I wasn't 
+              giving the remake enough attention to see that it too had its good 
+              points. One of the things I liked about Space Quest 1 VGA right 
+              from the start was the music made by Ken Allen, Mark Seibert and 
+              Orpeus Hanley. It's without a doubt the one thing that boosts the 
+              remake. </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">This 
+              is the most complete Space Quest 1 VGA soundtrack ever done. It 
+              has been recorded and edited by Alistair Gillett and Brandon Blume, 
+              and I owe them my ever lasting gratitude for creating this soundtrack 
+              for my site. If you don't know where to start, may I recommend the 
+              <a href="SQ1_26-%20Rocket%20Bar%20Theme%203-%20Madonna.mp3">SQ1_26- 
+              Rocket Bar Theme 3- Madonna</a> <font color="#CC0000">(1,6 MB)</font> 
+              to you? Comes complete with her &quot;beautiful&quot; voice.</font></p>
+            <p align="left"><font size="2" face="Arial, Helvetica, sans-serif"><a href="SQ1_01-%20Introduction.mp3">SQ1_01- 
+              Introduction</a> <font color="#CC0000">(2,1 MB)</font> 2 minutes 
+              and 21 seconds<br>
+              <a href="SQ1_02-%20The%20Deltaur%20Intercepts.mp3">SQ1_02- The Deltaur 
+              Intercepts</a> <font color="#CC0000">(940 KB)</font> 1 minute<br>
+              <a href="SQ1_03-%20Arcada%20Hallways.mp3">SQ1_03- Arcada Hallways</a> 
+              <font color="#CC0000">(2,2 MB)</font> 2 minutes and 28 seconds *<br>
+              <a href="SQ1_04-%20The%20Lab%20Scientist.mp3">SQ1_04- The Lab Scientist</a> 
+              <font color="#CC0000">(1,4 MB)</font> 1 minute and 37 seconds<br>
+              <a href="SQ1_05-%20The%20Star%20Generator%20Development%20Laboratory.mp3">SQ1_05- 
+              The Star Generator Development Laboratory</a> <font color="#CC0000">(684 
+              KB)</font> 43 seconds<br>
+              <a href="SQ1_06-%20Arcada%20Lower%20Levels.mp3">SQ1_06- Arcada Lower 
+              Levels</a> <font color="#CC0000">(696 KB)</font> 44 seconds *<br>
+              <a href="SQ1_07-%20Arcada%20Airlock.mp3">SQ1_07- Arcada Airlock</a> 
+              <font color="#CC0000">(476 KB)</font> 30 seconds<br>
+              <a href="SQ1_08-%20Countdown%20(Roger%20Dies%201).mp3">SQ1_08- Countdown! 
+              (Roger Dies 1)</a> <font color="#CC0000">(792 KB)</font> 49 seconds<br>
+              <a href="SQ1_09-%20Thrusting%20Through%20Space.mp3">SQ1_09- Thrusting 
+              Through Space</a> <font color="#CC0000">(716 KB)</font> 45 seconds<br>
+              <a href="SQ1_10-%20This%20Button%20Is%20Not%20To%20Be%20Pushed%20At%20Anytime%20(Roger%20Dies%202).mp3">SQ1_10- 
+              This Button Is Not To Be Pushed At Anytime (Roger Dies 2)</a><font color="#CC0000"> 
+              (892 KB)</font> 57 seconds<br>
+              <a href="SQ1_11-%20The%20Autonav%20Button.mp3">SQ1_11- The Autonav 
+              Button</a> <font color="#CC0000">(1 MB)</font> 1 minute and 11 seconds<br>
+              <a href="SQ1_12-%20Skeleton%20Remains.mp3">SQ1_12- Skeleton Remains</a> 
+              <font color="#CC0000">(2 MB)</font> 2 minutes and 15 seconds<br>
+              <a href="SQ1_13-%20Underground%20Cave.mp3">SQ1_13- Underground Cave</a> 
+              <font color="#CC0000">(2,3 MB)</font> 2 minutes and 33 seconds<br>
+              <a href="SQ1_14-%20Two%20Guys%20Commentary%20(Roger%20Dies%204).mp3">SQ1_14- 
+              Two Guys Commentary (Roger Dies 4)</a> <font color="#CC0000">(1,8 
+              MB)</font> 1 minute and 59 seconds<br>
+              <a href="SQ1_15-%20Hologram%20(Bad%20Translation).mp3">SQ1_15- Hologram 
+              (Bad Translation)</a> <font color="#CC0000">(1,7 MB)</font> 1 minute 
+              and 51 seconds<br>
+              <a href="SQ1_16-%20Sarien%20Spider%20Droid.mp3">SQ1_16- Sarien Spider 
+              Droid</a> <font color="#CC0000">(552 KB)</font> 35 seconds<br>
+              <a href="SQ1_17-%20Orat%27s%20Cave.mp3">SQ1_17- Orat's Cave</a> 
+              <font color="#CC0000">(852 KB)</font> 55 seconds<br>
+              <a href="SQ1_18-%20Hologram%20Part%202%20(Proving%20Orat%27s%20Death).mp3">SQ1_18- 
+              Hologram Part 2 (Proving Orat's Death)</a> <font color="#CC0000">(2,4 
+              MB)</font> 2 minutes 39 seconds <br>
+              <a href="SQ1_19-%20Keronian%20Leader.mp3">SQ1_19- Keronian Leader</a> 
+              <font color="#CC0000">(1,3 MB)</font> 1 minute and 39 seconds<br>
+              <a href="SQ1_20-%20The%20Data%20Cartridge.mp3">SQ1_20- The Data 
+              Cartridge</a> <font color="#CC0000">(2,1 MB)</font> 2 minutes and 
+              20 seconds<br>
+              <a href="SQ1_21-%20Skimmer%20Theme.mp3">SQ1_21- Skimmer Theme</a> 
+              <font color="#CC0000">(1,5 MB)</font> 1 minute and 39 seconds *<br>
+              <a href="SQ1_22-%20Ulence%20Flats.mp3">SQ1_22- Ulence Flats</a> 
+              <font color="#CC0000">(460 KB)</font> 29 seconds<br>
+              <a href="SQ1_23-%20A%20Business%20Proposition.mp3">SQ1_23- A Business 
+              Proposition</a> <font color="#CC0000">(1,3 MB)</font> 1 minute and 
+              28 seconds<br>
+              <a href="SQ1_24-%20Rocket%20Bar%20Theme%201-%20ZZ%20Top.mp3">SQ1_24- 
+              Rocket Bar Theme 1- ZZ Top</a> <font color="#CC0000">(1,6 MB)</font> 
+              1 minute 49 seconds *<br>
+              <a href="SQ1_25-%20Rocket%20Bar%20Theme%202-%20The%20Blues%20Brothers.mp3">SQ1_25- 
+              Rocket Bar Theme 2- The Blues Brothers</a> <font color="#CC0000">(1,9 
+              MB)</font> 2 minutes and 8 seconds<br>
+              <a href="SQ1_26-%20Rocket%20Bar%20Theme%203-%20Madonna.mp3">SQ1_26- 
+              Rocket Bar Theme 3- Madonna</a> <font color="#CC0000">(1,6 MB)</font> 
+              1 minute 46 seconds<br>
+              <a href="SQ1_27-%20Droids%20B%20Us.mp3">SQ1_27- Droids B Us</a> 
+              <font color="#CC0000">(1,4 MB)</font> 1 minute and 32 seconds<br>
+              <a href="SQ1_28-%20Tiny%27s%20Used%20Spaceships.mp3">SQ1_28- Tiny's 
+              Used Spaceships</a> <font color="#CC0000">(1,8 MB)</font> 2 minutes 
+              and 3 seconds<br>
+              <a href="SQ1_29-%20SQ4%20Timepod%20Appearance.mp3">SQ1_29- SQ4 Timepod 
+              Appearance</a> <font color="#CC0000">(1,6 MB)</font> 1 minute and 
+              49 seconds<br>
+              <a href="SQ1_30-%20Asteroid%20Belt.mp3">SQ1_30- Asteroid Belt</a> 
+              <font color="#CC0000">(728 KB)</font> 46 seconds<br>
+              <a href="SQ1_31-%20The%20Deltaur.mp3">SQ1_31- The Deltaur</a> <font color="#CC0000">(788 
+              KB)</font> 50 seconds<br>
+              <a href="SQ1_32-%20Outside%20The%20Deltaur.mp3">SQ1_32- Outside 
+              The Deltaur</a> <font color="#CC0000">(772 KB)</font> 49 seconds<br>
+              <a href="SQ1_33-%20Deltaur%20Airlock.mp3">SQ1_33- Deltaur Airlock</a> 
+              <font color="#CC0000">(1 MB)</font> 1 minute and 6 seconds<br>
+              <a href="SQ1_34-%20The%20Mystery%20Box%20Ride.mp3">SQ1_34- The Mystery 
+              Box Ride</a> <font color="#CC0000">(976 KB)</font> 1 minute and 
+              2 seconds<br>
+              <a href="SQ1_35-%20Deltaur%20Hallways.mp3">SQ1_35- Deltaur Hallways</a> 
+              <font color="#CC0000">(1,1 MB)</font> 1 minute and 10 seconds<br>
+              <a href="SQ1_36-%20Closing%20Theme.mp3">SQ1_36- Closing Theme</a> 
+              <font color="#CC0000">(3,8 MB)</font> 4 minutes and 15 seconds</font></p>
+            <p align="left"><font size="2" face="Arial, Helvetica, sans-serif">As 
+              a bonus I've added 10 extra tracks for you to enjoy. Although they 
+              aren't exactly songs, you can't afford to miss them. Also, I've 
+              included a special version of the Rocket Bar Theme with ZZ Top, 
+              done by Brandon Blume!</font></p>
+            <p align="left"><font size="2" face="Arial, Helvetica, sans-serif"><a href="SQ1_bonus1-%20Leaving%20The%20Arcada.mp3">SQ1_bonus1- 
+              Leaving The Arcada</a> <font color="#CC0000">(338 KB)</font> 24 
+              seconds<br>
+              <a href="SQ1_bonus2-%20Touching%20Down%20On%20Kerona.mp3">SQ1_bonus2- 
+              Touching Down On Kerona</a> <font color="#CC0000">(208 KB)</font> 
+              13 seconds<br>
+              <a href="SQ1_bonus3-%20The%20Elevator%20Ride.mp3">SQ1_bonus3- The 
+              Elevator Ride</a> <font color="#CC0000">(340 KB)</font> 21 seconds<br>
+              <a href="SQ1_bonus4-%20Acid%20Pool.mp3">SQ1_bonus4- Acid Pool</a> 
+              <font color="#CC0000">(180 KB)</font> 11 seconds<br>
+              <a href="SQ1_bonus5-%20A%20Big%20Rock%20(Roger%20Dies%205).mp3">SQ1_bonus5- 
+              A Big Rock (Roger Dies 5)</a> <font color="#CC0000">(240 KB)</font> 
+              15 seconds<br>
+              <a href="SQ1_bonus6-%20Slots%20O%20Death%20(Roger%20Dies%206).mp3">SQ1_bonus6- 
+              Slots O Death (Roger Dies 6)</a> <font color="#CC0000">(672 KB)</font> 
+              42 seconds<br>
+              <a href="SQ1_bonus7-%20The%20Fire%20Droid.mp3">SQ1_bonus7- The Fire 
+              Droid</a> <font color="#CC0000">(308 KB)</font> 19 seconds<br>
+              <a href="SQ1_bonus8-%20Deltaur%20Ventilation%20System.mp3">SQ1_bonus8- 
+              Deltaur Ventilation System</a> <font color="#CC0000">(344 KB)</font> 
+              21 seconds<br>
+              <a href="SQ1_bonus9%20The%20Weapons%20Droid.mp3">SQ1_bonus9 The 
+              Weapons Droid</a> <font color="#CC0000">(264 KB)</font> 16 seconds<br>
+              <a href="SQ1_bonus10-%20Stolen%20Star%20Generator.mp3">SQ1_bonus10- 
+              Stolen Star Generator</a> <font color="#CC0000">(280 KB)</font> 
+              17 seconds<br>
+              <a href="SQ1_24B-%20Rocket%20Bar%20Theme%201-%20ZZ%20Top%20(Studio%20Version).mp3"><br>
+              SQ1_24B- Rocket Bar Them 1- ZZ Top (Studio Version)</a> <font color="#CC0000">(1,3 
+              MB)</font> 1 minute and 25 seconds</font></p>
+            <p align="left"><font size="2" face="Arial, Helvetica, sans-serif">Total 
+              file size: 54,5 MB</font></p></td>
+        </tr>
+      </table> </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

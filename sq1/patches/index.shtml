@@ -1,0 +1,171 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 1 Patches</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center"> <a name="top"></a>
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq1up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 1 Patches &gt; </strong>This chapter contains software to 
+                repair or update your game. It also contains a fix to solve the 
+                timer problems!</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq1down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../../navmenu/sq1menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq1between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td valign="top"><p align="justify"><font color="ffffb1" size="3" face="Arial, Helvetica, sans-serif"><strong> 
+              Space Quest 1 Patches</strong></font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Please 
+              note that you might not need the error 29 and scidhuv patch if you 
+              aren't experiencing the problems described with the patch. Remember 
+              the golden rule: don't fix something that ain't broken.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><a href="../../downloads/sq1vgadrivers.zip">Space 
+              Quest 1 VGA enhanced sound and graphic drivers</a><font color="#CC0000"> 
+              (12 KB)</font><br>
+              This ZIP file includes a graphic driver and two sound drivers for 
+              Space Quest 1 VGA. Just replace these files with the original files 
+              (located on your harddisk SQ1VGA folder) to make them work. The 
+              graphic driver enables you to see the original dissolve transitions: 
+              the effect you see at the beginning of the game when the Sierra 
+              screen &quot;pixelates&quot; away and the SQ1 title screen &quot;pixelates&quot; 
+              in. The original file that comes with the game doesn't show this 
+              effect on fast computers. Also included are two improved sound drivers. 
+              You'll need these sound drivers if you, for instance, can't hear 
+              the computer saying: &quot;destruct sequence has engaged&quot; at 
+              the beginning of the game. There are actually quite a few more digitalized 
+              sound in SQ1VGA, but this one is the most apparent.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><a href="../../downloads/486SBDRV.EXE">Space 
+              Quest 1 VGA error 29 patch</a> <font color="#CC0000">(32 KB)</font><br>
+              This is the 486sbdrv.exe patch which corrects the &quot;Error 29: 
+              Unable to initialize audio hardware&quot;. Updated driver works 
+              with faster systems using the SoundBlaster 16.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><a href="../../downloads/sq1rlx.exe">Space 
+              Quest 1 VGA SCIDHUV patch</a></font><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif"> 
+              (72 KB)</font><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              This patch will update your SCIDHUV file from SQ1VGA which should 
+              give you enough memory to run the program with a mouse driver installed.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><a href="../../misc/timerissues/index.shtml">Timer 
+              Problem Patch</a><br>
+              Space Quest 1 VGA has several timer issues that occur if you play 
+              the game on a fast computer (150 Mhz +). Various animations run 
+              too fast, the spirder droid comes too fast, you die from dehydration 
+              within the minute and the acid drops drop too fast. To fix all this, 
+              check out my very complete Timer Issue article by clicking on the 
+              link above. The article contains links to programs, utilities, fixes, 
+              patches and tips you can use to fix the timer problems! For starters, 
+              check out <a href="http://geocities.com/belzorash/" target="_blank">this 
+              webpage</a>. New Rising Sun has developed some awesome fixes that 
+              COMPLETELY ELIMINATE the timer problems. The website includes enough 
+              information how to install the patches correctly. These patched 
+              are HIGHLY recommended and preferred in favour of slow down utilities 
+              and emulators.</font></p>
+            <p align="justify"><font color="#000000" size="2" face="Arial, Helvetica, sans-serif">__</font></p>
+            </td>
+        </tr>
+      </table> </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

@@ -1,0 +1,308 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - The Richard Powell Interview</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../tabs/infobox.gif"><img src="sq7up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>The 
+                Richard Powell Interview &gt; </strong> </font><font size="2" face="Arial, Helvetica, sans-serif"> 
+                <font size="2" face="Arial, Helvetica, sans-serif"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">As 
+                part of the 5th Anniversary updates, I interviewed Richard Powell 
+                who was concept artist of the cancelled Space Quest 7 project.</font></font></font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="sq7down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../navmenu/sq7menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../navmenu/lineleftgreyright.jpg"><img src="sq7between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../navmenu/topblack.gif" width="100%" height="20"><br> 
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td colspan="2" valign="top"> <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>The 
+              Richard Powell Interview</strong></font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              Somewhere in August 2003, I tried to contact Richard Powell, who 
+              worked on the cancelled Space Quest 7 project as concept artist. 
+              I asked him if he had some Space Quest 7 stuff laying around at 
+              home. To my surprise, Rich replied and the next two months he and 
+              I frequently exchanged mails which ultimately lead to this terrific 
+              interview. It was conducted on September 22, 2003.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Before 
+              you read these interview, please look at <a href="sq7sketches/index.shtml">the 
+              Design Sketches</a> first.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><img src="../extraimages/line.gif" width="100%" height="3"></font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Can 
+              you tell us anything about yourself Mr Powell?</font></p>
+            <div align="justify"> </div>
+            <blockquote>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">I 
+                live in North Fork, the exact center of California. I freelanced 
+                from my home for the past few years but recently took a job as 
+                Art Director for a startup game company located in....drum roll 
+                please.....the old Sierra On-Line building! Can't seem to get 
+                away.</font></p>
+              <p align="justify">&nbsp;</p>
+            </blockquote>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Do 
+              you have any hobbies?</font></p>
+            <blockquote> 
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+                Well....drawing for one. I also have been spending quite a bit 
+                of time painting. I recently had a show of my work at <a href="http://www.galwest.com" target="_blank">William's 
+                Gallery West</a> that consisted of paintings of Tin Toys. I also 
+                showed a bunch of drawings and cartoons there.</font></p>
+            </blockquote>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Wife/kids/grandma/dog?</font></p>
+            <div align="justify"> </div>
+            <blockquote> 
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+                Wife: Frankie (an artist also)<br>
+                Daughter: Bailey<br>
+                Dogs: Otis and Jack<br>
+                Cats: Willy and Ringo<br>
+                Water Buffalo: Arthur</font></p>
+            </blockquote>
+            <p align="justify">&nbsp; </p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Can 
+              you tell us how you got stranded with Sierra?</font></p>
+            <div align="justify"> </div>
+            <blockquote>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">I 
+                started as an Amiga Conversion Artist at Sierra in 1990. I had 
+                recently graduated from California State University at Hayward 
+                with a degree in fine art. My portfolio consisted of angst ridden 
+                collages and rude cartoons. The only reason I got the job was 
+                because the Art Director (Bill Davis) was a Dylan fan and I happened 
+                to have a Bob Dylan portrait in my portfolio. My lovely wife got 
+                stuck there too. We'd met in college and were engaged to be married 
+                when we started at Sierra. </font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Frankie 
+                left Sierra when Bailey was born (1995) and I stuck around for 
+                a few more years, working my way into the marketing department. 
+                When they closed their doors in Oakhurst, I stole a bunch of art 
+                supplies and holed up in my cabin with large caliber weaponry. 
+                </font></p>
+            </blockquote>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif"><img src="powell_guitar.jpg" alt="Richard Powell looking smart" width="150" height="123" align="right">Mr 
+              Powell, you worked on the cancelled Space Quest 7 project as character 
+              designer. You've generously supplied <img src="../extraimages/sqnet.gif" width="87" height="11"> 
+              with awesome looking sketches you made for the long-cancelled project. 
+              Some of them are rather.... Odd. Can you tell us, in your expert 
+              opinion, do you have an obsession for boobs and *cough* hookers 
+              *cough*?</font></p>
+            <div align="justify"> </div>
+            <blockquote> 
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+                What's odd about boobs? Look around, there are boobs everywhere. 
+                They usually come in pairs. Hookers, on the other hand are loners 
+                I think. You'd have to ask Scott or Leslie what they had planned 
+                for Roger in the Land of Space Hookers. I just draw 'em as I see 
+                'em. </font></p>
+            </blockquote>
+            <p align="justify">&nbsp; </p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">How 
+              long did you work on the project? </font></p>
+            <div align="justify"> </div>
+            <blockquote> 
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">About 
+                6 months, at night. Late. Way past my bedtime. Under the influence.</font></p>
+            </blockquote>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif"> 
+              How much work were you able to produce for the project? </font></p>
+            <div align="justify"> </div>
+            <blockquote> 
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">I 
+                basically did all the concept art for the project. There were 
+                a few 3D renders done by Tim Loucks I believe (Sheriff Robo, The 
+                Robo-Dog, a trailer). He works with me now, by the way.</font></p>
+            </blockquote>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif"> 
+              Your &quot;Scrubbing Bubble&quot; sketch was previously known around 
+              the Space Quest Universe as a character named &quot;Dougie&quot;. 
+              Can you tell us anything about this creature? </font></p>
+            <div align="justify"> </div>
+            <blockquote> 
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Not 
+                really, he was just an alien I came up with. I think Leslie just 
+                named him Dougie in the interview and things grew from there. 
+                Sometimes a game design develops with the help of visuals provided 
+                by the artist and often things that begin as jokes end up in the 
+                design too.</font></p>
+              <p align="justify">&nbsp;</p>
+            </blockquote>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">How 
+              come this image is out in the open for all this time, and the others 
+              design sketches are not? Did the project release this image as eye 
+              candy for the fans?</font></p>
+            <div align="justify"> 
+              <blockquote>&nbsp; </blockquote>
+            </div>
+            <blockquote> 
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">I 
+                think we wanted to send you guys something for your websites and 
+                soon after the whole thing got axed! I gathered up my sketches 
+                and moved on to another projects. The sketchbooks have been residing 
+                in my files ever since. </font></p>
+            </blockquote>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif"> 
+              <img src="robointerview.jpg" alt="The Gelder 5000 Robo-Pup" width="125" height="125" align="right">One 
+              sketch is labeled &quot;The Gelder 5000 Robo-Pup&quot;. It reminds 
+              me of that &quot;Tom and Jerry set in outer space&quot; cartoon 
+              in which a metal robot dog hunts Tom. It looks just like your sketch, 
+              wheels included.</font></p>
+            <div align="justify"> </div>
+            <blockquote> 
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">I 
+                watched a LOT of cartoons as a kid. They're in my psyche and occasionally 
+                find their way out.</font></p>
+            </blockquote>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Do 
+              you think Sierra made the right decision to scrap Space Quest 7? 
+              Or was it a necessity evil?</font></p>
+            <div align="justify"> </div>
+            <blockquote> 
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">No, 
+                it was based on a stupid marketing decision. The Marketing Experts 
+                convinced them it wouldn't sell based on the sales of 6. I think 
+                the awful box cover art for 6 scared away sales! I was certainly 
+                disappointed when it was cancelled, I love working on Sci Fi.</font></p>
+              <p align="justify">&nbsp;</p>
+            </blockquote>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">It's 
+              a known fact that King Graham cross dresses. What about you, Rich? 
+              </font></p>
+            <div align="justify"> </div>
+            <blockquote> 
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">I'm 
+                an ex-Marine. I've killed people for suggesting less.</font></p>
+              <p align="justify">&nbsp;</p>
+            </blockquote>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif"><img src="rich.jpg" alt="It's him: Da Rich!" width="125" height="195" align="left">What 
+              do you think about the SQ7 fanproject that is currently in production 
+              with Josh Mandel as Head Writer?</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">I 
+              like everything that Josh does, especially his desserts. Josh and 
+              I seem to gravitate towards one another. One of these days one of 
+              our projects is going to make us rich!</font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Any 
+              last words for the fans out there, Mr Powell? </font></p>
+            <div align="justify"> </div>
+            <blockquote> 
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Thanks 
+                for keeping the faith in a great Series. I miss talking to Scott 
+                but was never close to Al.</font></p>
+            </blockquote>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Yikes....</font></p></td>
+        </tr>
+      </table>
+      
+    </td>
+    <td width="25" valign="top" background="../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

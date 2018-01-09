@@ -1,0 +1,262 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 6  Fun Facts</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq6up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 6 Fun Facts &gt; </strong> This page contains everything 
+                you wanted to know about Space Quest 6 and then some!</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq6down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> <!--#include virtual="../../navmenu/sq6menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq6between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td valign="top"><p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Space 
+              Quest 6 Fun Facts<font size="2"><br>
+              </font></strong></font><font size="2" face="Arial, Helvetica, sans-serif">Josh 
+              originally wanted to call the SQ6 documentation &quot;Janitalia: 
+              The Magazine of Space Janitors&quot;, but management wouldn't let 
+              him, so it was changed to &quot;Popular Janitronics&quot;. In the 
+              words of Leslie Balfour, &quot;Josh is a very bad lad&quot;.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              music played in Sharpei's Quarters is the exact same music played 
+              whenever the evil genie appears in King's Quest 6.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">In 
+              the basement of Orion's Belt, to the far left there's a spider on 
+              one of the pipes in the foreground. Click the HAND-icon on it. It 
+              will fall screaming to the floor. This can only be done ONCE per 
+              game.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">When 
+              the game was in development (and Josh Mandel was still on the project), 
+              the Marketing Director was a bit concerned about the DeepShip 86 
+              being formed as a jockstrap. He tried to get Josh and Scott to turn 
+              it into a &quot;normal&quot; ship, but they ignored him. Then, when 
+              the first advertisement for SQ6 comes out, what picture did they 
+              use? The DeepShip jockstrap! </font></p>
+            <p align="justify"><font color="#CC0000" size="3" face="Arial, Helvetica, sans-serif"><img src="lslbfd.jpg" alt="Deepship insignia" width="100" height="87" align="left"></font><font size="2" face="Arial, Helvetica, sans-serif">The 
+              insignia of the DeepShip 86 reads &quot;DEEPSHIP 86&quot;, and below 
+              that in small types, &quot;LSL6 BFD&quot;. The latter part means 
+              &quot;Leisure Suit Larry 6: Big Fucking Deal&quot;. </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">One 
+              of the random exit-messages of the Windows version is &quot;Aren't 
+              you glad your middle name isn't Lawrence?&quot; This is actually 
+              a poke at designer Josh Mandel, inserted by a programmer, whose 
+              name currently remains unknown. The reason: Josh's middle name is 
+              Lawrence. </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              only replicator code, that produces a response, is the Bjorn Chow 
+              code from the Space Quest 6 demo. (Number 7469410)</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">To 
+              the joy of many Space Quest fans, Gary Owens was once again contracted 
+              to do the voice acting of the game's narrater after having done 
+              a great job on it for Space Quest 4. </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Scott 
+              has a short argument with the &quot;director&quot; of Space Quest 
+              6 in the game. The argument can be found in the contractor's office 
+              in cyberspace. BEFORE taking the number card, look at them. It doesn't 
+              work AFTER you've taken the card. Scott says: &quot;I also played 
+              myself in a brief discussion/argument between the director (played 
+              by William Hall) and the writer (me). I even (lamely) did my lines 
+              in French and German for the dubbed versions. (Ugh.) To those of 
+              you who speak either of these language, I apologize for it.&quot;</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              In the bridge section of dialogue, there&#8217;s a tiny bit where 
+              Roger&#8217;s voice actor (out of character) mumbles something about 
+              messing a line up and wanting to try it again. It&#8217;s not a 
+              real knee-slapping blooper, but it&#8217;s amusing nonetheless. 
+              </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">There&#8217;s 
+              a fairly humourous line in the Cyberspace office that must be a 
+              result of &#8220;interacting&#8221; with one of the deceased people 
+              in some way, though it doesn&#8217;t seem to show up in the actual 
+              game. The Narrator says: &#8220;Guess this guy never quite recovered 
+              from KQ7. He&#8217;s getting a bit moldy&#8230;&#8221;</font> </p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Scott 
+              Murphy and Josh Mandel </strong><font color="547ED9" size="2">- 
+              The Andromeda Slip Up</font></font><font color="#CC0000" size="3" face="Arial, Helvetica, sans-serif"><font size="2"><br>
+              </font></font><font size="2" face="Arial, Helvetica, sans-serif">Josh 
+              Mandel was the original designer of Space Quest 6, but when the 
+              game was nearing completion he had to leave the project because 
+              of management problems. Scott Murphy took over from where Josh had 
+              stopped. This had several major influences on the project as a whole:</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Some 
+              game's puzzles were extremely hard to figure out. For instance the 
+              Inner Body part of the game was extremely hard and obsecure. Josh 
+              did an enormous amount of research for it. But when Scott took over 
+              as designer, he didn't placed the much-needed hints into the game 
+              that Josh had in mind. This certainly explains the impossible complexity 
+              of the tiny time pills for instance.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              marketing guys market the games as a &quot;Scott Murphy solo job&quot; 
+              (as can be seen on the rear box). As Scott Murphy himself tells 
+              us: &quot;The 'solo job' thing I honestly had no clue about until 
+              I got my packaged copy of the game.&quot; Also, the Popular Janitronics 
+              documentation that came with the game only gave Josh writer credits 
+              when in fact he had designed the whole game.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Josh 
+              Mandel explains the copyright protection: &quot;It was designed 
+              to be present on one of the disks in Singent and Nigel's place, 
+              paired with a wonderful comic strip that I still hope to include 
+              in an SQ game some day. The only reason it wasn't is that Scott 
+              didn't understand the function of the comic strip and let that part 
+              of the design slide. It was in a conversation I had with him a few 
+              weeks before the game was due to be finalized, in which I asked 
+              him how the comic was coming along, and he said they'd never gotten 
+              around to it. I asked him how anyone was going to know how to solve 
+              the Datacorder puzzle, and he yelped, &quot;$h-t! Is THAT what that 
+              was for?&quot; They hurriedly got it into the documentation. If 
+              it hadn't been for that phone call, there wouldn't have been any 
+              clues at all. So once it appeared in the documentation, people kinda 
+              assumed it was copy protection. It wasn't. But that might not have 
+              stopped Sierra from TELLING people it was, just to be contrary.&quot; 
+              A funny note: Sierra didn't supply the Datacorder puzzle answers 
+              in some versions of the game, which pushed Sierra to release the 
+              &quot;copyright protection&quot; after many people complained they 
+              couldn't solve it.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Josh 
+              Mandel wrote Doctor Beleauxs' office, the Ascend-o-Pad (which actually 
+              has an overflooding of messages) and the entire DeepShip. One of 
+              Josh's favourite hobbies is to write those small humerous messages 
+              and if you look carefully, roughly all these scenes have different 
+              messages to all the icons. The rest of the game (with a few minor 
+              exceptions) was written by Scott Murphy and it's clear that he isn't 
+              very big on writing those messages. While on the subject, here's 
+              a fun fact: Josh's game, &quot;Callahan's Cross Time Saloon&quot; 
+              (Legend Entertainment) is about the size of a 1000 page novel. And 
+              that's dialogue ALONE, narration messages unaccounted for. Auch! 
+              </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Beatrice 
+              Wankmeister was originally supposed to have a minor role in Space 
+              Quest 6, which involved a quick conversation between her and Roger. 
+              When Scott Murphy took over the project, he left that scene out, 
+              partly because both him and Josh felt, that this whole Beatrice-thing 
+              had taken a turn for the worse. </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              ending for SQ6 was originally supposed to have been entirely different. 
+              It involved the beaches of Polysorbate LX with Stellar and Roger 
+              riding on the back of a gigantic horseosaurus, in a sort of romantic 
+              setting. They come across a statue, which indicates that Polysorbate 
+              LX is much more than meets the eye. For it quite clearly resembles.... 
+              Well, actually, that's the reason why it's not in the game. Josh 
+              and Scott couldn't decide what it should resemble. </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">And 
+              last but not least: Scott Murphy made a colourful statement in a 
+              message board years ago: &quot;Scott (that being me) didn't understand 
+              A LOT about Space Quest 6 and STILL doesn't. That's a game that 
+              should have been aborted when Josh left. I am about as far from 
+              proud as someone can be about their work where Space Quest 6 is 
+              concerned. The way it's appearing to me from what I'm hearing from 
+              others, I should've called it a career after Space Quest 3! Someone 
+              just shoot me PLEASE!!! I would but I don't have a gun handy. Email 
+              me and I'll be glad to provide directions to anyone who does!&quot;</font></p>
+            <p align="justify"><font color="#000000" size="2" face="Arial, Helvetica, sans-serif">____</font></p>
+            </td>
+        </tr>
+      </table> </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

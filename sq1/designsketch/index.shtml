@@ -1,0 +1,214 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 1 Design Sketches</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center"> <a name="top"></a>
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq1up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 1 Design Sketches &gt; </strong> SpaceQuest.Net is proud 
+                to offer you exclusive Space Quest 1 Design Sketches.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq1down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../../navmenu/sq1menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq1between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td valign="top"><p align="justify"><font color="ffffb1" size="3" face="Arial, Helvetica, sans-serif"><strong>Space 
+              Quest 1 </strong></font><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Design 
+              Sketches <font size="2"><br>
+              </font></strong></font><font size="2" face="Arial, Helvetica, sans-serif"><img 
+src="designer.jpg" align=left width="150" height="119" alt="Douglas Herring at work">It 
+              was September 1990 when Sierra released the much-critized Space 
+              Quest 1 VGA remake. It featured greatly increased colour and resolution 
+              capabilities as Sierra tried to meet the demand of enhanced expectations 
+              of the game players. The images of Space Quest 1 therefore needed 
+              to be more dynamic and effective than ever before. Instead of using 
+              16 colours, as was the case in the original game, Space Quest 1 
+              VGA was going to use handpainted graphics. The method of creating 
+              these graphics couldn't be more different compared to the original 
+              release. Every character, screen and object was sketched. Sometimes, 
+              the designers sketched multiple versions of something and ultimately 
+              it was decided which version would make it into the actual game. 
+              Litterally hundreds of sketches were made during production of the 
+              remake. <img src="../../extraimages/sqnet.gif" alt="SpaceQuest.Net" width="87" height="11"> 
+              has managed to dig up a few for your enjoyment.</font></p>
+            <p align="left"><img src="../../extraimages/line.gif" width="100%" height="3"></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">An 
+              early sketch of Roger getting in over his head as usual.<br>
+              <a href="rogerfalling.html" onClick="NewWindow(this.href,'popup','600','257','no');return false;">Roger 
+              Wilco</a> <font color="#CC0000">(28 KB)<br>
+              </font> <a href="roger.html" onClick="NewWindow(this.href,'popup','600','465','no');return false;">Roger 
+              Wilco with signature</a><font color="#CC0000"> (36 KB)<br>
+              </font><a href="rogerhelmet.html" onClick="NewWindow(this.href,'popup','532','600','no');return false;">Roger 
+              Wilco posing in his spacesuit</a><font color="#CC0000"> (52 KB)</font></font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Under 
+              the direction of the Art Designer Douglas Herring, the Sarien ship 
+              Deltaur and the Xenon research vessel Arcada took on completely 
+              new and unique personalities.<br>
+              <a href="deltaur.html" onClick="NewWindow(this.href,'popup','600','377','no');return false;">The 
+              Deltaur</a> <font color="#CC0000">(44 KB)</font><br>
+              <a href="deltaurattacks.html" onClick="NewWindow(this.href,'popup','600','397','no');return false;"> 
+              The Deltaur Attacks</a> <font color="#CC0000">(44 KB)</font></font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Preliminary 
+              sketch from the Deltaur - Sierra attempted to capture the '50's 
+              spaceship interior look - with lots of conduits and guages and exposed 
+              hardware - reminiscent of E.C. Comics.<br>
+              <a href="insidedeltaur.html" onClick="NewWindow(this.href,'popup','600','449','no');return false;">Inside 
+              the Deltaur</a> <font color="#CC0000">(72 KB)</font></font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">These 
+              artists' sketches show the evolution of Tunuctipin, once known to 
+              his pals in the Sierra Creative Development Department as Turnip 
+              Head. The Keronian elder is encountered by Roger in the undergrond 
+              generator room far beneath the arid desert of the planet Kerona, 
+              where Roger has crash-landed his escape pod.<a href="keronians.html" onClick="NewWindow(this.href,'popup','600','578','no');return false;"><br>
+              Keronians</a> <font color="#CC0000">(56 KB)</font><br>
+              <a href="keronian.html" onClick="NewWindow(this.href,'popup','566','600','no');return false;">Keronian 
+              leader</a> <font color="#CC0000">(36 KB)</font></font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">A 
+              number of different approaches were tried for Tiny, the crafty alien 
+              used-spaceship salesman, from the questionable menacing to the merely 
+              malevolent. When it was decided that the character should be less 
+              threatening, the official Tiny emerged to become a suitably sociable 
+              but shrewd salesguy.<br>
+              <a href="tiny.html" onClick="NewWindow(this.href,'popup','600','510','no');return false;">Tiny</a> 
+              <font color="#CC0000">(60 KB)</font></font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">Art 
+              Designer's sketch of the new look for the Sarien bad guys.<font color="#CC0000"> 
+              </font><br>
+              <a href="sariens.html" onClick="NewWindow(this.href,'popup','561','600','no');return false;">Sariens 
+              in battle suit</a> <font color="#CC0000">(56 KB)</font><br>
+              <a href="sarienmean.html" onClick="NewWindow(this.href,'popup','600','534','no');return false;">Sarien 
+              close-up</a> <font color="#CC0000">(52 KB)</font></font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">It's 
+              that nasty mugger from Ulence Flats! This sketch made it into the 
+              final release.<br>
+              <a href="mugger.html" onClick="NewWindow(this.href,'popup','600','495','no');return false;">Mugger</a></font><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif"> 
+              (24 KB)</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">One 
+              of the many sketches of Orat.<br>
+              <a href="orat.html" onClick="NewWindow(this.href,'popup','600','400','no');return false;">Orat</a></font><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif"> 
+              (56 KB)</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Preliminary 
+              sketch of the parade ground on Xenon where our hero receives his 
+              golden mop. The tribute to the Two Guys from Andromeda stands out 
+              as a statue in the background.<br>
+              <a href="endscreen.html" onClick="NewWindow(this.href,'popup','600','444','no');return false;">The 
+              parade ground</a> <font color="#CC0000">(60 KB)</font></font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">One 
+              of a number of alien bimbettes designed for the bar scene. This 
+              particular sketch fantasied aspects of alien anatomy that we felt 
+              had been overused, so it was de-emphasized in the final version. 
+              Ultimately the close-up of the bimbette was never used.<br>
+              <a href="bimbette.html" onClick="NewWindow(this.href,'popup','536','600','no');return false;">A 
+              bimbette</a> <font color="#CC0000">(52 KB)<br>
+              </font><a href="barwoman.html" onClick="NewWindow(this.href,'popup','491','600','no');return false;">Ugly 
+              bar woman</a><font color="#CC0000"> (36 KB)</font></font></p>
+            <p align="justify"><font color="#000000" size="2" face="Arial, Helvetica, sans-serif">__</font></p>
+            </td>
+        </tr>
+      </table> </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

@@ -1,0 +1,44 @@
+User-agent: Googlebot-Image
+Disallow: /
+
+User-agent: Yahoo-MMCrawler
+Disallow: /
+
+User-agent: ia_archiver
+Disallow: /
+
+User-Agent: Yahoo-MMAudVid/1.0
+Disallow: /
+
+User-Agent: Yahoo-MMCrawler/3.x
+Disallow: /
+
+User-agent: NaverBot-1.0
+Disallow: /
+
+User-agent: MSNbot
+Disallow: /
+
+User-agent: turnitinbot
+Disallow: /
+
+User-agent: asterias
+Disallow: /
+
+User-agent: *
+Disallow: /*.doc
+Disallow: /*.gif
+Disallow: /*.jpg
+Disallow: /*.pdf
+Disallow: /*.ptt
+Disallow: /*.mp3
+Disallow: /*.ogg
+Disallow: /*.zip
+Disallow: /rotzooi/
+Disallow: /forum/
+Disallow: /manual/
+Disallow: /manual/howto/
+Disallow: /manual/programs/
+Disallow: /manual/mod/
+Disallow: /manual/misc/
+Disallow: /cgi-bin/

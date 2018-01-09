@@ -1,0 +1,456 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Sierra Newsletter Spring 1989</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="interactionup.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>InterAction 
+                Magazine &gt;</strong> Sierra used to publish its own gaming magazine 
+                (which was called &quot;Sierra Newsletter&quot; and &quot;Sierra 
+                News Magazine&quot; before fall 1991). This chapter features SQ 
+                related articles of these magazines.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="interactiondown.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../../navmenu/miscmenu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="interactionbetween.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br> 
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td colspan="2" valign="top"> <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Sierra 
+              Newsletter Spring 1989<br>
+              </strong></font><font face="Arial, Helvetica, sans-serif"><img src="vol2_num1_cover.jpg" width="150" height="194" align="right"><font size="2">This 
+              exciting edition was released just after the completion of Space 
+              Quest III. Of course this is why this magazine is full with Space 
+              Quest related articles. The entire magazine can be viewed and downloaded 
+              from the following site: <a href="http://sierra.icequake.net/" target="_blank">http://sierra.icequake.net</a>. 
+              <img src="../../extraimages/sqnet.gif" width="87" height="11" alt="SpaceQuest.Net"> 
+              has gathered all the Space Quest related articles of this issue 
+              for you below.</font></font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>An 
+              interview with Bob Siebenberg: From Supertramp to Space Quest III</strong> 
+              </font><font face="Arial, Helvetica, sans-serif" size="2"><font color="547ED9">- 
+              complete</font></font><font color="#CC0000" size="3" face="Arial, Helvetica, sans-serif"><br>
+              </font><font size="2" face="Arial, Helvetica, sans-serif">by Kirk 
+              Green</font></p>
+            <p align="justify"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><i>For 
+              someone who has seen the heights of superstardom in the rock band 
+              Supertramp, Bob Siebenberg is a pretty down to earth guy. He gets 
+              up every morning and is at work in his home studio by 9:00am and 
+              works till early afternoon when he heads out to a local baseball 
+              field to coach little league.</i></font></p>
+            <p align="justify"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><i>&quot;Hey 
+              my greatest day is working in the studio and then heading out to 
+              baseball practice by 4:15pm&quot;, said Siebenberg.</i></font></p>
+            <p align="justify"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><i>Married, 
+              with two children, the 39-year old Siebenberg has worked in his 
+              ranch home studio over the past few months on the soundtrack for 
+              Space Quest III: The Pirates of Pestulon for Sierra. We spent some 
+              time with him recently, after he finished putting the final touches 
+              on his new solo album, to see how he became part of the Sierra family.</i></font></p>
+            <p align="justify"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><b>Most 
+              people are surprised when they hear the drummer for Supertramp is 
+              producing a musical soundtrack for a Sierra 3-D Animated Adventure 
+              Game. How did you become involved in the project?<br>
+              </b>There was an advertisement in the paper.</font></p>
+            <p align="justify"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><b>No, 
+              really.<br>
+              </b>Yes, I was reading the Sierra Star (a local paper) and there 
+              was an ad for some one who knew how to work with MIDI. I had just 
+              come off the Free As A Bird tour with Supertramp and I was looking 
+              for something new to get involved with. I met with Rick Cavin (Sierra 
+              General Manager) and right away he realized I wasn't the nine-to-five 
+              guy he was looking for, but on the other hand there might be something 
+              that I could do - write music for some of the new games.</font></p>
+            <p align="justify"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><b>So 
+              one thing led to another and soon you were writing a soundtrack 
+              for <i>Space Quest III</i>.<br>
+              </b>That's right. I got some equipment from Sierra: a Macintosh, 
+              a Mastertracks Pro and </font><font face="Arial, Helvetica, sans-serif" size="2">the 
+              Roland MT32 </font><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"> 
+              and used it with my own equipment. That includes MIDI keyboards, 
+              my 24 track Otari tape deck, and a Neotek recording console. I do 
+              most all of my work at home in my own studio. Over the years I've 
+              spent so much time away from my family - that is why I moved up 
+              here, to be able to work and spend time with my family. In fact 
+              my last solo effort was completely recorded at home.</font></p>
+            <p align="justify"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><b>How 
+              does the whole process unfold when you are working on music for 
+              a game? Where do you start?<br>
+              </b>I like to start with the image. The creators, Mark Crowe and 
+              Scott Murphy, give me a VHS cassette of what the games looks like. 
+              I pick their brain about what a certain character's personality 
+              is like. The music should enhance the personality. Then I just put 
+              in the time writing and producing. I look at the game as a little 
+              movie and the music as the soundtrack for that film. It is challenging 
+              to come up with something like that. Mark and Scott want in the 
+              way of music. The feel of the music, rather than simple melodies, 
+              using </font><font face="Arial, Helvetica, sans-serif" size="2">the 
+              Roland MT32</font><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif">, 
+              Ad Lib or IMB music cards adds a vibe to the whole screen.</font></p>
+            <p align="justify"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><b>Some 
+              of the music on <i>Space Quest III</i> is very beautiful, on a level 
+              of an epic film score. Then you have music such as &quot;Fester's 
+              Theme&quot;, which is light and funny. Where do you draw your ideas 
+              from?<br>
+              </b>I just pull it out of thin are in a sense. I just put in the 
+              time needed to produce the music. Something I tried to achieve with 
+              <i>Space Quest III </i>is to expand the size and dimension of the 
+              game with music.</font></p>
+            <p align="justify"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><b>Hoe 
+              does work on <i>Space Quest III</i> differ from your solo album 
+              or work with Supertramp?<br>
+              </b>Working in the band (Supertramp) you have four or five people 
+              and I'm part of that band. For my solo projects and working on the 
+              soundtrack to <i>Space Quest III</i>, it is down to me. There are 
+              no short cuts, it is just me putting in the time producing the music. 
+              With the game music I can be a little goofy, like with &quot;Fester's 
+              Theme&quot;, that wouldn't work in my solo projects.</font></p>
+            <p align="justify"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><b>Sierra 
+              has had William Goldstein and you write and produce music for our 
+              games. Do you see any of your fellow musicians doing similar projects?<br>
+              </b>Some of the people who worked on my solo record thought that 
+              the graphics and music was a great concept. I'm sure there are people 
+              who would want to jump on it, but I still want a job too! (laughing)</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#CC0000"><img 
+src="bobsiebenberg.jpg" align=right width="145" height="146" border="0" alt="Bob Siebenberg"></font><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><b>You've 
+              talked a lot about this new album you have been working on...<br>
+              </b>Yes, that is &quot;Long Shot&quot;, an album I've done with 
+              a band I formed with Dennis O'Donnell called Heads Up. For right 
+              now it is being released in Germany on Polydor Records. Germany 
+              is actually the second largest market for music in the world. So 
+              we'll see how it does and eventually we might release it in the 
+              UK and the US. The album has lot of keyboards and new sounds different 
+              keyboards, but it is not computerized. We've got Reno Wilde doing 
+              lead vocals, Scott Gorham from Thin Lizzy on guitars and three members 
+              of the Supertramp tour band playing on the album. It has got a Procol 
+              Harem feel to it and we had John Punter, who worked with Procol 
+              Harem, produce the album.</font></p>
+            <p align="justify"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><b>How 
+              about Supertramp?<br>
+              </b>Supertramp is still together technically. Sometimes when you 
+              are with a group for a long period of time you want to branch out 
+              and get away from the pressures that are part of the band. Then 
+              when you've spent some time away you appreciate the different things 
+              that made up the band. I would like to hope that someday the five 
+              of us (Supertramp) would get together again.</font></p>
+            <p align="justify"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><b>So 
+              what is in store for Bob Siebenberg in the coming year?<br>
+              </b>Well I hope to do more for Sierra. I enjoyed working on <i>Space 
+              Quest III</i>. I want my solo work to do well and I'd like to win 
+              the 13-year-old All Star Division in little league.</font></p>
+            <p align="justify"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><i>Sounds 
+              like Bob Siebenberg has the best of both worlds and has his priorities 
+              straight.</i></font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><font color="FFFFB1" size="3"><strong>Top 
+              Ten Best Sellers from January - March 1989</strong></font> <font color="547ED9">- 
+              complete</font><br>
+              Somewhere in the Sierra Newsletter Spring 1989 edition, you can 
+              find Sierra's Top Ten Best Sellers from January - March 1989:<br>
+              1. Space Quest III<br>
+              2. Silpheed<br>
+              3. Leisure Suit Larry II<br>
+              4. King's Quest IV<br>
+              5. Police Quest II<br>
+              6. Manhunter<br>
+              7. GoldRush!<br>
+              8. Leisure Suit Larry I<br>
+              9. Helicopter Simulator<br>
+              10. Thexder</font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Sierra 
+              BBS Has Space Quest III Demo</strong></font><font size="3" face="Arial, Helvetica, sans-serif"><font size="2"> 
+              </font></font><font color="#CC0000" size="3" face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif" size="2"><font color="547ED9">- 
+              complete</font></font><font size="2"><br>
+              </font></font><font size="2" face="Arial, Helvetica, sans-serif"> 
+              Sierra released a Space Quest III demo, and an article in Sierra's 
+              Newsletter Spring 1989 to advertise it:</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Space 
+              Quest III: The Pirates of Pestulon is Sierra's hottest new animated 
+              adventure game. If you would like to see the game before you buy 
+              it, you can download a demo from the Sierra BBS. This demo is currently 
+              on-line for both the MS-DOS machines and Atari ST series with other 
+              machine versions to follow. If you would like to download the Space 
+              Quest III demo:</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Access 
+              the Sierra Bulletin Board with your Hayes Compatible Modem. The 
+              phone number is (209) 683-4463. From the main menu, select 3 (Library 
+              of Files). You will then Select a LIB (which stands for Library 
+              Information Bank) where our files are stored. The demos for downloading 
+              are stored in the following LIBs:</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">&gt;&gt; 
+              MS-DOS, select DEMOS<br>
+              &gt;&gt; Atari SI, select ATARIST</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Select 
+              the file you want to download. Type D for download, and you will 
+              be prompted to input the filename. The file name for the Space Quest 
+              III demo is SQ3DEMO.ARC. Select the protocol you wish to use. We 
+              suggest that you use XMODEM or YMODEM protocol, depending on the 
+              baud rate of your modem. Select the download option from your terminal. 
+              The data that you receive will be in a compressed format. If you 
+              do not already have access to a file decompression program, you 
+              can download a decompression program from the Sierra BBS. For MS-DOS 
+              the file decompression program is UNARC.COM and for the Atari ST 
+              is is ARC.TPP. Download it the same way you downloaded the Space 
+              Quest III demo. Instruction for UNARCing are included with the ARC 
+              manager.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Run 
+              the INSTALL program and select the type of music and graphics card 
+              (if applicable) you have. You will then be enjoying the demo brought 
+              to you by The Two Guys from Andromeda. We hope you enjoy it.</font></p>
+            <p align="justify">&nbsp;</p>
+            <div align="justify"> 
+              <table width="100%" border="0" cellspacing="1" cellpadding="1">
+                <tr> 
+                  <td><font face="Arial, Helvetica, sans-serif"><a href="sq3ad.jpg" target="_blank"><img 
+src="sq3adk.jpg" align=left width="100" height="131" border="0"></a><font size="3" color="FFFFB1"><strong>Advertisement</strong></font></font><font face="Arial, Helvetica, sans-serif" size="2"> 
+                    <font color="547ED9">- complete</font><br>
+                    This is a very funny ad for Space Quest 3. Click on the picture 
+                    for a high resolution version <font color="#CC0000">(254 KB)</font>.</font> 
+                  </td>
+                </tr>
+              </table>
+            </div>
+            <p align="justify"><strong><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><br>
+              </font></strong><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Space 
+              Quest III The Men Who Designed the Game</strong></font><font color="#CC0000" size="3" face="Arial, Helvetica, sans-serif"><font size="2"> 
+              </font><font face="Arial, Helvetica, sans-serif" size="2"><font color="547ED9">- 
+              complete</font></font><font size="2"><br>
+              </font></font><font size="2" face="Arial, Helvetica, sans-serif">This 
+              large interview (a whopping 4 pages!) tells us everything about 
+              how Scott and Mark worked back in the old days.<br>
+              <a href="spring1989-tmwdtg01.jpg" target="_blank">Page 1</a> <font color="#CC0000">(160 
+              KB)</font><br>
+              <a href="spring1989-tmwdtg02.jpg" target="_blank">Page 2</a> <font color="#CC0000">(248 
+              KB)</font><br>
+              <a href="spring1989-tmwdtg03.jpg" target="_blank">Page 3</a> <font color="#CC0000">(236 
+              KB)</font><br>
+              <a href="spring1989-tmwdtg04.jpg" target="_blank">Page 4</a> <font color="#CC0000">(176 
+              KB)</font></font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="#CC0000" size="3" face="Arial, Helvetica, sans-serif"><strong><font color="FFFFB1">The 
+              Golden Oak Awards</font></strong> </font><font size="3" face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif" size="2"><font color="547ED9">- 
+              complete</font></font><font size="2"><br>
+              The <a href="../../sq2/manual/index.shtml">Space Piston Magazine</a> 
+              comic book which came with Space Quest II won an award! &quot;</font></font><font size="2" face="Arial, Helvetica, sans-serif">Sierra 
+              On-Line won top honors in five categories, including two major victories, 
+              at the 11th annual presentation of the Golden Oak Awards. All of 
+              the winning entries were produced in-house by Sierra's Creative 
+              Services Department.&quot; <a href="vol2_num1_goldenoakaward.jpg" target="_blank">Read 
+              the complete article here</a><font color="#CC0000"> (96 KB)</font>.</font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>The 
+              Sierra picture contest!</strong></font><font face="Arial, Helvetica, sans-serif" size="2"> 
+              <font color="547ED9">- complete</font><br>
+              </font> <font face="Verdana" size="2" color="#CC0000"><a href="../interaction/sq3puzzle.jpg" target="_blank"><img 
+src="../interaction/sq3puzzlek.jpg" align=left width="190" height="250" border="0"></a></font><font size="2" face="Arial, Helvetica, sans-serif">A 
+              picture is worth <s>1000</s> <s>100</s> 62 words!</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Roger 
+              Wilco is stalking through this thrashy scene from Space Quest 3, 
+              and you must help find names, places, objects, etc. hidden amidst 
+              the debris! Look carefully... These words are backward, forward, 
+              upside-down, sideways, or any other twisted way we could fit them 
+              in! There are 62 words in all from various Sierra games, and 25 
+              of 'em are from the new Space Quest 3. (Note: Compound words count 
+              as only one word, for example &quot;CONEY ISLAND, BIG BELCHER&quot;). 
+              Good luck!</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Be 
+              one of ten lucky winners and receive a Sierra software product of 
+              your choice. Mail a numbered, alphabetical list of the names you 
+              found to Sierra On-Line, Box 1103, Oakhurst, CA 93644, Attention: 
+              Picture Contest. All entries must be postmarked before July 31, 
+              1989; only one entry per household. Ten winners will be drawn randomly 
+              from the pool of correct entries. Winners are chosen at the sole 
+              discretion of Sierra On-Line. In the event you are a winner, be 
+              sure to include your name, address, phone number, choice of product, 
+              AND your type of computer.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              Click on the picture <font color="#CC0000">(217 KB)</font> for the 
+              complete high resolution scan. I hope all the words are still readable. 
+              I've found 15 Space Quest related words. The rest is up to you. 
+              <a href="../../contact/index.shtml">Mail me</a> if you find a word, 
+              and tell me the location! Words found and by who:</font></p>
+            <div align="justify"> 
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr align="left" valign="top"> 
+                  <td width="33%"> <div align="left"><font size="1" face="Arial, Helvetica, sans-serif" color="#CC0000">01. 
+                      2 Guys <font color="#666666">(Frans)</font><br>
+                      02. Andromeda <font color="#666666">(Frans)</font><br>
+                      03. Android <font color="#666666">(Frans)</font><br>
+                      04. Astro Chicken <font color="#666666">(Frans)</font><br>
+                      05. Big Belcher <font color="#666666">(Frans)</font><br>
+                      06. Elmo Pug <font color="#666666">(Frans)</font><br>
+                      07. Fester <font color="#666666">(Justas)</font><br>
+                      08. Janitor <font color="#666666">(Frans)</font><br>
+                      09. Monolith </font><font size="1" face="Arial, Helvetica, sans-serif"><font color="#666666">(MikeDiskett)</font></font><font size="1" face="Arial, Helvetica, sans-serif" color="#CC0000"><br>
+                      10. Nukem Dukem <font color="#666666">(Frans)</font><br>
+                      11. Ortega <font color="#666666">(Frans)</font><br>
+                      12. Orat <font color="#666666">(Frans)</font><br>
+                      13. Orium <font color="#666666">(Immo)</font><br>
+                      14. Pestulon <font color="#666666">(Les Anderson)</font><br>
+                      15. Phleebhut <font color="#666666">(Frans)</font><br>
+                      16. Roger </font><font size="1" face="Arial, Helvetica, sans-serif"><font color="#666666">(Les 
+                      Anderson)</font></font><font size="1" face="Arial, Helvetica, sans-serif" color="#CC0000"><br>
+                      17. Scumsoft <font color="#666666">(Frans)</font><br>
+                      18. Sariens <font color="#666666">(Frans)</font><br>
+                      19. Terminator <font color="#666666">(Les Anderson)</font><br>
+                      20. Vohaul <font color="#666666">(Les Anderson)</font><br>
+                      21. World O' Wonders <font color="#666666">(Frans)</font><br>
+                      22. Wilco <font color="#666666">(Frans)</font><br>
+                      23. Xenon <font color="#666666">(MikeDiskett)</font><br>
+                      24. <br>
+                      25. </font></div></td>
+                  <td width="34%"> <div align="left"><font size="1" face="Arial, Helvetica, sans-serif">26. 
+                      Advice <font color="#666666">(Les Anderson)</font><br>
+                      27. Arnie's Restaurant <font color="#666666">(Les Anderson)</font><br>
+                      28. Coney Island <font color="#666666">(Les Anderson)</font><br>
+                      29. Cobra <font color="#666666">(Les Anderson)</font><br>
+                      30. Cotton Cove <font color="#666666">(Alistair)</font><br>
+                      31. Daventry <font color="#666666">(Ralkahn)</font><br>
+                      32. Gazebo <font color="#666666">(Les Anderson)</font><br>
+                      33. Grotesque Gulp <font color="#666666">(Les Anderson)</font><br>
+                      34. Gold <font color="#666666">(MikeDiskett)</font><br>
+                      35. Goon <font color="#666666">(Ralkahn)</font><br>
+                      36. Gwydion <font color="#666666">(Kyle)</font><br>
+                      37. Indian <font color="#666666">(Alistair)</font><br>
+                      38. Jessie Bains <font color="#666666">(Les Anderson)</font><br>
+                      39. Keith <font color="#666666">(Les Anderson)</font><br>
+                      40. King Graham <font color="#666666">(Les Anderson)</font><br>
+                      41. Larry Laffer <font color="#666666">(Les Anderson)</font><br>
+                      42. Lolotte <font color="#666666">(Alistair)</font><br>
+                      43. Lytton <font color="#666666">(Les Anderson)</font><br>
+                      44. M.A.D <font color="#666666">(MikeDiskett)</font><br>
+                      45. Manhunter <font color="#666666">(Les Anderson)</font><br>
+                      46. Marie <font color="#666666">(MikeDiskett)</font><br>
+                      47. Motherlode <font color="#666666">(Kyle)</font><br>
+                      48. Mummy <font color="#666666">(MikeDiskett)</font><br>
+                      49. New Work <font color="#666666">(MikeDiskett)</font><br>
+                      50. Ogre <font color="#666666">(Les Anderson)</font></font></div></td>
+                  <td width="33%"> <div align="left"><font size="1" face="Arial, Helvetica, sans-serif">51. 
+                      Onklunk <font color="#666666">(Les Anderson)</font><br>
+                      52. Pan <font color="#666666">(Les Anderson)</font><br>
+                      53. Rosella <font color="#666666">(MikeDiskett)</font><br>
+                      54. Talisman <font color="#666666">(Ralkahn)</font><br>
+                      55. Unicorn <font color="#666666">(Les Anderson)</font><br>
+                      56.<br>
+                      57.<br>
+                      58.<br>
+                      59.<br>
+                      60.<br>
+                      61.<br>
+                      62.<br>
+                      63.<br>
+                      64.</font></div></td>
+                </tr>
+              </table>
+            </div>
+            <p align="justify"><font color="#000000">___</font></p></td>
+        </tr>
+      </table>
+      
+    </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

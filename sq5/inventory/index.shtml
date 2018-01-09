@@ -1,0 +1,282 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 5 Inventory Items</title>
+<STYLE TYPE="text/css">
+
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq5up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 5 Inventory items &gt; </strong>This page describes the 
+                inventory items of Space Quest 5 and includes information on their 
+                location and usage. You might not want to see the information 
+                below if you're new to the game.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq5down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> <!--#include virtual="../../navmenu/sq5menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq5between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><img 
+src="buckazoid.gif" alt="Buckazoids" width="60" height="60" align=left>Buckazoids. 
+              Cash. Money. Spendola. Not used in the entire game.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img 
+src="cones.gif" alt="Safety Cones" width="58" height="60" align=left>Orange safety 
+              cones. Useful for rerouting unwelcome traffic. Found in the StarCon 
+              Academy closet. Used for cleaning the crest.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img 
+src="floorscrubber.gif" alt="scrub-o-matic power floor scrubber model 1812" width="55" height="52" align=left> 
+              Wow!!! The scrub-o-matic power floor scrubber model 1812 with patented 
+              sit 'n spin cleaning action! Found in the StarCon Academy closet. 
+              Used for cleaning the crest.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img 
+src="antacidtablets.gif" alt="Anti-Acid Tablets" width="37" height="78" align=left>Noevart 
+              anti-acid tablets. Found in Cliffy's Tool Box. Used to calm down 
+              Spike a little bit.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img 
+src="fuse.gif" alt="A Fuse" width="60" height="60" align=left>High-voltage circuit 
+              fuse. Found in Cliffy's Tool Box. Used to replace broken fuses on 
+              the fuse panel, located inside the Eureka's service tube.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img 
+src="holepuncher.gif" alt="A Hole Punch" width="83" height="49" align=left>A hole 
+              punch. Found in Cliffy's Tool Box. Used at Genetix to punch holes 
+              in the business card. </font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img 
+src="torch.gif" alt="A laser cutting torch" width="75" height="59" align=left>A 
+              laser cutting torch. This might come in handy if you lock the keys 
+              in the car again. Found in Cliffy's Tool Box. Used to cut an opening 
+              inside the Goliath's hull.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"> <p align="justify"><font face="Arial, Helvetica, sans-serif"><br>
+              <font size="2"><img 
+src="comlink.gif" alt="PCD" width="51" height="60" align=left>StarCon standard 
+              issue PCD (personal communication device). You get it when promoting 
+              to Captain. Used in various places. Just don't lose it, ya hear!</font></font></p></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img 
+src="mask.gif" alt="Rebreather Mask" width="70" height="64" align=left>Standard 
+              issue Star Confederacy rebreather mask. Found in the storage locker 
+              inside the Eureka pod bay. Used to breath on Thrakus.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img 
+src="tank2.gif" alt="A Tank" width="32" height="60" align=left>Tanks, a lot: It's 
+              full of air! Found in the storage locker inside Eureka's pod bay. 
+              Used to supply the EVA pod with extra air.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img 
+src="spikeinventory.gif" alt="Spike" width="75" height="68" align=left>Your faithful 
+              (but not completely house-trained) companion, Spike. Found conveniently 
+              in Eureka's trash compartment. Use to save Cliffy and Bea.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img 
+src="branch.gif" alt="A Sturdy Branch" width="68" height="31" align=left>A sturdy 
+              branch that broke under your weight (maybe someone is trying to 
+              tell you something). Found in Kiz Urazgubi &quot;big log&quot; scene. 
+              Used &quot;to boulder&quot; WD40.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img 
+src="banana.gif" alt="Banana" width="58" height="54" align=left>This exotic, vaguely 
+              banana-like fruit grows only here on Kiz Urazgubi. Found in Kiz 
+              Urazgubi &quot;big log&quot; scene. Used to stuff WD-40's exhaust 
+              pipe.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img 
+src="wd40head.gif" alt="A Metal Head" width="60" height="58" align=left>The metal 
+              head from the annihilator android, WD-40. Found in Kiz Urazgubi 
+              &quot;big log&quot; scene.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"> <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img 
+src="wd40part.gif" alt="Left-Over Part" width="61" height="60" align=left>A left-over 
+              part from Cliffy's overhaul of WD-40, the annihilator android.</font></p></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"> <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img 
+src="cloakingdevice.gif" alt="A Cloaking Device" width="82" height="40" align=left>Cloaking 
+              device recovered from WD40's ship. Handle with care. Found inside 
+              WD-40's ship. Used on the Eureka (installed by Cliffy).</font></p></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img 
+src="businesscard.gif" alt="A Business Chip" width="72" height="36" align=left>The 
+              merchant of Venus' plastoid business chip. Given to you in the spacebar. 
+              Used to enter the Genetix lab.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img 
+src="spacemonkeys.gif" alt="Space Monkeys" width="124" height="99" align=left>A 
+              package of dehydrated space monkeys given to you by the salesbeast 
+              at the spacebar. A small label at the bottom reads: &quot;Warning: 
+              Do not allow contents of package to mix with alcohol.&quot; Used 
+              to save Cliffy. It makes a great present for the kids at home. </font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"> <div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img 
+src="paper.gif" alt="A Piece of Paper" width="84" height="35" align=left> The 
+              battered scrap of paper appears to have some writing on it. Found 
+              on the floor of the Klorox II Colony greenhouse. Contains the password 
+              for computer log-in.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"> <div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img 
+src="frock.gif" alt="A Frock" width="69" height="64" align=left>A lovely little 
+              frock. Too bad it's not your color. Found inside the escape pod 
+              on Thrakus. Used for saving your own ass.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"> <div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img 
+src="tank.gif" alt="Containers with Liquid Nitrogen" width="44" height="68" align=left>A 
+              handy travel sizes container of liquid nitrogen, just the thing 
+              to dump in the punch at dull parties. This -200 degree temperature 
+              of liquid instantly freezes anything it comes into contact with. 
+              Found inside the Genetix lab and used by WD40 on the Goliath bridge.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"> <div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img 
+src="distributorcap.gif" alt="A Distributor Cap" width="61" height="48" align=left>Centuri 
+              Products Mark II warp distributor cap. Given to you by Beatrice 
+              and used in the engine room of the Goliath.</font></div></td>
+        </tr>
+      </table> </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

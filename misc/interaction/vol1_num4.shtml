@@ -1,0 +1,268 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Sierra Newsletter Fall/Winter 1988</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="interactionup.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>InterAction 
+                Magazine &gt;</strong> Sierra used to publish its own gaming magazine 
+                (which was called &quot;Sierra Newsletter&quot; and &quot;Sierra 
+                News Magazine&quot; before fall 1991). This chapter features SQ 
+                related articles of these magazines.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="interactiondown.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../../navmenu/miscmenu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="interactionbetween.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br> 
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td colspan="2" valign="top"> <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Sierra 
+              Newsletter Fall/Winter 1988<font size="2"><br>
+              </font></strong></font><font size="2" face="Arial, Helvetica, sans-serif"><img src="vol1_num4_cover.jpg" alt="Sierra Newsletter" width="150" height="186" align="right">The 
+              Fall/Winter 1988 (volume 1 number 4) issue is a quite interesting 
+              magazine for Space Quest fans. First of all, the Space Quest II 
+              game was already on the shelves for some time and was selling quite 
+              well. Second, the upcoming Space Quest III was deliberately postponed 
+              by the Two Guys for a few months so that they could make use of 
+              Sierra's new SCI engine.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              magazine features several articles about the new game GoldRush! 
+              (the last AGI game), Manhunter New York and King's Quest IV. And, 
+              of course, articles of the new SCI technology (the same engine that 
+              SQ3 uses. It enabled real music to be used in computer games for 
+              the very first time and it featured a much higher resolution).</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              entire magazine can be viewed and downloaded from the following 
+              site: <a href="http://sierra.icequake.net/" target="_blank">http://sierra.icequake.net</a>. 
+              <img src="../../extraimages/sqnet.gif" width="87" height="11" alt="SpaceQuest.Net"> 
+              has gathered all the Space Quest related articles of this issue 
+              for you below.</font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Heard 
+              It In the Hallway (Sierra's Rumor Mill) </strong></font> <font color="547ed9" size="2" face="Arial, Helvetica, sans-serif">- 
+              Space Quest III part + more</font><font face="Arial, Helvetica, sans-serif"><br>
+              </font><font size="2" face="Arial, Helvetica, sans-serif">A very 
+              early look at what lies ahead for Sierra in 1989/90, </font><font face="Arial, Helvetica, sans-serif"><font size="2">by 
+              Johnny Magpie</font></font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">First 
+              the bad news. In 1989, there will not be a new King's Quest, there 
+              will be no Police Quest III nor a Leisure Suit Larry III. Chances 
+              are, we won't even see anther hot new action game from Game Arts 
+              of Japan. Roberta Williams (designer of the King's Quest series) 
+              is taking a sabbatical from Daventry for a while, and Jim Walls 
+              (Police Quest) is taking a 10-7 from his work at the Lytton police 
+              station.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Now 
+              for the good news...</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Space 
+              Quest III is on schedule for a February release, and it promises 
+              to be the very best Space Quest yet. Originally schedules for release 
+              in 1988, the project was held back by the Two Guys from Andromeda 
+              so they could use Sierra's new SCI technology to get the job done.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">According 
+              to Scott Murphy &quot;... We wanted to do a hot soundtrack for the 
+              game (they've enlisted help from Supertramp recording star Bob Siebenberg 
+              to do the music) and dazzling special effects that are expected 
+              from space games. We needed the new graphics resolution [of SCI] 
+              to design the dogfights in the game. We wanted to be competitive 
+              with Steven Spielberg and we couldn't do it unless we improved our 
+              graphics resolution...&quot;</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Look 
+              for Two Guys Scott Murphy and Mark Crowe to make a cameo role in 
+              their own game!...</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Speaking 
+              of Mark Crowe, Mark just finished work in a self-proclaimed &quot;B-Grade 
+              Horror Movie&quot; called Night Drop. He's now starting work on 
+              a horror adventure game. Mark isn't saying much about the project, 
+              but &quot;expect it to be a whole lot scarier than Uninvited was...&quot; 
+              Don't expect it in 1989 though, it's slated for a January 1990 release!...</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Looking 
+              ahead a little less farther, we see Sierra's first true fantasy 
+              role-playing game since Ultima. New Hero's Quest (working title) 
+              promises to be what 3-D Animated Adventure was to Interactive Fiction. 
+              Hero's Quest is being designed by accomplished dungeonmaster Lori 
+              Ann Cole. Expect it to have the look of the Sierra family of games. 
+              Mark Crowe's brother, Jeff, is designing the graphics for the game. 
+              Expect to see FRP Games as you've never seen them before!...</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Also 
+              look for a new sequel to the shocking Manhunter series in 1989... 
+              (the article continues with non Space Quest related stuff)</font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><font color="FFFFB1" size="3"><strong>Comin' 
+              Atcha! ad</strong></font> <font color="547ED9">- complete</font><br>
+              <a href="snlwinter1988-cominatcha.jpg" target="_blank"><img src="snlwinter1988-cominatchak.jpg" width="100" height="100" border="0" align="right"></a>The 
+              advertisement is some kind of teaser for several upcoming Sierra 
+              titles of the year 1989, which includes Space Quest 3. Monolith 
+              Burger, a Skull Fighters and the Two Guys can be seen in public 
+              for the very first time. Please click on the image <font color="#CC0000">(192 
+              KB)</font> on the left for a complete view.</font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Sierra 
+              Ships New Titles for IIGS</strong><font size="2"> </font></font><font size="3" face="Arial, Helvetica, sans-serif"><font color="547ED9" size="2">- 
+              SQ related part only</font></font><font color="#CC0000" size="3" face="Arial, Helvetica, sans-serif"><font size="2"><br>
+              </font></font><font size="2" face="Arial, Helvetica, sans-serif">Apple 
+              IIGS owners can look forward to loads of exciting new titles to 
+              add to their software library! Shipping now are King's Quest II, 
+              King's Quest III, Space Quest II, and Manhunter: New York, four 
+              of Sierra's hit 3-D Animated Adventure games.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">... 
+              (article continues with non SQ related stuff)</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Space 
+              Quest II is the latest in Sierra's line of 3-D Animated Adventures. 
+              Join sanitation engineer turned space hero Roger Wilco as you face 
+              the evil scientist Sludge Vohaul and his monkey-suited minions.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              graphics in the Apple IIGS version are as sharp and defined as anything 
+              Sierra has ever done. As for sound effects, they are phenomenal! 
+              Listen to Vohaul's life support system, as digital sound effects 
+              give you the full chilling sound of his evil heartbeat. Listen to 
+              the woosh of airlocks, the blast of laser guns and Roger Wilco being 
+              zapped electrically, all in super stereo sound!</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">... 
+              (article continues with non SQ related stuff)</font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Three 
+              More Sierra Games Go for the Gold!</strong></font><font size="2" face="Arial, Helvetica, sans-serif"> 
+              <font color="547ED9">- complete article</font><br>
+              Very few software products are good enough to command sales of 100,000 
+              units, and only the very best titles earn the covetted SPA Gold 
+              Medal from the Software Publishers Association. The SPA actually 
+              does an audit of company sales figures to verify sales levels of 
+              bestselling titles, so it isn't a small achievement when one is 
+              awarded.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">With 
+              this in mind, Sierra is proud to announce that it has been awarded 
+              not one - but three - SPA Gold Medals since our last newsletter 
+              in May. Titles awarded gold medals include: King's Quest III, Space 
+              Quest and Thexder.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">According 
+              to Sierra Marketing Director John Williams, the achievement of these 
+              awards is a special thrill for the company. &quot;Each of the titles 
+              awarded the Gold Award continues to be a top seller,&quot; said 
+              Williams. Williams was especially happy about the success of Thexder, 
+              Sierra's first arcade title since 1985. &quot;We were pleased to 
+              see that Sierra customers still love a good arcade challenge. Thexder 
+              went over well here in America - it was our bestselling title last 
+              Christmas.&quot;</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Sierra 
+              now holds eight SPA Gold Medals, and is preparing to receive its 
+              first Platinum Medal (for sales in excess of 250,000 units) sometime 
+              before next newsletter.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Sierra's 
+              Top 5 Bestsellers:</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">1. 
+              King's Quest IV<br>
+              2 Police Quest<br>
+              3 King's Quest III<br>
+              4 Space Quest II<br>
+              5 Leisure Suit Larry</font></p>
+            <p align="justify"><font color="#000000">___</font></p>
+            </td>
+        </tr>
+      </table>
+      
+    </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

@@ -1,0 +1,228 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 5 Fun Facts</title>
+<STYLE TYPE="text/css">
+
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq5up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 5 Fun Facts &gt; </strong> This page contains everything 
+                you wanted to know about Space Quest 5 and then some!</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq5down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> <!--#include virtual="../../navmenu/sq5menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq5between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td align="left" valign="top"><div align="justify"> 
+              <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 5 Fun Facts<font color="#CC0000"><br>
+                </font></strong></font><font face="Arial, Helvetica, sans-serif" size="3" color="#CC0000"><img 
+src="comix.gif" alt="Two Guys Comix" width="100" height="100" align=left></font><font face="Arial, Helvetica, sans-serif" size="2"> 
+                Shortly after Space Quest 4 was released the famous Two Guys from 
+                Andromeda (aka Scott Murphy and Mark Crowe, the designers of the 
+                Space Quest series), broke up! According to Craig Alexander (general 
+                project manager of the first cancelled Space Quest 7), Sierra 
+                was swamped with projects in Oakhurst. Dynamix volunteered to 
+                do the next SQ, and Mark Crowe wanted to move to Dynamix anyway, 
+                so he grabbed the opportunity. Mark Crowe himself tells the story 
+                this way: &quot;Let's see. It was back in '90/'91 that I was directing 
+                Police Quest 3 after Space Quest 4 was released. SQ4 had been 
+                a particularly stressful development (I still consider it to be 
+                my masterpiece product) and I was ready to move on to something 
+                different for my next project. I was impressed with the work Jeff 
+                Tunnel was doing at Dynamix, and was ready for a life change so 
+                I came on board there in Eugene, Oregon. I had a few product ideas 
+                in mind that utilized Dynamix' adventure gamer development system, 
+                but shortly after my arrival, I was asked to do SQ5 using Sierra's 
+                SCI.&quot; Scott Murphy stayed working in Oakhurst and they would 
+                never again work together on a Space Quest game. Mark Crowe continues: 
+                &quot;I was aware that Josh Mandel (co designer of SQ6 -ed) was 
+                working on a design for SQ5 at that point of time. I don't know 
+                about all the politics surrounding that. They asked me to do SQ5, 
+                I had some ideas for a story so I said SURE!&quot;</font></p>
+              <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">Have 
+                you ever wondered why Space Quest 5 doesn't have &quot;voices&quot;? 
+                After Space Quest 5 was released they were in fact working on 
+                it. Sierra's Official Hint Book confirms this. It says: &quot;Finally, 
+                14 months after the preliminary design meetings were held, SQ5 
+                was shipped to eager Space Quest fans across the galaxy. But the 
+                story doesn't end there, The Next Mutation will be translated 
+                into five languages and converted to a full-voice CD-ROM version 
+                as well.&quot; Sean Murphy, an artist on the Space Quest 5 project 
+                adds: &quot;I can't say for certain; I seem to recall that we 
+                had actually started work on doing just that [preparing a CD-Rom 
+                version of SQ5]. I think that politics and the fact that Dynamix 
+                was going through a very rough financial period at that time prevented 
+                us from doing any supplemental work on it... I suspect that the 
+                management was eager to move on to another &quot;big profit&quot; 
+                project instead of spending time and resources for a &quot;gold&quot; 
+                version of an already-released game.&quot;</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Although
+                   Space Quest 5 was designed and created at Dynamix, the game
+                  utilizes 
+                Sierra's SCI system. This was because when Sierra CEO Ken Williams
+                   saw that Dynamix was doing adventure games, he wanted them
+                  to use 
+                Sierra's adventure development system instead.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+                It looks like Dynamix was working on Windows support for Space 
+                Quest 5. You see, some DLL files are included (supplied only with 
+                the beta version 0.028). Also, SCIWV.EXE is actually a ZIP file. 
+                If you rename it to SCIWV.ZIP and extract it, you have an EXE-file 
+                that will run under Windows only. Pointless, but pretty cool.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+                Russian version of this game changed a lot. For instance, Flash 
+                Gordon's listing on the Grade Master in the Academy is changed 
+                to Boris Yeltsin, some music themes where replaced by those from 
+                old Soviet movies, and the word &quot;buckazoid&quot; is translated 
+                to &quot;babking&quot;; a derivative of the corresponding slang 
+                word for &quot;money&quot;.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><img src="../../extraimages/newitem.gif" alt="New Funfact!" width="62" height="44" align="right">When 
+                using the transporter on the Eureka you would normally use the 
+                WALK cursor on the teleporter and then the ORDER cursor. However, 
+                in the Russian version, you need to use the WALK cursor and then 
+                the TALK version.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Somewhere, 
+                there a 32 colour version out there for the Amiga. The game lets 
+                you skip the crest scrubbing sequence because it's not possible 
+              to make any difference with using just 32 colours!</font></p>
+              <div align="justify"> 
+                <table width="100%" border="0" cellspacing="1" cellpadding="1">
+                  <tr align="left" valign="top"> 
+                    <td colspan="2"> <div align="left"><font face="Arial, Helvetica, sans-serif" size="2">Space 
+                        Quest 5: The Next Mutation consists of: </font></div></td>
+                  </tr>
+                  <tr align="left" valign="top"> 
+                    <td width="9%"> <p align="right"><font face="Arial, Helvetica, sans-serif" size="2">2,548,819 
+                        <br>
+                        798,693 <br>
+                        6,277,836 <br>
+                        3,014,153 <br>
+                        1,376,996 <br>
+                        171,608 <br>
+                        288,541<br>
+                        --------- <br>
+                        11,927,827 </font></p></td>
+                    <td> <div align="left"><font face="Arial, Helvetica, sans-serif" size="2">bytes 
+                        of source code, which compiles down to<br>
+                        bytes of object code<br>
+                        bytes of animation<br>
+                        bytes of background picture<br>
+                        bytes of sounds effects and music<br>
+                        bytes of programs, drivers and interpreter<br>
+                        bytes of message files<br>
+                        -------------------------------------------<br>
+                        bytes total are compressed by a proprietary program down 
+                        to the 7,142,190 bytes of resources on your program disks.</font></div></td>
+                  </tr>
+                </table>
+              </div>
+              <p align="justify"><font color="#000000">____</font></p>
+            </div></td>
+        </tr>
+      </table> </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All
+          original content (c) Frans van Hofwegen. All Space Quest related
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

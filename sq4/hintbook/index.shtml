@@ -1,0 +1,833 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 4 Hint Book</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center"> <a name="top"></a>
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq4up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 4 Official Hint Book &gt; </strong>Being stuck on a puzzle 
+                for too long is frustrating. On this page you won't find a walk 
+                through but the hints from the official hint book. A hint doesn't 
+                spoil the game like a walk through does.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq4down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../../navmenu/sq4menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq4between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td align="left" valign="top"><div align="justify"> 
+              <table width="100%" border="0">
+                <tr valign="top" align="left"> 
+                  <td> <p align="justify"><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Space 
+                      Quest 4 Official Hint Book</strong></font></font><font face="Arial, Helvetica, sans-serif" size="2"><br>
+                      <img src="hintbook.jpg" alt="Space Quest 4 Hintbook" width="150" height="207" align="right"></font><font size="2">This 
+                      page is about the official Space Quest 4 hint book, released 
+                      by Sierra in 1991. The hintbook is of the usual Sierra hint 
+                      book size, namely 15 x 11.5 centimeters. It consists of 
+                      48 pages and includes an interview with the Two Guys from 
+                      Andromeda, cool design sketches, a pointlist and maps.</font></font></p>
+                    <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Scans: 
+                      <a href="coverbig.html" onClick="NewWindow(this.href,'popup','455','600','no');return false;">cover 
+                      closeup</a> <font color="#CC0000">(68 KB)</font> - <a href="pag12.html" onClick="NewWindow(this.href,'popup','444','600','no');return false;">Page 
+                      12 with design scan</a> <font color="#CC0000">(72 KB)</font></font></p>
+                    <p><font face="Arial, Helvetica, sans-serif" size="2"><a href="#xenon1">On 
+                      the streets of Xenon</a><br>
+                      <a href="#dome">In the Dome</a><br>
+                      <a href="#estros">Estros Buttes</a> <font color="#000099"><br>
+                      </font><a href="#mall">The Galaxy Galleria Mall</a> <font color="#000099"><br>
+                      </font><a href="#ulence">Ulence Flats</a> <font color="#000099"><br>
+                      </font><a href="#xenon2">Back on Xenon again</a></font></p></td>
+                </tr>
+              </table>
+              <p><img src="../../extraimages/line.gif" width="100%" height="3"> 
+              </p>
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr> 
+                  <td width="50%"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>On 
+                    the streets of Xenon</strong></font><font face="Arial, Helvetica, sans-serif" size="2" color="#CC0000"><a name="xenon1"></a></font></td>
+                  <td width="50%"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000">:: 
+                      <a href="#top"> Back to top</a> ::</font></div></td>
+                </tr>
+              </table>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I keep seeing 
+                this really annoying rabbit with a bass drum. Can I kill him?<br>
+                <font color="#333333">- Geez, you've been playing this game five 
+                minutes tops, and already you want to kill something. Have you 
+                tried talking to him?<br>
+                - Didn't work, huh? Hmm.. maybe you could... snare him?<br>
+                - There must be a rope around here somewhere...<br>
+                - Walk one screen East of the starting screen. You'll find the 
+                rope in the lower right corner of the screen. Click the HAND icon 
+                on the rope to pick it up.<br>
+                - Now find a place to hide, choose the rope from the inventory 
+                window, and click the ROPE cursor on the ground to use it. When 
+                the bunny walks into the noose, click the HAND on the rope to 
+                catch him.<br>
+                - Can't find a place to hide? That's easy. Walk between the two 
+                large red columns in the upper right side of the screen where 
+                you found the rope.<br>
+                - Make sure you're completely out of sight.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I'm being 
+                stalked by a shrieking zombie. Every time he gets near me, I get 
+                zapped by a Security Droid. Is there a way to get rid of him?<br>
+                <font color="#333333">- Nope.<br>
+                - He's really fairly harmless and blind as a bat. Just stay out 
+                of his way and he'll leave you alone.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I killed the 
+                Security Droid, but his homing beacon is still flashing. How do 
+                I turn it off?<br>
+                <font color="#333333">- I can't believe you thought this was a 
+                real question. You're not even armed -- how do you suppose you'd 
+                manage to disable a laser-shooting droid before he reduced you 
+                to a writhing mass of goo? I hope you're learned your lesson.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I've found 
+                a skimmer parked on the street. Can I use it?<br>
+                <font color="#333333">- I don't think it'll run, if that's what 
+                you mean. There might be something in it, though -- try searching 
+                it. Click the HAND cursor on the skimmer.<br>
+                - Maybe there's something in the glove box. Click the HAND cursor 
+                on the glovebox to open it.<br>
+                - Hmm.. there's something in there, I wonder what it is? Click 
+                the EYE cursor on the object to find out.<br>
+                - Gosh, it's a PocketPal&#153;! Click the HAND cursor on the laptop 
+                to take it.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">What about 
+                the tank?<br>
+                <font color="#333333"> - It won't run either.<br>
+                - There is an item you can get... but it's dangerous.<br>
+                - So you went to pieces, huh? I warned you.<br>
+                - You got points for taking the unstable ordinance, right?<br>
+                - Check out what happens when you put it back.<br>
+                - As a wise man once said, you can't take it with you.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">How do I get 
+                into the bank?<br>
+                <font color="#333333">- What, you want to make a deposit?<br>
+                - The back's closed, pal -- it's Charles Keating's birthday.<br>
+                - In fact, it's closed for the rest of this game.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I can't get 
+                into any of the buildings around here. Can I get into that big 
+                ugly dome thing?<br>
+                <font color="#333333">- You can't get there from here...<br>
+                - See the little window way up the top? You'll have to fly up 
+                there.<br>
+                - When the Sequel Police land, catch a ride in their shuttle (See 
+                the hint about the spaceship).</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I've been 
+                wandering the streets of post-war Xenon for hours, and this zombie 
+                guy is <i>really </i>starting to annoy me. Is there anywhere else 
+                I can go?<br>
+                <font color="#333333">- You betcha! Find yourself a nice sewer 
+                grate to jump in! (Doesn't that sounds like fun?)<br>
+                - Walk one screen North of the starting screen, then head east. 
+                That's grate!<br>
+                - Click the HAND cursor on the grate, and you're outta here.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I tried to 
+                go underground and I exploded! Did I do something wrong?<br>
+                <font color="#333333">- Yep. Does the word &quot;unstable&quot; 
+                mean anything to you?<br>
+                - You took the UNSTABLE ORDINANCE from the old tank. Unless you're 
+                ready to end it all, you don't need that. Next time, look it up!</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I'm in an 
+                empty room under Xenon. Now what?<br>
+                <font color="#333333">- Geez, you give up easy. This room's not 
+                empty, there's a desk here, with a jar on it. Did you get the 
+                jar? Good.<br>
+                - Oh, you didn't get the jar? Well, click the HAND cursor on it. 
+                It's yours.<br>
+                - Now click on the HAND on the desk blotter. Eureka! Sit back 
+                and watch the show.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">The movie's 
+                over, and I'm stuck in this room. How do I get out?<br>
+                <font color="#333333">- Left side of the room -- the big door 
+                with the wheel like in Iceman?<br>
+                - Yeah -- turn it.<br>
+                - Click the HAND cursor on the door to open it, then click the 
+                WALK cursor on the doorway to leave.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I'm in a sewer 
+                pipe. It's not bad, really, but there's not much going on (except 
+                for the green slime that keeps following me around). Any suggestions?<br>
+                <font color="#333333">- in case you haven't figured out yet, that's 
+                man-eating slime. Don't let it eat you.<br>
+                - Do you have the empty jar from the previous room? It was on 
+                the desk. Yeah, that one. Use it to scoop up some of that slime 
+                -- it'll come in handy later on.<br>
+                - I know, it's not easy. Choose the JAR icon from you inventory 
+                window. Now walk around until some slime starts oozing from somewhere. 
+                Stand downstream and click the JAR cursor on the slime. You're 
+                gonna have to get close, but not too close. Good luck!</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">How do I get 
+                out of the sewer?<br>
+                <font color="#333333">- Walk to the far WEST side of the sewer 
+                and find the ladder.<br>
+                - Yes, climb it. Now watch what's happening above ground for a 
+                while.<br>
+                - When the shuttle has landed and things quiet down a bit, you 
+                can click the WALK cursor on the street to leave your hiding place.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">A ship landed 
+                on the street, and a lot of mean looking guys with guns got out. 
+                Should I hide?<br>
+                <font color="#333333">- Well, I wouldn't let them catch you. On 
+                the other hand, they do have a ship...<br>
+                - These guys are the Sequel Police, remember them? They're out 
+                to get you, but you can outsmart them. You'd better, they're your 
+                ticket out of here.<br>
+                - Wait until they've all hit the pavement, walk to the shuttle 
+                and climb into the landing gear compartment.<br>
+                - Click the HAND on the area just below the leg. Off you go!</font><br>
+                <br>
+                </font></p>
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr> 
+                  <td width="50%"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>In 
+                    the Dome</strong></font><font face="Arial, Helvetica, sans-serif" size="2"><a name="dome"></a></font></td>
+                  <td width="50%"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000">:: 
+                      <a href="#top"> Back to top</a> ::</font></div></td>
+                </tr>
+              </table>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">Can I get 
+                back down to the street?<br>
+                <font color="#333333">- Yep, the same way you got there.<br>
+                - Climb back into the shuttle, and it'll take you down.<br>
+                - To return to the landing bay, go through the shuttle and out 
+                the manhole again after the shuttle has landed. Ten board the 
+                shuttle through the landing gear like you did the first time.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I'm still 
+                in the landing bay, and I keep getting shot. What the heck am 
+                I supposed to do here?<br>
+                <font color="#333333">- You're supposed to steal a timepod! (sheesh!)<br>
+                - After you exit the shuttle, go West. Wait for the second pod 
+                to land and for the pilot get out, and walk West. Quickly click 
+                the HAND cursor on the pod. Safe!</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I'm in the 
+                timepod, but I can't get it started. Did I miss a set of keys 
+                somewhere?<br>
+                <font color="#333333">- Yeah, they're back in Space Quest III 
+                (just kidding): You need the U.I.V.P.P.P. (User Identity Verification 
+                Pirate Protection Program) code.<br>
+                - You have zee code, no?<br>
+                - You have zee documentation, no?<br>
+                - The U.I.V.P.P.P. is located in the Space Piston Magazine in 
+                the Timebuster 2000 SUX Road Test Article by Y. Hugh Iotta.<br>
+                - Don't forget to right down the current code!<br>
+                - If you have the CD-ROM version, enter any code code you want. 
+                The second time will get you doing.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I entered 
+                the U.I.V.P.P.P., but the pod still won't go anywhere. What's 
+                the deal guys?<br>
+                <font color="#333333">- Have you ever used a timepod before? I 
+                thought not. Okay, each time zone has its own set of coordinates. 
+                The ones that were on the screen when you entered the pod where 
+                for Xenon, sometime in the future. I hope you remember them -- 
+                you might need to get back there sometime. You don't remember 
+                them? Hope you saved your game (snicker!) To get anywhere from 
+                here, you'll have to punch in the correct coordinates for some 
+                time zone.<br>
+                - Use the force, Luke!<br>
+                - Aw, come on, just try it-- punch in six digits and see what 
+                happens.<br>
+                - Whadd'ya mean nothing happened? Did you press ENTER? Okay, try 
+                six more. Presto!<br>
+                - P.S. Don't forget to write 'em down!</font><br>
+                <br>
+                </font></p>
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr> 
+                  <td width="50%"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Estros 
+                    Buttes</strong></font><font face="Arial, Helvetica, sans-serif" size="2"><a name="estros"></a></font></td>
+                  <td width="50%"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000">:: 
+                      <a href="#top"> Back to top</a> ::</font></div></td>
+                </tr>
+              </table>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I've landed 
+                the timepod, now how do I get out?<br>
+                <font color="#333333">- Click the HAND cursor on the red button 
+                on Roger's left.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I found a 
+                cave, but every time I go in, a troll eats me. Do I need a lantern?<br>
+                <font color="#333333">- Only if you're playing King's Quest IV.<br>
+                - You're not playing King's Quest IV, so you must know that the 
+                above question was a clever ruse to ferret out indiscriminate 
+                hint book users!<br>
+                - There is no cave, there is no troll and you won't need a lantern 
+                on Estros or anywhere else in the game. Now stop reading hints 
+                you don't need!</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I keep getting 
+                zapped by the Sequel Police. How can I avoid them?<br>
+                <font color="#333333">- If I where you, I'd catch the next flight 
+                out of here.<br>
+                - No, I don't mean leave the planet. Say, have you seen any giant 
+                pre-historic flying creatures around here?<br>
+                - The best way to avoid the Sequel Police is to exit your pod 
+                and walk immediately to the far West side of the butte. After 
+                a large, formidable shadow passes over the ground, walk back to 
+                the pod and take the stairway down. There's a mama of a pterodactyl 
+                just waiting to give you a lift.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I've fallen 
+                into a giant bird's nest. How do I get out before I'm lunch?<br>
+                <font color="#333333">- There's a hole in the bottom right side 
+                of the nest. Click the WALK cursor on the hole to escape.<br>
+                - By the way, did you search the Sequel Police officer's body? 
+                Click the HAND cursor on the body.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I've escaped 
+                the pterodactyl nest, only to be captured by a bunch of scorned 
+                women. Is there any way out of this?<br>
+                <font color="#333333">- Those scorned women are famed Latex Babes 
+                of Estros. You leave one of them at the altar in a future game, 
+                and they never forget a grudge. I'm afraid there's no way out 
+                of this one, you'll have to go with them.<br>
+                - Wait 'til they tell you to get in the sub, then click the WALK 
+                cursor on the hatch.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">The Latex 
+                Babes have fled, and I'm about to become a slug snack. Is this 
+                the end?<br>
+                <font color="#333333">- Not if you can reach that button...<br>
+                - When the slug's slimy tentacles are wrapped around your legs, 
+                click the HAND cursor on the button on the arm of the chair.<br>
+                - If at first you don't succeed... Do it again!</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I zapped the 
+                slug, but it just made him mad. How do I finish him off?<br>
+                <font color="#333333">- Didn't you see JAWS?<br>
+                - See those thanks to the right of your chair? Grab one and feed 
+                it to him.<br>
+                - Click the HAND cursor on the air tank nearest you, then click 
+                the TANK cursor on the slug's mouth.</font><font color="#333333"><br>
+                <br>
+                </font></font></p>
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr> 
+                  <td width="50%"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>The 
+                    Galaxy Galleria Mall</strong></font><strong></strong><font face="Arial, Helvetica, sans-serif" size="2"><a name="mall"></a></font></td>
+                  <td width="50%"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000">:: 
+                      <a href="#top"> Back to top</a> ::</font></div></td>
+                </tr>
+              </table>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">The Latex 
+                Babes have gone shopping, and I'm wandering around the mall. It's 
+                cool enough place, but I'm not feeling very heroic. Is there something 
+                I should be doing?<br>
+                <font color="#333333">- Well, you don't look very heroic in your 
+                bare feet and cutoffs -- don't you think you ought to get some 
+                new clothes?<br>
+                - From the top of the escalator go West on the walkway. Stop at 
+                the Big and Tall Alien store and talk to the clerk. He's got what 
+                you need.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">This automatic 
+                walkway is too slow. Can I make it go faster?<br>
+                <font color="#333333">- Click the WALK cursor on the place you 
+                want to move to, or use the direction keys. Look at Roger go!<br>
+                - If Roger is walking in place, you're trying to walk in the wrong 
+                direction.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I'm wearing 
+                my Generic Space Hero suit, buy I don't have enough Buckazoids 
+                to buy anything else. What's next?<br>
+                <font color="#333333">- Did you get the ATM card?<br>
+                - The AutoBucks card the babes dropped at the top of the escalator 
+                -- you picked it up, right?<br>
+                No? Well, go back to the escalator and get the ATM card. Don't 
+                worry, it's still there. Now all you have to do is find an Automatic 
+                Teller Machine.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">Excuse me, 
+                is there an Automatic Teller Machine around here anywhere?<br>
+                <font color="#333333">- Right next to the software store.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I found the 
+                Automatic Teller Machine, but it won't let me use my card. How 
+                do I make it work?<br>
+                <font color="#333333">- Your card? That's not your card -- it's 
+                Zondra's card. Why, you don't look anything like Zondra. You can't 
+                even fool me -- did you really think you'd be able to fool that 
+                machine?<br>
+                - You need a clever disguise.<br>
+                - Visit the Women's Clothing Store, and talk to the clerk. She'll 
+                be more than happy to assist you.<br>
+                - Now go back to the Automatic Teller Machine and Clean House.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">The cute alien 
+                girl asked me to go skating with her. Where can I rent some skates?<br>
+                <font color="#333333">- Oh, she did not.<br>
+                - You're doing it again...<br>
+                - Why are you still reading this? All the cute alien girls in 
+                this game are off skating with cute alien boys. Grow up, Roger! 
+                You've got a planet to save!</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I know I need 
+                to buy some things, but I don't have enough money. Where can I 
+                pick up a few quick Buckazoids?<br>
+                <font color="#333333">- Have you considered getting a job? Somebody 
+                around here is bound to need a janitor, or something.<br>
+                - If you're dressed properly, go to Monolith Burger and talk to 
+                the manager. He's looking for a competent employee, but maybe 
+                you'll do.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">How am I supposed 
+                to earn money when I keep getting fired?<br>
+                <font color="#333333">- All these years as a space hero haven't 
+                really prepared you for the working world, have they Roger? Oh, 
+                well, you only needed another $21.00 anyway.<br>
+                - You couldn't even manage 21 burgers? Boy, you're worse off than 
+                I thought. Have you tries going back and begging for another chance?<br>
+                - Go back to Monolith Burger and apply for a job again. As long 
+                as you didn't earn more than $34.00 the first time, he'll hire 
+                you back.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">Can I buy 
+                anything at the software store?<br>
+                <font color="#333333">- Sure you can -- if you have enough Buckazoids.<br>
+                - The only thing you need is the Space Quest IV hint book from 
+                the bargain bin.<br>
+                - Yeah, I know this is the Space Quest IV hint book. Just pretend, 
+                okay?</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">Do I need 
+                anything from Radio Shock (Hz so Good)?<br>
+                <font color="#333333">- There is an item you'll need, but you 
+                may not know what that is yet.<br>
+                - If this is your first visit to the mall, you can buy an adapter. 
+                It may not be the right one, but you can buy it.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">Okay, this 
+                is my SECOND trip to the mall. NOW do I need anything from Radio 
+                Shock (Hz so Good)?<br>
+                <font color="#333333">- Are you telling the truth? Is this really 
+                your second trip to the mall? Or are you reading hints you don't 
+                really need yet? I want to think very carefully about this before 
+                reading any further. This might be one of those trick questions 
+                -- wouldn't that make you feel foolish?<br>
+                - Last chance...<br>
+                - Okay, if you're really at the mall again, then you must have 
+                an idea of what you need. In order to use you PocketPal&#153; 
+                in the Super Computer terminal back on Xenon, you need an adapter 
+                -- but not just any adapter.<br>
+                - While looking at the Super Computer terminal, you need to pay 
+                special attention to the shape and pin configuration of the plug. 
+                At Radio Shock (Hz so Good), look at the available adapter, and 
+                buy the one that looks like it will fit.<br>
+                - Now go back to the Super Computer on Xenon.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I've been 
+                reading the Space Quest IV hint book. It's been very entertaining, 
+                but it hasn't helped me yet. Is there any useful information in 
+                it?<br>
+                <font color="#333333">- I beg your pardon? Oh, you mean that hint 
+                book. Yes, there's definitely something in it you'll need.<br>
+                - Can't you find anything that pertains to your situation? Come 
+                on, look one more time.<br>
+                - (Sigh) It's the question about the timepod. The last window 
+                contains part of the coordinates you'll need to get out of here.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I'm at the 
+                Women's Clothing store. The clerk seem eager to help me -- is 
+                there something I need here?<br>
+                <font color="#333333">- Believe it or not, yes. If you're fixed 
+                for Buckazoids, you need what she's selling.<br>
+                - Do you have the AutoBucks card? The babes dropped it at the 
+                mall entrance.<br>
+                - Go back and read the questions about the Automatic Teller Machine.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I'd really 
+                like to waste some time and Buckazoids at the arcade. Can I do 
+                that without getting shot?<br>
+                <font color="#333333">- Don't you have anything better to do?<br>
+                - Until you're finished at the mall, I don't advise wandering 
+                around the arcade.<br>
+                - There's one game you can play if you visit the arcade early 
+                enough. Don't waste a lot of time or you're history. Ms. Astro 
+                Chicken is the first game on the left -- it's a real gas!</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">Where can 
+                I change out this ... uh .. disguise?<br>
+                <font color="#333333">- Aw, don't go changin'.. you look so cute!<br>
+                - Oh, all right. You left you generic Space Hero suit in the dressing 
+                room at the Women's Clothing Store -- maybe you should go back 
+                there and change, huh?</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I've done 
+                and seen everything I can at the Galaxy Galleria Mall. How do 
+                I get out of here?<br>
+                <font color="#333333">- You'll have to steal another timepod. 
+                Have you seen one around?<br>
+                - If you're really done at the mall, go to the arcade. Walk to 
+                the right rear of the room, and your chariot will arrive -- whether 
+                you like it or not!</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">Help! The 
+                Sequel Police have tracked me down at the arcade -- can I lose 
+                them?<br>
+                <font color="#333333">- Your future was bound to catch up with, 
+                Rog. You're going to have to outsmart them again. This is going 
+                to take some clever maneuvers - think you're up to it?<br>
+                - First, get out of the arcade without getting shot.<br>
+                - When the S.P.'s arrive, you should be standing in the right 
+                rear of the room. Move the cursor to the front (bottom right side 
+                of the screen) and click the WALK cursor as soon as you have control 
+                again.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I ditched 
+                the Sequel Police at the arcade, but they always catch up to me 
+                sooner or later. Where can I hide?<br>
+                <font color="#333333">- Come now, did you really think it was 
+                going to be that easy? They're armed! You're going to have to 
+                make it difficult for them to get a shot at you.<br>
+                - Ever tried to shoot somebody in Zero-G?<br>
+                - Skate-O-Rama? What a great idea! You're a genius, Rog. Now, 
+                get out there and keep moving.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I can't get 
+                passed the Sequel Police in the Skate-O-Rama.<br>
+                <font color="#333333">- Your computer is too fast. Download the 
+                Turbo program at my download page. This program will temporary 
+                slow down your pc.<br>
+                - It is almost impossible to get passed them if you have a fast 
+                computer (+250 Mhz). <a href="../../misc/timerissues/index.shtml">Click 
+                here</a> for more information</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I've out-foxed 
+                the Sequel Police once again, but now I'm at a loss. What should 
+                I do?<br>
+                <font color="#333333">- Boogie back to the arcade and steal their 
+                timepod.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I'm in the 
+                stupid timepod. Where else can I go?<br>
+                <font color="#333333">- If you've been a good little adventurer, 
+                you have the coordinates you need for your next stop.<br>
+                - The first half is in the Space Quest IV hint book; look for 
+                the question identical to the one above.<br>
+                - The second half is on the gum wrapper which I hope you lifted 
+                from the Sequel Policeman's body back in the pterodactyl nest.</font><font color="#333333"><br>
+                <br>
+                </font></font></p>
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr> 
+                  <td width="50%"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Ulence 
+                    Flats</strong></font><font face="Arial, Helvetica, sans-serif" size="2"><a name="ulence"></a></font></td>
+                  <td width="50%"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000">:: 
+                      <a href="#top"> Back to top</a> ::</font></div></td>
+                </tr>
+              </table>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">Wow, d&eacute;j&agrave; 
+                vu! I'm back at Ulence Flats, and it's in AGI! Can I get into 
+                Droids B Us?<br>
+                <font color="#333333">- Nope. Droids B Us is closed, and so is 
+                Tiny's. The only place you need to go is the bar.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">Every time 
+                I try explore this lovely low-res landscape, I get zapped. What 
+                should I do?<br>
+                <font color="#333333">- Don't go out there!<br>
+                - The only place you need to go is the bar.<br>
+                - So go there already!</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I went to 
+                the bar, but I got tossed out on my ear (so to speak) by the Monochrome 
+                Boys. Am I here for a reason?<br>
+                <font color="#333333">- Roger, it's time you stood up for yourself. 
+                Go back in there and... well, maybe that isn't such a good idea. 
+                Just do what any other red-blooded space hero would do -- get 
+                even.<br>
+                - See those motorcycles? Okay, take a deep breath and click the 
+                HAND cursor on one (Hee, hee!)</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I got rid 
+                of the Monochrome Boys, but there's nothing much else going on 
+                around here. If I hang around too long, they're bound to come 
+                back, right? What do I need to do before I can get the heck out 
+                of here?<br>
+                <font color="#333333">- Now that they're out of the bar, you can 
+                go back in. There's something in there you're going to need.<br>
+                - There's a book of matches on the bar. Grab 'em.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I think I'm 
+                done at Ulence Flats. Where do I go from here?<br>
+                <font color="#333333">- Head back to Xenon. You do have the coordinates, 
+                don't you?<br>
+                - The coordinates were on the screen when you first entered the 
+                pod back on Xenon. If you didn't write them down, you're out of 
+                luck, pal.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I can't get 
+                back to my timepod -- the Monochrome Boys keep killing me!<br>
+                <font color="#333333">- Use the mouse or arrow keys to dodge 'em. 
+                Good Luck!</font><font color="#333333"><br>
+                <br>
+                </font></font></p>
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr> 
+                  <td width="50%"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Back 
+                    on Xenon again</strong></font><font face="Arial, Helvetica, sans-serif" size="2"><a name="xenon2"></a></font></td>
+                  <td width="50%"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000">:: 
+                      <a href="#top"> Back to top</a> ::</font></div></td>
+                </tr>
+              </table>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I've landed 
+                back on Xenon. Can I get inside the dome? Do I even want to go?<br>
+                <font color="#333333">- Yeah, you want to. You're going to have 
+                to get past that locked door though. Hmmm... do you have the lock-picking 
+                kit?<br>
+                - Wait there's no lock-picking kit in this game -- I must be thinking 
+                of Quest for Glory. Well, what else do you have that might be 
+                useful here?<br>
+                - A blow torch? No, that's not it. A jar of acid? Hey, it's crazy, 
+                but it just might work.<br>
+                - Pour the acid on the lock (choose the jar from your inventory 
+                window, then click the JAR cursor on the door. Click the HAND 
+                cursor on the door to open it.<br>
+                - You do have a jar of acid, don't you? You remember the green 
+                goo in the sewer? If you don't have it, you'd better go and get 
+                some now.<br>
+                - To get down to the street, get into the shuttle landing gear 
+                space again.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I'm in a tunnel. 
+                When I try to walk to the other end, I get fried. Is there a way 
+                through here?<br>
+                <font color="#333333">- This is a test. How resourceful are YOU? 
+                It's time to review the items in your inventory.<br>
+                - The items you'll need to get through through tunnel are: 1) 
+                A book of matches, 2) An old cigar butt and 3) A brain. The first 
+                two can be found in this game. The third is located between your 
+                ears (we're counting on this).<br>
+                - Okay, choose the matches from your inventory window. Click the 
+                MATCHES cursor on the cigar butt. Now select the cigar butt from 
+                the window. Click on OK.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">Uh... I don't 
+                want to sound like a dork, but where do I get the cigar butt?<br>
+                <font color="#333333">- You dork, the manager of Monolith Burger 
+                threw it at you right after he fired you. It's laying at the end 
+                of the Galaxy Galleria walkway in the escalator area.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I can see 
+                the laser beams, but I still can't walk through them without killing 
+                myself. Is this a trick?<br>
+                <font color="#333333">- This is where the grey matter comes in. 
+                See the keypad on the wall? Click the EYE cursor on the keypad 
+                to get a close-up view. Now look at the angles of each set of 
+                laser beams. The object is to enter the correct rotation angle 
+                for each set, in order to place each in a straight up and down 
+                position. With this accomplished, you can walk through the tunnel 
+                unmolested.<br>
+                - All that stuff about rotation just too confusing? Okay, I'll 
+                give you the first one to get you started. With the beams in the 
+                initial position (before you made any attempts to adjust them) 
+                and the flashing bar in the top window, press 156 on the keypad, 
+                and press ENTER. The first set of beams will rotate to the desired 
+                position.<br>
+                - The second set of beams can be adjusted from the initial position 
+                by entering 024 into the keypad.<br>
+                - If you've already adjusted the beams to the wrong angles, use 
+                the keypad to enter multiples of 12 until the beams are in the 
+                correct position.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I made it 
+                through the tunnel, but I keep getting zapped by Security Droids. 
+                How can I avoid them?<br>
+                <font color="#333333">- At this point you need to get in and get 
+                out, stopping only a bit of information.<br>
+                - At intervals along the walkways, are a series of small boxes; 
+                these are terminals for Vohaul's Super Computer. Click on the 
+                EYE cursor on the first terminal you see upon entering this area. 
+                You'll get a close up view of the terminal, and you should study 
+                it carefully )I suggest making a sketch) -- you'll need to remember 
+                what it looks like. Then get the heck out of there.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I went through 
+                the tunnel, looked at the terminal, and got out alive. Is there 
+                anything else I need to do here?<br>
+                <font color="#333333">- Now you need an adapter to make you PocketPal&#153; 
+                work with the Super Computer's terminal. Where might you go for 
+                a nifty electronic gadget like that?<br>
+                - Radio Shack (Hz so Good)! Jump in your timepod and head back 
+                to the Galaxy Galleria mall.<br>
+                - Now see the question about your &quot;second trip&quot; t the 
+                mall, somewhere in this page.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I bought this 
+                PocketPal&#153; adapter thing -- what do I do with it?<br>
+                <font color="#333333">- Adapt your PocketPal&#153;, of course!<br>
+                - Choose the adapter from the inventory window. Click the ADAPTER 
+                cursor on the PocketPal&#153;.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">My PocketPal&#153; 
+                won't work. What am I doing wrong?<br>
+                <font color="#333333">- It's only a terminal -- it won't work 
+                by itself. You'll have to find a computer to plug it into.<br>
+                - Plug you Pocketpal&#153; into the Super Computer terminal inside 
+                the dome (choose the laptop from the inventory window, then click 
+                the LAPTOP cursor on the Super Computer terminal). This will allow 
+                you to monitor the movements of the Security Droids. Note: Don't 
+                try to click the LAPTOP cursor on the close-up view of the terminal.<br>
+                - The flashing grey rectangle is you; the flashing blue or green 
+                octagon is a Security Droid travel along a predetermined path, 
+                until they detect your presence and seek you out for disposal. 
+                This is a trial and error situation; keep trying until you reach 
+                the Programming area -- that's where the real fun begins.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">My PocketPal&#153; 
+                won't work, and the above didn't help me. Any other brilliant 
+                ideas?<br>
+                <font color="#333333">- Boy, you're really in trouble. Well, the 
+                way I see it, you have have one of two problems )or worse yet, 
+                two of two problems). Firstly, are you sure you bought the right 
+                adapter at Radio Shock (Hz so Good)?<br>
+                - Secondly, the PocketPal&#153; needs power. Do you have a battery?<br>
+                - Don't give up yet -- maybe you just don't know you have it. 
+                Look closely at your inventory items.<br>
+                - If you still can't find a battery, I must conclude that you 
+                failed to snare the hare. See the question about the rabbit somewhere 
+                on this page.<br>
+                - If you have the rabbit, click the EYE cursor on him. See the 
+                battery? Now click the HAND cursor on the battery. The battery 
+                will become a separate inventory item. Choose the battery from 
+                the window, and click the BATTERY cursor on the PocketPal&#153;.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I plugged 
+                in my PocketPal&#153;, and Sludge Vohaul showed up. Did I do something 
+                wrong?<br>
+                <font color="#333333">- No. Just pay attention to what he says, 
+                and continue on your way.<br>
+                - He's got your son, Roger. You're going to have to rescue him.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I'm wandering 
+                around inside Vohaul's Super Computer. Where should I go?<br>
+                <font color="#333333">- Find your way to the Programming Chamber.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I found a 
+                door with a keypad on it. I think this is the Programming Chamber, 
+                but what's the code?<br>
+                <font color="#333333">- You're right, it's the Programming Chamber. 
+                The code's in the hint book.<br>
+                - Look under the question that begins with &quot;I'm in a strange 
+                room inside the Super Computer..&quot;.<br>
+                - You don't have the Space Quest IV hint book? You were supposed 
+                to buy it at the Software store.<br>
+                - The code is 69-65-84-76-69.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I'm in the 
+                Programming Chamber, and all I can see is a lot of strange symbols 
+                on my screen. What am I supposed to do here.<br>
+                <font color="#333333">- That depends, are you feeling brave? More 
+                importantly, have you saved your game lately?<br>
+                - This is the place were you can really get things moving, of 
+                you know what I mean.<br>
+                - You can disable the Security Droids by clicking the HAND icon 
+                and dragging it into the toilet. Don't you just love Drag'n'Drop? 
+                This will make it a lot easier to get around in the Super Computer.<br>
+                - To format Vohaul, click on the BRAIN icon and drop it into the 
+                toilet. Now the meter's running, Rog -- hurry up and rescue Roger 
+                Jr.!</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I can't find 
+                Roger Jr.! Where are they keeping him?<br>
+                <font color="#333333">- He's in Vohaul's chamber.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I found Roger 
+                Jr., but these orbs keep shooting at me. How do I help him?<br>
+                <font color="#333333">- Have you started the formatting sequence?<br>
+                - Find the Programming Chamber and start the formatting sequence. 
+                When you've done that, the orbs won't shoot at you.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I've reached 
+                Roger Jr. only to find him possessed with Vohaul! What now?<br>
+                <font color="#333333">- You have to get that disk into the drive 
+                before the formatting sequence is over!<br>
+                - Roger Jr./Vohaul threw the disk containing Roger Jr.'s essence 
+                over the edge of the platform. You have to retrieve that disk 
+                and put it back into the drive!<br>
+                - You're going to have to fight Roger Jr./Vohaul and win. Use 
+                the mouse or arrow keys to fight him.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I fought Roger 
+                Jr./Vohaul, and he's stuck in the beam again. How can I get Roger 
+                Jr.'s disk back?<br>
+                <font color="#333333">- See that ladder on the left side of the 
+                platform? Use it.<br>
+                - Click the HAND icon on the ladder.</font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">I've got the 
+                disk, now what do I do with it?<br>
+                <font color="#333333">- Put it in the drive!<br>
+                - Choose the disk from your inventory window, then click the DISK 
+                cursor on the disk drive.<br>
+                - Now click on BEAM UPLOAD to upload Vohaul into the Super Computer. 
+                Click on DISK UPLOAD to upload Roger Jr. into the computer. Select 
+                Roger Jr. from the list and click on BEAM DOWNLOAD. Roger Jr. 
+                will be downloaded to his body, and Vohaul will be formatted in 
+                the Super Computer.<br>
+                - Now sit back and watch the touching ending.</font></font></p>
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr> 
+                  <td width="50%">&nbsp;</td>
+                  <td width="50%"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000">:: 
+                      <a href="#top"> Back to top</a> ::</font></div></td>
+                </tr>
+              </table>
+            </div></td>
+        </tr>
+      </table> </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

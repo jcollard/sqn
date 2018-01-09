@@ -1,0 +1,222 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Fan Phenomena</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+<!-- Begin
+
+image1 = new Image();
+image1.src = "../../tabs/maintabover.gif";
+
+image2 = new Image();
+image2.src = "../../tabs/sq1tabover.gif";
+
+image3 = new Image();
+image3.src = "../../tabs/sq1tabover.gif";
+
+image4 = new Image();
+image4.src = "../../tabs/sq2tabover.gif";
+
+image5 = new Image();
+image5.src = "../../tabs/sq3tabover.gif";
+
+image6 = new Image();
+image6.src = "../../tabs/sq4tabover.gif";
+
+image7 = new Image();
+image7.src = "../../tabs/sq5tabover.gif";
+
+image8 = new Image();
+image8.src = "../../tabs/sq6tabover.gif";
+
+image9 = new Image();
+image9.src = "../../tabs/sq7tabover.gif";
+
+image10 = new Image();
+image10.src = "../../tabs/misctabover.gif";
+
+// End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, mark crowe, josh mandel, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="fanficup.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Fanfiction 
+                &gt;</strong> The &quot;fan phenomena&quot; of the Space Quest 
+                Community is old and complex. Whether it's a story, an image or 
+                a video, fans have been writing fanfiction since the first fanpage 
+                appeared online.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="fanficdown.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../../navmenu/miscmenu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="fanficbetween.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br> 
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td colspan="2" valign="top"><p align="justify"><font color="ffffb1" size="3" face="Arial, Helvetica, sans-serif"><strong> 
+              The
+      Fan Phenomena<font size="2"><br>
+      </font></strong></font><font size="2" face="Arial, Helvetica, sans-serif">A
+      fanfiction webring described the fan phenomena like this: &quot;It is a
+      sad but simple fact that there isn't very much good fanfiction out there.
+      Most stories are sloppily written, organizationally deficient and utterly
+      stuck in clich&eacute; - sometimes to the point of confusing the original
+      series facts with &quot;fanon&quot; (ideas that have appeared in fanfiction
+      so often that they are generally accepted as having come from the original
+      series). In other words, to put it bluntly... it's crap.&quot; Personally,
+      I couldn't agree more. Sadly, this also applies to Space Quest which has
+      quite a few fans who are interested in writting fanfiction. It must be
+      said that people write fanfiction out of love for the Series, but that
+      quite a few of them forget that it takes talent to write good fanfiction... </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Since
+                fanfiction is a huge part of the Space Quest Community and important
+                in both its past and future, <img src="../../extraimages/sqnet.gif" width="87" height="11" alt="SpaceQuest.Net"> doesn't
+                want to ignore the fan phenomena. That's why I choose to run
+                the best fanfiction only.</font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="ffffb1" size="3" face="Arial, Helvetica, sans-serif"><strong>Fangames</strong></font></p>
+            <blockquote>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">- <a href="fangames/index.shtml">Space
+                    Quest The Lost Chapter</a><br>
+    - <a href="fangames/index.shtml">Space Quest 0: Replicated</a></font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Still
+                  in production:</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">- <a href="fangames/sq7.shtml">Space
+                    Quest 7</a>. Link to their website: <a href="http://www.sq7.org" target="_blank">Space
+                    Quest 7</a><br>
+    - <a href="fangames/vsb.shtml">Vohaul Strikes Back</a>. Link to their website: <a href="http://www.vohaulstrikesback.com/" target="_blank">Vohaul
+    Strikes Back</a> <br>
+    - <a href="fangames/vm.shtml">Vohaul's Mines</a>.  Link
+    to their website: <a href="http://www.vohauls-mines.com/" target="_blank">Vohaul's
+    Mines</a></font></p>
+            </blockquote>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="ffffb1" size="3" face="Arial, Helvetica, sans-serif"><strong>Fanstories</strong></font></p>
+            <blockquote>
+              <p><font size="2" face="Arial, Helvetica, sans-serif">- <a href="fanstories/sq1fanfic.shtml">The
+                    Arcada: Before the Attack</a><br>
+    - <a href="fanstories/sq2fanfic.shtml">The Orium Mines</a><br>
+    - <a href="fanstories/sq3fanfiction.shtml">Monolith Burger re-visited</a><br>
+    - <a href="fanstories/sq4fanfic.shtml">The Vohaul Bubble</a><br>
+    - <a href="fanstories/sq6fanfic.shtml">A Tribute to Pelvis Brelsford</a></font></p>
+              <p>&nbsp;</p>
+            </blockquote>
+            <p><font color="ffffb1" size="3" face="Arial, Helvetica, sans-serif"><strong>Fanimages</strong></font></p>
+            <blockquote>
+              <p><font size="2" face="Arial, Helvetica, sans-serif"> - <a href="fanpictures/scottposter.shtml">Scott
+                    Murphy: Wanted dead or alive</a><br>
+    - <a href="fanpictures/index.shtml">Images submitted by fans</a><br>
+    - <a href="fanpictures/sq2images.shtml">Remake images Space Quest 2</a></font></p>
+              <p>&nbsp;</p>
+            </blockquote>
+            <p><font color="ffffb1" size="3" face="Arial, Helvetica, sans-serif"><strong>Fanmisc</strong></font></p>
+            <blockquote>
+              <p><font size="2" face="Arial, Helvetica, sans-serif">-
+                    <a href="spacequest2.swf" target="_blank">A flash animation
+                    teaser for Space Quest 2</a> <font color="#CC0000">(144 KB)</font></font></p>
+            </blockquote>
+            <p><font color="#000000">___</font></p></td>
+        </tr>
+      </table>
+      
+    </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All
+          original content (c) Frans van Hofwegen. All Space Quest related
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

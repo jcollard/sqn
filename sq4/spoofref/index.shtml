@@ -1,0 +1,258 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 4 Spoofs and References</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq4up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 4 Spoofs and References &gt; </strong> Space Quest 4 is 
+                chockfull with cool spoofs and references. I've listed them below.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq4down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../../navmenu/sq4menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq4between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td colspan="2" valign="top"> <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Space 
+              Quest 4 Spoofs and References<font size="2"><br>
+              </font></strong></font><font size="2" face="Arial, Helvetica, sans-serif">On 
+              the destroyed streets of Xenon, if you click the tongue icon on 
+              the fortress in the background, the game responds with: &quot;The 
+              only way your tongue would reach that far was if you were in a Leisure 
+              Suit Larry game!&quot;</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">One 
+              of the questions in the on-game hint book reads: &quot;I can't find 
+              the one-armed man anywhere.&quot; The answer is given as, &quot;Ask 
+              Bob&quot;. This is reference to Twin Peaks.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              On 
+              Estros, Zondra demands Roger: &quot;Into the sub, flyboy&quot;. 
+              This is a spoof on Star Wars Episode 4. After Princess Leia shoots 
+              the vent into the garbage chute she says to Han Solo: &quot;Into 
+              the garbage chute, flyboy&quot;.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">One
+                of the timepod codes will take you to  Ortega (see the <a href="http://www.spacequest.net/sq4/eastereggs/">easter
+                egg section</a>). Obviously, you don't have your thermal
+                underwear
+                so
+                you
+                die. The death message is a direct spoof on an American drug
+                campaign. A man gets some eggs and
+                says: &quot;This
+                is your brain&quot;. He then proceeds to fry them. &quot;This
+                is your brain on drugs&quot;. He then looks churlishly at the
+            camera: &quot;Any questions?&quot;.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><img src="../../extraimages/newitem.gif" width="62" height="44" align="right">The
+                name of the arcade game, &quot;Monaco Princess Stunt Drivin'&quot;,
+                is an interesting mixture of the titles &quot;Super Monaco Grand
+                Prix&quot;, &quot;Stunt Driver&quot; and Tengen/Domark's &quot;Hard
+                Drivin&quot; series. Also it seems like a tasteless reference
+                to Princess Grace of Monaco (Grace Kelly), who died in a car
+            accident.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><img src="../../extraimages/newitem.gif" width="62" height="44" align="right">The
+                Laptop at Hz So Good is advertised as having a &quot;Chicklet
+                style keyboard, and Dentyne style mouse.&quot; Chicklets and
+                Dentyne are both types of gum. Hz So Good is a parody of the
+                Hertz Rental Company and an old song entitled something like
+                It Hurts So Good.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><img src="../../extraimages/newitem.gif" width="62" height="44" align="right">When
+                near RadioShock, try to look at the plants. The narrator will
+                say &quot;This plant is provided courtesy by Shapeir flourists.&quot; Obviously,
+                a Quest for Glory II reference.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><img src="yoda.gif" width="96" height="71" align="left"><img src="../../extraimages/newitem.gif" width="62" height="44" align="right">When
+                you're sitting inside your time pod in the Galaxy Galleria, you
+                can see Yoda from Star Wars playing on one of the computer games.
+                It's a bit obscure, but it's the far lard alright!</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">When 
+              arriving at the Galaxy Galleria, there's a huge crowd in the front 
+              of the Software Excess store. When talking to one of the people 
+              in the crowd, he'll inform you that &quot;The Two Geeks from Andromeda 
+              are in there, signing copies of their latest release.&quot; ... 
+              Try using the talk icon some additional times for a laugh.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              whole inside artwork of the Super Computer resembles an H.R. Giger 
+              album (the art designer of Alien and Species). Remember the alien 
+              ship on LV-426 (Alien)? There's also a small reference to the &quot;Frogger&quot; 
+              game.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              subtitle for Ms. Astro Chicken, &quot;Flight of the Pullet&quot;, 
+              may have been a poke at Spectrum Holobyte's &quot;Flight of the 
+              Intruder&quot;.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              &quot;Ms.&quot; in the title &quot;Ms. Astro Chicken&quot; is a 
+              spoof on the old console games Pacman and Donkey Kong. It was a 
+              trend to re-release a game with kiddie graphics and a title like 
+              &quot;Ms. Pacman&quot; or &quot;Donkey Kong Jr&quot;.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              title for Space Quest X, &quot;The Latex Babes of Estros&quot;, 
+              seems to be a poke at the old Infocom text adventure, &quot;Leather 
+              Goddesses of Phobos&quot;.</font></p>
+            <div align="justify"> 
+              <table width="100%" border="0">
+                <tr> 
+                  <td height="4" colspan="2" align="left" valign="top"> <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The
+                         electronics store in the Galaxy Galleria of the disk
+                        version 
+                      of SQ4 was called &quot;Radio Shock&quot;, in reference
+                      to a large chain of Radio Shacks in the States, which is
+                      called &quot;Radio Shack&quot;. The CD-Rom version of SQ4
+                       changed this to &quot;Hz So Good&quot;. The Two Guys where
+                        almost sent to court. Scott Murphy: &quot;The way it
+                        worked  from the company side is that it is easier and
+                        far economically 
+                      sensible to make an art and writing change than go nearly
+                         the level of litigation. It's costly and time consuming.
+                        
+                      Oh, and did I mention costly? Mark and I hated to have
+                        to  make any changes submitted from outside the team,
+                        but on 
+                      occasion you could see the logic (Sometimes I really hate
+                         logic!).&quot; Another difference is the pillars of
+                         Hz.  So Good, which are animated. The pillars of Radio
+                         Shock 
+                      are not. </font></p></td>
+                </tr>
+                <tr align="left" valign="top"> 
+                  <td height="89"><font size="2" face="Arial, Helvetica, sans-serif">Cd-rom 
+                    version</font><font color="#CC0000" face="Arial, Helvetica, sans-serif"><br>
+                    </font><font face="Arial, Helvetica, sans-serif"><img src="hzsogoodklein.jpg" alt="Hz. So Good" width="200" height="111"></font></td>
+                  <td height="89"><font size="2" face="Arial, Helvetica, sans-serif">Disk 
+                    version</font><font color="#CC0000" face="Arial, Helvetica, sans-serif"><br>
+                    </font><font face="Arial, Helvetica, sans-serif"><img src="radioshock.jpg" alt="RadioShock" width="200" height="111"></font></td>
+                </tr>
+              </table>
+            </div>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">All 
+              the games in the software box, except three, are parodies of other 
+              games. The exceptions are the SQ4 hint book, King's Quest 48 and 
+              the Checkerboard Construction Set from Scumsoft. Here's a list of 
+              the parodies:<br>
+              - &quot;Boom&quot; is a parody on LucArts' &quot;Loom&quot;. The 
+              author of the original game was called Brian Moriaty, but is renamed 
+              Morrie Brianarty in SQ4. The parody box describes the game as having 
+              no interface, no conflicts, no puzzles, no other characters and 
+              no chance of dying; as does &quot;Loom&quot;. :)<br>
+              - &quot;Sim Sim&quot; from MaxThis is a parody on the Sim-games 
+              from Maxis - obviously, Josh Mandel (who wrote the boxes) thinks, 
+              Maxis is releasing too many Sim-games.<br>
+              - &quot;Where in the World is Hymie Lipschitz (And Who Really Cares?)&quot; 
+              from BroderBuns, is of course a parody on the Carmen Sandiago games 
+              from BroderBund.<br>
+              - &quot;It Came For Dessert&quot; from Enemaware is a parody on 
+              an old Amiga adventure called &quot;It Came from the Desert&quot; 
+              from Cinemaware, featuring a horde of really big ants. Another note 
+              is that the box mentions &quot;Defender of the Crown Rib Roast&quot;, 
+              which is a parody on an earlier strategy game by the same company, 
+              with the same title - except for the rib roast part.<br>
+              - Cluck Egger lets you design a chicken and make it fly over real 
+              barnyard scenery. This is a parody on a flight simulator, called 
+              &quot;Chuck Yeager&quot;.</font></p>
+            <p align="justify"><font color="#000000" size="2" face="Arial, Helvetica, sans-serif">__</font></p>
+          </td>
+        </tr>
+      </table> </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All
+          original content (c) Frans van Hofwegen. All Space Quest related
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

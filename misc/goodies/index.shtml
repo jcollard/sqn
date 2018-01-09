@@ -1,0 +1,306 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Goodies</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, mark crowe, josh mandel, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="goodiesup.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Goodies 
+                &gt;</strong> This page is about Space Quest goodies. Like rare 
+                or funny items related to the Space Quest Series. But also stuff 
+                that I found in the media (TV, game magazines, radio, etc).</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="goodiesdown.jpg" width="975" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../../navmenu/miscmenu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="goodiesbetween.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br> 
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td colspan="2" valign="top"> <p align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Make 
+              your own Andromedan Snout&#153;!</strong></font><font color="#CC0000" size="3" face="Arial, Helvetica, sans-serif"><br>
+              </font><font color="#CC0000" size="3" face="Arial, Helvetica, sans-serif"><img src="theguy.jpg" alt="Frans van Hofwegen" width="100" height="105" align="left"></font><font face="Arial, Helvetica, sans-serif" size="2">The 
+              pigsnout and glasses were originally supplied with Space Quest 3 
+              and I've scanned it for those who don't want to miss out on looking 
+              like a mentally disturbed human piece of waste from Andromeda! <a href="snout2.pdf">Click 
+              here</a> <font color="#CC0000">(3 MB)</font> for the PDF file. It's 
+              an image with 300 DPI and its dimensions are 17.15 centimeters wide 
+              and 21.59 high. Print it with a colour printer, paste it onto a 
+              piece of cardboard (I suggest using at least 300 grams paper), use 
+              a pair of scissors to cut out the picture and there you go! The 
+              only thing that's left is your very own death-ray shield. It's a 
+              thin piece of green transparent plastic. Visit your local hobby 
+              shop or office supply store, and I'm sure they can help you. After 
+              that you're ready to roll, Bucko! Please keep in mind that the Chdnarian 
+              race aren't friendly to Andromedans (that's an understatement). 
+              You don't want to run into one of them, they might mistake you for 
+              a real Andromedan.</font></p>
+            <p align="justify">&nbsp;</p>
+            <table width="100%%" border="0" cellspacing="1" cellpadding="1">
+              <tr> 
+                <td valign="top"><div align="justify"> 
+                    <p><font color="#CC0000" size="3" face="Arial, Helvetica, sans-serif"> 
+                      <font color="FFFFB1"><strong>Promotional badge</strong></font><font size="2"><br>
+                      </font></font><font face="Arial, Helvetica, sans-serif"><img src="promotionalitemf1.jpg" width="150" height="150" border="0" align="left"><img src="protionalitemr.jpg" width="150" height="150" border="0" align="right"><font size="2">I 
+                      found this badge on an eBay auction. It's an official Space 
+                      Quest 3 promotional badge dating back to the 1989 era. The 
+                      left picture shows the front of the badge, containing the 
+                      box art of the game. And the right image confirms its age 
+                      as the metal looks all corroded. </font></font></p>
+                    <p><font size="2" face="Arial, Helvetica, sans-serif">I don't 
+                      know where it came from but I guess it was handed out on 
+                      one of those software fairs. This might well be one of the 
+                      last one surviving the hands of time.</font></p>
+                  </div></td>
+              </tr>
+            </table>
+            <p align="justify">&nbsp;</p>
+            <p align="left"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Promotional 
+              Mug<b><font color="278b1f" size="2"><br>
+              </font></b></strong></font><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="278b1f"><a href="mug.htm" target="_blank"><img src="mug.jpg" width="100" height="108" border="0" align="left"></a></font></b>This 
+              mug is a promotional item created for the release of Space Quest 
+              6. It was never released commercially. Too bad huh? Click on the 
+              image for a close up and an alternative picture.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">Josh 
+              Mandel, designer for Space Quest 6, explains: &quot;There is a separate 
+              bottom section to the mug containing some little bits of stuff. 
+              The stuff is: a block of sponge, a tiny broom, a tiny plunger, a 
+              couple of cardboard &quot;floppy disks,&quot; and a whole mess of 
+              silver stars. </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              second picture: It's blurry, but in the bottom of the mug is a black-and-white 
+              picture of Roger. Written at the bottom of the picture is, &quot;STUCK 
+              ON YOU LIKE ALIEN GOO!&quot; and it's signed, &quot;Roger Wilco.&quot; 
+              Beneath Roger's signature is &quot;Space Janitor, Space Quest 6.&quot;</font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>The 
+              Best of Sierra</strong></font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <a href="bestofsierra.html" onClick="NewWindow(this.href,'popup','422','600','no');return false;"><img src="bestofsierrak.jpg" width="100" height="142" border="0" align="left"></a> 
+              This is a magazine released by the German CUC division (CUC was 
+              the owner of Sierra On-Line back in 1998). Each edition of this 
+              magazine offers a CD with two once popular Sierra titles for a bottom 
+              price (DM 14,90 which is about $7,50). It covers reviews and offers 
+              complete game solutions for the game supplied on the CD. To your 
+              left you see a scan of the fourth edition (released in January/February 
+              1998). It features Space Quest 6 and Lode Runner. You can click 
+              on the cover for a close up <font color="#CC0000">(104 KB)</font>.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">At 
+              that time almost every computer was fast enough to trigger the famous 
+              problems one encounters when playing Space Quest 6, like the installation 
+              crash and the Sickbay error 47 thing. I was surprised to find an 
+              article which helps you through these problems. The CD (which includes 
+              the German version of Sq6, complete with German speech no less) 
+              also includes two savegames to help you through the Sickbay Error 
+              47. There's an extensive article about the Space Quest Series in 
+              there, with colour screen shots of all the games and even the SQ7 
+              promo movie. Interesting is that Space Quest 7 wasn't cancelled 
+              when this magazine was printed. The game was expected for release 
+              later that year and is mentioned in the article. The same article 
+              contains a cool photograph of Scott Murphy, with presumably the 
+              Sierra building in the background. The walk through of Space Quest 
+              6 is huge, very cool read indeed. </font></p>
+            <p align="left"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              rest of the magazine is filled with uninteresting reviews of upcoming 
+              Sierra games and your usual adverts and editorial ramblings.</font></p>
+            <p align="left">&nbsp;</p>
+            <p align="left"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Rare 
+              Space Quest 6 Images</strong></font></p>
+            <table width="100%" border="0" cellspacing="1" cellpadding="1" height="500">
+              <tr> 
+                <td><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><a href="boxartsq6groot.html" onClick="NewWindow(this.href,'popup','409','480','no');return false;"><img src="boxartsq6klein.jpg" width="150" height="176" border="0" align="left"></a>This 
+                    picture is made by Chris Willis, who worked as an artist for 
+                    Sierra during a 7 year period. It was an idea for the Space 
+                    Quest 6 box cover. However, it was rejected. Click on the 
+                    image for a close up.</font></div></td>
+              </tr>
+              <tr> 
+                <td><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+                    <img src="sq6alternativebox2klein.jpg" width="150" height="185" border="0" align="left">This 
+                    is another rejected idea for the Space Quest 6 box art, originally 
+                    appearing in an issue of Sierra's InterAction. I've got this 
+                    picture from the <a href="http://www.wiw.org/%7Ejess/roger.html" target="_blank">Virtual 
+                    Broomcloset</a>.</font></div></td>
+              </tr>
+              <tr> 
+                <td><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><a href="innardspace.html" onClick="NewWindow(this.href,'popup','640','220','no');return false;"><br>
+                    <img src="innardspaceklein.gif" width="150" height="52" border="0" align="left"></a>One 
+                    word: Yuck! This picture is from the Sierra website... From 
+                    the year 1996! Innard Space was the working title of Space 
+                    Quest 6. Eventually it was decided to name the game &quot;The 
+                    Spinal Frontier&quot;. Click on the image for a close up.</font></div></td>
+              </tr>
+              <tr> 
+                <td> <div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><a href="sq6logo.html" onClick="NewWindow(this.href,'popup','320','240','no');return false;"><br>
+                    <img src="sq6logoklein.gif" width="150" height="113" border="0" align="left"></a>A 
+                    cool logo indeed. Looks crappy by today's standards, but cool 
+                    none the less. This picture is from the Sierra website... 
+                    From the year 1996! Click on the image for a close up.</font></div></td>
+              </tr>
+              <tr> 
+                <td><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><a href="sq6logo2.gif" target="_blank"><br>
+                    <img src="sq6logo2klein.gif" width="150" height="98" border="0" align="left"></a>This 
+                    will make a cool desktop wallpaper! Mind, the image is huge. 
+                    Surprise your friends and show it to your girlfriend. She 
+                    will appreciate it for sure. This picture comes from the Sierra 
+                    website... From the year 1996!</font></div></td>
+              </tr>
+            </table>
+            <p><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Other 
+              Images<font size="2"><br>
+              </font></strong></font><font face="Arial, Helvetica, sans-serif" size="2">This 
+              is a scan from the Oxford Dictionary. It explains just perfectly 
+              why the Two Guys named Roger Roger... And not Bill or George. <a href="rogdictionary.html" onClick="NewWindow(this.href,'popup','498','289','no');return false;">Click 
+              here</a> <font color="#CC0000">(36 KB)</font>.</font></p>
+            <p>&nbsp;</p>
+            <p><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>SIerra 
+              Hint Letters<font size="2"><br>
+              </font></strong></font><font face="Arial, Helvetica, sans-serif" size="2">Sierra 
+              used to answer hint requests quite personally. Of course, it did 
+              contain the usual &quot;standard reply elements&quot; - Like &quot;you 
+              can also buy this hint book for only $9.95&quot;. To top things 
+              off, letter would be signed with a signature by the person who sent 
+              the letter. They don't offer hint support like that anymore. I have 
+              two letters you might want to see. Just to show you how things happened 
+              in the early days, when Sierra still cared about its customer.</font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif"><a href="1990hintletter1.jpg" target="_blank">1990 
+              hint letter 1/3</a> <font color="#CC0000">(196 KB)</font><br>
+              <a href="1990hintletter2.jpg" target="_blank">1990 hint letter 2/3</a> 
+              <font color="#CC0000">(216 KB)</font><br>
+              <a href="1990hintletter3.jpg" target="_blank">1990 hint letter 3/3</a> 
+              <font color="#CC0000">(160 KB)</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif"><a href="1992hintletter1.jpg" target="_blank">1992 
+              hint letter 1/3</a> <font color="#CC0000">(132 KB)</font><br>
+              <a href="1992hintletter2.jpg" target="_blank">1992 hint letter 2/3</a> 
+              <font color="#CC0000">(228 KB)</font><br>
+              <a href="1992hintletter3.jpg" target="_blank">1992 hint letter 3/3</a> 
+              <font color="#CC0000">(48 KB)</font></font></p>
+            <p>&nbsp;</p>
+            <p><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Space 
+              Quest in the media!<font size="2"><br>
+              </font></strong></font><font size="2" face="Arial, Helvetica, sans-serif">Game 
+              Players Encyclopedia of Pc Games Volume Two (released around Spring 
+              1991) features an article about Space Quest 4, one of the hottest 
+              games around. <a href="GameplayersCover.jpg" target="_blank">Here's 
+              the cover of the magazine</a> <font color="#CC0000">(168 KB)</font>, 
+              and <a href="../interaction/vol4_num2.shtml#gameplayers">here is 
+              the article</a> (reprinted in InterAction Summer 1991).</font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">The June 2004 
+              issue (#239) of &quot;Computer Gaming World&quot; has a feature 
+              called &quot;The most Overrated/Underrated Hero&quot;. As you might 
+              have guessed, the underrated Hero of that issue is none other than 
+              Roger Wilco! <a href="squnderrated.jpg" target="_blank">Check out 
+              this scan</a> <font color="#CC0000">(124 KB)</font>.</font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Issue 2 of the 
+              Retro Gamer Magazine has an interesting article called &quot;Top 
+              Ten Working Class Heroes&quot;, which includes Roger Wilco. </font><font size="2" face="Arial, Helvetica, sans-serif"><a href="retroscan1.jpg" target="_blank">Click 
+              here</a> <font color="#CC0000">(296 KB)</font> for the scan. An 
+              interesting detail: the guys at Retro Gamer used art work from the 
+              <a href="http://www.sq7.org" target="_blank">SQ7.Org project</a>.</font></p>
+            <p><font color="#000000">___</font></p>
+      </td>
+        </tr>
+      </table>
+      
+    </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

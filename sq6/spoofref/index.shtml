@@ -1,0 +1,501 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 6  Spoofs and References</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq6up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 6 Spoofs and References &gt; </strong> Space Quest 6 is 
+                chockfull with cool spoofs and references. This page lists them 
+                all.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq6down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> <!--#include virtual="../../navmenu/sq6menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq6between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td valign="top"><p><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Spoofs 
+              and References<font size="2"><br>
+              </font></strong></font><font size="2" face="Arial, Helvetica, sans-serif"><img src="../../extraimages/newitem.gif" width="62" height="44" align="right">A
+               reference to Wayne's World in one of the shuttles: when looking
+              
+              at it, the narrator gives a description, after which Roger delivers
+               the W.W.-cliche: &quot;It will be mine, oh yes, it will be mine.&quot; Additionally, instead of looking at it, try talking to it. Roger will say &quot;I&quot;d buy that for a dollar&quot;, which is a reference to Robocop in which a person on TV says the same thing.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              When Roger looks in the mirror, the narrator says he sees a brunette 
+              overacting in a stone tower, afterwhich Roger squeals, &quot;Mother, 
+              mother, come quick!&quot;. A reference to King's Quest VI.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              The Popular Tecktronics CD-ROM in Nigel and Singent's apartment 
+              mentions an e-mail magazine called Mired. This is a spoof on an 
+            actual e-mag called &quot;Wired&quot;.</font>              </p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The
+                datacorder chips called Dentium, Repentium, Fermentium, Dimtel,
+                and Spentium are all spoofs of 
+                Intel and their Pentium processors.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              Circuit Sydney might be a poke at Data from Star Trek: TNG.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">A 
+              rejected title of Space Quest 6 was &quot;Roger Wilco in Innard 
+              Space&quot;. This is a spoof on a movie called &quot;Inner Space&quot;. 
+              The movie itself features a space ship / submarine which gets miniaturized 
+              and explores a human body from the inside out. Scott Murphy explains: 
+              &quot;I was something of an old fan of the old 'Fantastic Voyage' 
+              movie where they inject Racquel Welch-and and even bigger submarine-into 
+              a human body. The idea of a janitor loose in the same situation 
+              has serious possibilities.&quot; </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><img src="dektaburke.jpg" alt="Delta Burke - in person" width="100" height="136" hspace="5" vspace="5" align="right">The 
+              planet Delta Burksilon is a spoof on the actress Delta Burke. </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              Commander Kielbasa might be a poke at both Jean-Luc Picard from 
+              ST:TNG and the Kilrathi's in Origin's Wing Commander series.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">When 
+              the narrator says during the intro: &quot;In a deserted warehouse 
+              just outside the galaxy&quot;, it could be a poke at the Carmen 
+              Sandiago game, where each game begins with a similar remark.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Admiral 
+              Toolman could be a spoof on the Admiral Tolwyn from the Wing Commander 
+              series.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              &quot;Abby Normal&quot; brain in Fester's Implants-N-Stuff is from 
+              &quot;Young Frankenstein&quot;.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><img src="endodroid.gif" alt="The Endodroid" width="84" height="125" align="left">The 
+              endodroid is a mixture of the T-1000 Terminator from &quot;Terminator 
+              2: Judgment Day&quot; and Roy Batty, who was the leader of the escaped 
+              Replicants in the movie &quot;Blade Runner&quot;. This becomes apparent 
+              when Roger freezes the endodroid, and makes fun of the &quot;Hasta 
+              la vista&quot; phrase from T2. He says, &quot;Frosta la kiester, 
+              baby&quot;.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Blaine 
+              Rohmer is obviously a spoof on the Blade Runners from Ridley Scott's 
+              &quot;Blade Runner&quot; movie. </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Another 
+              Star Trek reference: Click the EYE-icon on the Sectors-command in 
+              the cyberspace office. The narrator says, &quot;You probably want 
+              us to say something corny, like 'klingons in sector 2.8, Captain'.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Flembukit's 
+              multimedia wondermachine, 3DOA, is a spoof on Panasonic's 3DO console. 
+              And yes, the 3DO console is also highpriced and plays a half dozen 
+              bad arcade games.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">One 
+              of Singent Flembukit's 3DOA CD's is &quot;The Outpost Project Survival 
+              Guide&quot;. A spoof on Bruce Balfour's space strategy game, Outpost.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Stellar's
+                first name might be derived from Dynamix's Stellar 7 games. Stellar's
+                last name, Santiago, might be derived from Broderbund's &quot;Carmen 
+                Santiago&quot; games.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">An 
+              un-complete movie title guide to the movies at the Polysorbate LX 
+              cinema marquee: <br>
+              - Aliens's (Aliens) <br>
+              - Bucket Dreams (Hoop Dreams) <br>
+              - Fist Full of Buckazoids (&quot;Fistfull of Dollars&quot;, a Clint 
+              Eastwood western) <br>
+              - For a Few Buckazoids More (&quot;For a Few Dollars More&quot;, 
+              another Clint Eastwood spaghetti western)<br>
+              - Future Schlock (&quot;Future Shock&quot;, a scifi thriller in 
+              VR, ca.1994) <br>
+              - Gumby vs. Mr Bill (Gumby is a green stop-motion character and 
+              Mr. Bill is a character from the TV show Saturday Night Live, fighting 
+              as in Godzilla vs. Mothra) <br>
+              - Hudson Hawk Goes to Washington (&quot;Hudson Hawk&quot; and &quot;Mr 
+              Smith Goes to Washigton&quot;) <br>
+              - Johnny Pneumatic (&quot;Johnny Mnemonic&quot;, William Gibson 
+              scifi with Keanu Reeves) <br>
+              - Josh Mandela: The Legend Continues (Josh Mandel was the original 
+              designer of SQ6, &quot;Mandela&quot; is a reference to Nelson Mandela) 
+              <br>
+              - The Last of the Andromedans (&quot;The Last of the Mohicans&quot;) 
+              <br>
+              - The Last Stoogefighter (&quot;The Last Starfighter&quot;) <br>
+              - Linoleum Cheese: A Janitor's Tale (unkown reference) <br>
+              - Little Debbie Does Delta Burksilon (an American porn film, Debbie 
+              Does Dallas. It's also a spoof on Little Debbie, a company that 
+              distributes cakes and cookies) <br>
+              - Mary Ann vs. Ginger (&quot;Gilligan's Island&quot;, the Mary Ann/Ginger 
+              sweetness feud) <br>
+              - The Organ (&quot;The Piano&quot;) <br>
+              - Outpost: The Movie (A reference to Bruce Balfour's scifi strategy 
+              game, Outpost) <br>
+              - Raiders of the Lost Semicircle (&quot;Raiders of the Lost Ark&quot;, 
+              the first Indiana Jones movie) <br>
+              - Razing Arizona (&quot;Raising Arizona&quot;, with Nicholas Cage) 
+              <br>
+              - So I Married an Endodroid (&quot;So I Married an Axe-Murderer&quot;, 
+              horror) <br>
+              - Space Quest 1: The Sarien Encounter <br>
+              - Space Quest 2: Vohaul's Revenge <br>
+              - Space Quest 3: The Pirates of Pestulon <br>
+              - Space Quest 4: Roger Wilco and the Time Rippers <br>
+              - Space Quest 5: The Next Mutation <br>
+              - Space Quest 6: Roger Wilco and the Colon of Doom <br>
+              - Space Quest 7: The Musical <br>
+              - Star Trek XVIII: The Search for Kahn's Implanted Pecs (&quot;Star 
+              Trek 2: Kahn's Revenge&quot; and &quot;Star Trek 3: The Search for 
+              Spock) <br>
+              - Superman vs. Batman <br>
+              - Tango &amp; Cash XXVII: The Sequel (&quot;Tango and Cash&quot;, 
+              Sly Stallone) <br>
+              - Think Tank Girl (&quot;Tank Girl&quot;, comic based movie) <br>
+              - Triple X-Files (&quot;X-Files&quot;, supernatural tv-series) <br>
+              - True Flies (&quot;True Lies&quot;, Arnold Schwarzenegger) <br>
+              - Zorbot the Greek (&quot;Zorba the Greek, Anthony Quinn)</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Beleauxs' 
+              books in the lab include &quot;The Hunt for Red Corpuscle&quot; 
+              (The Hunt for Red October) and &quot;All I Need to Know I Learned 
+              from the Q Continuum&quot; - the Q Continuum is the being-place 
+              for the Q entity in Star Trek TNG and DS9.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">A 
+              graffiti on the wall outside the arcade on Polysorbate LX reads 
+              &quot;DARMOK+JALOD 4EVER&quot;. A reference to the Star Trek: TNG 
+              episode, &quot;Darmok&quot;.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              Qodrac Mobile Photo Booth is a spoof on the Kodak Non-Mobile Photo 
+              Booth.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              The Mister Soylent food replicators is a spoof on an old scifi movie 
+              entitled &quot;Soylent Green&quot;. The movie is in the future where 
+              humans have used up all of the Earth's resources and have to live 
+              underground because the air is so polluted. The only thing left 
+              to eat on the planet is a nutrient supplement called Soylent Green. 
+              Also in the future, the &quot;leaders&quot; decide when you're old 
+              enough to die. When it's your &quot;time&quot;, you're sent to a 
+              special room where you can be &quot;enlightened&quot; before dying. 
+              Well, the story goes, two guys who were deemed fit to die, didn't 
+              want to. So they got away and began to wander around. They found 
+              the &quot;enlightenment room&quot; and found out what they were 
+              doing with the dead people. They were processing them into, yes 
+              you guessed it, the Soylent Green machines! So now you know what 
+              the Soylent Clear jingle means when it says, &quot;Clearly less 
+              people, clearly more taste!&quot;</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">During 
+              the introduction, Admiral Toolman throws Roger's underpants up into 
+              the air, and they turn into the DeepShip 86. This is a take-off 
+              of the intro from Stanley Kubric's &quot;2001: A Space Oddysey&quot;, 
+              in which a monkey throws a skeleton bone into the air which turns 
+              into a spaceship. </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Jebba 
+              the Hop is a spoof on the evil snail-guy, Jabba the Hutt, in the 
+              sixth Star Wars episode.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Several 
+              elements from &quot;Back to the Future&quot; are mentioned in the 
+              Popular Tecktronics CD-ROM at Nigel and Singent's apartment. Check 
+              under the section &quot;Building a Time Machine out of a DeLorean&quot;. 
+              </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">When 
+              using Doctor Beleauxs' computer communications system, the name 
+              &quot;Plodigy&quot; pops up. This is a spoof on &quot;Prodigy&quot;, 
+              and yes, it used to be as slow as the artists made it out to look 
+              like.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Dorff 
+              mentions &quot;Daventry VIII&quot; as a planets name when Roger's 
+              locked up in the brig, occasionally. Daventry is, as we all know, 
+              the home of the characters in the King's Quest series. </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">When 
+              talking to the portal in the Ascend-o-Pad on Delta Burksilon, you 
+              get a highpitched voice saying &quot;If you're going in there, Graham, 
+              I'm staying out here!&quot;. This is from King's Quest V, where 
+              Cedric the Owl sais that to King Graham.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">8-Rear 
+              is a spoof on 10-Forward, the ship's lounge on &quot;Star Trek: 
+              The Next Generation&quot;.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">In
+                the brig, there's an invisible monster called &quot;The Creature
+                from the Ego&quot;. This is a reference to Forbidden Planet,
+                where there was an invisible monster called &quot;The Monster
+            from the Id&quot;. </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              Bjorn collective is a spoof on the Borg from Star Trek: The Next 
+              Generation. The name for the Bjorn collective may have come from 
+              a Swedish tennis player, whose name was (and probably still is) 
+              Bjorn Borg. Scott Murphy adds: &quot;The theory on the Bjorn is 
+              correct. Tennis is great and Bjorn Borg was well known to both Josh 
+              and I. It was a natural.&quot; </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Almost 
+              all the drinks on Polysorbate LX are spoofs of famous scifi writers.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              - Raymond E. Feisterbray (Raymond E. Feist) <br>
+              - Samuel Douglas Adams (Douglas Adams + Sam Adams (beer))<br>
+              - Alan Dean Foster's Draft Ale (Alan Dean Foster)<br>
+              - &quot;Wicked ale from Ray's Bradbrewery&quot; (Ray Bradbury) <br>
+              - Silverberg Bullet (Robert Silverberg) <br>
+              - Ursula K. LeGuinness Stout (Ursula K. LeGuin + Guinness (beer)<br>
+              - Harlon Aleison (Harlan Ellison)<br>
+              - Beers Anthony (Piers Anthony) <br>
+              - &quot;a wild-roddenberry flavored stuff&quot; (Gene Roddenberry)<br>
+              - Heinleinekin (Robert Heinlein + Heineken (beer) <br>
+              - Sappournelle (Jerry Pournelle + Sauvignon (white wine)<br>
+              - Marion Zima Bradley (Marion Zimmer and/or Bradley Denton) (Zima 
+              is a &quot;clear beverage&quot;, a.k.a. &quot;clear beer&quot;)<br>
+              - Watney's Red Planet (Watney's Red Barrel is a beer)<br>
+              - Asimov Cocktail (Isaac Asimov) <br>
+              - William Gibson (William Gibson)</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Drinks 
+              on Polysorbate LX that are not spoofs on scifi writers:<br>
+              - Jurassic Dark (a spoof on Spielberg's &quot;Jurassic Park&quot; 
+              movie) <br>
+              - Babylon .45 (a spoof on the tv-series &quot;Babylon V&quot;) <br>
+              - Star Beck (a spoof on &quot;Star Trek&quot;; the slogan for this 
+              beer is &quot;it makes you go where no man has gone before&quot;, 
+              a spoof on the wellknown Star Trek opening monologue) <br>
+              - Major Kirin (Major Kira from Star Trek DS + Kirin is also a Japanese
+              alcoholic beverage) <br>
+              - Red Dog (a spoof on Red Dog, a beer)</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              game's slogan: &quot;In Space No One Can Hear You Clean&quot; is 
+              a spoof on Ridley Scott's slogan for the Alien movies, &quot;In 
+              Space No One Can Hear You Scream&quot;.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              Check out page 10 of the Popular Janitronics manual that comes with 
+              SQ6. Under ANNOUNCEMENTS there's a bit titled &quot;Public Notice: 
+              Fictitious Business Name Statement&quot;, which confirms everybody's 
+              true fear: That Sierra-programmer William Shockley is doing business 
+              as a cyberdate!</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Doctor 
+              Hayden Beleauxs' computer monitor is from Cyberdyne, which we all 
+              know is the hightech company that invented the Skynet-chips in the 
+              Terminator- movies.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              The opening sequence is kidding around with the movie JUDGE DREDD, 
+              in which Stallone is also stripped, although they didn't go as far 
+              out as in SQ6.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              About the name of the DeepShip 86... &quot;DeepShip&quot; is a re-write 
+              of the colorful phrase, &quot;being in deep shit&quot;. To be &quot;86'ed&quot; 
+              means to be forced to leave a place or premises and be encouraged 
+              not to come back. The name also comes from the third Star Trek series, 
+              which was entitled Deep Space Nine.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              name kielbasa, as in Commander Kielbasa, is actually that of a Polish 
+              sausage. </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><img src="../../extraimages/newitem.gif" width="62" height="44" align="right">When Roger is on the Ascend-O-Pad, using the mouth icon on the wall will make Roger &quot;mistake it for lickable wallpaper&quot;, which is a reference to the movie &quot;Willy Wonka &amp; The Chocolate Factory&quot; (the original version with Gene Wilder).  Roger comments &quot;the snozzberries taste like snozzberries!&quot;.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              arcade games on Polysorbate LX are all spoofs on some recognizable 
+              games. <br>
+              - &quot;NBA ToeJam&quot; (Acclaim's &quot;NBA Jam&quot;)<br>
+              - &quot;Mixed up Mother Theresa&quot; (Roberta Williams' &quot;Mixed 
+              Up Mother Goose&quot;)<br>
+              - &quot;Stooge Fighter III&quot; (Capcom's &quot;Street Fighter 
+              II&quot;) <br>
+              - &quot;Secret Recipes of the Luftwaffe&quot; (LucasArts' &quot;Secret 
+              Weapons of the Luftwaffe&quot;)<br>
+              - &quot;Beat the Crap out of Urkel&quot; (Urkel was the annoying 
+              geek-star of a comedy show in 80's. He would constantly play accordion 
+              and act all stupid and clumsy.)<br>
+              - &quot;More Dull Kombat II&quot; (Acclaim's &quot;Mortal Kombat 
+              II&quot;)<br>
+              - &quot;Disembowling for Dollars&quot; (&quot;Bowling for Bucks&quot;, 
+              a US game show)</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">One 
+              of the screens in the arcade features two clay fighters fighting, 
+              as in the game &quot;Clay Fighter&quot;, but they're pitted against 
+              each other on a tall, narrow stone bridge like in the first MK-game 
+              from Acclaim. Hmm... </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Commander 
+              Kielbasa's scratching post/command center is capable of getting 
+              him to level six of &quot;Super Nunzio World&quot;. Obviously a 
+              parody of Nintendo's &quot;Super Mario World&quot;. Also, a part 
+              of the console looks exactly like those Gravis GamePads (It's NOT 
+              an SNES joypad!).</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">If 
+              you use the MOUTH icon on the console of Kielbasa's command post, 
+              Roger says &quot;Computer, what's the airspeed velocity of a laden 
+              swallow?&quot;, to which the computer replies &quot;African or European?&quot;, 
+              followed by Roger saying &quot;I don't know!&quot; and finishes 
+              with Gary Owens cutting in to say &quot;Hey hey hey! Enough of that. 
+              Let's move on.&quot;. Obviously a reference to Monty Python and 
+              the Holy Grail.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              cyberspace receptionist is called Sys Inny - a name which, when 
+              pronounced &quot;correctly&quot;, becomes a Windows 95 system file: 
+              SYSTEM.INI.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">One 
+              of the building machines in cyberspace is a spoof on one of the 
+              weapons in DOOM. The yellow machine to the left is called a BFD-9000 
+              Cyberearth mover (the seventh weapon in DOOM is called a BFG-9000). 
+              </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">A 
+              graffiti in the brig on the DeepShip 86 reads &quot;Sarek Lies!&quot;, 
+              in reference to Star Trek, where one of the characters is a Vulcan 
+              named Sarek. </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">When 
+              talking to the brig replicator, Roger will say: &quot;Tea. Earl 
+              Grey. Hot,&quot; in reference to Captain Picard in Star Trek: The 
+              Next Generation.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">When 
+              exiting SQ6 or playing Stooge Fighter III, you get a message saying 
+              &quot;Game over, man&quot;. This is a direct quote from the movie 
+              Aliens. A character called Hudson cries out at one point: &quot;That's 
+              it man, game over man, game over!&quot;</font></p>
+            <p align="justify"> 
+              <font size="2" face="Arial, Helvetica, sans-serif">After Stellar's 
+              tragic death by explosion, Roger shouts &quot;Stellar&quot;. This 
+              is a spoof on the movie &quot;A Streetcar Named Desire&quot;.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">During 
+              Stellars funeral Roger says: &quot;Of all the souls I have encountered 
+              in my cleaning, her's were the most scu ... scuff ... SCUFF- RESISTANT! 
+              &lt;breaks out in tears&gt;&quot;. This sequence is completely reminiscant 
+              of the burial scene in &quot;Star Trek II&quot; (or was that number 
+              three?), where Kirk gives Spock his last words before they shoot 
+              the coffin into outer space. </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">When 
+              Roger is being chased by the gigantic gallstone in Stellar's digestive 
+              systems, Josh Mandel was clearly trying to get on LucasFilm's nerves. 
+              That's a downright steal of the opening sequence in the Indiana 
+              Jones movie, &quot;Raiders of the Lost Ark&quot;.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><img src="aciddeath.gif" alt="Roger Wilco jumps into the acid." width="121" height="75" hspace="5" align="right">When
+                Roger jumps into the stomach acid inside Stellar's body, the
+                death message is a reference to the Wizord of Oz. It state: &quot;That's
+            pretty far to go just to do your Wizard of Oz Impression.&quot;</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">When
+                you're inside Stellar's body and you insert the CD-Rom into the
+                slot in the shuttle's cockpit it starts the
+                Nanite tracking program. On the
+    screen it says at one point: &quot;Cracked by The
+    Numbnuts Guys&quot;. This is a reference to The Humble
+    Guys, a well-known and feared software cracking group back in the days. Did
+    you know they actually distributed a (buggy) SQ4 beta?</font></p>
+            <p align="justify"> <font size="2" face="Arial, Helvetica, sans-serif">When 
+              on top of Stellar's stomach, click the eye icon on the door on the 
+              side of the ship. The narrator will say: &quot;That little thing? 
+              That's the stolen, miniaturized door to your stolen, miniaturized 
+              shuttle. Good eyesight! Now we'll have to do one of those puzzles 
+              where you have to find a one-pixel coin or something. But hey, who'd 
+              design a mean, unfair puzzle like THAT?&quot; This is obviously 
+              poking fun at King's Quest VI, since twice in the game, you have 
+              to find and take a - literally - one-pixel large coin.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              The Vulgar nervegrip is obviously a spoof on the Vulcan nervegrip 
+              that Spock so often uses in the original Star Trek series. </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              sentence &quot;Big Brother is watching you!&quot;, which appears 
+              on the scrolling board in the shuttlebay entrance, an often-used 
+              sentence in the book &quot;1984&quot;.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              name &quot;Polysorbate&quot; (as in Polysorbate LX) is a food additive.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Graffiti 
+              on one of the cells in the brig reads &#8220;Major Tom was here,&#8221; 
+              the name is a reference to a space-themed song from the 80s by David 
+              Bowie.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              narrator&#8217;s description of the food replicator in the brig 
+              &#8220;Where the StarCon elite meet to eat&#8221; is a parody on 
+              the slogan of Duffy&#8217;s Tavern, from an old American radio program 
+              of the same name.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Talk 
+              to the computer on Kielbasa&#8217;s Command Center/Scratching Post 
+              to get a Monty Python reference.</font></p>
+            <p align="justify"> <font size="2" face="Arial, Helvetica, sans-serif">Use 
+              HANDS on the Subspace Control Controller to get a Twilight Zone 
+              reference. For another reference to a particular episode of The 
+              Twilight Zone, talk to the portal on the right side of the Ascend-O-Pad 
+              (NOT the door). &#8220;&#8217;Listen to me! To Serve Mankind&#8217;&#8230;it&#8217;s 
+              a COOKBOOK!&#8221;</font></p>
+            <p align="justify"><font color="#000000" size="2" face="Arial, Helvetica, sans-serif">____</font></p>
+          </td>
+        </tr>
+      </table> </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All
+          original content (c) Frans van Hofwegen. All Space Quest related
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

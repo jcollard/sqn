@@ -1,0 +1,291 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 2 Characters</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq2up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 2 Characters &gt;</strong> Roger comes face to face with 
+                his archenemy Sludge Vohaul in his second adventure. Please keep 
+                in mind that you might not want to see the information below if 
+                you're new to the game.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq2down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> <!--#include virtual="../../navmenu/sq2menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq2between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td colspan="2" valign="top"><p align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="#CC0000"><strong><font color="FFFFB1">Sludge 
+              Vohaul</font></strong><br>
+              </font><font size="2" face="Arial, Helvetica, sans-serif">&#8220;With 
+              years of hatred embedded within him, Vohaul vows to enact his insidious 
+              revenge upon the innocent throngs inhabiting Xenon. Silently, he 
+              curses the scientific community which ostracized him eons ago&#8230;&#8221;</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Sludge 
+              was originally a siamese twin (not with Slash Vohaul, his good natured 
+              brother). During Sludge's childhood, he undertook surgery to get 
+              separated from his twin brother. Sadly, his brother got all the 
+              good organs and Sludge was sold off to research by his parents. 
+              He has not lived peacefully with this knowledge. Kinda put him in 
+              a full time pissy mood.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Sludge 
+              Vohaul grew up to be a scientist and was the genious behind the 
+              Star Generator when it was in concept stages. It was to be his ultimate 
+              war weapon until some sissy pants scientists decided it would be 
+              better used saving lifes rather than destroying them. What a waste 
+              of technology! As things turned out, Slash Vohaul (Sludge&#8217;s 
+              good natured brother) continued Sludge&#8217;s work after he was 
+              banned from the project. Humiliated but far from being defeated, 
+              Sludge continued monitoring the progress of the project from a distant. 
+              He concluded the Star Generator was the perfect device to make the 
+              scientific community pay for what they did to him (not to mention 
+              he could finally set a few things right that happened in the past). 
+              And what the hell if a few (billion) innocent beings were wasted? 
+              It would be their fault for being in the wrong place at the wrong 
+              time.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">He 
+              arranged for his &quot;disappearance&quot; shortly after the Arcada 
+              set out to test the Generator. During the testing stages of the 
+              Generator, it seems that Slash had found out the project was being 
+              monitored. His extra caution turned out to be in vain as the evil 
+              Sariens race attacked the Arcada using their largest battlecruiser: 
+              The Deltaur. You see, the Sariens owed Sludge a favour and he commanded 
+              them to attack the Arcada to steal the Generator. Some lowly space 
+              janitor called Roger Wilco somehow managed to blow up the mighty 
+              Deltaur that now had the captured Generator onboard, and thus unknowingly 
+              ruining Sludge&#8217;s operation.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="#CC0000"><font size="2"><img 
+src="sludge.gif" alt="Sludge Vohaul" width="143" height="118" align=left></font></font><font size="2" face="Arial, Helvetica, sans-serif">Madder 
+              than a drenched Astrochicken Vohaul vowed revenge. He seems to have 
+              built a vast empire in the meantime, owning orium mines, slave colonies 
+              and an army of monkey men. His evil plan? Well, this time he was 
+              going to infest Xenon with genetically engineered salesmen, who 
+              would turn the entire planet into driveling vegetables, thereby 
+              having an entire planet under his command. To ensure he would succeed, 
+              he wanted to devistate Roger Wilco; the guy who unknowingly foiled 
+              Vohaul&#8217;s Sarien Operation. That also failed, as Roger Wilco 
+              infiltrated his hidden asteroid fortress and pulled the plug on 
+              Vohaul (Vohaul was only kept alive by a sophisticated life support 
+              system. This was the result of the many atrocious tests he conducted 
+              on himself somewhere in the past). Vohaul was once again presumed 
+              dead...</font></p>
+            <div align="justify"><font face="Arial, Helvetica, sans-serif"><br>
+              </font> 
+              <table width="100%" border="0">
+                <tr> 
+                  <td> <div align="left"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Sludge's 
+                      Henchmen</strong></font></div></td>
+                </tr>
+                <tr> 
+                  <td align="left" valign="top" height="76"> <div align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="#CC0000"><img 
+src="apemen.gif" alt="An Apeman" width="37" height="71" align=left></font><font face="Arial, Helvetica, sans-serif" size="2" color="547ED9">Apemen</font><font face="Arial, Helvetica, sans-serif"><br>
+                      <font size="2">Sludge didn't like to get his own hands dirty. 
+                      He therefore created/drafted (it's unkown where he get them 
+                      from) an army of Apemen. You'll be surprised how stupid 
+                      they are (not to mention how stupid they look). Good thing 
+                      for Roger though: he managed to escape from quite few of 
+                      these.</font></font></div></td>
+                </tr>
+                <tr> 
+                  <td height="51" align="left" valign="top"> <div align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="#CC0000"><br>
+                      <img 
+src="marrowmatic.gif" alt="The Marrow-Matic" width="56" height="64" align=left><font color="547ED9" size="2">The 
+                      Vohaul Marrow-Matic</font></font><font face="Arial, Helvetica, sans-serif" size="2"><br>
+                      Sludge also created some robots to do his dirty work. What 
+                      you see here is the Vohaul Marrow-Matic, a droid specifically 
+                      designed to protect the Asteroid Fortress' escape pods against 
+                      misuse. The droid uses a deadly ray that will cook you inside 
+                      out. What a delicious sight that must be!</font></div></td>
+                </tr>
+                <tr> 
+                  <td align="left" valign="top" height="17"> <div align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="#CC0000"><br>
+                      <img 
+src="wallbots.gif" alt="A Wallbot" width="48" height="81" align=left></font><font face="Arial, Helvetica, sans-serif" size="2" color="547ED9">Wallbots</font><font face="Arial, Helvetica, sans-serif" size="2"><br>
+                      These droids are hanging around Vohaul's secret chamber. 
+                      Be sure to stay away from them. And somebody should tell 
+                      <i>them</i> to stay away from water!</font></div></td>
+                </tr>
+                <tr> 
+                  <td align="left" valign="top" height="17"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="#CC0000"><br>
+                      <img 
+src="alien.gif" alt="An unkown alien" width="67" height="78" align=left><font color="547ED9" size="2">Unkown 
+                      Alien</font><font size="2"><br>
+                      </font></font><font face="Arial, Helvetica, sans-serif" size="3"><font size="2">It's 
+                      a dark prehistoric-looking beast with plates covering its 
+                      body. One outstanding feature is a pair of gigantic red 
+                      lips. </font></font></div></td>
+                </tr>
+              </table>
+              <font face="Arial, Helvetica, sans-serif"><br>
+              </font> 
+              <table width="100%" border="0">
+                <tr> 
+                  <td> <div align="left"><font size="3" color="FFFFB1" face="Arial, Helvetica, sans-serif"><strong>Labion 
+                      wild life</strong></font></div></td>
+                </tr>
+                <tr align="left" valign="top"> 
+                  <td height="64"> <div align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="#CC0000"><img 
+src="terrorbeast.gif" alt="The Labion Terror Beast" width="56" height="42" align=left></font><font face="Arial, Helvetica, sans-serif"><font size="2" color="547ED9">The 
+                      Labion Terror Beast</font><br>
+                      <font size="2">Famous for their mating call and typhoon-like 
+                      movement, these ferocious looking creatures will destroy 
+                      everything that crosses their path. Also one of the most 
+                      stupid and curious species ever known to man (and woman 
+                      too). Think they're looking kinda cute? Forget it, these 
+                      creatures won't make nice pets.</font></font></div></td>
+                </tr>
+                <tr> 
+                  <td height="41" align="left" valign="top"> <p align="justify"><font size="2" color="#CC0000" face="Arial, Helvetica, sans-serif"><br>
+                      </font><font face="Arial, Helvetica, sans-serif" size="3" color="#CC0000"><img 
+src="pinkunz.gif" alt="Pinkunz" width="26" height="29" align=left></font><font face="Arial, Helvetica, sans-serif"><font size="2" color="547ED9">Pinkunz</font><font size="2"><br>
+                      The Pinkunz is a native animal with a fair amount of intelligence. 
+                      They live in secrecy afraid of the hunters. Their homes 
+                      are the many canyons and caves on Labion, which are all 
+                      connected by a large underground tunnel system. </font></font></p></td>
+                </tr>
+                <tr> 
+                  <td height="25" align="left" valign="top"> <div align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="#CC0000"><br>
+                      <img 
+src="swamp.gif" alt="A Swamp Creature" width="59" height="35" align=left></font><font size="2" color="547ED9" face="Arial, Helvetica, sans-serif">Swamp 
+                      Creatures</font><font face="Arial, Helvetica, sans-serif"><br>
+                      <font size="2">Little is known about these creatures. They 
+                      live in swamp water, eating almost everything.</font></font></div></td>
+                </tr>
+                <tr> 
+                  <td align="left" valign="top" height="26"> <p align="justify"><font face="Arial, Helvetica, sans-serif"><br>
+                      <font size="3" color="#CC0000"><img 
+src="squid.gif" alt="Cave Squid" width="118" height="43" align=left><font color="547ED9" size="2">Cave 
+                      Squid</font><font size="2"><br>
+                      </font></font></font><font face="Arial, Helvetica, sans-serif" size="3"><font size="2">These 
+                      animals are quite afraid of (sun)light, so be sure to have 
+                      a flashlight with you when entering a Labion cave. But having 
+                      a source of illumination is not enough when trying to evade 
+                      these creatures. You see, when you enter <i>their</i> part 
+                      of the cave, they are willing to put their fear for light 
+                      behind them... They wait for you to reach a dead end, and 
+                      then...</font></font></p></td>
+                </tr>
+                <tr> 
+                  <td align="left" valign="top" height="2"> <div align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="#CC0000"><br>
+                      <img 
+src="hunter.gif" alt="A Hunter" width="71" height="65" align=left></font><font face="Arial, Helvetica, sans-serif"><font size="2" color="547ED9">Hunters</font><br>
+                      <font size="2">Once thought to be the dominant species of 
+                      Labion. But that was before the Pinkunz creatures were discovered. 
+                      The Hunters are believed to be descendants from Humans. 
+                      Only this particular species is even dumber. </font></font></div></td>
+                </tr>
+                <tr> 
+                  <td align="left" valign="top" height="106"><font face="Arial, Helvetica, sans-serif" size="3" color="#CC0000"><br>
+                    <img 
+src="bear.gif" alt="A Bearion" width="109" height="141" align=left></font><font face="Arial, Helvetica, sans-serif" color="547ED9" size="2">Bearions</font><font face="Arial, Helvetica, sans-serif"><br>
+                    </font><font face="Arial, Helvetica, sans-serif" size="2">Just 
+                    your average bear-like-beast.</font></td>
+                </tr>
+              </table>
+            </div></td>
+        </tr>
+      </table></td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

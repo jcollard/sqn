@@ -1,0 +1,880 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 3 Hint Book</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center"> <a name="top"></a>
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq3up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 3 Official Hint Book &gt; </strong>Being stuck on a puzzle 
+                for too long is frustrating. On this page you won't find a walk 
+                through but the hints from the official hint book. A hint doesn't 
+                spoil the game like a walk through does.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq3down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../../navmenu/sq3menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq3between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td colspan="2" valign="top"><p align="justify"><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Space 
+              Quest 3 Official Hint Book</strong></font><br>
+              <img 
+src="froncoverk.jpg" alt="The Official Space Quest 3 Hintbook" width="150" height="200" border="0" align=right><font size="2">This 
+              page is about the official Space Quest 3 hint book, released by 
+              Sierra in 1989. It is of the usual Sierra hint book size, namely 
+              15 x 11.5 centimeters and contains 36 pages. You could use the so-called 
+              &quot;Adventure Window&quot; to reveal the hidden clues. A funny 
+              note: the hint book is written by Mark and Sandy Crowe!</font></font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><a href="#general">General 
+              Questions</a><br>
+              <a href="#freighter">Trash Freighter</a><br>
+              <a href="#monolith">Monolith Burger</a><br>
+              <a href="#Phleebhut">Phleebhut</a><br>
+              <a href="#Ortega">Ortega</a><br>
+              <a href="#Pestulon">Pestulon</a></font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Scans: 
+              <a href="frontcover.html" onClick="NewWindow(this.href,'popup','444','600','no');return false;">cover 
+              closeup</a> <font color="#CC0000">(80 KB)</font> - <a href="walkthroughsection.html" onClick="NewWindow(this.href,'popup','501','600','no');return false;">walktrough 
+              section</a> <font color="#CC0000">(136 KB)</font></font></p>
+            <p><img src="../../extraimages/line.gif" width="100%" height="3"> 
+            </p>
+            <p>&nbsp;</p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="50%"><p><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>General 
+                    Questions</strong></font><font face="Arial, Helvetica, sans-serif" size="2"><a name="general"></a></font></p></td>
+                <td width="50%"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000">:: 
+                    <a href="#top"> Back to top</a> ::</font></div></td>
+              </tr>
+            </table>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">All I do is 
+              wander around. Is this it?<br>
+              <font color="#333333">- The most important thing of playing an adventure 
+              game is to &quot;look&quot; at everything.<br>
+              - Every time you walk into a new area &quot;look&quot;. You will 
+              always get a general description of the area where you are currently 
+              standing and sometimes an important clue. Read the text windows 
+              carefully.<br>
+              - Map your progress on a piece of paper in case you need to go back 
+              to a specific area.</font><br>
+              </font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">What's the point 
+              of this game, anyway?<br>
+              <font color="#333333">- Didn't you read the documentation that came 
+              with this game?<br>
+              - Universally famous software designers, those Two Guys from Andromeda, 
+              have been kidnapped and are being held captive by software pirates.<br>
+              - It is up to you, Roger Wilco, to rescue them from a fate worse 
+              than death: ... churning out mindless arcade games for a disreputable 
+              software company known as ScumSoft.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">If I die and 
+              have to start this game over one more time, I'm going to throw it 
+              out the window!<br>
+              <font color="#333333">- Make sure you &quot;save&quot; your game 
+              a lot! Go to the menu bar at the top of your screen and choose &quot;Save&quot; 
+              from the &quot;File&quot; menu.<br>
+              - If you make a mistake and die, &quot;Restore&quot; your game rather 
+              than starting over from the beginning.<br>
+              - Before doing something in the game that looks potentially dangerous, 
+              save your game.<br>
+              - You are not limited to the 12 slots shown. You can create as many 
+              subdirectories as you wish, and save games there. You can even save 
+              games on multiple disks.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Roger goes too 
+              fast! Roger goes too slow!<br>
+              <font color="#333333">- Use the &quot;Speed&quot; menu to select 
+              a new speed.<br>
+              - On some computers, you can use the plus (+) or minus (-) keys 
+              on your numeric keypad to move faster or slower.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">How do I look 
+              at the objects in my inventory?<br>
+              <font color="#333333">- Choose &quot;Inventory&quot; from the &quot;Action&quot; 
+              menu.<br>
+              - If you want to &quot;look&quot; at a particular object, type &quot;look&quot; 
+              and the name of the object you want to see.<br>
+              - Or, you can highlight the object in the inventory window by using 
+              your mouse or the tab key.<br>
+              <br>
+              </font></font></p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="50%"><font size="3" face="Arial, Helvetica, sans-serif" color="FFFFB1"><strong>Trash 
+                  Freighter</strong></font><font size="2" face="Arial, Helvetica, sans-serif"><a name="freighter"></a></font></td>
+                <td width="50%"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000">:: 
+                    <a href="#top"> Back to top</a> ::</font></div></td>
+              </tr>
+            </table>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">This junkyard 
+              is boring. Will I ever get out of here?<br>
+              <font color="#333333">- I don't know!<br>
+              - You'll have to find a ship that's in pretty good shape to fly 
+              out of here.<br>
+              - Climb through the robot's eye to find a suitable spaceship.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I'm standing 
+              near a large robot head and I can't seem to go anywhere except back 
+              the way I came.<br>
+              <font color="#333333">- &quot;look&quot; around the room.<br>
+              - You will need to use your climbing abilities.<br>
+              - Climb up the side of the large robot head where the eye is broken.<br>
+              - Be careful, though. If you walk too close to the edge you will 
+              fall off and die.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">When I try to 
+              walk south from where the giant robot head is setting, I always 
+              fall off of a cliff.<br>
+              <font color="#333333">- Don't walk that way.<br>
+              - Maybe there is a safer way of going down.<br>
+              - Try climbing through the robot's eye where it is broken.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">How do I get 
+              inside the large ship in the trash pit?<br>
+              <font color="#333333">- You'll need something to assist you in climbing 
+              the ship.<br>
+              - Gosh, if you only had a ladder!<br>
+              - Find the rat's lair and get the ladder.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I've discovered 
+              the Vorillian Orb. What should I do with it?<br>
+              <font color="#333333">- Ah ha! Gotcha!<br>
+              - This is a perfect example of a trick question. This book is chock-full 
+              of them.<br>
+              - Now slap your hand and repeat after me... I will not use this 
+              book to cheat ever again!</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I see a vertical 
+              conveyor with buckets carrying trash somewhere. Should I be doing 
+              anything with it?<br>
+              <font color="#333333">- It might be a good way to get a lift!<br>
+              - Stand in the spot where the trash buckets come up. One will pick 
+              you up and take you somewhere.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Help! The trash 
+              bucket dumped me onto a conveyor belt and I'm heading for the grinder.<br>
+              <font color="#333333">- You'd better get up... and fast!<br>
+              - Stand up.<br>
+              - You could try walking the opposite direction of the conveyor belt 
+              while you think this through.<br>
+              - Are you tired of walking yet?<br>
+              - The rails above you could be helpful.<br>
+              - Jump up and grab the rail.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I'm walking 
+              on the rail, but fall off every time I try to make it around the 
+              corner on either end. How can I walk all the way around?<br>
+              <font color="#333333">- You can't.<br>
+              - You're a good acrobat but not that good!<br>
+              - You'll need to catch a ride with whatever uses this rail.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I've found the 
+              jet pack. What should I do with it?<br>
+              <font color="#333333">- The only jetpack in the Space Quest series 
+              is in Space Quest 1: The Sarien Encounter.<br>
+              - If you haven't purchased a copy of it yet, we strongly suggest 
+              you do so!<br>
+              - This is a trick question!</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">While on the 
+              rail, I've walked into a room where a robot is closely watching 
+              several monitors. How do I get off this rail and on with the game?<br>
+              <font color="#333333">- It doesn't look like you can go &quot;up&quot; 
+              any higher.<br>
+              - You need to find a good place to climb down.<br>
+              - Take a ride on a grabber.<br>
+              - Climb down where the grabber connects to the rail.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I've located 
+              the grabber, but a robot keeps zapping me.<br>
+              <font color="#333333">- I guess the robot just doesn't like you 
+              snooping around his ship.<br>
+              - You'll have to be a little faster about getting on the grabber.<br>
+              - Don't waste so much time in this area.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">How do I make 
+              the grabber move?<br>
+              <font color="#333333">- Did you &quot;look&quot; at the controls?<br>
+              - Use your arrow keys.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I rode the grabber 
+              all the way around the rail, where should I get off?<br>
+              <font color="#333333">- You'll have to park it where there's a place 
+              to step out.<br>
+              - Go back to where you found the grabber.<br>
+              - Stop at the place where the floor sticks out towards the rail 
+              and exit the grabber.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I've fallen 
+              down a chute and there are several large, fierce rats looking down 
+              at me... What now?<br>
+              <font color="#333333">- Don't worry about the rats... at least not 
+              now anyway.<br>
+              - Hey, there's a ladder here!<br>
+              - Whatever is powering those lights might come in handy later.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I've found the 
+              time door key, but it needs batteries. Where can I find them?<br>
+              <font color="#333333">- Cheater! Cheater!<br>
+              - Another trick question. There is NO time door key.<br>
+              - Ha! Ha! Ha!</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">How do I move 
+              about once I'm inside the large spaceship?<br>
+              <font color="#333333">- About all you can do here is look at the 
+              computer and sit in the pilot seat.<br>
+              - Type &quot;look computer&quot; and &quot;sit down.&quot;<br>
+              - You need to figure out how to get this bird off the ground.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I'm inside the 
+              spaceship. How come I can't sit in the passenger seats?<br>
+              <font color="#333333">- Because you are the pilot.<br>
+              - Those passenger seats will come in handy later.<br>
+              - The Two Guys from Andromeda will be sitting there if you'll hurry 
+              up and rescue them. Get moving!</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">What do I do 
+              once I'm in the pilot's seat?<br>
+              <font color="#333333">- Have you &quot;looked&quot; at everything?<br>
+              - You won't be able to do anything here until you've made some necessary 
+              repairs to this ship.<br>
+              - Look at your computer screen. Pay close attention. It will tell 
+              you what need to be repaired.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I'm inside the 
+              large ship, but it's as dead as a door nail.<br>
+              <font color="#333333">- The ship's computer might have a clue.<br>
+              - A spaceship needs power to operate.<br>
+              - You need to find a power supply (reactor) and install it in the 
+              compartment on the floor.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I've looked 
+              everywhere but I can't find a power supply for the ship.<br>
+              <font color="#333333">- Rats! If only you could find a place where 
+              electricity was in use.<br>
+              - Non-UL approved wired will lead the way to a portable power supply.<br>
+              - Follow the wires in the pack rat's underground lair (where you 
+              fell from the chute).<br>
+              - Go all the way to the left of the picture, then down. If you &quot;look 
+              at the wall&quot; you'll find a hole with the reactor in it.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">No matter what 
+              I try, I can't get into the little round space pod in the trash 
+              pit.<br>
+              <font color="#333333">- You can't get in it.<br>
+              - You don't need it. It's just for the looks.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">A big rat mugged 
+              me in the tunnel of a space tanker. How come?<br>
+              <font color="#333333">- Because you stole his reactor.<br>
+              - He just stole the reactor back from you.<br>
+              - Go back to where you found the reactor and you'll find all of 
+              your belongings. Don't worry, he won't bother you again.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Every time I 
+              enter the tunnel, I get zapped by the death beam.<br>
+              <font color="#333333">- Yeah - right! Give me a break.<br>
+              - Quit cheating.<br>
+              - In case you haven't guessed by now, this is another trick question.</font> 
+              </font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Golly gee whiz! 
+              Do I have to go all the way back up the grabber again to get back 
+              to the rat's lair?<br>
+              <font color="#333333">- No.<br>
+              - Remember where you came out of the lair and how?<br>
+              - Go back to where you crawled out of the lair, just in front of 
+              the Bow-Tie fighter, and lower the ladder.<br>
+              - Climb down the ladder.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I've installed 
+              the reactor but the cable is too short to hook it up.<br>
+              <font color="#333333">- Obviously, you need more cable.<br>
+              - Some old wire would probably work great.<br>
+              - Inside of an old space tanker (tunnel) might be a good place to 
+              look.<br>
+              - Hanging from a panel in the wall of the stripped-down space tanker 
+              are some frayed wires. Get them.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I've restored 
+              power to the ship but I still can't get it to fly.<br>
+              <font color="#333333">- There must still be something with the ship.<br>
+              - Check the diagnostic computer for information on the ship's condition.<br>
+              - Apparently, the warp motivator is missing.<br>
+              - The diagnostic computer will show you what a motivator looks like.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I need to find 
+              a warp motivator before I can take off, but I can't seem to find 
+              it.<br>
+              <font color="#333333">- The diagnostic computer shows you what one 
+              looks like.<br>
+              - You're sure to find one laying around on the ground somewhere.<br>
+              - Look around the other room for a round object resembling a small 
+              flying saucer half buried. That's it!</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I found a motivator, 
+              but it's too heavy to pick it up.<br>
+              <font color="#333333">- It would take some heavy machinery to move 
+              the motivator to the ship.<br>
+              - A grabber would sure come in handy right about now.<br>
+              - Use the grabber found overhead on the rail to pick up and move 
+              the motivator.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Thanks to the 
+              Orwellian spies, I'm now scattered from down to dusk.<br>
+              <font color="#333333">- No, no, no. That's Manhunter you ninny!<br>
+              - Trick question.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I'm on the grabber 
+              but I can't get it to pick up anything.<br>
+              <font color="#333333">- Did you look at the controls?<br>
+              - There's a claw button on the control panel.<br>
+              - Lower the claw to pick up and lower the motivator.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">How do I know 
+              where to lower the claw once I've located the motivator?<br>
+              <font color="#333333">- Just keep trying. Eventually you will find 
+              the correct area.<br>
+              - The claw will not pick up anything else except the motivator.<br>
+              - If you make a map of the upper area (where the grabber goes around 
+              the rail) and match it to a map of the lower area (on the ground) 
+              you should be able to see exactly where you need to lower the claw 
+              to pickup the motivator.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Hey! How do 
+              I fly this ship anyway?<br>
+              <font color="#333333">- Are you sitting in the pilot's seat?<br>
+              - Look at the controls in front of you.<br>
+              - Look at the computer. Use your mouse or number keys to select 
+              buttons.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">When I finally 
+              take off in the ship, I always collide with the ceiling of the freighter.<br>
+              <font color="#333333">- Did you carefully read the message when 
+              you die?<br>
+              - Turn on your radar before you take off. This will prevent your 
+              ship from bumping into the ceiling.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I finally take 
+              off but the ship stops in mid-air, and I can't find a way out of 
+              the freighter.<br>
+              <font color="#333333">- Good thing you had the radar on.<br>
+              - Your ship is surrounded by metal on all sides.<br>
+              - You'll have to blast you way out.<br>
+              - Activate you weapons system...<br>
+              - And shoot a hole in the side of the freighter.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I always blow 
+              up while trying to blast out of the freighter.<br>
+              <font color="#333333">- You need to protect your ship from the explosion.<br>
+              - Activate your shield.<br>
+              - Turn on your weapon system and select one of the shield buttons.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I'm flying through 
+              space with the rocket belt, but I keep getting space bugs in my 
+              teeth.<br>
+              <font color="#333333">- Sorry, but there is no rocket belt, there 
+              are no space bugs and you're cheating again, aren't you?</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Right after 
+              I go into light speed, a spaceship, piloted by a mean looking Android, 
+              materialized. Words appeared across his optic scanner, but the only 
+              thing I could make out was the word &quot;terminate&quot;. Who is 
+              this clown anyway?<br>
+              <font color="#333333">- His name is Arnoid and he's a terminator 
+              unit.<br>
+              - He's after you for something you did in Space Quest II.<br>
+              - You'll more than likely run into him again... Soon!<br>
+              - Worried?<br>
+              - You should be!</font></font><font face="Arial, Helvetica, sans-serif"><br>
+              <br>
+              </font></p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="50%"><font size="3" face="Arial, Helvetica, sans-serif" color="FFFFB1"><strong>Monolith 
+                  Burger</strong></font><font size="2" face="Arial, Helvetica, sans-serif"><a name="monolith"></a></font></td>
+                <td width="50%"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000">:: 
+                    <a href="#top"> Back to top</a> ::</font></div></td>
+              </tr>
+            </table>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Oh no! Space 
+              slugs have attached themselves to my forehead. What now?<br>
+              <font color="#333333">- Space slugs?<br>
+              - I don't think so.<br>
+              - You need to have your eyes examined!<br>
+              - Caught you cheating again!</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I'm inside Monolith 
+              Burger, but I don't have any money to by food.<br>
+              <font color="#333333">- You need to find some money.<br>
+              - You have something of value to sell someone.<br>
+              - Go to Phleebhut and sell your glowing gem to Fester at World O' 
+              Wonders.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Astro Chicken 
+              is too hard to play.<br>
+              <font color="#333333">- Slow down.<br>
+              - Put yourself in slow mode until you get the hang of it and are 
+              good enough to play at normal speed.<br>
+              - See your reference card for details on how to slow down.<br>
+              - Don't make the mistake of holding down the up arrow (flap)key. 
+              Push to flap, push again to stop.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Do I really 
+              need to play this stupid game?<br>
+              <font color="#333333">- No.<br>
+              - However, it might provide you with some clues that will make playing 
+              Space Quest 3 easier.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">After playing 
+              Astro Chicken for awhile, some symbols resembling words appear on 
+              the screen.<br>
+              <font color="#333333">- It's a secret coded message.<br>
+              - You need the decoder ring to decode the secret message.<br>
+              - Buy a Monolith fun meal. You'll find the ring while you are eating 
+              your food.<br>
+              - &quot;Use the ring&quot; to decode the message while it is on 
+              the screen.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Hey! While I 
+              was eating my hamburger, I bit into a prize. Should I do anything 
+              with it?<br>
+              <font color="#333333">- Yes.<br>
+              - Did you &quot;look&quot; at it?<br>
+              - Use the ring to decode the secret message found while playing 
+              the Astro Chicken arcade game.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I've been playing 
+              Astro Chicken, but I haven't seen a message.<br>
+              <font color="#333333">- Keep trying, you will!<br>
+              - The message will come up after 10 successful landings or after 
+              you have tried to play the game 10 times.</font><font color="#333333"><br>
+              <br>
+              </font></font></p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="50%"><font size="3" face="Arial, Helvetica, sans-serif" color="FFFFB1"><strong>Phleebhut</strong></font><font size="2" face="Arial, Helvetica, sans-serif"><a name="phleebhut"></a></font></td>
+                <td width="50%"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000">:: 
+                    <a href="#top"> Back to top</a> ::</font></div></td>
+              </tr>
+            </table>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Help!!! I keep 
+              getting eaten by a big snake!<br>
+              <font color="#333333">- Back off!<br>
+              - Immediately go back out the same direction you came in.<br>
+              - This is just Mark and Scott's way of keeping you from straying 
+              from your objective. Don't go that way!</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Every time I 
+              try to throw the bridle on the snake, it eats me.<br>
+              <font color="#333333">- Well, stop doing that!<br>
+              - There is no bridle in this game.<br>
+              - Darn! Another trick question.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">How do I keep 
+              from getting killed by the scorpazoid?<br>
+              <font color="#333333">- Don't let him catch you!<br>
+              - Avoid it.<br>
+              - Stay close to the edge of your screen. If the scorpazoid appears, 
+              leave the room immediately and then return again. Chances are, it 
+              won't be there when you come back.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Oh no! The Anterean 
+              Slime Devil imploded when I tries to eat it!<br>
+              <font color="#333333"> - How embarrassing for you.<br>
+              - I told you there were a lot of trick questions in here.<br>
+              - This is one of them.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Darn it! I don't 
+              have any money to buy souvenirs at World O' Wonders.<br>
+              <font color="#333333">- Maybe you have something Fester would like.<br>
+              - Take a close look at Fester's rock collection.<br>
+              - Sell him you glowing gem (orium). But, hold out for a fair price.<br>
+              - If you are really greedy and want to get the most buckazoids for 
+              your orium, take Fester's third offer.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Now that I have 
+              money, which souvenir(s) should I buy from Fester?<br>
+              <font color="#333333">- You could be greedy and buy them all... 
+              But that's not necessary!<br>
+              - Look at all of the different objects in the shop - not just the 
+              ones Fester is trying to sell you.<br>
+              - Did you read some of the postcards on the rack? They're very entertaining 
+              and possibly helpful!<br>
+              - Thermoweave underwear could come in handy on a hot planet!</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Every time I 
+              open the display case in front of World O' Wonders the Anterean 
+              Slime Devil kills me.<br>
+              <font color="#333333">- Don't open the display case - stupid!<br>
+              - I told you the answer, so why are you reading this?<br>
+              - Fine! If you want to continue getting killed by the Slime Devil 
+              that's your business.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Help! The rock 
+              beasts have stolen my anti-gravity boots!<br>
+              <font color="#333333">- Nice try, pal!<br>
+              - You've become the victim of another trick question.<br>
+              - Cheater!</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Arnoid the Terminator 
+              has caught up with me outside World O' Wonders. How can I avoid 
+              this?<br>
+              <font color="#333333">- You can't. It's part of the game.<br>
+              - When he's done talking to you, don't hang around!</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">How do I get 
+              back to my ship before the Terminator kills me?<br>
+              <font color="#333333">- You'll have to find a way to terminate the 
+              Terminator.<br>
+              - Find the elevator in Mog's foot.<br>
+              - Go up the elevator and climb the stairs to the second level.<br>
+              - Swing the pulley at the Terminator once he gets close enough to 
+              the gears.<br>
+              - Or...<br>
+              - Lure the Terminator under the pulsating pods hanging from the 
+              rock in the desert (this will earn you more points).</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I keep getting 
+              sucked under the sand by the Grell. What gives?<br>
+              <font color="#333333">- You're playing the wrong game!<br>
+              - That was in Space Quest 1.<br>
+              - What a sucker!</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Every time I 
+              get too close to the mountains I get struck by lightning.<br>
+              <font color="#333333">- You're getting too close to the lightning 
+              storm.<br>
+              - Don't you get it? Mark and Scott don't want you to go any farther 
+              north than this!</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">How do I get 
+              the invisibility belt without getting eaten by the pulsating pods?<br>
+              <font color="#333333">- You need something else besides your hands 
+              to grab the belt.<br>
+              - A pole or stick might do the trick.<br>
+              - Hey! An Orat on a Stick could come in real handy!<br>
+              - &quot;Use Orat on a Stick&quot; to &quot;grab the belt&quot;. 
+              You'll have to buy one at World O' Wonders.</font><font color="#333333"><br>
+              <br>
+              </font></font></p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="50%"><font size="3" face="Arial, Helvetica, sans-serif" color="FFFFB1"><strong>Ortega</strong></font><font size="2" face="Arial, Helvetica, sans-serif"><a name="Ortega"></a></font></td>
+                <td width="50%"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000">:: 
+                    <a href="#top"> Back to top</a> ::</font></div></td>
+              </tr>
+            </table>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">How do I keep 
+              from melting on the planet Ortega?<br>
+              <font color="#333333">- You need something to keep your body cool.<br>
+              - Some thermoweave underwear would do the trick.<br>
+              - Buy the thermoweave underwear from Fester on Phleebhut.<br>
+              - Don't forget to &quot;wear&quot; them.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Sludge Vohaul's 
+              apes have taken me away in their hovercraft. Now what?<br>
+              <font color="#333333">- That might be so if you where playing Space 
+              Quest II: Vohaul's Revenge.<br>
+              - This must be really embarrassing for you...<br>
+              - Falling for another trick question like this!</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I stumbled across 
+              someone's spaceship. What should I do?<br>
+              <font color="#333333">- You can't get the ship from where are.<br>
+              - It might be best to leave the ship alone.<br>
+              - It's a Scumsoft pirate ship.<br>
+              - There might be some Scumsoft lackeys nearby.</font><br>
+              </font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Whenever I walk 
+              up to the Scumsoft lackeys they zap me with a jello ray.<br>
+              <font color="#333333">- They probably don't like you.<br>
+              - Be patient, maybe they'll go away.<br>
+              - Wait until they go to their spaceship and fly away before you 
+              walk into their research site.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I saw the Scumsoft 
+              lackeys fly away in their spaceship. Should I do anything with the 
+              equipment they left behind?<br>
+              <font color="#333333">- Sure! Check it out!<br>
+              - Look through the telescope.<br>
+              - Look in the crate.<br>
+              - That sure is a nice pole.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">While searching 
+              the research camp, I've discovered gold! Is there any use for it?<br>
+              <font color="#333333">- Maybe if you were playing Gold Rush but 
+              not here in the Space Quest Universe.<br>
+              - Gotcha again! Sorry!</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I'm at the top 
+              of the volcano. How do I get to the large machine in the middle 
+              of the crater?<br>
+              <font color="#333333">- You'll have to find a space between the 
+              lava rocks to squeeze through.<br>
+              - Walk towards the machine where the large gap is, on the right 
+              side of your screen.<br>
+              - When you find the stairs, walk down them.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Is there anything 
+              I should be doing while I'm inside the crater at the base of the 
+              generator?<br>
+              <font color="#333333">- Did you decode the message in the Astro 
+              Chicken game at Monolith Burger?<br>
+              - Climb up the ladder.<br>
+              - You need to blow up the force field created by the generator without 
+              killing yourself in the process.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I'm at the top 
+              of the generator. What do I do now?<br>
+              <font color="#333333">- Have you decoded the secret message at Monolith 
+              Burger?<br>
+              - You will need to use the detonator you took from the crate at 
+              the seismic research sight.<br>
+              - Drop the detonator into the hole. This will blow up the generator 
+              and turn off the beam.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">On my way back 
+              to my ship the shaky lava rock bridge has disappeared and I cannot 
+              get across.<br>
+              <font color="#333333">- It's narrow enough that you could possibly 
+              pole vault over it.<br>
+              - Let's see, wasn't there a pole around here somewhere?<br>
+              - Go back south of here to the seismic research site and get the 
+              pole with the anemometer on it.<br>
+              - &quot;Use the pole&quot; to jump to the other side.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Ortega blows 
+              up before I can get off of it.<br>
+              <font color="#333333">- Don't waste time wandering around.<br>
+              - After blowing up the generator, immediately go back to your ship 
+              and take off.</font><br>
+              <br>
+              </font></p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="50%"><font size="3" face="Arial, Helvetica, sans-serif" color="FFFFB1"><strong>Pestulon</strong></font><font size="2" face="Arial, Helvetica, sans-serif"><a name="Pestulon"></a></font></td>
+                <td width="50%"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000">:: 
+                    <a href="#top"> Back to top</a> ::</font></div></td>
+              </tr>
+            </table>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I know there 
+              is a planet Pestulon somewhere, but I can't find it on my navigation 
+              system. Where is it?<br>
+              <font color="#333333">- The Pirates of Pestulon do not want to be 
+              found!<br>
+              - Have you decoded the secret message in the Astro Chicken game 
+              at Monolith yet?<br>
+              - Pestulon is a small moon revolving Ortega. A force field generated 
+              on Ortega prevents it from being detected by your navigation scanner.<br>
+              - After you blow up the generator and take off, do another navigation 
+              scan.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I've encountered 
+              a strange alien in a white, polyester leisure suit. Is he dangerous?<br>
+              <font color="#333333">- Only if you're playing Leisure Suit Larry 
+              in the Land of the Lounge Lizards.<br>
+              - It's a great game and you should rush right down to your dealer 
+              and buy one...<br>
+              - Right after you finish this game.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">The Scumsoft 
+              guards shoot me every time I try to enter the building. How do I 
+              avoid this?<br>
+              <font color="#333333">- Somehow you need to get by without letting 
+              the guards see you.<br>
+              - Wouldn't it be neat if you could become invisible?<br>
+              - Hey, wait a minute! Didn't that Terminator back on Phleebhut have 
+              an invisibility belt?<br>
+              - If you don't have it, go back and find it!</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I'm wearing 
+              the invisibility belt, but for some reason I'm not invisible. What's 
+              the deal?<br>
+              <font color="#333333">- Try turning it on, nit wit!<br>
+              - Turn on your belt before leaving your hiding place overlooking 
+              the Scumsoft entrance.<br>
+              - You don't have very much power so don't dilly dally!</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I've managed 
+              to make my way inside a circular hallway, but I'm not sure where 
+              to go from here.<br>
+              <font color="#333333">- Try walking through some doors.<br>
+              - Some of the doors aren't locked and will open automatically when 
+              you properly approach them.<br>
+              - If this is too tough, try slowing down the speed.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Now that I've 
+              opened the door, I can't get the Zanti misfits to crawl into the 
+              jar.<br>
+              <font color="#333333">- I have that problem all the time.<br>
+              - Shame on you for reading all the answers.<br>
+              - And you call yourself an adventurer!<br>
+              - This is just another one of those questions we made up to trick 
+              you.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">How can I get 
+              into the Accounting Department without getting caught?<br>
+              <font color="#333333">- Disguising yourself as a Scumsoft employee 
+              would be a great idea, don't you think?<br>
+              - If you ask me, no one makes a better janitor than you.<br>
+              - Find the janitor's closet in the hallway.<br>
+              - Get the coveralls.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">How come I still 
+              can't walk through the Accounting Department even though I'm wearing 
+              a disguise?<br>
+              <font color="#333333">- You look like a janitor but you're not acting 
+              like one.<br>
+              - Vaporize the trash with the vaporizer.<br>
+              - You must vaporize the trash in each waste basket you pass by. 
+              Failure to do so will result in someone calling security.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I've wandered 
+              around the Accounting Department but I keep hitting a dead end. 
+              Where should I go?<br>
+              <font color="#333333">- You need to work your way through the maze 
+              to the back of the room.<br>
+              - It would help to draw a map of the partition maze as you go through 
+              it.<br>
+              - See the back of this hint book for a map of the Scumsoft accounting 
+              maze.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I see my ship 
+              sitting in Scumsoft's vehicle bay. How do I get to it?<br>
+              <font color="#333333">- You can't from where you are know. At least 
+              you know it's safe!<br>
+              - You'll be able to get to it later... If you're good enough!</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">While walking 
+              in the hallway, I came up a locked door with a keycard slot and 
+              facial scanner. Do I need to get inside?<br>
+              <font color="#333333">- Maybe.<br>
+              - Yes.<br>
+              - But, you'll have to get a few items first.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I've inserted 
+              the jelly sandwich into the keycard slot, but nothing happens.<br>
+              <font color="#333333">- Well, what did you expect?<br>
+              - You're sick.<br>
+              - I can't believe you're reading this.<br>
+              - Gotcha again. Isn't this fun?</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I can't find 
+              the keycard to open the door in the hallway.<br>
+              <font color="#333333">- The boss is probably the only one with a 
+              keycard to this door.<br>
+              - The boss' office is in the Accounting Department.<br>
+              - Go into the boss' office when the boss is away. Get the keycard 
+              off the top of his desk.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I've got the 
+              keycard, but I can't pass the facial scan test.<br>
+              <font color="#333333">- Since this is Elmo's keycard, it's probably 
+              scanning for Elmo's face.<br>
+              - There's got to be a picture of Elmo Pug somewhere.<br>
+              - Find the picture of Elmo hanging on a partition in the west wing 
+              of the Accounting Department.<br>
+              - Get the picture and make a copy of it on the photocopy machine.<br>
+              - Make sure you hang the picture back up when you're done!</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">How do I get 
+              the picture of Elmo out of the Accounting Office?<br>
+              <font color="#333333">- Why would an employee of Scumsoft want to 
+              steal a picture of Elmo?<br>
+              - You'll have to find another way of securing a picture of Elmo.<br>
+              - Hey, isn't that a photocopy machine near Elmo's picture?<br>
+              - Get Elmo's picture. Make a photocopy of it in the machine. Don't 
+              forget to put the picture back!</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">How do I pass 
+              the facial scan once I have the photocopy?<br>
+              <font color="#333333">- Insert the keycard first.<br>
+              - Then, hold up the copy before the monitor performs the facial 
+              scan. Be quick!</font><br>
+              </font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">How do I get 
+              to the middle platform where the Two Guys are being held captive?<br>
+              <font color="#333333">- You need a bridge.<br>
+              - Push the button near the side wall.<br>
+              - Just say &quot;push button&quot; from where you are standing now.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">How do I free 
+              the Two Guys from Andromeda from the jello?<br>
+              <font color="#333333">- You need to somehow dissolve the jello.<br>
+              - Use your vaporizer.<br>
+              - Type &quot;vaporize jello&quot;.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Oh no! The bridge 
+              retracted and now I can't get back to the outer platform!<br>
+              <font color="#333333">- You're up a creek, sorry!<br>
+              - It's part of the game.<br>
+              - Don't worry, be happy! You aren't dead... Yet!</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I just can't 
+              get the hang of the Nukem Dukem Robot. What have I got to do to 
+              punch Elmo Pug's lights out?<br>
+              <font color="#333333">- Don't forget, every wasted movement will 
+              use up your energy. Make every punch count.<br>
+              - Don't walk around too much. Let Elmo come to you.<br>
+              - Block his punches (M key) and let him punch his own lights out!</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I've rescued 
+              the Two Guys, but while flying away from Pestulon, the pirates blast 
+              my ship and we're all doomed!<br>
+              <font color="#333333">- You'll have to fight back.<br>
+              - You need to use your weapons to fight back when you get the &quot;incoming 
+              fighters&quot; message.<br>
+              - Look at your computer screen and select weapons.<br>
+              - Turn on your shield to protect the back of your ship.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I can't figure 
+              out how to shoot down the skull fighters with the weapons system.<br>
+              <font color="#333333">- Select attack speed on the main computer 
+              screen.<br>
+              - Using the mouse or arrow keys, try to line up the cross-hairs 
+              with the moving ship.<br>
+              - When you achieve a &quot;lock on&quot;, press the space bar to 
+              fire.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I'm finding 
+              it impossible to &quot;lock on&quot; to a skull fighter while in 
+              combat.<br>
+              <font color="#333333">- Are you in &quot;attack speed&quot;?<br>
+              - Try slowing down the speed of the game.<br>
+              - Instead of just following the ship with the cross hairs, try to 
+              anticipate its movement.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I've managed 
+              to fight off the pirates, but the ship's light speed is non-functional 
+              so I can't fly anywhere. Now what?<br>
+              <font color="#333333">- Return to cockpit view.<br>
+              - Once you are back in cockpit view, one of the Two Guys from Andromeda 
+              finds the light speed panel fixes your problem.</font><br>
+              </font></p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="50%"><font size="3" face="Arial, Helvetica, sans-serif" color="#000000">.</font></td>
+                <td width="50%"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000">:: 
+                    <a href="#top"> Back to top</a> ::</font></div></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table> </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

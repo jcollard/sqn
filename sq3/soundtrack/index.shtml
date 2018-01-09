@@ -1,0 +1,212 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 3 Soundtrack</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center"> <a name="top"></a>
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq3up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 3 Soundtrack &gt; </strong>On this page you'll find the 
+                complete Space Quest 3 soundtrack. All the songs are recorded 
+                from the Roland MT32.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq3down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../../navmenu/sq3menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq3between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td colspan="2" valign="top"> <p align="justify"><font color="ffffb1" size="3" face="Arial, Helvetica, sans-serif"><strong>Space 
+              Quest 3 Soundtrack</strong></font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              Space Quest 3 won the &quot;Excellence in Musical Achievement Award&quot; 
+              from Computer Gaming World. Not many Space Questers would disagree 
+              if I say this game has the best music of the Series. All the songs 
+              are recorded from the Roland MT32. This machine makes a midi sound 
+              like an entire orchestra. The music was composed by Bob Siebenberg. 
+              <a href="../../misc/interaction/vol2_num1.shtml">Click here</a> 
+              for an interview!</font></p>
+            <p align="left"><font size="2" face="Arial, Helvetica, sans-serif"><a href="SQ3_01-%20Introduction.mp3">01 
+              - Introduction</a> <font color="#CC0000">(1.24 MB)</font> 1 minute 
+              and 21 seconds<br>
+              <a href="SQ3_02-%20Opening%20Sequence.mp3">02 - Opening Sequence</a> 
+              <font color="#CC0000">(2,19 MB)</font> 2 minutes and 23 seconds<br>
+              <a href="SQ3_03-%20Robot%20Garbage%20Freighter.mp3">03 - Robot Garbage 
+              Freighter</a> <font color="#CC0000">(2,19 MB KB)</font> 2 minutes 
+              and 24 seconds<br>
+              <a href="SQ3_04-%20The%20Grabber.mp3">04 - The Grabber</a> <font color="#CC0000">(610 
+              KB)</font> 39 seconds<br>
+              <a href="SQ3_05-%20The%20Rat%20Cave.mp3">05 - The Rat Cave</a><font color="#CC0000"> 
+              (763 KB)</font> 48 seconds<br>
+              <a href="SQ3_06-%20Leaving%20Freighter,%20Navigation%20Screen,%20&%20Arnoid%27s%20Pur.mp3">06 
+              - Leaving Freighter, Navigation Screen, &amp; Arnoid's Pursuit</a> 
+              <font color="#CC0000">(2,48 MB)</font> 2 minutes and 43 seconds<br>
+              <a href="SQ3_07-%20Phleebhut.mp3">07 - Phleebhut</a> <font color="#CC0000">(1,33 
+              MB)</font> 1 minute and 27 seconds<br>
+              <a href="SQ3_08-%20Fester%27s%20World%20%27O%20Wonders.mp3">08 - 
+              Fester's World 'O Wonders</a> <font color="#CC0000">(857 KB)</font> 
+              54 seconds<br>
+              <a href="SQ3_09-%20Arnoid%20Destroyed%20(Roger%20Dies%201).mp3">09 
+              - Arnoid Destroyed (Roger Dies #1)</a> <font color="#CC0000">(875 
+              KB)</font> 56 seconds<br>
+              <a href="SQ3_10-%20Monolith%20Burger.mp3">10 - Monolith Burger</a> 
+              <font color="#CC0000">(1,27 MB)</font> 1minute and 23 seconds<br>
+              <a href="SQ3_11-%20Astro%20Chicken.mp3">11 - Astro Chicken</a> <font color="#CC0000">(606 
+              KB)</font> 38 seconds<br>
+              <a href="SQ3_12-%20Planet%20Ortega.mp3">12 - Planet Ortega</a> <font color="#CC0000">(1,59 
+              MB)</font> 1 minute and 44 seconds<br>
+              <a href="SQ3_13-%20ScumSoft%20Entrance.mp3">13 - ScumSoft Entrance</a> 
+              <font color="#CC0000">(799 KB)</font> 51 seconds<br>
+              <a href="SQ3_14-%20ScumSoft%20Corridors.mp3">14 - ScumSoft Corridors</a> 
+              <font color="#CC0000">(1,05 MB)</font> 1 minute and 08 seconds<br>
+              <a href="SQ3_15-%20ScumSoft%20Offices%20(Roger%20Dies%202).mp3">15 
+              - ScumSoft Offices (Roger Dies #2)</a> <font color="#CC0000">(914 
+              KB)</font> 58 seconds<br>
+              <a href="SQ3_16-%20The%20Black%20Hole.mp3">16 - The Black Hole</a> 
+              <font color="#CC0000">(1,13 MB)</font> 1 minute and 14 seconds<br>
+              <a href="SQ3_17-%20Two%20Guys%20On%20Earth.mp3">17 - Two Guys On 
+              Earth</a> <font color="#CC0000">(2 MB)</font> 2 minutes and 11 seconds<br>
+              <a href="SQ3_18-%20Closing%20Medley.mp3">18 - Closing Medley</a> 
+              <font color="#CC0000">(2,61 MB)</font> 2 minutes and 51 seconds</font></p>
+            <p align="left"><font face="Arial, Helvetica, sans-serif" size="2">Total 
+              file size: 24,4 MB</font></p>
+            <p align="left"><font size="2" face="Arial, Helvetica, sans-serif">Also 
+              download the awesome <a href="monolithtune.mp3">Monolith Theme</a> 
+              <font color="#CC0000">(928 KB) </font>40 seconds. It's from the 
+              1989-1990 Sierra VHS video. You can find it at <a href="../demo/index.shtml">the 
+              Space Quest 3 Demo page</a>.</font></p>
+            <p align="left"><font size="2" face="Arial, Helvetica, sans-serif">Just 
+              to illustrate the differences between soundcards and soundsetting, 
+              please hear the following four soundclips. The last one (Roland 
+              LAPC-1) sounds the way SQ3 is meant to sound. As you can hear, it's 
+              vitally important which music system you use. The SoundBlaster card 
+              in our computer is a mixture of the Adlib and the Roland card so 
+              to speak. A pretty acceptable outcome, but far from perfect.<br>
+              <a href="pcjr_sq3.mp3">PC JR</a> <font color="#CC0000">(160 KB)</font></font><br>
+              <font size="2" face="Arial, Helvetica, sans-serif"><a href="imfc_sq3.mp3">IBM 
+              Music Feature Card</a> <font color="#CC0000">(160 KB)<br>
+              </font><font size="2" face="Arial, Helvetica, sans-serif"><a href="adlib_sq3.mp3">Adlib 
+              card</a> <font color="#CC0000">(160 KB)</font></font><br>
+              <a href="lapc_sq3.mp3">Roland LAPC-1</a> <font color="#CC0000">(160 
+              KB)</font></font></p>
+            <table width="100%" border="0" cellspacing="1" cellpadding="1">
+              <tr> 
+                <td> <p align="left"><font face="Arial, Helvetica, sans-serif"><img src="whereami.gif" width="200" height="152" align="right"><font size="2">The 
+                    Amiga version of the &quot;Introduction and Opening Sequence 
+                    song&quot; deserves a special note. In that song, you can 
+                    actually <i>hear</i> Roger Wilco say: &quot;<a href="WhereAmI.mp3">Where 
+                    am I?</a>&quot; <font color="#CC0000">(160 KB)</font>! Please 
+                    download: <br>
+                    <a href="SQ3_01-%20Introduction%20%2B%20Opening%20Sequence%20Amiga.mp3"><br>
+                    01 - Introduction + Opening Sequence Amiga</a> <font color="#CC0000">(3,78 
+                    MB)</font> 4 minutes and 14 seconds.</font></font></p>
+                  <p align="left"><font size="2" face="Arial, Helvetica, sans-serif">Please 
+                    note that you can also hear this with your DOS version, but 
+                    you'll have to patch the game. Check out the <a href="../patches/index.shtml">patches 
+                    and fixes page</a> how to do this.</font></p></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

@@ -1,0 +1,296 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 7: The Fangame</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, mark crowe, josh mandel, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../../tabs/infobox.gif"><img src="../fanficup.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 7: The Fangame &gt;</strong> Here you can find information 
+                about the upcoming Space Quest 7 fangame.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../fanficdown.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../../../navmenu/miscmenu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../../navmenu/lineleftgreyright.jpg"><img src="../fanficbetween.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../../navmenu/topblack.gif" width="100%" height="20"><br> 
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td colspan="2" valign="top"><p align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Space 
+              Quest 7: The Fangame<font size="2"><br>
+              </font></strong></font><font face="Arial, Helvetica, sans-serif" size="2"><img src="rogerwilco.jpg" alt="Roger Wilco" width="195" height="200" hspace="5" align="left">Fans 
+              in control! If there's one fangame people are waiting for with great 
+              anticipation than it's the <a href="http://www.sq7.org" target="_blank">SQ7.Org</a> 
+              project. A short look through their website really shows how far 
+              this project has got. The game itself has been in production for 
+              about two years now. And of course they've had their setbacks. They 
+              dropped the idea of using the AGAST game engine and started all 
+              over from scratch, working on their own SLAGE engine. Teammates 
+              have disappeared into thin air and harddisks have crashed. Yet, 
+              they're still going. Much stronger than before.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">They 
+              have released a bunch of images and a very short teaser movie, just 
+              to keep the fans quiet. But to be honest, that material is nothing 
+              compared to what they have in store for us. The project doesn't 
+              release much information because it doesn't want to create a hype 
+              around a game that hasn't been released yet. Yes, even fans sometimes 
+              have to resort to cruel corperate ideas. Hell, we fans don't even 
+              know anything about the plot... Sariens are involved, or so I heard. 
+              To make things even better, the release date is unkown and probably 
+              a long time off.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">So 
+              what's taking so god damned long? Patience, my friend. The Great 
+              Wall of China wasn't built in ten years either now was it? My point 
+              exactly. It would be silly to copy their entire website and show 
+              you the images they have released. After all, you can find it all 
+              on <a href="http://www.sq7.org" target="_blank">their website</a>. 
+              SpaceQuest.Net will keep you updated about the latest news.</font></p>
+            <p align="justify"><img src="../../../extraimages/line.gif" alt="Line" width="100%" height="3"></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">When 
+              the project was still in its infancy, I contacted Gene Angel who 
+              worked on the project back then. I conducted an interview to get 
+              some information about the project. Although <strong>extremely outdated</strong> 
+              and a bit cheezy, I decided to include it here anyway. In tradition 
+              of <a href="http://www.sq7.org" target="_blank">SQ7.Org</a>, the 
+              interview didn't tell anything new either.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <font color="#CC0000">Frans: &quot;Okay, let's start.&quot;</font><br>
+              Gene Angel: &quot;Let's make it sound official!&quot;</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              <font color="#CC0000">Frans: &quot;(sarcastic) Right. So, could 
+              you please tell our fellow Space Questers who you are?&quot;</font><br>
+              Gene Angel: &quot;Oh! Sorry could we start over?&quot;</font></p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif"> 
+              Frans: &quot; - Sigh - ........ <font size="1">What an asshole</font> 
+              ...... (long pause) Okay ........ (rewinding the cassette tape) 
+              ........ Name and occupation?&quot;<br>
+              </font><font size="2" face="Arial, Helvetica, sans-serif">Gene Angel: 
+              &quot;Ey, I heard that! I'm Gene Angel, Working AS ThE Head Of The 
+              Newest Space Quest Project (wastehotnesqp).&quot;</font></p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Frans: 
+              &quot;I'm sorry, I wasn't listening. What was that? (brief pause) 
+              So, Gene, you're working on the Space Quest 7 project, right?&quot;</font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              </font><font size="2" face="Arial, Helvetica, sans-serif">Gene Angel: 
+              &quot;<font size="1">Geez, were did I got myself into this time?</font> 
+              Uhhhm I mean, Why yes I am! The project is moving along nicely. 
+              I am the head of the project. I'm the boss. I make all the final 
+              choices. Stuff like that. Feels good having total control! MMmmmmwahahahaahaha 
+              (over done dirty laugh).&quot;</font></p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Frans: 
+              &quot;(laughs) Good for you, Gene. <font size="1">Yeah, right! You 
+              couldn't even control your own dog. </font>I heard Josh Mandel is 
+              on the project, is that true?&quot;<br>
+              </font><font size="2" face="Arial, Helvetica, sans-serif">Gene Angel: 
+              &quot;Who? Oooh, you mean Josh. Let me see. That's the nerd right? 
+              ...... Yeah, we were all very stoked about him coming aboard. Hopefully 
+              he'll help the project be more official, then more of a fan game. 
+              Which is the main goal.&quot;</font></p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Frans: 
+              &quot;Do you guys have any plans to make this project commercially 
+              available?&quot;</font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              Gene Angel: &quot;That's a good question. If you mean do we plan 
+              to sell the game the answer is definitely no. However we do hope 
+              to have commercial quality. That's one of the main goals in the 
+              SQ7 project.&quot;</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><font color="#CC0000">Frans:&quot;HOPE 
+              TO HAVE?&quot;</font><br>
+              Gene Angel: &quot;Why do you interrupt me all the time?&quot;</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              <font color="#CC0000">Frans: &quot;I ask the questions here, Gene.&quot;</font><br>
+              </font><font size="2" face="Arial, Helvetica, sans-serif">Gene Angel: 
+              &quot;- Sigh - Anyway, we're trying to work *with* Sierra. Hopefully 
+              they'll give us the green.&quot;</font></p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Frans: 
+              &quot;How many people are currently working on the project?&quot;</font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              Gene Angel: &quot;There are about 9 of them. They came from beneath 
+              my bed! Huge monsters, they're just waiting for me to go to sleep. 
+              And then they will eat me alive!!! Mom, help me, do something about 
+              it! ...... Oooh, sorry. I got carried away, what was that question 
+              again?&quot;</font></p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Frans: 
+              &quot;Oooh brother..... Does Josh have a job? What is he doing right 
+              now? Does he work full-time on the project? Or just like you, not 
+              all that full time.&quot;<br>
+              </font><font size="2" face="Arial, Helvetica, sans-serif">Gene Angel: 
+              &quot;Josh does have a Job. He's working for Vicarius Visions last 
+              I heard. Which just released the latest version of Tony Hawk 2 for 
+              the Game Boy Advance. No one really works full-time. It's more of 
+              a spare time thing. If you have the time you work on it. If not, 
+              then maybe tomorrow. It works like that.&quot;</font></p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Frans: 
+              &quot;What kind of graphics are you guys trying to use?&quot;</font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              Gene Angel: &quot;Well we are using the AGAST engine. They allow 
+              some great techniques that aren't possible with other engines. You 
+              can expect a lot of cool shading effects, full sound support, maybe 
+              even fog. We are using 3-D renderings of certain parts of the game, 
+              but the game will be played mostly in traditional 2D settings.&quot;</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><font color="#CC0000">Frans: 
+              &quot;Could give me a basic plot?&quot;</font><br>
+              Gene Angel: &quot;Well... (nervously searches for some papers).... 
+              What I *CAN* tell you is that Vohaul is gone, and the Sariens will 
+              take it over for him. There will definitely be some interesting 
+              plots themes going on. Nothing I can really reveal just yet.&quot;</font></p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Frans: 
+              &quot;Why do you think fans want to see old characters again?&quot;</font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              Gene Angel: &quot;It's not so much as we want to bring back old 
+              characters, as it is that Vohaul is kinda recycled by the Two Guys. 
+              You probably know how your steak looks like after you chewed on 
+              it for several days. We wanted something a little more fresh, and 
+              Josh has come up with some really cool stuff for the Sariens. We 
+              only really saw them once in SQ1, and we don't really know much 
+              about them.&quot;</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><font color="#CC0000">Frans: 
+              &quot;Like the Sariens are new, sheesh! Does the game going to have 
+              voices?&quot;</font><br>
+              Gene Angel: &quot;Yes, we plan to support full voice work and CD 
+              quality sound.&quot;</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              <font color="#CC0000">Frans: &quot;So the game is going to be released 
+              on cd-rom then?&quot;</font><br>
+              Gene Angel: &quot;Though we will try to help out people with narrow 
+              band connections. Give them other options.&quot;</font></p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Frans: 
+              &quot;Are you talking to yourself again? I asked if the game was 
+              going to be released on cd-rom. Do you actually listen to what I 
+              say?&quot;</font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              Gene Angel: &quot;We're thinking of possibly using ISO's so people 
+              can burn the game onto cd's. We may or may not distribute CD's.&quot;</font></p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Frans: 
+              &quot;And what about Gary Owens, who was the narrator of Space Quest 
+              4 and 6, will he make his comeback in the computer game industry?&quot;</font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              </font><font size="2" face="Arial, Helvetica, sans-serif">Gene Angel: 
+              &quot;Well, as much as we would love to have Gary...that's just 
+              not thinking realistically.&quot;</font></p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Frans: 
+              &quot;$$$, right?&quot;</font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              Gene Angel: &quot;Exactly! You took the words right out of my mouth!&quot;</font></p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Frans: 
+              &quot;Calm down, Gene. Do you guys have a budget or a sponsor?&quot;</font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              Gene Angel: &quot;I talked to Josh about this. Our budget is limited 
+              to the 47 cents in my pocket. We might do a sponsor, but I really 
+              doubt it..... Really truly doubt it. Don't blame me, Josh is the 
+              only one in the team with a decent job. I told him he should cough 
+              up the half-a-million bucks needed for our game. But you know Josh, 
+              he just looked at me, and then he laughed at me. Weirdest guy I 
+              have ever seen.</font></p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Frans: 
+              &quot;Yeah, I'd bet! Well, okay....... Hey Gene! Would you look 
+              at the time! I gotta go, my pod is double hoovered.&quot;</font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              Gene Angel: &quot;All right, my butt hurts anyway, and I'm missing 
+              the Cowboys game!&quot;</font></p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Frans: 
+              &quot;Talk to you later, thanks!&quot;</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              ...............<br>
+              Gene Angel: &quot;That was it right? So, when do I get my cash?&quot;<br>
+              <font color="#CC0000">Frans: &quot;Cash? Now what a minute!&quot; 
+              -disconnects from the internet-</font></font></p>
+            <p align="justify"><font color="#000000" size="2" face="Arial, Helvetica, sans-serif">___</font></p>
+            </td>
+        </tr>
+      </table>
+      
+    </td>
+    <td width="25" valign="top" background="../../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

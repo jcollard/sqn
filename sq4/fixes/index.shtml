@@ -1,0 +1,238 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 4 Fixes</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq4up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 4 Fixes &gt; </strong> This page contains hints and tips 
+                to run Space Quest on modern computers. It also contains information 
+                how to optimize the game and discusses various problems.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq4down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../../navmenu/sq4menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq4between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td align="left" valign="top"> <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Space 
+              Quest 4 Fixes</strong></font></p>
+            <p align="justify"><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif">Problems 
+              running SQ4 on Windows 2000, ME, NT and XP?</font></p>
+            <blockquote> 
+              <div align="justify"> 
+                <p><font size="2" face="Arial, Helvetica, sans-serif">If you're 
+                  having problems running Space Quest 4 on a modern computer, 
+                  try <a href="http://dosbox.sourceforge.net/" target="_blank">DOSBox</a>. 
+                  It's a program that emulates the DOS environment.</font></p>
+              </div>
+            </blockquote>
+            <div align="justify"> 
+              <p>&nbsp;</p>
+              <p><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif">Sound 
+                Tips</font></p>
+            </div>
+            <blockquote> 
+              <div align="justify"> 
+                <p><font size="2" face="Arial, Helvetica, sans-serif">On modern 
+                  computers running NT-based Windows versions (2000, ME, NT and 
+                  XP), it's likely you run into many different sound problems. 
+                  A program called <a href="http://www.ece.mcgill.ca/%7Evromas/vdmsound/%20%0D%0D" target="_blank">VDMSound</a> 
+                  might be able to fix 99% of these problems. It emulates the 
+                  good old sound blaster card, which is perfect for the Space 
+                  Quest games. VDMSound is free to use, so download a copy and 
+                  give it a try.</font></p>
+              </div>
+              <div align="justify"> 
+                <p><font size="2" face="Arial, Helvetica, sans-serif">If you think 
+                  your Windows version of SQ4 has messed up music, go into your 
+                  SQ4 windows directory and look for the file called &quot;sierra.ini&quot;. 
+                  Open it with Notepad. There should be a line in there that says 
+                  &quot;synthtype=basesynth&quot;. Change &quot;basesynth&quot; 
+                  to &quot;highsynth&quot;. Save the file, and your music in SQ4 
+                  Windows will be fixed.</font></p>
+                <p><font size="2" face="Arial, Helvetica, sans-serif">You'll probably 
+                  get much better sound if you change the sound driver of SQ4 
+                  to General MIDI. Make sure when you run install.exe that General 
+                  MIDI is selected.</font></p>
+              </div>
+            </blockquote>
+            <div align="justify">
+              <p>&nbsp;</p>
+              <p><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif">Whatever 
+                sound setting I use during INSTALL, the sound only works through 
+                the internal speakers.</font></p>
+              <blockquote> 
+                <p><font size="2" face="Arial, Helvetica, sans-serif">Apply the 
+                  <a href="../../downloads/gosierrav3.zip">GoSierra</a> patch 
+                  and follow the instructions. You should then be able to run 
+                  SNDBLAST.DRV.</font></p>
+                <p>&nbsp;</p>
+              </blockquote>
+            </div>
+  
+            <p><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif">I
+                 only see a black screen with a few pixels here and there, unless
+                
+              I maximize the window! The backgrounds don't display at all, unless
+                 an object (such as Roger) moves over it.</font></p>
+            <blockquote> 
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">In Windows, 
+                right click on the desktop and click properties. Set the screen 
+                resolution to 640 X 480 pixels and the color settings to 256. 
+                Click OK and run the game again. For optimal results, make sure 
+                the refresh rate of your monitor while running 640 x 480 pixels 
+                is at 85Hz or higher. You can change the refresh rate of your 
+                monitor in the Monitor tab of the Display Properties.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">But your computer 
+                doesn't offer anything less than 16-bit colors! What to do? For 
+                some reason, XP hides the older, seldom-used combinations deeply. 
+                Go to Control Panel &gt; Display &gt; Settings &gt; Advanced &gt; 
+                Adaptor &gt; List All Modes. Select 640 x 480 256 colors @ 85 
+                Hz. In Windows 2000 go to Control Panel &gt; Display &gt; Settings 
+                &gt; Advanced Settings.</font></p>
+            </blockquote>
+            <p>&nbsp;</p>
+            <p><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif">992.v56
+                 not found or 993.V56
+                 not found Fix</font></p>
+            <blockquote>
+              <div align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The
+                      disk version of SQ4 must  be run using the SQ4.BAT
+                      file that comes with
+                      the game.
+      If you don't, the game will not find certain files, like VIEW.993 (it will
+      look for 993.v56 insted) or SCRIPT.541. If you want to run SCIDHUV, enter &quot;SCIDHUV
+                      -N&quot; in
+                      the DOS prompt.</font></div>
+
+                  <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> Keep
+                      in mind that running the game the correct way will invalidate
+                      those saved games
+                      saved when running the game the incorrect way
+                      (which is running SCIDHUV.EXE directly
+    without the -N option).</font></p>
+                  <p>&nbsp;</p>
+            </blockquote>            
+            <p><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif">Format 
+              Countdown Fix</font></p>
+            <blockquote>
+              <div align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+                Format Countdown sequence might be impossible to finish on faster 
+                computers while playing the disk version of Space Quest 4. However, 
+                this is not a timer bug and can easily be fixed. As soon as you 
+                see the Windows-like computer screen (with the brain icon and stuff), 
+                enter the control panel of the game (move your mouse to the top 
+                of the screen) and adjust the speed slider. The Format Countdown 
+                runs &quot;unthrottled&quot; while Roger is looking at the computer 
+                screen of the Programing Chamber. It runs normal again as soon as 
+                you leave the computer screen. It seems that the game, for whatever 
+                reason, temporarily sets speed to &quot;unthrottled&quot;.</font></div>
+              <div align="justify"><font color="#000000" size="2" face="Arial, Helvetica, sans-serif">__</font></div>
+            </blockquote></td>
+        </tr>
+      </table> </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

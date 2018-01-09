@@ -1,0 +1,217 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 2 Fun Facts</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq2up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 2 Fun Facts &gt; </strong> This page contains everything 
+                you wanted to know about Space Quest 2 and then some!</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq2down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> <!--#include virtual="../../navmenu/sq2menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq2between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br> 
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td colspan="2" valign="top"> <p align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Space 
+              Quest 2 Fun Facts<font size="2"><br>
+              </font></strong></font><font face="Arial, Helvetica, sans-serif" size="2">Even 
+              before Space Quest 1 was released in 1986, The Two Guys already 
+              knew there was going to be a sequel.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              latest Space Quest Collection box contains a small typo. It sez 
+              Space Quest II: Vouhaul's Revenge. Woopsie.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">On 
+              the screen with the chasm where you climb the tree that breaks, 
+              you can get lots of points by typing &quot;climb tree&quot; repeatedly. 
+              Each time you type it, you'll get the 3 points again. To do this 
+              more easily, just type &quot;climb tree&quot; and while you're climbing 
+              press F3 and ENTER all over again to get the additional points.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">Try 
+              bringing up the &quot;about&quot; box in the menu of Space Quest 
+              2 after you have died. It's not the same text as when you were alive. 
+              Instead of the usual: &quot;Space Quest was designed by Scott Murphy 
+              and Mark Crowe&quot;, it now says: &quot;Space Quest was designed 
+              by Scott Murphy and Mark Crowe. We hope you're not looking for someone 
+              to blame just because you died.&quot;</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="#CC0000"><img 
+src="squid.gif" alt="Cave Squid" width="118" height="43" align=right></font><font face="Arial, Helvetica, sans-serif" size="2">The 
+              secret tunnel system of the Pinkunz is full with deadly Cave Squid. 
+              I'm not saying this is a wise thing to do but from the start of 
+              the cave maze go: down, right, down, right, down, right, up, left, 
+              up, left, then back to the right to meet one. <a href="../mazemap/index.shtml">Click 
+              here</a> for the map of the maze system.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Typing 
+              BACKSTAGE or DBG while playing will activate the debug-mode. Just 
+              like the codes in Space Quest 1, you can use &quot;TP&quot; to teleport. 
+              A wrong number will kick you out. Same goes for &quot;GET OBJECT&quot;. 
+              &quot;WHO&quot; will display the name you entered at the start of 
+              the game and &quot;PRAY&quot; says you've got one minute left.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">When 
+              aborting the salesman launch, the code TITS will also work. The 
+              original code was SHSR. If you did what Kubric and Clarke did to 
+              get the name HALL 2001, you'd get the word TITS. They simply took 
+              the name &quot;IBM&quot; and used the previous letter in the alphabet. 
+              So &quot;I&quot; becomes &quot;H&quot;, &quot;B&quot; becomes &quot;A&quot; 
+              and &quot;M&quot; becomes &quot;L&quot;. Same thing with the code 
+              used in the game.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Sierra 
+              got a letter from an angry (American) mom because of the use of 
+              a jockstrap as inventory item.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">In 
+              the spring of 1989, the Space Piston Magazine comic book supplied 
+              with Space Quest 2 won the Golden Oak Award for best publication. 
+              The Golden Oak Awards honor excellence in the advertising field 
+              in the Fresno area, which was one of the largest test marketing 
+              cities in the USA at that time. Months earlier in fall 1988, Space 
+              Quest 2 was listed number four in Sierra's Top 5 Bestsellers. Therefore 
+              it can be assumed Space Quest II sold over 100.000 copies, thus 
+              earning the coveted SPA (Software Publishiers Association) Gold 
+              Medal.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Mark 
+              Crowe was not only working on ALL the graphics for Space Quest 2, 
+              but also on ALL the graphics for Al Lowe's Leisure Suit Larry in 
+              the Land of the Lounge Lizards&quot;. Guess Mark didn't either slept 
+              nor ate during the production of those two games!</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">There 
+              were strong indications Sierra wanted to remake Space Quest 2, just 
+              like they did with Space Quest 1. But they quickly trashed that 
+              idea after the first remake flopped. Too bad...</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2"> 
+              There are many ways to make it to the shuttle. In this puzzle you'll 
+              have to find a way to get passed the guard and enter the elevator. 
+              There are different ways to do the same thing. As you can see from 
+              the picture, I've added a few numbers. I assume you are at point 
+              1.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif"><img 
+src="platform2.gif" alt="The Platform Puzzle" width="383" height="200" align=left><font size="2"> 
+              When the guard turns his back at you, you can walk safely from point 
+              1 to 2. Be sure to make it to point 2 before he turns around again. 
+              Do the same to make it from point 2 to point 3. Now you can &quot;call 
+              the guard&quot;. When the guard leaves the elevator, quickly walk 
+              behind his back and enter the elevator. And no keycard is needed.</font></font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2"> 
+              The Terror Beast made an opening in a boulder. Go through that opening 
+              and be sure to take a rock on your way to the platform. Now, you 
+              can throw the rock at the guard, but this will kill you. If you 
+              throw the rock at the bushes, the guard will come down and look 
+              what happened. Again, you should have moved to point 3 or 4. He 
+              will walk away and you can go into the elevator without keycard.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2"> 
+              Using this method will give you maximum points out of this puzzle. 
+              You can do this from point 1. You can actually sling the rock in 
+              your supporter at the guard, which will kill him. But you need the 
+              keycard. One of the crashed guards from the hovercraft will have 
+              such an item. Typing &quot;Throw rock at guard in supporter&quot; 
+              will work, but you can also use &quot;throw rock guard supporter&quot;. 
+              Don't you just love parser games?</font></p>
+            <p align="justify"><font color="#000000" size="2" face="Arial, Helvetica, sans-serif">___</font></p>
+            </td>
+        </tr>
+      </table>
+      
+    </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

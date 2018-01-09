@@ -1,0 +1,283 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - The Vohaul Bubble</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, mark crowe, josh mandel, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../../tabs/infobox.gif"><img src="../fanficup.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Fanfiction 
+                &gt;</strong> The &quot;fan phenomena&quot; of the Space Quest 
+                Community is old and complex. Whether it's a story, an image or 
+                a video, fans have been writing fanfiction since the first fanpage 
+                appeared online.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../fanficdown.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../../../navmenu/miscmenu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../../navmenu/lineleftgreyright.jpg"><img src="../fanficbetween.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../../navmenu/topblack.gif" width="100%" height="20"><br> 
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td colspan="2" valign="top"><p align="justify"><font face="Arial, Helvetica, sans-serif"><font size="3" color="FFFFB1"><strong>The 
+              Vohaul Bubble</strong></font><font size="2"><br>
+              </font></font><font face="Arial, Helvetica, sans-serif" size="2">Xenon 
+              Supercomputer I BIOS 1.014</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><img src="vohaul.gif" alt="Sludge Vohaul" width="125" height="124" align="right">Processors 
+              Nominal<br>
+              Input/Output Nominal<br>
+              Storage Nominal<br>
+              - Peripheral Hardware Check -<br>
+              Security Online<br>
+              Economic monitoring Online<br>
+              Weather control Online<br>
+              Fluffy pink bunny Online<br>
+              - System Software -<br>
+              Economic model Loading...Done<br>
+              Planetary weather model Loading...Done<br>
+              Subconscious Loading...Done<br>
+              Conscious Loading...Done<br>
+              Memories Loading...Done<br>
+              Rage Loading...Done</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">WILCO 
+              MUST PAY!!!</font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif">.One.</font><font face="Arial, Helvetica, sans-serif" size="2" color="#CC0000"><br>
+              </font><font face="Arial, Helvetica, sans-serif" size="3" color="#CC0000"><img 
+src="sludge.jpg" alt="Vohaul as Super Computer" width="200" height="163" align=left></font><font face="Arial, Helvetica, sans-serif" size="2">He 
+              could feel his consciousness spreading out through the circuits 
+              of the supercomputer, like new and bizarre limbs. It never got easier, 
+              for some reason. They always felt unfamiliar. They always resisted 
+              him ... at first. Soon, though, he was insinuated in every widely 
+              dispersed branch of the great machine. It always took some time 
+              to remember who he was, where he was, who had trapped him here. 
+              He was Vohaul. Sludge Vohaul. And the man responsible for his current 
+              predicament was Roger Wilco. WILCO MUST PAY!!! </font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">He'd 
+              been stuck here for ... years. He didn't know how long. Time was 
+              different in here. He should know how many times it was by now, 
+              but he hadn't been counting. All he really knew was who he was, 
+              where he was, and who he should destroy to stop it. </font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">Well, 
+              first things first. Some equipment was needed before the mission 
+              could begin. Drones. Robots. Cyborgs. Slaves. The population of 
+              the planet would serve for most of that nicely, and then there were 
+              the automated factories he was plugged into. There was much to do. 
+              Revenge and anger needed to simmer for a while.</font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2"> 
+              <font color="547ED9">.Two.<br>
+              </font>He knew he was in a loop. Memories like those don't stay 
+              locked forever. But he had hope - every time, it turned out slightly 
+              differently. Most of the time, it was more to his advantage. Every 
+              time so far, though, he had ended up back at the beginning of the 
+              loop. A rebel breaks into the control room, downloads him to a disk 
+              and blasts him back into space and back in time. The supercomputer 
+              itself had once disgorged him - probably due to a security program 
+              fault. Sometimes he had been forced to restart the time loop himself 
+              - to avoid repercussions of his own actions. Still, the end result 
+              was always the same he always ended up back in the box, in space, 
+              at the same point in time. </font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">But 
+              it would be *different* this time. Yes, this time he would find 
+              Wilco *himself*, rather than let those rebels bring him out. That 
+              was usually what they did, anyway, since Wilco was the last one 
+              to defeat him. This time, the advantage would be *his*. He went 
+              through the complex search to locate Wilco in the designated time 
+              period four. Magmetheus. Some seedy tavern. Typical. The man had 
+              no style. Vohaul dispatched two Sequel Police with a cross-time 
+              holodisk communicator, and waited. This time it would be different.</font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2"> 
+              <font color="547ED9">.Three.<br>
+              </font>He should have known. When had he ever settled for understatement? 
+              He could have blown that whole place to bits in one go. Now Wilco 
+              was loose in the timestream. At least he didn't have access to any 
+              of the equipment. Maybe this would be good enough, as long as the 
+              rebels couldn't follow him. Whenever Wilco ended up, it would most 
+              likely be out of the way. And he'd be stuck. The road should be 
+              clear.</font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              <font color="547ED9">.Four.<br>
+              </font>To: Master Vohaul, Despot Of the Universe, Chief High Entity, 
+              Ruler Of Eternity, Guardian Of Time, God In All But Name<br>
+              Re: Wilco (jnr)<br>
+              Memo: Despite the escape of Wilco (snr), Wilco (jnr) has been captured 
+              alive, as per backup directive B. He will be transported immediately 
+              to time period twelve.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">To: 
+              Master Vohaul, Despot Of the Universe, Chief High Entity, etc.<br>
+              Re: The Wilco threat<br>
+              Memo: It appears that Wilco (snr) has been transported to this very 
+              time period, and has so far avoided capture and/or elimination. 
+              At present, Wilco is not visible on any scans of the area. However, 
+              no crosstime transports have taken place on which Wilco could be 
+              present. Searches continue.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">To: 
+              Master Vohaul, Despot O. Universe, Chief High Entity, etc.<br>
+              Re: Wilco (snr) escape<br>
+              Memo: Wilco (snr)'s successful theft of a timepod and escape from 
+              this time period leaves his whereabouts currently unknown, but most 
+              likely between time periods eight and eleven. Searches continue.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">To: 
+              Master Vohaul, Despot O. Universe, C. H. E. etc.<br>
+              Re: Wilco (snr) located<br>
+              Memo: Wilco (snr) has been located in time period ten. Capture operations 
+              are proceeding.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">To: 
+              Master Vohaul, D. O. U., C. H. E.<br>
+              Re: Wilco (snr) evasion<br>
+              Memo: Wilco (snr) has once again evaded capture in time period ten. 
+              Timepod lost. Request pickup immediately.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">To: 
+              SP#1202<br>
+              Re: Imminent Death (yours)<br>
+              Memo: Pickup denied.</font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              <font color="547ED9">.Five.<br>
+              </font>It hadn't been going well. Wilco somehow managed to escape 
+              every time the Sequel Police went after him. But now he was back 
+              in time period twelve, and coming to the inner sanctum. If he managed 
+              to get past the security droids somehow, and managed to endanger 
+              the computer storage, *and* found his way to the main holographic 
+              interface, there were still some surprises in store for him.</font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              <font color="547ED9">.Six.<br>
+              </font>Wilco never ceased to amaze Vohaul. Much in the same way 
+              as a particularly intelligent ape can surprise the scientists who 
+              study it. He'd managed to disable the security droids, set a timer 
+              to format the main storage of the computer, and it seemed he was 
+              making his way determinedly here, to the main holo-interface. Only 
+              one thing for it, then. Vohaul downloaded his mind into the body 
+              of Wilco Junior, and waited. </font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">Wilco 
+              stepped into the room, and appeared momentarily surprised to see 
+              his rescuer suspended in a light beam. When the beam was deactivated 
+              and Vohaul could move again, he took great pleasure in the expressions 
+              of surprise and disgust that fought for place on Wilco's face as 
+              the situation was explained. But it couldn't be all talk. This was 
+              the end of Wilco, and Vohaul wasn't going to mince too many words.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">They 
+              wrestled, and Vohaul was surprised by the ability of Wilco to outmaneuver 
+              him. It was probably due to the time Vohaul had spent being an enormous 
+              supercomputer, thus becoming unaccustomed to human limbs. In the 
+              end, Vohaul was forced back into the beam, and had to watch helplessly 
+              as Wilco began to manipulate the controls on the pedestal.</font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2"> 
+              <font color="547ED9">.Epilogue.</font><font color="547ED9" size="3"><br>
+              </font>Once again, the time in space passed without consciousness. 
+              Then there was the light. The circuits. The spreading out. This 
+              time it would be different. This time for sure.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2"></font></p>
+            <p align="justify"><font color="#000000">___</font></p>
+            </td>
+        </tr>
+      </table>
+      
+    </td>
+    <td width="25" valign="top" background="../../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif" size="1" color="#999999">(c)</font><font color="#999999" size="1"> 
+        2001 Mokalus of Borg. None of this story may be reproduced, copied, or 
+        sold without the written permission of Mokalus of Borg.</font></font><font face="Arial, Helvetica, sans-serif" size="1" color="#999999"> 
+        All Space Quest related material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

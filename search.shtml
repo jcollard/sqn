@@ -1,0 +1,225 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Search the Website!</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+
+<!-- Begin
+
+image1 = new Image();
+image1.src = "/tabs/maintabover.gif";
+
+image2 = new Image();
+image2.src = "/tabs/sq1tabover.gif";
+
+image3 = new Image();
+image3.src = "/tabs/sq1tabover.gif";
+
+image4 = new Image();
+image4.src = "/tabs/sq2tabover.gif";
+
+image5 = new Image();
+image5.src = "/tabs/sq3tabover.gif";
+
+image6 = new Image();
+image6.src = "/tabs/sq4tabover.gif";
+
+image7 = new Image();
+image7.src = "/tabs/sq5tabover.gif";
+
+image8 = new Image();
+image8.src = "/tabs/sq6tabover.gif";
+
+image9 = new Image();
+image9.src = "/tabs/sq7tabover.gif";
+
+image10 = new Image();
+image10.src = "/tabs/misctabover.gif";
+
+// End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="tabs/infobox.gif"><img src="logoup.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font color="#FFFFFF" size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Search 
+                the Website! &gt;</strong> Are you looking for something specific 
+                on SpaceQuest.Net? Then use the Google search option!</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td> 
+      <div align="left"><H4><img src="logodown.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="navmenu/bluemenuspacer.gif"><div align="left">
+              <!--#include virtual="navmenu/mainmenu.html" -->
+            </div>
+            <div align="right"><img src="reactor.gif" width="110" height="46"></div></td>
+        </tr>
+      </table>
+      <div align="center"><img src="navmenu/undergrey2.gif" width="142" height="25"></div>
+      <div align="center"><a href="https://www.paypal.com/xclick/business=frans@spacequest.net&no_note=1&tax=0&item_name=Supporting%20SpaceQuest.Net&currency_code=USD" target="_blank"><img src="http://images.paypal.com/images/x-click-but04.gif" border="0" name="submit" alt="Help supporting SpaceQuest.Net. Click to donate!"></a> </font></div> 
+      </div>
+      </form></td>
+    <td width="25" valign="top" background="navmenu/lineleftgreyright.jpg"><img src="navmenu/lineleft.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><p><img src="navmenu/topblack.gif" width="100%" height="20">
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td valign="top">
+<p><font color="#FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Search 
+              the Website!</strong></font>
+              <!-- SiteSearch Google -->
+            </p>
+            <FORM method=GET action="http://www.google.com/search">
+              <div align="right">
+                <input type=hidden name=ie value=UTF-8>
+                <input type=hidden name=oe value=UTF-8>
+                <TABLE>
+                  <tr> 
+                    <td valign="top"> <A HREF="http://www.google.com/" target="_blank"> 
+                      <IMG SRC="Logo_40blk.gif" 
+border="0" ALT="Google"></A> </td>
+                    <td valign="top"> 
+                      <INPUT TYPE=text name=q size=31 maxlength=255 value=""> 
+                      <INPUT type=submit name=btnG VALUE="Search!"> <font size=-1> 
+                      <input type=hidden name=domains value="http://www.spacequest.net">
+                      <br>
+                      <input type=radio name=sitesearch value="http://www.spacequest.net" checked>
+                      <font size="2" face="Arial, Helvetica, sans-serif"> Search 
+                      SpaceQuest.Net </font> 
+                      <input type=radio name=sitesearch value="">
+                      <font size="2" face="Arial, Helvetica, sans-serif">Search 
+                      Internet</font> 
+<br>
+                      </font> </td>
+                  </tr>
+                </TABLE>
+              </div>
+            </FORM> 
+            <div align="right"> 
+              <!-- SiteSearch Google -->
+              <p><img src="extraimages/line.gif" alt="Line" width="100%" height="3"></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">By 
+                entering one or more key phrases in the search field above, you 
+                can search this entire website. Your search will be processed 
+                using the Google search engine. You'll receive links from Google 
+                that are relevant to SpaceQuest.Net only, unless you've toggled 
+                the &quot;Search Internet&quot; button. Here are a few handy tips 
+                for maximum result:</font></p>
+              </div>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              If you're looking for the manual of space quest 5, enter the following: 
+              <strong>manual &quot;space quest 5&quot;</strong>. This will yield 
+              the best results. Always use quotation marks for the space quest 
+              keywords, especially if you're looking for information for a specific 
+              sequel only. Example: use <strong>&quot;space quest 2&quot;</strong>, 
+              not just <strong>space quest 2</strong> in your search. Same goes 
+              for people searches. If you're looking for information about Shawn 
+              Sharp, for instance, use <strong>&quot;shawn sharp&quot;</strong> 
+              and not just <strong>shawn sharp</strong>.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">If 
+              you're looking for information why space quest 5 wasn't released 
+              on cd-rom, enter the following: <strong>cd-rom version &quot;space 
+              quest 5&quot;</strong>.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Google 
+              ignores common words and characters such as &quot;where and &quot;how&quot;. 
+              Google searches are not case sensitive. For example, searches for 
+              &quot;george washington&quot;, &quot;George Washington&quot;, and 
+              &quot;gEoRgE wAsHiNgToN&quot; will all return the same results.</font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              </font></p>
+            </td>
+        </tr>
+      </table>
+      <br>
+      <br>
+    </td>
+    <td width="25" valign="top" background="navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

@@ -1,0 +1,251 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 3 Spoofs and References</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center"> <a name="top"></a>
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq3up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 3 Spoofs and References &gt; </strong>Space Quest 3 has 
+                some cool spoofs (make a parody of something) and references. 
+                I've listed them below.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq3down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../../navmenu/sq3menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq3between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td colspan="2" valign="top"> <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Space 
+              Quest 3 Spoofs and References<font size="2"><br>
+              </font></strong></font><font size="2" face="Arial, Helvetica, sans-serif"> 
+              <img src="../../extraimages/newitem.gif" width="62" height="44" align="right">The 
+              name of Space Quest 3: &#8220;The Pirates of Pestulon&#8221; has 
+              a remarkable similarity to the name of a famous Gilbert and Sulivan 
+              comical musical entitled &#8220;The Pirates of Pinzance.&#8221; 
+              </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              Arnoid the Annihilator droid is, of course, a reference to the Terminator 
+              as seen in the Terminator movies.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              Roger Wilco's case number with the Gippazoid Novelty Company is: 
+              &quot;OU812&quot; (as reflected in Arnoid's glasses). This is the 
+              name of a Van Halen Album that was released in 1988.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              ships in the junk freighter are spoofs on some well recognized ships 
+              from tv shows and Sci-fi movies. <br>
+              - TIE-fighter from Star Wars, being described as a bow-tie fighter 
+              from the &quot;cologne-wars&quot; (the original movies mentions 
+              the &quot;clone wars&quot;). <br>
+              - The ship Jupiter 2 is the spaceship from the old &quot;Lost in 
+              Space&quot; series. <br>
+              <img src="acme.jpg" width="200" height="114" hspace="5" vspace="0" align="right">- 
+              The crumpled classic style rocket, built by the ACME company is 
+              a reference to Warner Bros' classic Road Runner cartoons. <br>
+              - In the same chamber as the Aluminum Mallard is a small round spacecraft. 
+              When you look at it, the reply reads &#8220;Some writing on its 
+              exterior reads &#8220;For a good time, don&#8217;t call HAL.&#8221; 
+              The small ship is the EVA pod featured in Stanley Kubrick&#8217;s 
+              classic &#8220;2001: A Space Odyssey.&#8221; Hal is the mad computer 
+              that kills the crew in the same movie. <br>
+              - In the same chamber as the Aluminum Mallard, prominently displayed 
+              are Tinkertoys and Legos, both classic children&#8217;s toys. If 
+              you look at them, you get the following reply, &#8220;They look 
+              like remnants of an orbital space station or perhaps some type of 
+              toys for an over-sized child.&quot;</font></p>
+            <p align="justify"> <font size="2" face="Arial, Helvetica, sans-serif">Enter
+                 the room with the Aluminum Mallard. You'll notice a round white
+                
+              pod in the left part of the screen. This is clearly the EVA pod
+                 from Stanley Kubrick's 2001. if you type &quot;look shuttle&quot; 
+              the game will output: &quot;For a good time don&acute;t call HAL.&quot; 
+              HAL is of course the name of the computer in Kubrick's 2001. Or,
+               the game will output &quot;Bowman was here&quot;. Mr. Bowman was
+                part of the production team of Star Trek: TNG.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Most 
+              of the planets (with the exception of Earth) in SQ3 are spoofs of 
+              one sort or another. <br>
+              - Phleebhut: if said right, it sounds like &#8220;Flea butt&#8221; 
+              <br>
+              - Ortega is a popular American brand of <a href="http://www.ortega.com/" target="_blank">Mexican 
+              style food products</a>, usually featuring hot peppers. Ortega has 
+              been around a long time (100 years), and since it's a company based 
+              in the American West, specifically in California (where Sierra was 
+              based), the Two Guys would have been familiar with them, and likely 
+              even eaten their products. <br>
+              - Pestulon may or may not be a play on the word &quot;pestilence,&quot; 
+              meaning &quot;A pernicious, evil influence or agent.&#8221;</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              The postcards in Fester Blatz&#8217; World O&#8217; Wonders have 
+              several spoofs.<br>
+              - The Arrakis postcard: Arrakis is the planet from the movie &quot;Dune&quot; 
+              with all the valuable spice and annoying sandworms. <br>
+              - The Achoron postcard: Acheron is the planet where most of the 
+              action takes place in Ridley Scott&#8217;s classic Sci-fi thrillers 
+              &#8220;Alien&#8221; and &#8220;Aliens.&#8221; In SQ3, the Two guys 
+              misspelled the name of &#8220;Acheron&#8221; as &#8220;Achoron.&#8221; 
+              The creature around the neck of the guy in the image is the infamous 
+              facehugger creature from those movies. <br>
+              - The Beta Alpha Starless Region: This may or may not be an obscure 
+              astronomy joke. Under astronomy star naming rules, the brightest 
+              stars in a constellation are given Greek letter names in order of 
+              brightness. Alpha and beta stars would be the brightest. So, a starless 
+              region named Beta Alpha would be a contradiction in terms.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              Monolith Burger, with it&#8217;s giant yellow &quot;M&quot; on a 
+              red background, and it&#8217;s &#8220;fun meals&#8221; is a spoof 
+              on the giant fast food chain McDonalds.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              When you first fly in to visit Monolith Burger, a white ship streaks 
+              away from the station. It is the Starship USS Enterprise from the 
+              Sci-fi Television series &#8220;Star Trek.&#8221;</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              Astro Chicken song wasn't written by anyone at Sierra. It's from 
+              a Disney cartoon from the 30's called &quot;Birds of a feather&quot;. 
+              The cartoon features a chicken, so the song probably has some connection.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Astro 
+              Chicken might be spoofing the classic cartoon series of the 50&#8217;s 
+              and 60&#8217;s entitled &#8220;Astroboy.&#8221; Astroboy was a Japanese 
+              cartoon imported to the States in the 60's. It was wildly popular, 
+              and certainly would have been familiar to the Two Guys who would 
+              have been kids back in the 60's when it was on the air. Astro Chicken 
+              seems to be a likely goofy spoof.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              When Roger goes up the shield generator to blow it up and drops 
+              the detonator, the entire scene plays similar to a scene on a volcano 
+              in Leisure Suit Larry 2. Both games had a similar sequence. In LSL2, 
+              you climb a volcano and drop a bomb made of hairspray down the crater 
+              to stop a mad scientist. In SQ3, you drop a thermal detonator down 
+              the crater of a shield generator to stop a mad software CEO. These 
+              two games were made at the exact same time and released the same 
+              year.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              Thermal Detonator that Roger uses to blow up the shield generator 
+              is a direct reference to the device a disguised Princess Leia used 
+              to threaten Jabba the Hutt in the very beginning of &#8220;Star 
+              Wars: Return of the Jedi&#8221;.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              The software company Scumsoft is a parody on Microsoft and on the 
+              game engine Lucasarts used, called SCUMM. Further more, Elmo Pug 
+              seems to bear a striking resemblance to Microsoft CEO Bill Gates.</font></p>
+            <p align="justify"> <font size="2" face="Arial, Helvetica, sans-serif"><img src="sockm.jpg" alt="Rock 'em Sock 'em" width="190" height="155" hspace="5" vspace="5" align="right">The 
+              Nukem Dukem fighting robots is a play on the old children&#8217;s 
+              toy from Mattel, &#8220;Rock &#8216;em Sock &#8216;em Robots.&#8221; 
+              The toy, which debuted in 1966, consists of two robots of differing 
+              colors that stand in a boxing ring. Two people can play against 
+              each other in attempt to knock each other&#8217;s robot heads off. 
+              The robots are NOT a play on the Duke Nukem game series, as the 
+              first game in that series debuted in 1991. </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              Aluminum Mallard is a spoof on the Millenium Falcon from Star Wars.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              When in battle, and when seen taking off from Ortega, the Skull 
+              Fighter looks remarkably like an X-wing from Star Wars. Both ships 
+              have 4 wings that spread in an X shape.</font></p>
+            <p align="justify"><font color="#000000" size="2" face="Arial, Helvetica, sans-serif">___</font></p>
+          </td>
+        </tr>
+      </table></td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

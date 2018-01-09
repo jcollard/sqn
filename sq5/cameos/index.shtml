@@ -1,0 +1,190 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 5 Cameo Appearances</title>
+<STYLE TYPE="text/css">
+
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq5up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 5 Cameo Appearances &gt; </strong>A cameo appearance is 
+                a brief appearance of a well-known or notable person. Space Quest 
+                5 is chockfull of them and they are all listed in this page.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq5down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> <!--#include virtual="../../navmenu/sq5menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq5between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td align="left" valign="top"><div align="justify">
+              <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 5 Cameo Appearances</strong></font></p>
+              <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">One 
+                of the ships in the Academy landing bay has an engine like the 
+                one on the old USS Enterprise.</font></p>
+              <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">One 
+                of the Skull Fighters from Space Quest 3 is in the Academy landing 
+                bay.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">When 
+                you enter the Rotunda area at the StarCon Academy, the guard in 
+                the foreground is playing an old game called &quot;Missile Command&quot;.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><b><img src="elvis.gif" alt="Elvis" width="54" height="105" align="left"></b>Elvis 
+                has a cameo appearance. Go to the main rotunda in the Academy, 
+                then follow the walkway to the right. Elvis rounds the corner.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Near 
+                where Elvis appears, there's another guard blocking your admission 
+                to the south. He's playing another old game called &quot;Asteroids&quot;.</font></p>
+              <p align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="#CC0000"><img 
+src="fight.gif" alt="Obi-Wan and Darth Vader" width="87" height="53" align=right></font><font size="2" face="Arial, Helvetica, sans-serif">Obi-Wan 
+                Kenobi and Darth Vader are battling out their famous lightsaberfight 
+                in the StarCon Academy. When you're in the hallway, walk north 
+                until you reach the entrance to the main rotunda.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Worf 
+                from Star Trek: The next Generation is sitting in the classroom 
+                in the Academy. However, he has been re-labeled &quot;Woof&quot; 
+                and is described as the Academy's ambu-jitsu champion.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Both 
+                Flash Gordon and Albert Einstein are mentioned on the gigantic 
+                grade master machine. Incidentally, they both fail.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><b><img src="chicken.jpg" alt="An Astro Chicken" width="146" height="116" align="left"></b>The 
+                Astro Chicken from Space Quest 3 makes a quick appearance aboard 
+                the Eureka. Take the lift down to the shuttlebay and look to the 
+                far left. There's an array of lockers there. Open the one to the 
+                far left and watch.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">After 
+                setting the space monkeys loose, freeing Cliffy from the prison 
+                cell and returning to the lounge, two guys are teleported away. 
+                Sean Murphy, who was an artist on Space Quest 5 at the time, explains: 
+                &quot;We did a lot of video-capture for the game; most of the 
+                characters you see walking around are actual actors who were videotaped 
+                and then modified in Deluxe Paint (I played Roger Wilco!). A couple 
+                of the artists got up in random costumes (much of them lifted 
+                from the 'Betrayal at Krondor' costume library, which was being 
+                made at the same time and shot in the same studio) to play background 
+                characters and such; the two characters in that scene are artists 
+                wearing bizarre, random sci-fi costumes (I know one of them was 
+                artist Rhonda Conley; I can't remember who the other one was). 
+                Unfortunately because of the low resolution, it's hard to make 
+                out who they are.&quot; You can see Sean in the Galactic Inquirer 
+                tabloid included with the game in the &quot;production of Space 
+                Quest 5&quot; section. He's the one dressed as Roger about to 
+                be set on fire, and being hoisted bodily onto a scanner. He says 
+                himself that &quot;that shot involved some serious acrobatics&quot;.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+                PacMan also makes a guest appearance in the Goliath ventilation 
+                system. On level 8, find the intersection, which lead in all directions. 
+                Go left. Roger will exit the screen, but come back, followed by 
+                the PacMan.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Patrick 
+                Stewart (who plays Jean-Luc Picard on Star Trek: TNG) stars as 
+                the mutant colonist on Klorox II.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+                Labion Terror Beast appears in the Genetix lab. Try opening the 
+                cage that &quot;makes an odd whirring sound&quot;.</font></p>
+              <p align="justify"><font color="#000000">____</font></p>
+            </div></td>
+        </tr>
+      </table> </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

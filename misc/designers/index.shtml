@@ -1,0 +1,292 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - The Designers of Space Quest</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, mark crowe, josh mandel, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="designersup.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Designers 
+                of Space Quest &gt;</strong> Famous throughout the universe for 
+                creating the Space Quest games, those Two Guys from Andromeda 
+                are just a couple of geeks! And Josh Mandel has a great sense 
+                of humor but that's about it.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="designersdown.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../../navmenu/miscmenu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="designersbetween.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br> 
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td colspan="2" valign="top"> <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Scott 
+              Murphy</strong></font><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <font color="547ED9">SpaceQuestography:</font><br>
+              Co-Creator of the Series <br>
+              Designer / Writer / Programmer for Space Quest 1, 2 and 3<br>
+              Director for the Space Quest 1 VGA Remake<br>
+              Designer / Writer / Lead Programmer / Voice Actor for Space Quest 
+              4<br>
+              Designer / Writer / Voice Actor for Space Quest 6 <br>
+              Designer / Writer for Space Quest 7 (project got cancelled)</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><img src="scott2.jpg" alt="Scott Murphy" width="175" height="126" align="left"><font color="547ED9">Biography:</font><br>
+              &quot;I didn't start out to make computer games my life's work. 
+              It was an accident. I saw an adventure game before I worked here 
+              (Sierra -ed), and I liked it. I had a job I hated and I kept bugging 
+              Sierra until they let me come and work as a dealer returns person. 
+              And I kept learning things. So I became a support representative 
+              for games and then for business products, then I ended up managing 
+              the support department.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">Then 
+              the big crunch hit (in the mid-1980s Sierra On-Line weathered a 
+              bankruptcy threat through a major reorganization -ed) and I started 
+              doing QA (Quality Assurance) work as well as support stuff. As I 
+              got closer to where they were creating the games, I saw Mark Crowe 
+              and Doug MacNeill working on graphics for King's Quest 2 and Black 
+              Cauldron, and I was intrigued. I started bugging Ken to let me try 
+              a game. I saw people working on programming, and I knew that if 
+              they could do it, I could do it. So I kept bugging Ken, and finally 
+              he shut me up and let me try it. I put in a lot of free time over 
+              his house debugging Black Cauldron. And then I ended up being the 
+              only one working on it. After a while, Ken and Al Lowe bailed out 
+              on me. So I got Black Cauldron shipping, and I was hooked.&quot;</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">Scott 
+              and Mark Crowe (the other guy behind the Space Quest Series) first 
+              met eachother during work on &quot;the Black Cauldron&quot; game. 
+              The two got together and decided to do a game of their own, in their 
+              favorite genre - science fiction. The Two Guys were determined and 
+              in their spare time programmed what later became the first four 
+              rooms the Sarien Encounter. Scott programmed, Mark did graphics 
+              and Ken loved the demo and gave them green light to proceed. And 
+              the rest, is history.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">After 
+              work on Space Quest 4 was completed, Scott Murphy left Space Quest 
+              indefinately. Scott Murphy tells it this way: &quot;It wasn't so 
+              much 'running out of ideas' as it was that we (Scott and Mark -ed) 
+              needed some change.&quot;. After Space Quest 5 was released, Sierra 
+              decided they wanted another Space Quest and called upon Scott Murphy 
+              to do it. However, he was then busy programming for Police Quest 
+              4, so Sierra recruited Josh Mandel instead. Scott later joined the 
+              team as creative consultant, but ended up having influences on storyline 
+              and design as well. Shortly before Space Quest 6 was finished, Josh 
+              left the project and Scott was left with the job of getting Space 
+              Quest 6 done.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Scott 
+              Murphy was working on Space Quest 7 for a short period of time, 
+              together with, Leslie Balfour, Jay Lee, Bill Shockley, Mark Aro, 
+              Richard Powell, Lori Lucia, Tim Loucks and Craig Alexander. Around 
+              February 1998, rumours spread that Scott was fired and would supposibly 
+              be re-hired if the SQ7 project was to be restarted. This indeed 
+              happend a year later in January/February 1999. However, on the 22nd 
+              of February 1999, Chainsaw Monday struck, and Scott Murphy had to 
+              leave Sierra as his contract was expired and was not being renewed.</font></p>
+            <p align="justify"><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif">Current 
+              whereabouts:</font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              Sadly, I don't know what Scott Murphy is doing at the moment. Numerous 
+              attempts to get into contact with him have failed. You can visit 
+              his website (if you can call it that way) <a href="http://www.scottmurphy.com" target="_blank">here</a>, 
+              which has a cool picture of his hand... Yikes.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><img src="../../extraimages/line.gif" width="100%" height="3"></font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Mark 
+              Crowe</strong></font><font face="Arial, Helvetica, sans-serif" size="2"><a name="mark"></a></font> 
+              <font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <font color="547ED9">SpaceQuestography:</font><br>
+              Co-Creator of the Series <br>
+              Designer / Writer / Graphics / Music for Space Quest 1 and 2<br>
+              Designer / Writer / Graphics / Programmer / Hint Book Writer for 
+              Space Quest 3<br>
+              Designer / Writer / Art Designer / Animator for Space Quest 4<br>
+              Producer / Director / Game Manual Contributing Writer for Space 
+              Quest 5</font> </p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><img 
+src="mark.jpg" align=left width="129" height="128"><font color="547ED9">Biography:</font><br>
+              Mark Crowe has been at Sierra On-Line since 1983, first at what 
+              became Sierra Publishing, and eventually at Dynamix in Eugene, Oregon. 
+              Mark tells it this way:</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">&quot;I 
+              started with Sierra in the Art Department, designing packaging and 
+              documentation and what not, so I used my illustration skills there. 
+              My first computer graphics project was creating the graphics for 
+              Winnie the Pooh and the One Hundred Acre Wood. Then I did animation 
+              for King's Quest 2 and then Black Cauldron. Black Cauldron was the 
+              first project Scott Murphy and I worked on together.&quot;</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">The 
+              second project was to be Space Quest I. Mark and Scott knew there 
+              was an audience for a funny science fiction game. After designing 
+              SQ1, SQ2, SQ3 and SQ4 with Scott Murphy, Mark moved to Sierra's 
+              sister company Dynamix. According to Craig Alexander (general project 
+              manager of the first cancelled Space Quest 7), Sierra was swamped 
+              with projects in Oakhurst. Dynamix volunteered to do the next SQ, 
+              and Mark Crowe wanted to move to Dynamix anyway, so he grabbed the 
+              opportunity. Mark Crowe himself tells the story this way: &quot;Let's 
+              see. It was back in '90/'91 that I was directing Police Quest 3 
+              after Space Quest 4 was released. SQ4 had been a particularly stressful 
+              development (I still consider it to be my masterpiece product) and 
+              I was ready to move on to something different for my next project. 
+              I was impressed with the work Jeff Tunnel was doing at Dynamix, 
+              and was ready for a life change so I came on board there in Eugene, 
+              Oregon. I had a few product ideas in mind that utilized Dynamix' 
+              adventure gamer development system, but shortly after my arrival, 
+              I was asked to do SQ5 using Sierra's SCI.&quot; Scott Murphy stayed 
+              working in Oakhurst and they would never again work together on 
+              a Space Quest game. Mark Crowe continues: &quot;I was aware that 
+              Josh Mandel (co designer of SQ6 -ed) was working on a design for 
+              SQ5 at that point of time. I don't know about all the politics surrounding 
+              that. They asked me to do SQ5, I had some ideas for a story so I 
+              said SURE!&quot; Mark Crowe did a great job, but it was to be his 
+              last Space Quest.</font></p>
+            <p align="justify"><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif">Current 
+              whereabouts:</font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              Mark Crowe works at <a href="http://www.pipeworks.com/" target="_blank">Pipeworks 
+              Software</a>. Founded in November 1999, the independent studio is 
+              focusing on development of entertainment software titles for major 
+              software publishers.</font></p>
+            <font size="2" face="Arial, Helvetica, sans-serif"><img src="../../extraimages/line.gif" width="100%" height="3"></font> 
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Josh 
+              Mandel</strong></font><font face="Arial, Helvetica, sans-serif" size="2"><a name="josh"></a> 
+              <br>
+              <font color="547ED9">SpaceQuestography:</font><br>
+              Contributing Writer for Space Quest 4 and its manual <br>
+              Voice Actor for Space Quest 4<br>
+              Contributing Writer for the Space Quest 5 manual <br>
+              Designer / Writer / Manual Writer for Space Quest 6<br>
+              Writer for the Space Quest 7 fangame</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><img 
+src="josh.jpg" align=left width="135" height="177"><font color="547ED9">Biography:</font><br>
+              Josh started at Sierra On-Line in 1990 as an assistant producer, 
+              his first project being the SCI remake of King's Quest 1. But he 
+              preferred to spend his time writing sarcastic texts for any designer 
+              who'd let him. Unkowingly for many Space Quest fans, Josh Mandel 
+              did a huge amount of &quot;behing the scenes&quot; work for the 
+              Space Quest Series as contributing writer. Scott Murphy and Mark 
+              Crowe gave him his first opportunity by allowing him to write the 
+              parody software boxes and bogus hint book for Space Quest 4. He 
+              was, in fact, working on a design for Space Quest 5 for a short 
+              period of time. But that before Mark Crowe was allocated to the 
+              project. Besides the Space Quest Series, he has been a contributing 
+              writer on most Sierra adventures, as well as director, writer and 
+              co-designer of Freddy Pharkas, Frontier Pharmacist.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">Josh 
+              Mandel set out to design Space Quest 6 but just as the project neared 
+              completion, Josh had to leave the project. Scott Murphy did the 
+              rest. Space Quest 6 was market as a 'Scott Murphy solo job'. But 
+              in fact Josh had designed the whole game. Scott: &quot;I want to 
+              publicly apologize to Josh for this. It was a difficult situation 
+              for both of us. The 'solo job' thing I honestly had no clue about 
+              until I got my packaged copy of the game. Anyway, Josh did get screwed 
+              over and I hope he accepts my too-late apology for any part I may 
+              have played. I made a mistake I'm not proud of.&quot;</font></p>
+            <p align="justify"><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif">Current 
+              whereabouts:</font><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              Josh Mandel is currently working on the <a href="http://www.sq7.org" target="_blank">Space 
+              Quest 7 fangame</a>. He's webmaster of his family site (being quite 
+              the family guy these days), located at <a href="http://www.josho.com/" target="_blank">josho.com</a>.</font></p>
+            <p><font color="#000000">___</font></p>
+      </td>
+        </tr>
+      </table>
+      
+    </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

@@ -1,0 +1,242 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 6  Soundtrack</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq6up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 6 Soundtrack &gt; </strong>On this page you'll find the 
+                complete Space Quest 6 soundtrack. All the songs are recorded 
+                from the Roland Sound Canvas SC-55 mk-II.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq6down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> <!--#include virtual="../../navmenu/sq6menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq6between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td valign="top"> <p><font color="ffffb1" size="3" face="Arial, Helvetica, sans-serif"><strong>Space 
+              Quest 6 Soundtrack<font size="2"><br>
+              </font></strong></font><font face="Arial, Helvetica, sans-serif" size="2">The 
+              music from Space Quest 6 didn't make the impression to me than the 
+              others did. If you don't know where to start, may I recommend <a href="SQ6_07-%20Stooge%20Fighter%20III.mp3">Stooge 
+              Fighter III</a> <font color="#CC0000">(3,07 MB)</font> to you?</font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><img src="../../extraimages/line.gif" width="100%" height="3"></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><a href="SQ6_01-%20Introduction.mp3">01 
+              - Introduction</a> <font color="#CC0000">(1,77 MB)</font> 1 minute 
+              and 56 seconds<br>
+              <a href="SQ6_02-%20Polysorbate%20LX.mp3">02 - Polysorbate LX</a> 
+              <font color="#CC0000">(1,42 MB)</font> 1 minute and 33 seconds<br>
+              <a href="SQ6_02A-%20Boot%20Liquor.mp3">02A- Boot Liquor</a> <font color="#CC0000">(2,4 
+              MB)</font> 2 minutes and 41 seconds<br>
+              <a href="SQ6_03-%20Orion%27s%20Belt%20Bar%20(Part%201).mp3">03 - 
+              Orion's Belt Bar (Part 1)</a> <font color="#CC0000">(1,70 MB)</font> 
+              1 minute and 51 seconds<br>
+              <a href="SQ6_04-%20Orion%27s%20Belt%20Bar%20(Part%202).mp3">04 - 
+              Orion's Belt Bar (Part 2)</a> <font color="#CC0000">(2,07 MB)</font> 
+              2 minutes and 16 seconds<br>
+              <a href="SQ6_05-%20Orion%27s%20Belt%20Bar%20(Part%203).mp3">05 - 
+              Orion's Belt Bar (Part 3)</a> <font color="#CC0000">(1,56 MB)</font> 
+              1 minute and 42 seconds<br>
+              <a href="SQ6_06-%20The%20Arcade.mp3">06 - The Arcade</a> <font color="#CC0000">(820 
+              KB)</font> 52 seconds<br>
+              <a href="SQ6_07-%20Stooge%20Fighter%20III.mp3">07 - Stooge Fighter 
+              III</a> <font color="#CC0000">(3,07 MB)</font> 3 minutes and 21 
+              seconds<br>
+              <a href="SQ6_08-%20Fester%20Blatz.mp3">08 - Fester Blatz</a> <font color="#CC0000">(1,80 
+              MB)</font> 1 minute and 58 seconds<br>
+              <a href="SQ6_09-%20Dew%20Drop%20Inn.mp3">09 - Dew Drop Inn</a> <font color="#CC0000">(1,84 
+              MB)</font> 2 minutes<br>
+              <a href="SQ6_10-%20Kidnapped.mp3">10 - Kidnapped</a> <font color="#CC0000">(1,78 
+              MB)</font> 1 minute and 57 seconds<br>
+              <a href="SQ6_11-%20Roger%20Cuts%20A%20Rug.mp3">11 - Roger Cuts A 
+              Rug</a> <font color="#CC0000">(313 KB)</font> 20 seconds<br>
+              <a href="SQ6_12-%20The%20Burlesque%20Moddie.mp3">12 - The Burlesque 
+              Moddie</a> <font color="#CC0000">(953 KB)</font> 1 minute and 1 
+              second<br>
+              <a href="SQ6_13-%20Corpsman%20Stellar%20Santiago.mp3">13 - Corpsman 
+              Stellar Santiago</a> <font color="#CC0000">(1,70 MB)</font> 1 minute 
+              and 51 seconds<br>
+              <a href="SQ6_14-%20Sickbay.mp3">14 - Sickbay</a> <font color="#CC0000">(1,27 
+              MB) </font>1 minute and 23 seconds<br>
+              <a href="SQ6_15-%20Roger%27s%20Quarters.mp3">15 - Roger's Quarters</a> 
+              <font color="#CC0000">(2,57 MB)</font> 2 minutes and 49 seconds<br>
+              <a href="SQ6_16-%20Roger%27s%20Quarters%20(Demo).mp3">16 - Roger's 
+              Quarters (Demo)</a> <font color="#CC0000">(679 KB)</font> 43 seconds<br>
+              <a href="SQ6_17-%20Dr.%20Beleauxs%27%20Lab%20(Part%201).mp3">17 
+              - Dr. Beleaux' Lab (Part 1)</a> <font color="#CC0000">(1,15 MB)</font> 
+              1 minute and 15 seconds<br>
+              <a href="SQ6_18-%20Elevator%20Ride.mp3">18 - Elevator Ride</a> <font color="#CC0000">(2,21 
+              MB)</font> 2 minutes and 25 seconds<br>
+              <a href="SQ6_19-%20Sharpei%27s%20Quarters.mp3">19 - Sharpei's Quarters</a> 
+              <font color="#CC0000">(4,61 MB)</font> 5 minutes and 2 seconds<br>
+              <a href="SQ6_19a%20Sharpei%27s%20Quarters-%20Sharpei.mp3">19a - 
+              Sharpei's Quarters - Sharpei</a> <font color="#CC0000">(1,34 MB)</font> 
+              1 minute and 27 seconds<br>
+              <a href="SQ6_19b%20Sharpei%27s%20Quarters-%20The%20Gas.mp3">19b 
+              - Sharpei's Quarters - The Gas</a> <font color="#CC0000">(947 KB)</font> 
+              1 minute<br>
+              <a href="SQ6_19c%20Sharpei%27s%20Quarters-%20Stellar%27s%20Funeral.mp3">19c 
+              - Sharpei's Quarters - Stellar's Funeral</a> <font color="#CC0000">(2,34 
+              MB)</font> 2 minutes and 33 seconds<br>
+              <a href="SQ6_20-%20Whistling%20Roger.mp3">20 - Whistling Roger</a><font color="#CC0000"> 
+              (568 KB)</font> 36 seconds<br>
+              <a href="SQ6_21-%208-Rear%20(Part%201).mp3">21 - 8-Rear (Part 1)</a> 
+              <font color="#CC0000">(1,58 MB)</font> 1 minute and 43 seconds<br>
+              <a href="SQ6_22-%208-Rear%20(Part%202).mp3">22 - 8-Rear (Part 2)</a> 
+              <font color="#CC0000">(2,07 MB)</font> 2 minutes and 15 seconds<br>
+              <a href="SQ6_22c-%20Soylent.mp3">22c - The Soylent Jingle</a> <font color="#CC0000">(196 
+              KB)</font> 50 seconds <br>
+              <a href="SQ6_23-%20Shuttle%20Bay%20Entrance.mp3">23 - Shuttle Bay 
+              Entrance</a> <font color="#CC0000">(1,79 MB)</font> 1 minute and 
+              57 seconds<br>
+              <a href="SQ6_24-%20Jail.mp3">24 - Jail</a> <font color="#CC0000">(1,69 
+              MB) </font> 1 minute and 50 seconds<br>
+              <a href="SQ6_25-%20Spiked%20Doughnut.mp3">25 - Spiked Doughnut</a> 
+              <font color="#CC0000">(333 KB)</font> 21 seconds<br>
+              <a href="SQ6_26-%20Shuttle%20Bay%20(Demo).mp3">26 - Shuttle Bay 
+              (Demo)</a> <font color="#CC0000">(1,73 MB)</font> 1 minute and 53 
+              seconds<br>
+              <a href="SQ6_27-%20Space.mp3">27 - Space</a> <font color="#CC0000">(1,83 
+              MB)</font> 1 minute and 59 seconds<br>
+              <a href="SQ6_28-%20Waiting%20For%20Help.mp3">28 - Waiting For Help</a> 
+              <font color="#CC0000">(1,05 MB)</font> 1 minute and 9 seconds<br>
+              <a href="SQ6_29-%20Dr.%20Beleauxs%27%20Lab%20(Part%202).mp3">29 
+              - Dr. Beleaux' Lab (Part 2)</a> <font color="#CC0000">(1,61 MB)</font> 
+              1 minute and 45 seconds<br>
+              <a href="SQ6_30-%20Return%20To%20Delta%20Burksilon.mp3">30 - Return 
+              To Delta Burksilon</a> <font color="#CC0000">(99,1 KB)</font> 6 
+              seconds<br>
+              <a href="SQ6_31-%20The%20Information%20Superhighway.mp3">31 - The 
+              Information Superhighway</a> <font color="#CC0000">(1,95 MB)</font> 
+              2 minutes and 7 seconds<br>
+              <a href="SQ6_32-%20The%20Information%20Superhighway%20Office.mp3">32 
+              - The Information Superhighway Office</a> <font color="#CC0000">(642 
+              KB)</font> 41 seconds<br>
+              <a href="SQ6_33-%20Inside%20Stellar%20Santiago.mp3">33 - Inside 
+              Stellar Santiago</a> <font color="#CC0000">(1,48 MB)</font> 1 minute 
+              and 37 seconds<br>
+              <a href="SQ6_34-%20The%20Stomach.mp3">34 - The Stomach</a> <font color="#CC0000">(2,08 
+              MB)</font> 2 minutes and 16 seconds<br>
+              <a href="SQ6_35-%20The%20Duodenum.mp3">35 - The Duodenum</a> <font color="#CC0000">(2,17 
+              MB)</font> 2 minutes and 22 seconds<br>
+              <a href="SQ6_35a-%20The%20Gall%20Bladder.mp3">35a - The Gall Bladder</a> 
+              <font color="#CC0000">(1.5 MB)</font> 1 minute and 42 seconds<br>
+              <a href="SQ6_36a-%20Closing%20Scenes-%20The%20Brain.mp3">36a - Closing 
+              Scenes - The Brain</a> <font color="#CC0000">(750 KB)</font> 48 
+              seconds<br>
+              <a href="SQ6_36b-%20Closing%20Scenes-%20Sharpei.mp3">36b - Closing 
+              Scenes - Sharpei</a> <font color="#CC0000">(1,17 MB)</font> 1 minute 
+              and 17 seconds<br>
+              <a href="SQ6_36c-%20Closing%20Scenes-%20Leaving%20Stellar.mp3">36c- 
+              Closing Scenes - Leaving Stellar</a> <font color="#CC0000">(1,13 
+              MB)</font> 1 minute and 14 seconds<br>
+              <a href="SQ6_37-%20Mission%20Complete.mp3">37 - Mission Complete</a> 
+              <font color="#CC0000">(625 KB)</font> 40 seconds </font></p>
+            <p align="left"><font size="2" face="Arial, Helvetica, sans-serif">Total 
+              file size: 64,5 MB</font></p></td>
+        </tr>
+      </table> </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

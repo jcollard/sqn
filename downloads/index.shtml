@@ -1,0 +1,238 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Downloads</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../tabs/infobox.gif"><img src="../misc/coolstuffup.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../tabs/infobox.gif"> <blockquote> 
+              <p><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>More 
+                Downloads &gt; </strong> This page contains cool Space Quest downloads. 
+                Please note that game specific downloads aren't listed here.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../misc/coolstuffdown.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../navmenu/miscmenu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../navmenu/lineleftgreyright.jpg"><img src="../misc/coolstuffbetween.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../navmenu/topblack.gif" width="100%" height="20"><br> 
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td colspan="2" valign="top"> <p align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Games 
+              and Videos</strong></font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><img src="tabpb.jpg" alt="Take a Break Pinball" width="180" height="139" hspace="5" align="right"><a href="tabpin.zip">Take 
+              a Break Pinball</a> <font color="#CC0000">(3,91 MB)</font><br>
+              This is a pinball game from Dynamic featuring the popular Sierra 
+              games (Leisure Suit Larry, King's Quest). It also has a pinball 
+              level of Space Quest IV! I've tested this game and it doesn't seem 
+              to work properly in Windows 2000 (and I guess it won't work properly 
+              in XP either). It worked fine in Windows 98. Please read the &quot;installing 
+            help&quot; text file I made.</font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><a href="insidesq.zip">Current 
+              Inside Copy</a> <font color="#CC0000">(t<font size="2" face="Arial, Helvetica, sans-serif">he
+              zip archive is 44.9 MB and contains one AVI file.</font>)</font><br>
+              Yes!
+            It's that wicked Current Inside Copy video from the Space Quest Collection!
+            Barry T. Smith is trying to bring you an interview with the people
+            who bring you the popular Space Quest Series.</font> <font size="2" face="Arial, Helvetica, sans-serif">The
+                movie looks just as good as the original file from the Space
+                Quest Collection, but is much smaller. Suitable for all video
+            players.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Movie
+              properties: Cinepak 156 X 120 pixels.<br>Sound
+              properties: mono 22.05 kHz, 8 bits.<br>
+            </font><font size="2" face="Arial, Helvetica, sans-serif">Duration:
+              9 minutes and 7 seconds.</font></p>            
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">For 
+              those of you who are interested, here's a transcript of the original 
+            German as well as my translation attempt:</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              Sabine Duvall's project team converts Sierra games into foreign 
+              languages for distribution all over the world.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              <img src="cic.jpg" alt="Current Inside Copy" width="152" height="117" hspace="5" vspace="0" align="left">B: Sabine, I'm told Space Quest has done quite well abroad. <br>
+              S: Ja, Space Quest, das war so eine Sache f&uuml;r sich. Ich bin 
+              froh, dass ich das &uuml;berlebt habe. Die Sache war eine der schlimmsten 
+              &Uuml;bersetzungen, die ich &uuml;berhaupt je habe machen m&uuml;ssen. 
+              Schwierigkeitsgrad Nummer 1. Man kann sich &uuml;berhaupt nicht 
+              vorstellen, was f&uuml;r einen Mist man da alles hat &uuml;bersetzen 
+              m&uuml;ssen. &Uuml;berhaupt nichts, das irgendwie miteinander zusammen 
+              stimmt. Alles war wie als m&uuml;sste man von vorne anfangen. Ich 
+              hab da --- Mensch, Meier --- was hab ich nach &Uuml;bersetzern gesucht, 
+              wo ich was richtig rauskriegen soll, aber ist da was gekommen? Nein! 
+              Musste ich alles selber machen! Also wie verr&uuml;ckt! Die ganze 
+              Sache ist total verr&uuml;ckt. Mach ich nicht nochmal. </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">(Yeah, 
+              Space Quest, that was quite a thing of its own. I'm glad I survived 
+              that. The whole thing was one of the worst translations I ever had 
+              to do. Difficulty level number one. You can't imagine the kind of 
+              crap you had to translate. There was nothing that fit together; 
+              everything was as if you had to start all over. My, the time I've 
+              spent looking for translators, when I had to find out what something 
+              meant... but did something come of it? No! I had to do everything 
+              by myself! Crazy! The whole thing was totally fucked up. I'm not 
+              going to do that again.) </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><img src="cic2.jpg" alt="Barry T. Smith interviewing Sabina Duvall" width="155" height="117" hspace="5" align="left">B: 
+              Uh, so how about that Scott Murphy? <br>
+              S: Scott Murphy? Scott Murphy? Da brauchst du mir gar nicht mit 
+              zu kommen. Der Junge, der ist ein Mistkerl. Mit dem will ich nichts 
+              mehr zu tun haben. Der Mann hat mich so blamiert in Europa, das 
+              kann man sich &uuml;berhaupt nicht vorstellen. Europa --- ich bin 
+              doch nur noch, wie man I'm Englischen sagt, &quot;laughing stock 
+              of Europe&quot;. Und das ist n&auml;mlich das schlimmste, was man 
+              machen kann: mich so zu ruinieren in Europa. Nein, ich hab jetzt 
+              die Nase voll. Ich hab keine Lust mehr. Das reicht mir jetzt. Also, 
+              so ein Mistschei&szlig; hier! Scott Murphy, ich bin doch nicht bekloppt 
+              und rede &uuml;ber den Typen! Aus dem Weg hier, was soll denn die 
+              Schei&szlig;e! Also ich bin weg. Also dann, auf Wiedersehen.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              (Scott Murphy? Don't get me started on that one. That guy is a crook. 
+              I don't want to have anything to with him. The way this guy embarassed 
+              me in Europe, you can't even begin to imagine. I'm just... how do 
+              they say it in English --- the laughing stock of Europe. And that's 
+              the worst thing you can do: to ruin me in Europe. I'm fed up now. 
+              I've had enough of this. What kind of crap is this anyway? Scott 
+              Murphy, do you think I'm an idiot, asking me to talk about this 
+              guy? Outta my way! What's this shit all about anyway? I'm gone. 
+              So long, good bye.)</font></p>
+            <p align="justify"><img src="../extraimages/line.gif" width="100%" height="3"></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Other 
+              stuff</strong></font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><a href="gap.zip">GAP</a> 
+              <font color="#CC0000">(593 KB)</font><br>
+              Download this Windows program and you can listen to the resource.aud 
+              files from Space Quest 4 and 5, the only *.AUD files that are not 
+              coded.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><a href="sq3-6.zip">A 
+              cool mix of all kinds of Space Quest songs</a> <font color="#CC0000">(6,55MB)</font><br>
+              This is a high quality MP3 song of 7 minutes in length! Don't you 
+              just sit there, download it!<font color="#00FF00"> </font></font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><a href="rogcrawl.zip">A 
+              Space Quest Screensaver</a> <font color="#CC0000">(269 KB)</font><br>
+              This is a very cool screensaver for Windows. It shows Roger crawling 
+              through the caves and tunnels of the planet Labion. It's easy to 
+              install, easy to remove, so lets give it a try, shall we?</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><a href="history.zip">The 
+              History of Space Quest</a> <font color="#CC0000">(33,5 KB)</font><br>
+              This is a from the Space Quest Collection. It contains tons of information 
+              about Space Quest and stuff. The file is a Windows help database 
+              file, so you need Windows to run it.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><a href="sqfaq.zip">The 
+              SQFAQ Created by Troels Pleimert</a> <font color="#CC0000">(87,2 
+              KB)</font><br>
+              This huge text document contains almost every fact there is about 
+              Space Quest. This includes interviews with the designers, very cool 
+              funfacts and background information.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><a href="sq6copy.exe">Space 
+              Quest 6 Copyright Protection</a> <font color="#CC0000">(130 
+              KB)</font><br>
+              Released by Sierra. Can't break the homing beacon codes? Here they 
+              are.</font></p>
+            <p align="justify"> <font color="#000000">___</font></p></td>
+        </tr>
+      </table>
+      
+    </td>
+    <td width="25" valign="top" background="../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All
+           original content (c) Frans van Hofwegen. All Space Quest related
+          
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

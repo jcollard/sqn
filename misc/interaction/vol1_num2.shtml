@@ -1,0 +1,217 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Sierra Newsletter Winter 1987</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="interactionup.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>InterAction 
+                Magazine &gt;</strong> Sierra used to publish its own gaming magazine 
+                (which was called &quot;Sierra Newsletter&quot; and &quot;Sierra 
+                News Magazine&quot; before fall 1991). This chapter features SQ 
+                related articles of these magazines.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="interactiondown.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../../navmenu/miscmenu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="interactionbetween.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br> 
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td colspan="2" valign="top"> <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Sierra 
+              Newsletter Winter 1987<br>
+              </strong></font><font face="Arial, Helvetica, sans-serif"><font size="2"><img src="vol1_num2_coverk.jpg" width="110" height="145" align="right">This 
+              issue mainly deals with the new Police Quest that had just been 
+              released. But it does contain some interesting Space Quest tidbits.</font></font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              entire magazine can be viewed and downloaded from the following 
+              site: <a href="http://sierra.icequake.net/" target="_blank">http://sierra.icequake.net</a>. 
+              <img src="../../extraimages/sqnet.gif" width="87" height="11" alt="SpaceQuest.Net"> 
+              has gathered all the Space Quest related articles of this issue 
+              for you below.</font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="fffb1" size="2" face="Arial, Helvetica, sans-serif"><strong><font color="ffffb1" size="3">Space 
+              Quest II - Vohaul's Revenge</font></strong></font><font size="2" face="Arial, Helvetica, sans-serif"> 
+              <font color="547ED9">(complete)<br>
+              </font>Just when you thought it was safe to go back into space, 
+              <em>he's back</em>! And he wants revenge! Sludge Vohaul, the demented 
+              evil scientist (whose sinister plan was foiled in our first episode) 
+              is still seething over his Sarien slipup. Madder than a drenched 
+              Astro Chicken (and more determined than ever to rule the universe), 
+              Vohaul has devised a new plan. A plan so evil that only one as wickedly 
+              sadistic as he could imagine it. Yes, the worst nightmare ever is 
+              about to come knocking on your door -- and it won't take <em>no</em> 
+              for an answer! It's the invasion of the insurance salesmen! Beat 
+              the odds. Conquer insurmountable obstacles. Defy gravity. Cry for 
+              help. Flounder your way through more perilous escapades than you 
+              can wiggle a space worm at. Packed with comedy, tragedy, suspense, 
+              horror and many other nouns, Vohaul's Revenge will relieve that 
+              heavy feeling in your wallet. Vohaul's Revenge is the truly funny 
+              follow-up to the cult classic The Sarien Encounter.</font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="FFFFB1" size="2" face="Arial, Helvetica, sans-serif"><strong><font size="3">Hint 
+              Books Save You Money</font></strong></font><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif"> 
+              (complete)<br>
+              </font><font size="2" face="Arial, Helvetica, sans-serif">Eliminate 
+              those expensive calls to Customer Service when you get seriously 
+              stuck. Or, look for things you missed doing after you finish playing 
+              the game. (Some of the things these programmers do are pretty wild.) 
+              A special &quot;invisiclue&quot; pen lets you reveal only those 
+              solutions you want, without revealing more than you want to know. 
+              Complete game maps are available with each hint book. Hint books 
+              are available for these popular Sierra titles: King's Quest, King's 
+              Quest II, King's Quest III. The Black Cauldron, Space Quest I, Space 
+              Quest II and Leisure Suit Larry. Hint book for Police Quest and 
+              Space Quest II are expected to be available in late December and 
+              early January, respectively. Sierra hint books are available at 
+              a software store neat you. Or you can order direct by sending a 
+              check or money order for $7.95 (shipping and handling fee, California 
+              residents add appropriate sales tax) to Sierra Sales, P.O. Box 485, 
+              Coarsegold, CA 93614. Phone orders accepted with major credit cards 
+              (MasterCard, Visa, American Express) by calling either (800) 344-7448 
+              or (209) 683-6858.</font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="FFFFB1" size="2" face="Arial, Helvetica, sans-serif"><strong><font size="3">Collector's 
+              Alert!</font></strong></font><font color="547ED9" size="2" face="Arial, Helvetica, sans-serif"> 
+              (complete)<br>
+              </font><font size="2" face="Arial, Helvetica, sans-serif">Some owners 
+              of Space Quest - Chapter One may have a collector's item on their 
+              hands. The currently shipping Space Quest box has a picture on the 
+              back of authors Scott Murphy and Mark Crowe, posing in front of 
+              the Yosemite's Half Dome. However, if you will note, Half Dome is 
+              backwards! (Just compare it with the Sierra logo, which is a representation 
+              of Half Dome.) Sierra artists will soon be redesigning a new Space 
+              Quest box, so supplies of this unusual representation are rather 
+              limited.</font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="FFFFB1" size="2" face="Arial, Helvetica, sans-serif"><strong><font size="3">Current 
+              Sierra Bestsellers September - October 1987</font></strong></font><font size="2" face="Arial, Helvetica, sans-serif"> 
+              <font color="547ED9">(complete)</font><br>
+              1. Thexder<br>
+              2. King's Quest III<br>
+              3. 3-D Helicopter Simulation<br>
+              4. Space Quest<br>
+              5. Leisure Suit Larry 1<br>
+              6. The Black Cauldron<br>
+              7. King's Quest I<br>
+              8. King's Quest II<br>
+              9. Police Quest<br>
+              10. Smart Money</font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Sierra 
+              Puzzle's </strong></font><font size="2" face="Arial, Helvetica, sans-serif"><font color="547ED9">(Word 
+              Search Only)<br>
+              </font>This issue of the Sierra Newsletter contains a Bonus Word 
+              Search puzzle. It contains several Space Quest related words so 
+              I've included it <a href="bonuswordsearch.jpg" target="_blank">here</a> 
+              <font color="#CC0000">(112 KB)</font> for you to enjoy. Print it 
+              out on a printer and happy puzzling (if you're into this kind of 
+              puzzles anyway). There's also a Sierra Crossword puzzle in there 
+              (page 11), by the way.</font></p>
+            <p align="justify"><font color="#000000">___</font></p></td>
+        </tr>
+      </table>
+      
+    </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

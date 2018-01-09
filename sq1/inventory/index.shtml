@@ -1,0 +1,277 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 1 Inventory Items</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq1up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 1 Inventory Items &gt; </strong>This page describes the 
+                inventory items of Space Quest 1 and includes information on their 
+                location and usage. You might not want to see the information 
+                below if you're new to the game.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq1down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../../navmenu/sq1menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq1between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td valign="top"> <table width="100%" border="0" cellspacing="1" cellpadding="1">
+              <tr> 
+                <td height="31" align="left" valign="top"> <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#CC0000"><img 
+src="cart.gif" alt="Data storage cartridge" width="116" height="74" align=left></font><font face="Arial, Helvetica, sans-serif" size="2">This 
+                    is a data storage cartridge. On it are the words ASTRAL BODY 
+                    FORMATION: THE UNTOLD STORY. The cartridge contains a journal 
+                    of Slash Vohaul - a scientist working on the secret Star Generator 
+                    project, and the blue prints for building the Star Generator. 
+                    Found in the Data Archives on the Arcada and used in the Keronian 
+                    Computer.</font></p></td>
+              </tr>
+              <tr> 
+                <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#CC0000"><br>
+                    <img 
+src="keycard.gif" alt="A keycard" width="112" height="66" align=left></font><font face="Arial, Helvetica, sans-serif" size="2">The 
+                    keycard is a flat rectangular piece of synthetic material 
+                    which is magnetically keyed for passing check stations. Written 
+                    in tiny letters are the words &quot;Beek and Hinder Security 
+                    Systems&quot;. Found in the uniform of a dead crew mate and 
+                    used to open the elevator door which gives access to the lower 
+                    level of the Arcada.</font></div></td>
+              </tr>
+              <tr> 
+                <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#CC0000"><br>
+                    <img 
+src="gadget.gif" alt="A gadget" width="95" height="86" align=left></font><font face="Arial, Helvetica, sans-serif" size="2">Written 
+                    on the electronic gadget are the words DIALECT TRANSLATOR. 
+                    On one end is a dial and a light (currently dim). Found in 
+                    the Flight Prep. room and used for talking to the alien head.</font></div></td>
+              </tr>
+              <tr> 
+                <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#CC0000"><br>
+                    <img 
+src="survivalkit.gif" alt="Survival kit" width="132" height="80" align=left></font><font face="Arial, Helvetica, sans-serif" size="2">This 
+                    is your survival kit. It contains a Xenon Army Knife and a 
+                    can of dehydrated water. Found in the pod (after crash landing). 
+                    You can open it.</font></div></td>
+              </tr>
+              <tr> 
+                <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#CC0000"><br>
+                    <img 
+src="water.gif" alt="Dehydrated water" width="108" height="94" align=left></font><font face="Arial, Helvetica, sans-serif" size="2">This 
+                    is a cylinder of dehydrated water. At the top of the cylinder 
+                    is a regulator and a short nozzle. On the side is a label. 
+                    The can label says &quot;Pelvitron's Dehydrate water (H2) 
+                    - All you add is air! Makes 10 gallons!&quot; Found inside 
+                    the survival kit and used for drinking or killing the Orat.</font></div></td>
+              </tr>
+              <tr> 
+                <td align="left"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#CC0000"><br>
+                    <img 
+src="armyknife.gif" alt="Xenon army knife" width="92" height="94" align=left></font><font face="Arial, Helvetica, sans-serif" size="2">This 
+                    is your handy-dandy Xenon Army Knife. Found in the survival 
+                    kit and used to open the vent in the Deltaur.</font></div></td>
+              </tr>
+              <tr> 
+                <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#CC0000"><br>
+                    <img 
+src="glass.gif" alt="A piece of view shield glass" width="112" height="74" align=left></font><font face="Arial, Helvetica, sans-serif" size="2">This 
+                    is a piece of highly reflective view shield glass from the 
+                    escape pod. Due to its special design there are no sharp edges. 
+                    Found on the ground near the pod. Used to short out the laser 
+                    in the underground complex.</font></div></td>
+              </tr>
+              <tr> 
+                <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#CC0000"><br>
+                    <img 
+src="plant.gif" alt="A plant piece" width="96" height="66" align=left></font><font face="Arial, Helvetica, sans-serif" size="2">This 
+                    is a plant you are not familiar with. Found on the Keronian 
+                    desert. You can eat it.</font></div></td>
+              </tr>
+              <tr> 
+                <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#CC0000"><br>
+                    <img 
+src="oratpart.gif" alt="The Orat part" width="104" height="80" align=left></font><font face="Arial, Helvetica, sans-serif" size="2">The 
+                    Orat part seems to consist of a spiny piece of bone with a 
+                    small amount of somewhat less solid material clinging to one 
+                    end. Found in Orat's Cave. You need to give it to the alien 
+                    head.</font></div></td>
+              </tr>
+              <tr> 
+                <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#CC0000"><br>
+                    <img 
+src="rock.gif" alt="A rock" width="100" height="66" align=left></font><font face="Arial, Helvetica, sans-serif" size="2">This 
+                    is definitely a rock. Found by underground elevator and used 
+                    on geyser.</font></div></td>
+              </tr>
+              <tr> 
+                <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#CC0000"><br>
+                    <img 
+src="skimmerkey.gif" alt="Sand skimmer key" width="100" height="74" align=left></font><font face="Arial, Helvetica, sans-serif" size="2">This 
+                    is the power key to the sand skimmer. Found inside the skimmer 
+                    (DUH!) and used to start the engine (wow!)</font></div></td>
+              </tr>
+              <tr> 
+                <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#CC0000"><br>
+                    <img 
+src="buckazoids.gif" alt="A buckazoid" width="124" height="90" align=left></font><font face="Arial, Helvetica, sans-serif" size="2">The 
+                    buckazoid is a flat piece of a precious alien metal. Found 
+                    in Ulence Flats and in the slot machine. You can use buckazoids 
+                    to buy stuff.</font><font face="Arial, Helvetica, sans-serif" size="2" color="#CC0000">&nbsp; 
+                    </font></div></td>
+              </tr>
+              <tr> 
+                <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#CC0000"><br>
+                    <img 
+src="beer2.gif" alt="A blass of Keronian Ale" width="112" height="82" align=left></font><font face="Arial, Helvetica, sans-serif" size="2">This 
+                    is a vessel of that acrid-yet-buoyant Keronian Ale. You can 
+                    buy it in the bar.</font></div></td>
+              </tr>
+              <tr> 
+                <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#CC0000"><br>
+                    <img 
+src="jetpack.gif" alt="A jetpack" width="100" height="78" align=left></font><font face="Arial, Helvetica, sans-serif" size="2">This 
+                    is your bargain jetpack. You get it when selling your sand 
+                    skimmer. Used in space to reach the Deltaur.</font><font face="Arial, Helvetica, sans-serif" size="2" color="#CC0000"><br>
+                    </font></div></td>
+              </tr>
+              <tr> 
+                <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#CC0000"><br>
+                    <img 
+src="sarienid.gif" alt="A Sarien ID card" width="111" height="62" align=left></font><font face="Arial, Helvetica, sans-serif" size="2">This 
+                    is a Sarien ID card. The name on the card is Butston Freem. 
+                    You wonder if this is a common Sarien name. Found in the Sarien 
+                    uniform pocket and used to get the Pulse Ray.</font></div></td>
+              </tr>
+              <tr> 
+                <td align="left" valign="top"> <div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+                    <font color="#CC0000"><img 
+src="pulseray.gif" alt="A Pulse Ray" width="124" height="90" align=left></font>This 
+                    small item is a Pulse Ray. It delivers concentrated pulses 
+                    of energy in the direction it is pointed. You can get this 
+                    item in the armory of the Deltaur and use it to shoot nasty 
+                    green men.</font></div></td>
+              </tr>
+              <tr> 
+                <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#CC0000"><br>
+                    <img 
+src="grenade.gif" alt="A gass grenade" width="103" height="80" align=left></font><font face="Arial, Helvetica, sans-serif" size="2">The 
+                    smoke bomb appears to be of the impact detonation variety. 
+                    You don't want to be to close to this thing when it discharges. 
+                    Found in the armory of the Deltaur and used to kill the Sarien 
+                    guard. </font></div></td>
+              </tr>
+              <tr> 
+                <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#CC0000"><br>
+                    <img 
+src="remote.gif" alt="A Remote" width="84" height="70" align=left></font><font face="Arial, Helvetica, sans-serif" size="2">This 
+                    is a small remote control unit. On it is a button. You wonder 
+                    what it controls remotely. Found in the Sarien guard's uniform. 
+                    Used on the Star Generator force field.</font></div></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table> </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

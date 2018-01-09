@@ -1,0 +1,237 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Scrolling Screens</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="scollingup.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Scrolling 
+                Screens &gt;</strong> When Roger walks to the edge of the screen 
+                you will see him continue to walk as the background screen moves, 
+                or &quot;scrolls&quot; behind him. This is called the Scrolling 
+                Screen effect. </font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="scollingdown.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../../navmenu/miscmenu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="scollingbetween.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br> 
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td colspan="2" valign="top"> <p align="justify"><font size="3" face="Arial, Helvetica, sans-serif"><strong><font color="ffffb1">Scrolling 
+              Screens</font></strong></font><font color="ffffb1" size="2" face="Arial, Helvetica, sans-serif"></font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              Sierra's adventure games developed through the years from black 
+              and white, no sound, no animation graphics into full motion video. 
+              Among important techniques adventure games used like midi music, 
+              CD-Rom technology, blue screen video and handpainted graphics is 
+              one called &quot;Scrolling Screens&quot;: A technique introduced 
+              to make adventures a little more realistic. For their first three 
+              adventure games, the Two Guys could only try to make two screens 
+              fit together as best as they could. It wasn't until 1990 that the 
+              scrolling screen technique became used in its full potential; making 
+              Sierra games a lot more realistic along the way.</font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>The 
+              pre-scrolling screen age (SQ1, SQ2 and SQ3)<font size="2"><br>
+              </font></strong></font><font size="2" face="Arial, Helvetica, sans-serif"> 
+              Take a look at <a href="keronaega.gif" target="_blank">these screenshots</a> 
+              from Kerona. As you can see the screens appear to fit neatly at 
+              first, but if you look closely you'll notice some anomalies. Space 
+              Quest 2 is not any different from SQ1 in this case. Except one <a href="labionscroll.gif" target="_blank">particular 
+              part of Labion</a> where three screens fit together quite good, 
+              except one minor detail (the tree you see at 1/3 of the screen). 
+              <a href="labionnoscroll.gif" target="_blank">The swamp part</a> 
+              looks interesting too, but has some mistakes I outlined in red. 
+              On a personal note: these screens of the game always give me the 
+              feeling I'm in this HUGE swamp. These screenshots do a fairly good 
+              job destroying that image, don't you agree?</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Space 
+              Quest 3 features much better graphics than its prequels. This enabled 
+              Mark Crowe to create a few screens that almost fit perfectly together. 
+              This is noticeble on <a href="orteganoscroll.gif" target="_blank">Ortega</a> 
+              and <a href="phleebhut.gif" target="_blank">Phleebhut</a>, for instance. 
+              Still, the screens don't fit perfectly together. They fit in the 
+              foreground, but there are some miss-fits in the background. <a href="monolith.gif" target="_blank">Monolith 
+              Burger</a> is a pretty tight fit and looks a like a flawless continuous 
+              screen. So it can be said the Two Guys made their first serious 
+              step including Scrolling Screens with Space Quest 3.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Thanks 
+              to Mark Crowe's effort, the first three Space Quest games excel 
+              at implementing continuous screens. Just compare them with other 
+              adventure games of the time. However, new technologies and faster 
+              computers brought along new exciting possibilities. As technology 
+              developed, the designers at Sierra handpainted the backgrounds of 
+              the game, scanned them into digitalized documents and then put them 
+              into the game. This enabled graphical artists like Marc Crowe to 
+              create a set of screens that would truly fit if you would sew them 
+              together.</font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>The 
+              scrolling screen age (SQ1VGA, SQ4, SQ5 and SQ6)<font size="2"><br>
+              </font></strong></font><font size="2" face="Arial, Helvetica, sans-serif"><img src="latexhideoutk.jpg" alt="The first true Scrolling Screen of the Series." width="320" height="95" align="right">After 
+              1990, screens finally started shifting. Meaning when Roger walks 
+              to the edge of the screen, you will see him continue to walk as 
+              the background screen moves, or &quot;scrolls&quot; behind him. 
+              This creates a more realistic effect that makes the player believe 
+              the world he sees on his computer screen is a real one. It truly 
+              makes the gaming experience more immersive.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Space 
+              Quest 1 VGA is the absolute true king of the scrolling screens! 
+              The game is absolutely packed with scrolling screens and the first 
+              in the Series to use the new technique. What about <a href="sq1vgatripletitletheme.jpg" target="_blank">the 
+              title screen</a>, which is actually composed of three separate screens 
+              sewed together to make one big one? But also <a href="arcadahallways.jpg" target="_blank">the 
+              Arcada hallways</a>, <a href="arcadasubdeck.jpg" target="_blank">Arcada's 
+              sub deck</a>, <a href="keronaunderground.jpg" target="_blank">the 
+              Keronian underground</a>, <a href="ulenceflats.jpg" target="_blank">Ulence 
+              Flats</a> and <a href="droidsbus.jpg" target="_blank">Droids'B'Us</a>. 
+              Here's a trivial question: How many moons does Kerona have? The 
+              largest and most impressive scrolling screen is that of <a href="skeletonremains.jpg" target="_blank">the 
+              skeleton remains</a>. It consists of 9 (!) spectacular screens, 
+              containing bones of a long-extinct behemoth known to science as 
+              the Doug-o-saurus. If you prefer SQ1EGA over the remake you must 
+              agree with me that the scrolling screen feature gives this game 
+              a huge boost.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Space 
+              Quest 4 was the next in the Series to use scrolling screens. The 
+              game was released at a time when the Scrolling Screen technique 
+              was on the height of its popularity. Needless to say, the game contains 
+              quite a few interesting screens. Though the game clearly doesn't 
+              match SQ1VGA. The most impressive scene is without a doubt <a href="estros.jpg" target="_blank">Estros</a>; 
+              a total of 7 screens fit neatly together. The Skate-O-Rama scene 
+              features two sets of screens, namely <a href="galleriaskateorama.jpg" target="_blank">the 
+              bottom</a> and <a href="galleriadome.jpg" target="_blank">the top</a> 
+              screens. The <a href="latexhideout.jpg" target="_blank">Latex Babe's 
+              hideout</a>, the <a href="supercomputerlanding.jpg" target="_blank">Supercomputer 
+              Landing</a> and the <a href="supercomputerentrance.jpg" target="_blank">Supercomputer 
+              Entrance</a> are three additional scenes. Pretty cool looking, ey? 
+              However, Space Quest 4 also includes some screens that appear to 
+              fit neatly at first glance, but aren't connected like a true Scrolling 
+              Screen scene should. For instance, <a href="sewer.jpg" target="_blank">the 
+              sewer</a> and <a href="supercomputerwalkways.jpg" target="_blank">the 
+              supercomputer walkways</a>.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">By 
+              the time Space Quest 5 had hit the shelves, the hype of the Scrolling 
+              Screen technique wore off and became just another feature game designers 
+              could use to make their game a little bit more interesting. My personal 
+              favorite (of which I own one original design sketch, by the way) 
+              is without a doubt <a href="rotunda.jpg" target="_blank">the Main 
+              Rotunda</a> of the StarCon academy. But there are more, like <a href="klorox.gif" target="_blank">the 
+              Klorox scene</a>, <a href="kizurasgubi.jpg" target="_blank">Kizurasgubi</a>, 
+              <a href="genetix.jpg" target="_blank">Genetix</a> and <a href="thrakus.jpg" target="_blank">Thrakus</a>.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Space 
+              Quest 6 was of course the latest Space Quest, but quite possibly 
+              features the most interesting Scrolling Screen of them all, namely 
+              the <a href="superhighway.jpg" target="_blank">Super Highway</a>. 
+              Then there's also <a href="orionsbelt.gif" target="_blank">the Orion's 
+              Belt bar</a>. Around the time Space Quest 6 was released, the Scrolling 
+              Screen technique lost it against newly invented 3D techniques and 
+              SVGA animations. The true end of the golden VGA era.</font></p>
+            <p><font color="#000000">___</font></p>
+      </td>
+        </tr>
+      </table>
+      
+    </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

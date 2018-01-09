@@ -1,0 +1,494 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - About this Website</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head><body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../tabs/infobox.gif"><img src="../logoup.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>About 
+                this Website &gt;</strong> The page contains a small SQ-biography 
+                about your lovely webmaster. But probably far more important and 
+                interesting; read how SpaceQuest.Net improved throughout the years!</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td> 
+      <div align="left"> <H4><img src="../logodown.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../navmenu/bluemenuspacer.gif"> <!--#include virtual="../navmenu/mainmenu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../navmenu/lineleftgreyright.jpg"><img src="../navmenu/lineleft.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../navmenu/topblack.gif" width="100%" height="20"><br> 
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td colspan="2" valign="top"> <p align="justify"><font color="#FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>About 
+              your Webmaster<font size="2"><br>
+              </font></strong></font><font size="2" face="Arial, Helvetica, sans-serif">Hello
+               everybody! Thanks for visiting my website; the last active Space
+              
+              Quest fansites out there. Let me introduce myself. My name is Frans
+               van Hofwegen (22 years old). I live in the fine, but boring, town
+              
+              of Nijmegen in the Netherlands close to the German borders. Let
+               me tell you how I bummed into Sierra and their great games.</font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="#FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>The 
+              Early Days</strong></font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="IK6.jpg" alt="The 19-year old version" width="150" height="230" align="left">My 
+              dad bought our first computer (a 80286 with an ega card and colour 
+              monitor) back in 1988. My three brothers and I spent many hours 
+              on this machine, doing nothing more than staring at the screen and 
+              pushing those buttons. We played games like Paratrooper, Alley Cat 
+              and King's Quest 3. But I really liked one particular game that 
+              came with the computer namely &quot;Space Quest Chapter I: The Sarien 
+              Encounter&quot;. Back then, I was five years old and didn't understand 
+              much English. It was my two older brothers who helped Roger through 
+              his first adventure and it took them months. But I was right there 
+              with them when they played, watching their progress on the Arcada. 
+              I didn't understood anything of the texts but the pictures sure 
+              looked neat. It must have been that &quot;X-factor&quot; Sierra 
+              games had at the time, but that game fascinated me somehow. I wanted 
+              to play my own Space Quest, so whenever the computer was free (rare 
+              occasion) I would enter the same words as my brothers did, with 
+              a dictionary as my only help.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">Two 
+              years later (1990 I guess) we got a copy of Space Quest 3, my favorite 
+              Space Quest (I consider it to be the best computer game ever made). 
+              Space Quest 3 was a great challenge for my brother Tijn and his 
+              friends Guido and Daan. It was sure great to watch them play during 
+              those rainy days, when playing outside was no option. I remember 
+              the first time I saw my favorite character Fester Blatz and his 
+              spiffy shop World O' Wonders. Once again, I was intrigued by the 
+              great science fiction graphics. This SQ had a certain style - and 
+              a certain &quot;je ne sais quoi&quot; - that got me hooked. Do I 
+              need to mention Monolith Burger and the Arnold Schwarzenegger spoof? 
+              To me at that age, these things were fantastic. In fact, I'm still 
+              fascinated by certain screens of the game, even after playing SQ3 
+              for a few thousand times (no bull!) So anyway, I continued to learn 
+              more and more English. I just had to know why my brother and his 
+              friends were laughing. </font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">A 
+              few years later (does this guy never shut up?), I got to see Space 
+              Quest 5. Sadly, I didn't play that one myself because it was removed 
+              from the computer after some nasty computer virus. Too bad! I did 
+              have the chance to watch Tijn play on several occasions.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">As 
+              the years came and went, it became clear that my brothers lost interest 
+              in Space Quest. It never had a special place in their hearts to 
+              begin with. It was just another game to play. For me, obviously, 
+              this was not the case. I couldn't forget how much fun I had watching 
+              and playing it myself. I couldn't forget all those fun hours behind 
+              the computer with family and friends. It might be a bit over-done 
+              to say this now - after all, who plays computer games with family 
+              and friends these days? Well, we did in the early days before cheap 
+              Doom shooters. For days and nights on end! As I was saying, it might 
+              be a bit over-done to say this now, but Space Quest and the memories 
+              that came with it have become essentional key experiences of my 
+              youth. It is this story that made me a SQ junkie for life. So, a 
+              chapter of my SQ experience ended effectively when I got to high 
+              school. But it turned out to be just the beginning.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">It 
+              must be somewhere around 1996 when I stumbled across Space Quest 
+              2 on a computer at school. I had played it for a few times only 
+              before the computer was removed. As I recall today, I didn't get 
+              to play that game again until two years later. It was in the summer 
+              of 1998 when my good old friend Menno and I played it for an entire 
+              day on end, finally finishing it at the dead of night in a drunk 
+              state. For me, those memories are what SQ is about. They will remain 
+              with me until I die.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">Around 
+              August 1997 or so, the buzz called &quot;the internet&quot; finally 
+              hit the Netherlands. It hit good. My dad realized it was time for 
+              a new computer (and that's saying something!). In those days, everybody 
+              except my family had a CD-Rom player, a soundcard and a modem attached 
+              to their computers. Even I couldn't impress my friends anymore with 
+              our trusty old 80286. I was still playing Space Quest 1 over and 
+              over again. I think I must have played it over a thousand times, 
+              really! Anyway, our second computer was a fine Pentium 200 MMX. 
+              And sweet mother of God, look at the size of that screen! It must 
+              be at least 17&quot;!</font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="#FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>The 
+              Dawn of SpaceQuest.Net<font size="2"><br>
+              </font></strong></font><font face="Arial, Helvetica, sans-serif" size="2"><img src="snoutk.jpg" alt="Me crossdressing as Guy from Andromeda" width="74" height="79" hspace="5" align="right">Moving 
+              on to the summer of 1998, my oldest brother - Pieter - and I both 
+              got into HTML together. We used Fortuncity (the ultimate free website 
+              host for us back then) and he asked me the other day: &quot;Waarom 
+              maak je geen website over Space Quest?&quot;. For our non-Dutch 
+              visitors (nobody's perfect): &quot;Why don't you make a website 
+              about Space Quest?&quot; He hadn't forget my Space Quest passion 
+              or so it seemed! This wasn't strange I recall now, since I used 
+              to compare new games we got with the old SQ games. Anyway, I replied: 
+              &quot;GREAT IDEA!&quot;.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">So 
+              the next few months I was working day and night on my very own website. 
+              I started &quot;The Frans and Bart Homepage&quot; along with Bart 
+              Stadelmann (best friend and classmate at the time). I got myself 
+              a nice easy to remember free redirect URL, namely http://beam.to/sq 
+              (still works today actually!) and the first version appeared online 
+              somewhere in the winter months of 1998 (probably late October). 
+              I must say I can't remember exactly. There isn't any evidence, just 
+              my flaky memory. I can say with a high probability that the website 
+              was first launched around October 1998. Later on, the official date 
+              was set to the 25th, so that I could start celebrating website anniversaries. 
+              Anyway, I've started ranting here! </font><font face="Arial, Helvetica, sans-serif" size="2">Our 
+              website featured two chapters: Space Quest and Gabriel Knight. Our 
+              favorite Sierra games. The website was extremely crappy, made with 
+              the cheap HTML-editor Frontpage2000. That site was screaming: &quot;I'm 
+              made by highschool students without HTML knowledge, I look crappy!&quot; 
+              What's worse, the website contained content copied directly from 
+              the mother of all SQ sites, the Virtual Broomcloset (which I thought 
+              was &quot;the official SQ site&quot;, really). Yes, dear reader, 
+              I didn't even knew how to make game screen shots. So I simply copied 
+              information I found on existing SQ sites. How else could I find 
+              information about SQ? In my defence, I had to start somewhere, hadn't 
+              I? I was young, foolish and naive. I'm not proud of it now, but 
+              that's how it all started. Possibly the only cool feature about 
+              that design was a WAV file about Kielbasa, who said &quot;Computer, 
+              on screen&quot; when you entered the website.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">A
+                 few days into February 1999, Pieter came home with.... * Drum
+                role 
+              please * .... The Space Quest Collection! Aaah, I can still feel
+                 the excitement. Today, by merely sniffing at that box I still
+                get 
+              a strange twitch in my heart. It cost me 45 bucks to buy it from
+                 him, but it was worth the money. I finally had all the Space
+                Quest 
+              games in one cool box! I had never played SQ4 and SQ6 before, they
+                 sure looked cool! And would you look over
+                here! The manual 
+              stated Space Quest 7 was going to be released in... In 1998? Hey
+                 but wait, that meant it was in stores right now! But where the
+                hell 
+              was SQ7? It was nowhere to be found in Nijmegen. Not on the internet
+                 either. What the hell had happened? Did Sierra postpone the
+                game? 
+              </font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">Unknowingly
+                 to me (I found out a few weeks later) &quot;Chainsaw Monday&quot; 
+              had hit. Named by Scott Murphy, February 22nd 1999 marked the end
+               of the Sierra facility located in Oakhurst California. Sierra's
+              
+              HQ was located there since the beginning and it was in Oakhurst
+               where the entire SQ Series were made. Many good people, including
+              
+              Scott Murphy, lost their jobs thanks to &quot;corporate consolidation&quot;.
+               Just to give you some background information, you can image what
+              
+              this news did with my motivation. I got into the world of SQ right
+               when it was going to the sharks. Unkowingly to me back then, many
+              
+              webmasters had already called it a day when the SQ7 project was
+               cancelled the first time (December 1997)! Anyway, there I was,
+              trying 
+              to get booted up in the world of SQ. It was breaking down under
+               my noise. I had missed the bus! I got there after the gold rush!
+              
+              Homes were deserted and people had left. Funny thing is, looking
+               back now, it was in June 2000 when I finally realized this in
+              full!</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">Moving on with the story about my website, the site got hacked around 
+              December 1998 by a computer nerd in our class. Yeah, we bullied 
+              the socially-challenged guy and this was his revenge. Don't pin 
+              me down on the exact date though. It was in my puberty and besides 
+              the website there were interesting girls, boys, friendships and 
+              booze to explore as well. Soon after the hack, we (meaning Bart 
+              and me) went our seperate ways. To add salt to the wounds, every 
+              single binary digit we made was lost. We didn't do no pussy back-ups 
+              back then. I convinced Bart it made no sense to have a common website 
+              about both SQ and GK so we restarted independently. His site died 
+              out rather quickly (although still online to this date). He couldn't 
+              push himself to re-create all that was lost. I almost stopped too, 
+              but I got around re-doing a lot of work and I put together a new 
+              version which was only slightly better than the crap I had before 
+              the hack.</font></p>
+            <p align="center"><font face="Arial, Helvetica, sans-serif"><img src="fransbanner.gif" alt="Frans' Space Quest Page banner 1" width="400" height="50"></font></p>
+            <p align="center"><font face="Arial, Helvetica, sans-serif"><img src="fransbanner2.gif" alt="Frans' Space Quest Page banner 2" width="400" height="50"></font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">The 
+              pictures you see here are one of the first images I did for the 
+              site (promotional banners, obviously), and the only two to survive 
+              the hack. A funny note: The fanfiction about Monolith Burger was 
+              one of the first pages I made. It's still online to this date. Ok, 
+              so that one survived the hack too.</font></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">Jumping
+                ahead to July 2000. I was in the middle of redesigning the website
+                using the Trellix webeditor for Fortunecities, when work came
+                to a sudden stop: putting a halt to 1.5 years of continuous hard
+                work on the site. The main reason why I stopped updating was
+                the
+              lack of visitors I was getting, the fact Space Quest 7 was cancelled
+                months earlier, the fact that the fan community was bleeding
+                to
+              death and most notably because I had overwritten a HUGE chunk of
+                work on my harddisk by accident. I just couldn't make myself
+                do
+              get work done.</font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="#FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Growing 
+              and Expanding<br>
+              </strong></font><font size="2" face="Arial, Helvetica, sans-serif"><a href="screenshotoldsite.gif" target="_blank"><img src="screenshotoldsitek.gif" alt="Screenshot early version" width="150" height="100" hspace="5" border="0" align="left"></a>Almost 
+              a year later (in June 2001) I had this urge to revive the site (after 
+              not having touched it for a whole year). I guess I just couldn't 
+              let it go! I must admit, I did have huge amounts of free time back 
+              then (summer holidays). I didn't knew what else to do. So I worked 
+              the rest of the summer making a new design. Yeah, the picture you 
+              see here on the left, obviously. The design was online from July 
+              2001 to March 2002. Click on it for a close up. I decided Trellix 
+              and Fortunecity weren't going to cut it anymore, so I used Dreamwaver 
+              4 and a Geocities website instead. Some weeks later, college term 
+              started, but I continued to invest huge amounts of time in the website. 
+              All the hard work was not in vain, as the amount of visitors increased 
+              tremendously from 105 per month by June 2001, to 699 per month by 
+              July 2001! The site began to crossing the three gigabyte datalimit 
+              from Geocities, causing the entire site to be shut down. Asthonished 
+              by the fact my site was getting popular so quickly, I was thinking 
+              about the possibility of having my own domainname. Geocities was 
+              just starting to offer &quot;professional packages&quot; which included 
+              a domainname, extra server space and more bandwidth. All for a very 
+              reasonable price too. Another advantage was an ad-free site, and 
+              it could be accessed using the geocities address AND the domainname. 
+              It was just what I needed. The domainname <img src="../extraimages/sqnet.gif" alt="SpaceQuest.Net" width="87" height="11"> 
+              was bought on September 17, 2001. I decided to go for that particular 
+              name because .com, .org and http://www.wiw.org/~jess/roger.html 
+              were already taken. A funny note: I was owner of spacequest.nl for 
+              a very short time, but I cancelled it because I thought the name 
+              spacequest.net had more future. Additionally, I had serious plans 
+              to do a Dutch-only fansite instead of an English fansite.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">A 
+              few months after that, even the &quot;pro package&quot; from Geocities 
+              couldn't keep up with the growth of my website. Traffic increased 
+              as I added manuals and complete soundtracks. So I start looking 
+              for another server. I found out the hard way that most hosting companies 
+              are thieves. Unknowingly, I signed a contract with a rogue webhost 
+              called Featureprice. 140 dollars down the drain, nice feature price, 
+              indeed. For the poor student I was back then, that was almost the 
+              end of <img src="../extraimages/sqnet.gif" alt="SpaceQuest.Net" width="87" height="11">. 
+              I persevered and managed to make some money to buy a server account 
+              at a great company, called <a href="http://www.eperfect.net" target="_blank">Eperfect.Net</a>.</font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="#FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Finally 
+              Getting Some Recognition<font size="2"><br>
+              </font></strong></font><font size="2" face="Arial, Helvetica, sans-serif"><a href="screenshotoldsite2.gif" target="_blank"><img src="screenshotoudesite2k.jpg" alt="Screenshot early version" width="150" height="100" border="0" align="left"></a>Inspired 
+              by a Harry Potter fansite, I released a new design on March 9, 2002 
+              (the picture here on the left, obviously. Click on it for a close 
+              up). The same date marked the name change from &quot;Frans' Space 
+              Quest Page&quot; (or was it &quot;Frans' Space Quest Site&quot;? 
+              - nobody knows) to &quot;SpaceQuest.Net - Slippery When Wet!&quot;. 
+              This design took the website to an even higher level. I was getting 
+              over 5000 unique visitors a month at the end of its lifetime. Quite 
+              an achievement, don't you agree? Who sais Space Quest is dead?</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Good 
+              old Troels Pleimert, founder and maintainer of the famous SQFAQ 
+              document and webmaster of the once popular fansite &quot;Wilco's 
+              Domain&quot;, left the community around this time period. I guess 
+              it just was his time to pick up real life. Troels is considered 
+              by many the biggest SQ fan of them all, and for good reason! His 
+              legacy? He gave me total ownership and free reign of his FAQ. I 
+              got to work right away to implement &quot;the bible for SQ fans&quot; 
+              into the website.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">With 
+              over 40 major updates in one year, my website was without a doubt 
+              the most updated Space Quest fansite on the internet. It even won 
+              its first award! - True recognition, finally! I'm still very attached 
+              to the simplicity of this design, but it had served for over 18 
+              months. It was time to scrap it and look ahead. It must be noted 
+              that <img src="../extraimages/sqnet.gif" alt="SpaceQuest.Net" width="87" height="11"> 
+              really established its name during this time period. It took me 
+              long enough, don't you agree? :)</font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="#FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Hitting 
+              It Big: The 5th Anniversary<font size="2"><br>
+              </font></strong></font><font size="2" face="Arial, Helvetica, sans-serif"><a href="screenshotsoudesite3.jpg" target="_blank"><img src="screenshotsoudesite3k.jpg" alt="Screenshot early version" width="150" height="100" border="0" align="left"></a>When 
+              <img src="../extraimages/sqnet.gif" alt="SpaceQuest.Net" width="87" height="11"> 
+              reached its 5th Anniversary - at October 25th, 2003 - a new design 
+              was introduced (the picture here on the left, obviously. Click on 
+              it for a close up). Fellow Space Quest fan Danny Bloks worked his 
+              ass off during a four month period and got up with a terrific design. 
+              <a href="http://www.sq7.org" target="_blank">Sq7.Org</a> was THE 
+              new buzz around the community, so we introduced a unique design 
+              based upon that fanproject (which still wasn't released a full year 
+              later, but they'll get there!). We also launched several truly unique 
+              features. Think about the neat pop up windows containing online 
+              QuickTime videos. But also content-wise, like the awesome design 
+              sketches from the cancelled SQ7. We definitely made sure <img src="../extraimages/sqnet.gif" alt="SpaceQuest.Net" width="87" height="11"> 
+              was ready for the future. It turned out quite differently as the 
+              design served for 7 months only. The menu was one of its coolest 
+              features, but it was the be the main bottleneck too. If I wanted 
+              to introduce a new article, it took me hours just to update the 
+              menu. This couldn't go on so I decided to replace it prematurely.</font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="#FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Total 
+              Space Quest Hegemony<font size="2"><br>
+              </font></strong></font><font size="2" face="Arial, Helvetica, sans-serif"><a href="screenshotsoudesite4.jpg" target="_blank"><img src="screenshotsoudesite4k.jpg" alt="Screenshot early version" width="150" height="100" border="0" align="left"></a>By 
+              May 2004 <img src="../extraimages/sqnet.gif" alt="SpaceQuest.Net" width="87" height="11"> 
+              spanned over 1250 MB (!!!) of Space Quest material and was updated 
+              around two or three times a month - Undoubtedly the most active 
+              and largest Space Quest website on the internet! Managing and maintaining 
+              it became more and more difficult. The decision to change design 
+              - once again - was made literally overnight. While the previous 
+              design took months to create, the new one (which you're looking 
+              at now) was created during one long night. Mind, I don't want to 
+              go back to that night EVER. But it was worth it. The website was 
+              launched soon afterwards, after a thorough compatibility test. It 
+              loads faster, is easier to navigate and allows complete SQFAQ integration 
+              (which was only partially done up until now) and a better help system. 
+              The new design might be a step back if you're into cool graphics 
+              and animation thingies, but it's a HUGE step ahead in content management. 
+              And high quality content is what this website is all about after 
+              all!</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Probably
+                 THE big thing of this design was the launch of a new feature.
+                You 
+              can now actually download all the Space Quest games from the website!
+                 A feature much criticized and feared by regular visitors (they
+                didn't 
+              want <img src="../extraimages/sqnet.gif" alt="SpaceQuest.Net" width="87" height="11"> 
+              to turn into some trashy abandonware shed), and welcomed by many
+              newcomers.  It turned out alright for both parties.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">With 
+              the coming of the year 2004, it became clear that <a href="http://www.wiw.org/%7Ejess/roger.html">the 
+              Virtual Broomcloset</a> (world's first Space Quest fansite) run 
+              by Jess Morrissette, <strong>unofficially</strong> stopped updating. 
+              A sad realization just crossed my mind: I'm running the last active 
+              Space Quest fansite. Can you remember the days of 1997 and 1998? 
+              There used to be tons of Space Quest fansites out there! News about 
+              the Series and its creators with every week that passed! Okay, most 
+              fansites were shite, but that's another story... </font><font size="2" face="Arial, Helvetica, sans-serif">I 
+              set out to build a website using that free Fortunecities account 
+              back in 1998 to become the largest and most visited Space Quest 
+              fansite. But to be honest, I never had any hope of actually fulfilling 
+              that goal. Nor could I have foreseen that it would be me running 
+              the last active fansite. And thus, if you don't mind me saying, 
+              being burdened with the task of keeping Space Quest alive. It's 
+              a burden I happily take in, let me tell you. But it does remind 
+              me that all good things come to an end. What about <img src="../extraimages/sqnet.gif" alt="SpaceQuest.Net" width="87" height="11">, 
+              you ask? The future shall answer that question and the future will 
+              come soon enough.</font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="#FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>The 
+              Future<font size="2"><br>
+              </font></strong></font><font size="2" face="Arial, Helvetica, sans-serif">There
+               you have it, dear reader. My life as a Space Quest nut and the
+              story 
+              of my website. From Fortunecity to Xoom to Geocities to Featureprice
+              to Eperfect.net to Lavahost to AffordableHost to SQ7.Org's private
+              server and back again 
+              to Eperfect.net. From hacks to Chainsaw Monday to the end
+              of the Space Quest fan community and even the end of Sierra itself. <img src="../extraimages/sqnet.gif" alt="SpaceQuest.Net" width="87" height="11"> 
+              has seen it all and outlived it all. In the process, <img src="../extraimages/sqnet.gif" alt="SpaceQuest.Net" width="87" height="11"> 
+              has been around longer than most websites out there. Some achievement!
+               Six years of answering e-mails, making many new friends, making
+              
+              some enemies, having a lot of fun and not regretting one single
+               moment!</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Since
+                this website is such a big deal for me personally, I can safely
+                say the last updates aren't insight yet... But this is where
+                the
+              story ends... For now. Please keep the dream alive. Space Quest
+              will stay alive.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">... 
+              I'm getting sentimental now. Yo, Ali! Pass me the towel.</font></p>
+            <p align="center"><font size="2" face="Arial, Helvetica, sans-serif">- 
+              | To be continued | -</font></p>
+            <p align="justify"> <font color="#000000">___</font></p></td>
+        </tr>
+      </table>
+      
+    </td>
+    <td width="25" valign="top" background="../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All
+          original content (c) Frans van Hofwegen. All Space Quest related
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

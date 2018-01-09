@@ -1,0 +1,291 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 5 Spoofs and References</title>
+<STYLE TYPE="text/css">
+
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq5up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 5 Spoofs and References &gt; </strong> Space Quest 5 is 
+                chockfull with cool spoofs and references. This page lists them 
+                all.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq5down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> <!--#include virtual="../../navmenu/sq5menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq5between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td align="left" valign="top"><div align="justify"> 
+              <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 5 Spoofs and References<font size="2"><br>
+                </font></strong></font><font size="2" face="Arial, Helvetica, sans-serif">The 
+                bridge simulator looks a little like the Millenium Falcon, doesn't 
+                it?</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">When 
+                Roger is shuttled to his new command, it is mentioned that he 
+                &quot;underwent a week of extensive Captains training on the planet 
+                of Oakhurst&quot;. Oakhurst used to be, as we all know, the seat 
+                for the Sierra On-Line HQ.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">One 
+                of the ships in the Academy landing bay is for sale. It shows 
+                a telephone number and tells you to ask for Fester Blatz.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Another 
+                ship is described as &quot;belonging to the Two Guys from Andromeda&quot;.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">After 
+                having picked up trash with the Eureka, open the hatch of the 
+                garbage container. Then, use the eye icon. It'll give you the 
+                following message: &quot;What a wonderful smell you've discovered.&quot; 
+                Han Solo says the same thing in Star Wars Episode 4 after he and 
+                his friends fall into the garbage chute.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><img src="girdraxon.jpg" alt="Gir Draxon" width="192" height="120" align="right">The 
+                Galactic Inquirer Tabloit box insert contains an article called 
+                &quot;Gir Draxon's Predictions for 3010 (which contains the navigational 
+                codes for the Eureka). Gir Draxon is of course the bad guy from 
+                Sierra's Nova 9.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">On 
+                page 20 of the Galactic Inquirer there's an ad for a device called 
+                &quot;the Teacher&quot;, created by &quot;KARA, Inc.&quot; on 
+                &quot;Sigma Draconis.&quot; The line at the top says &quot;Perform 
+                Brain Surgery at Home.&quot; This is a reference to the original 
+                Star Trek episode &quot;Spock's Brain&quot; where the women of 
+                Sigma Draconis VI, led by a queen named Kara, steal Spock's brain 
+                to use in their main computer. They have this device called the 
+                Teacher which temporarily gives advanced knowledge to whoever 
+                wears it on the head. Eventually the crew recovers Spock's brain 
+                and Dr. McCoy uses the Teacher to get the knowledge needed to 
+                re-install the brain (hence the &quot;reconnect cerebral cortexes 
+                in minutes&quot; bit).</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">When 
+                entering the Rotunda area aboard the Academy, the moon outside 
+                is described as &quot;one of the nine moons of Nova&quot;, in 
+                reference to a Dynamix game called &quot;Nova 9&quot;. Also, exit 
+                the screen to the right. The planet in the background here is 
+                called &quot;Vulcan&quot;, in reference to Star Trek. The planet 
+                Vulcan is Spock's home planet.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">In 
+                one of the sequences in Space Quest 5, Roger remembers who Beatrice 
+                Wankmeister is. Bea's face is on a cutaway screen with music playing 
+                and stars shimmering in the background. That was in fact not unlike 
+                a scene in Wayne's World 1, where Wayne sees Cassandra singing. 
+                In the Wayne's World scene, the music fades to a slower pace (like 
+                the song in SQ5) and the background appears as shimmering stars. 
+                The name of the song is &quot;Dream Weaver&quot; as written and 
+                performed by Gary Wright.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+                main theme song, played during the introduction sequence, was 
+                made out to be a spoof on the title song from Star Trek - The 
+                Old Series.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">All 
+                the planets in Space Quest 5 are either parodies of something, 
+                or just names that have been horribly misspelled. Here's the most 
+                obvious:<br>
+                - Thrakus: Mark Crowe explained once that Thrakus is not a spoof 
+                on anything. He just liked the sound of it.<br>
+                - Kiz Urasgubi: Try &quot;mispronouncing&quot; it, and you'll 
+                come up with the colourful phrase &quot;Kiss your ass goodbye&quot;.<br>
+                - Lukaszuk II: Mispronounce this and it'll become a very unsubtle 
+                greeting to the competitor, LucasArts. It might also be a reference 
+                to two employees at Dynamix, named Piotr and Derek Lukaszuk.<br>
+                - Gingivitis: A disease.<br>
+                - Monostadt VII: This is a treatment for woman's vaginal yeast 
+                infections.<br>
+                - Klorox II: A cleaning fluid.<br>
+                - Gangularis: Also a disease.<br>
+                - Commodore LXIV: an ancient home computer.<br>
+                - Peeyu: An utterance of disgust, often used in combination with 
+                horrible smells.<br>
+                - Spittoonie: In the Old West, a &quot;spitoon&quot; was the little 
+                bucket in which guys would spot their tobacco. Hell of a job to 
+                clean, I'll bet. It might also be a spoof on Luke Skywalker's 
+                home planet, which was called Tattoine.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+                coordinates to Klorox II are 90210 - same as in that totally ridiculous 
+                television series.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+                moons of Klorox II are called Larry, Moe and Curly.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+                Genetix logo, shown in the hidden laboratory, only slightly resembles 
+                the Dynamix logo (as does the name itself). The slogan is a steal 
+                from Dow, having been re-written &quot;We play God, so you don't 
+                have to&quot;. The original slogan read: &quot;We work hard, so 
+                you don't have to&quot;.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+                sequence where the Eureka picks up the trash bag is accompanied 
+                by the theme song from Stanley Kubric's &quot;2001: A Space Odyssey.&quot;</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">In 
+                the transporter room of the Eureka, you can see a computer screen 
+                with pong on it.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><img src="../../extraimages/newitem.gif" alt="New  Space Quest item!" width="62" height="44" align="left">When you beam over to Genetix there is a transporter accident causing your head to be transplanted with that of a fly. This is taken directly from the 1950's Vincent Price sci-fi classic called &quot;The Fly&quot;.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+                sequence where Roger must rescue Cliffy in the asteroid field 
+                is also a direct steal from that very same movie - even down to 
+              the rescue method (with the claws and everything).</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><b><img src="mug.gif" alt="A Dynamic Coffee Mug" width="75" height="144" align="right"></b>Captain 
+                Quirk has a Dynamix-coffee cup. It's visible during the sequence, 
+                where the Eureka picks up the secret signal from the Genetix corporation.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Nelo 
+                Jones, the guy who sells you the Space Monkeys in the spacebar, 
+                is a spoof on the original Star Trek-episode, &quot;The Trouble 
+                with Tribbles&quot;. Tribbles are, as you may or may not recall, 
+                small furry creatures, that breed a lot. So are Space Monkeys, 
+                as you can see.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+                entire Spacebar sequence is a steal from the Star Trek TOS episode, 
+                &quot;The Trouble with Tribbles&quot;. Not only does Nelo Jones 
+                show up, as mentioned in the above contribution from Tovi, and 
+                sells you rapidly-growing space monkeys (the original had a salesman 
+                called Cyrano Jones who sold Kirk tribbles). Also, Scotty (from 
+                the Enterprise) gets in a fight with a guy who calls the Enterprise 
+                a garbage scow. The exact same thing happens when Quirk and Roger 
+                come down from their game of Battle Cruiser, where Cliffy is fighting 
+                with a member of the Goliath, because he called the Eureka a garbage 
+                scow (although in this case, it actually IS a garbage scow).</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">WD40 
+                is a parody on a lubricant.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Captain 
+                Raemes T. Quirk is a parody on Captain James T. Kirk from the 
+                original Star Trek series.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Spike 
+                is obviously made up to look like small, fast and incredibly annoying 
+                aliens from the &quot;Alien&quot; movies.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Nelo 
+                Jones calls himself the &quot;merchant of venus&quot;, which is 
+                a spoof of Shakespeare's &quot;Merchant of Venice&quot;.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Talk
+                  to Droole when you first arrive at Klorox
+                  II. He'll say that &quot;just to be sure, we should
+                  nuke the entire site from orbit&quot;, which is a quote from
+                  the movie &quot;Aliens&quot;.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">When
+                  talking WD-40 in the transporter room she responds with: &quot;I&acute;m
+                fully operational and all my circuits are functioning perfectly&quot;.
+                  That&acute;s exactly the status report H.A.L. gives in Stanley
+                Kubric's &quot;2001:
+A Space Odyssey.&quot;</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><img src="mothergooseref.gif" alt="Roger Wilco getting squashed" width="252" height="77" hspace="5" vspace="5" align="right">When
+                  the elevator squashes you in the elevatorshaft of the Goliath,
+                  the death message displays a reference to &quot;Mixed Up Mother
+              Goose&quot;, a Sierra game. </font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><img src="../../extraimages/newitem.gif" alt="New  Space Quest item!" width="62" height="44" align="left">At the end of the game, Roger says to switch to heinous speed and Droole say for everyone to buckle up. But no one does. This is a spoof on the movie &quot;Spaceballs&quot;. Darth Helmet, the villan of Spaceballs, gives the command to switch to ludicrous speed and ignores the suggestion to buckle up. He finds himself hanging off the edge of his command post. On a side note: this movie is a MUST see for SQ fans. Very funny</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">              <img src="../../extraimages/newitem.gif" alt="New  Space Quest item!" width="62" height="44" align="left">The Goliath is a parody of the Super-class Star Destroyer Executor from &quot;The Empire Strikes Back&quot; and &quot;Return of the Jedi&quot;. It's the giant bluish colored ship that crashed into the second Death Star.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">A
+                  reference to &quot;Hitchhiker's Guide to The Galaxy&quot;  can be found
+                    at the first screen of Kiz Urazgubi. One out of two
+                  messages
+                  that appear when you look at the scenery
+                  (i. e., the rock wall,
+    the sky: anything indefinite) is: &quot;This area reminds you of the decor
+    of a resort on Eroticon 6 where you
+  once vacationed.
+  All that's missing are six bathing beauties and some crazy glue.&quot; Eroticon
+  6 is the origin of Eccentrica Gallumbits, a minor (but noteworthy) character
+  in
+   Hitchhiker's Guide to The Galaxy.</font></p>
+              <p align="justify"><font color="#000000">____</font></p>
+            </div></td>
+        </tr>
+      </table> </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

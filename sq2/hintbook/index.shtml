@@ -1,0 +1,837 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 2 Hint Book</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center"> <a name="top"></a>
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq2up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 2 Official Hint Book &gt; </strong>Being stuck on a puzzle 
+                for too long is frustrating. On this page you won't find a walk 
+                through but the hints from the official hint book. A hint doesn't 
+                spoil the game like a walk through does.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq2down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> <!--#include virtual="../../navmenu/sq2menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq2between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td colspan="2" valign="top"><p align="justify"><font color="ffffb1" size="3" face="Arial, Helvetica, sans-serif"><strong>Space 
+              Quest 2 Official Hint Book<br>
+              </strong></font><font face="Arial, Helvetica, sans-serif"><img src="hintbookver2scank.jpg" alt="The Space Quest 2 Hintbook" width="150" height="199" align="right"><font size="2">This 
+              page is about the official Space Quest 2 hintbook, released by Sierra 
+              in 1987. The hintbook is of the usual Sierra hint book size, namely 
+              15 x 11.5 centimeters. There are actually two versions out there. 
+              One is the older hint book system - with marker pen - and the other 
+              is the &quot;adventure window&quot; version. Dispite the different 
+              versions, the content is identical and they have the same amount 
+              of pages, namely 46. Sierra released a newer version of the hint 
+              book to meet customer demand, who were dreading the hint pen version. 
+              </font><font size="2" face="Arial, Helvetica, sans-serif">A funny 
+              note: the hintbook is written by Roberta Williams (designer of King's 
+              Quest).</font><font size="2"> </font></font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><a href="#general">General 
+              Questions</a><br>
+              <a href="#xos4">Aboard Xenon Orbital Station 4</a><br>
+              <a href="#labion">The Planet Labion</a><br>
+              <a href="#sludge">Sludge Vohaul's Asteroid Fortress</a></font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Scans: 
+              <a href="hintbookver2scan.html" onClick="NewWindow(this.href,'popup','451','600','no');return false;">cover 
+              closeup</a> <font color="#CC0000">(80 KB)</font> - <a href="hintbookver2scan2.html" onClick="NewWindow(this.href,'popup','459','600','no');return false;">after 
+              the end of the game section</a> <font color="#CC0000">(80 KB)</font> 
+              - <a href="hintbookver1scan.html" onClick="NewWindow(this.href,'popup','437','600','no');return false;">cover 
+              of the hint pen version</a> <font color="#CC0000">(12 KB)</font> 
+              - <a href="hintbookver1scan2.html" onClick="NewWindow(this.href,'popup','445','600','no');return false;">general 
+              questions section (hint pen version)</a> <font color="#CC0000">(36 
+              KB)</font></font><font size="2" face="Arial, Helvetica, sans-serif"><a href="#general"></a></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif"><img src="../../extraimages/line.gif" width="100%" height="3"></font> 
+            </p>
+            <p>&nbsp;</p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="50%"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>General 
+                  Questions</strong></font><font face="Arial, Helvetica, sans-serif" size="2"><a name="general"></a></font></td>
+                <td width="50%"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000">:: 
+                    <a href="#top"> Back to top</a> ::</font></div></td>
+              </tr>
+            </table>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">All I do is 
+              wander around! There must be more to an adventure game than this?!<br>
+              <font color="#333333">- &quot;Look&quot; a lot. Perhaps you'll get 
+              a hint. Look for things lying around and take them with you. Every 
+              item you can &quot;get&quot; has a purpose and is used for something.<br>
+              - Thoroughly explore and search each area you come upon. &quot;Search&quot; 
+              is a useful word in this game; for instance, &quot;search the space 
+              shuttle&quot;. Look for clues in the pictures. Read the text windows 
+              carefully.<br>
+              Save your game a lot, especially when it seems that you're entering 
+              a dangerous area. That way, if you die, you don't have to retrace 
+              your steps much.<br>
+              - Map your progress on a piece of paper, Write down observations 
+              or points of interest on your map to help you remember.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">This game is 
+              too fast! This game is too slow!<br>
+              <font color="#333333">- On some computers, you can type &quot;slow&quot;, 
+              &quot;normal&quot;, &quot;fast&quot;, or &quot;fastest&quot; to 
+              change speeds, or you can sue the pull-down menus to set speeds 
+              (See the reference card for your computer). Scenes with lots of 
+              animation may run at &quot;normal&quot; speed even in &quot;fast&quot; 
+              mode.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">How do I &quot;see&quot; 
+              the items I'm carrying?<br>
+              <font color="#333333">- Just type &quot;look&quot; and the name 
+              of the item. Or, you can use the pull-down menus to look at an object.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">How do I &quot;drop&quot; 
+              items?<br>
+              <font color="#333333">- You don't. You're going to need everything 
+              you find. However, in &quot;using&quot; some items you can thus 
+              consume or consolidate them.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Am I the only 
+              one who keeps &quot;failing in my quest&quot;? I'm tired of starting 
+              all over again from the beginning of the game. What am I doing wrong?<br>
+              <font color="#333333">- Nothing. Everyone &quot;fails&quot; a lot 
+              in adventure games. That is one reason it's so satisfying to finally 
+              solve one. Your problem is you're not &quot;saving&quot; your game 
+              as you progress. Adventure games are designed to be saves periodically 
+              so you don't have to start from the beginning every time you make 
+              a mistake.<br>
+              - Look on your reference card for instructions on how to &quot;save&quot; 
+              a game on your particular computer.<br>
+              - Once you know how to &quot;save&quot; a game, save it a lot, especially 
+              right before you think something might happen to you, or you want 
+              to try something risky. The more&quot;saved games&quot; you have 
+              (especially recent ones), the less you have to backtrack.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Where does your 
+              character put all that stuff he's carrying?<br>
+              <font color="#333333">- Either the same place Superman puts his 
+              street clothes, or in extremely roomy pockets!</font><font color="#333333"><br>
+              <br>
+              </font></font></p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="50%"><font size="3" face="Arial, Helvetica, sans-serif" color="FFFFB1"><strong>Aboard 
+                  Xenon Orbital Station 4</strong></font><font size="2" face="Arial, Helvetica, sans-serif"><a name="xos4"></a></font></td>
+                <td width="50%"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000">:: 
+                    <a href="#top"> Back to top</a> ::</font></div></td>
+              </tr>
+            </table>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I found space 
+              goo on the walls! How do I clean it off?<br>
+              <font color="#333333">- This is an example of a fake question. I 
+              put it here to see if you'd fall for it. And... you did!<br>
+              - Why are you still reading this? I <i>told</i> you that this was 
+              a phony question!<br>
+              - In fact, there isn't even space goo in this game!<br>
+              - Yuck! Space goo. Be <i>glad </i>it's not in this game!<br>
+              - This just shows that even lots of answers don't validate a fake 
+              question.<br>
+              - You must promise to not go around reading all the answers like 
+              this! Even a long answer like this one could well be a phony. Even 
+              a seemingly logical question could be wrong. From now on you'll 
+              be better, won't you? Good!</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">The beeper on 
+              my wristwatch went off. What do I do with it?<br>
+              <font color="#333333">- Did you try &quot;looking&quot; at the wristwatch?<br>
+              - &quot;Look&quot; at the wristwatch and you will see a close-up 
+              view of it. You will see three buttons on the watch. &quot;C&quot; 
+              is the important button. Press the &quot;C&quot; button (which stand 
+              for &quot;com-link&quot;). Press the other two for laughs.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Can I ever get 
+              my broom back once I lose it?<br>
+              <font color="#333333">- Why would you want to? Sweeping is such 
+              tedious work.<br>
+              - You have better things to do than that!<br>
+              - No, you don't. It's not important.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">How do I get 
+              inside the orbital station? I can walk all around it, but I don't 
+              know how to get in.<br>
+              <font color="#333333">- Never fear! Roberta's here! See that red 
+              disk on the ceiling...<br>
+              - Walk up the wall to the wall to the ceiling and then to the red 
+              disk. Walk to the center of the red disk and see what happens.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I changed into 
+              the clothes that I found in the air lock chamber. Do I ever need 
+              the space suit again?<br>
+              <font color="#333333">- Not as far as I know.<br>
+              - But seriously, no you don't. The clothes you're wearing are much 
+              more important.<br>
+              - Make sure you search the pockets of the clothes. You'll find something 
+              you need there; an order form for three Labion Terror Beast Mating 
+              Whistle.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">What do I do 
+              with the lockers?<br>
+              <font color="#333333">- What do people normally do with lockers? 
+              Open them!<br>
+              - If you don't open the lockers you will be sorry later in the game.<br>
+              - You'll find a Cubix Rube Puzzle and your athletic supporter in 
+              the locker.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">How do I solve 
+              the Cubix Rube Puzzle?<br>
+              <font color="#333333">- Hmmm! That one's tricky. I don't think I 
+              have that answer for you. Let me ask Scott and Mark.<br>
+              - Okay! I've got the answer for you! <i>You</i> don't need to solve 
+              the puzzle. Let someone else do it later in the game, instead.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Should I wear 
+              the athletic supporter?<br>
+              <font color="#333333">- Stop! I'm blushing!!<br>
+              - I <i>really </i>think that's a personal decision.<br>
+              - No, I'm just kidding. Actually, the athletic supporter has a better 
+              use than being worn by you. It's made of elastic and stretches, 
+              ya know.<br>
+              - The athletic supporter could be used as a sling. Hey, now there's 
+              a novel idea!</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">What do I do 
+              with the order form? Do I mail it somewhere?<br>
+              <font color="#333333">- Yes, you could say that. But not here.<br>
+              - You'll find a mailbox later in the game.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">How do I use 
+              the dialect translator?<br>
+              <font color="#333333">- You can't use it right now.<br>
+              - Be patient. The time will come. It will be apparent when you need 
+              to use it.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Do I do anything 
+              with the people in the transportation control room?<br>
+              <font color="#333333">- They're awfully busy. I don't think they're 
+              interested in you.<br>
+              - You could try talking to them, but you won't be happy with the 
+              results.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I'm in the transportation 
+              control room. I see a transport tube above me. Problem is, I don't 
+              know how to get there.<br>
+              <font color="#333333">- Have you explored all corners of the room?<br>
+              - See the yellow and black striped pad on the floor? Go there.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Is there any 
+              way to avoid the space thugs in the shuttle?<br>
+              <font color="#333333">- Not if you want to complete the game!</font><font color="#333333"><br>
+              <br>
+              </font></font></p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="50%"><font size="3" face="Arial, Helvetica, sans-serif" color="FFFFB1"><strong>The 
+                  Planet Labion</strong></font><font size="2" face="Arial, Helvetica, sans-serif"><a name="labion"></a></font></td>
+                <td width="50%"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000">:: 
+                    <a href="#top"> Back to top</a> ::</font></div></td>
+              </tr>
+            </table>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I crashed in 
+              a forest with two guards in a hovercraft. They're dead and I hear 
+              a beeping noise. What is that noise?<br>
+              <font color="#333333">- The beeping is coming from the crashed hovercraft.<br>
+              - It would be wise to turn off the beeping sound.<br>
+              - Search the hovercraft. You will discover a button. Press the button 
+              and the beeping will stop. The beeping is a homing device.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Do I do anything 
+              with the dead guards by the crashed hovercraft?<br>
+              <font color="#333333">- Yes, you do something with one of them. 
+              No funny stuff, though.<br>
+              - Try search them.<br>
+              - You will find that one of the guards has a keycard in his pocket. 
+              Take it.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">How do I get 
+              past the man-eating flower?<br>
+              <font color="#333333">- What man-eating flower?<br>
+              - Is there a man-eating flower in this game? Gee, I must have missed 
+              it!<br>
+              - Ha! I got you! There is no man-eating flower. You got caught by 
+              a fake question!</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I see three 
+              giant mushrooms! What do I do with them?<br>
+              <font color="#333333">- Nothing.<br>
+              - Stay far away from them, they are dangerous... and hungry!<br>
+              - The mushroom are nothing but traps. Best to avoid them.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">A guard in a 
+              hovercraft keeps shooting me! How can I avoid him?<br>
+              <font color="#333333">- You need to be out of sight.<br>
+              - Hide behind something so he can't see you.<br>
+              - Hide behind a large tree trunk right away!<br>
+              - If you hide behind the tree trunk, he guard won't see you and 
+              will go away from here. He won't come back.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I got a text 
+              message about hearing a TWANG and a SHRIEK nearby. What is that?<br>
+              <font color="#333333">- Have you thoroughly searched the surrounding 
+              area?<br>
+              - It is very important that you find the source of that shriek.<br>
+              - Go east from the place where you encountered the guard in the 
+              hovercraft. You will discover a little pink alien in dire trouble.<br>
+              - Help the little pink alien.<br>
+              - Untie the little pink alien from his trap. He will repay this 
+              kindness later.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I see the mailbox! 
+              Now do I mail my order form?<br>
+              <font color="#333333">- Good guess! That's using the old noodle.<br>
+              - Need I say more.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I blow my Albino 
+              Terror Beast Mating Whistle but nothing happens.<br>
+              <font color="#333333">- You must not be in the right place. You 
+              don't meet Labion Terror Beasts around every corner, you know.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I found some 
+              spores on the ground. What do I do with them?<br>
+              <font color="#333333">- I think it would be wise to get one. Be 
+              careful not to open it.<br>
+              - When opened, the spores will cause paralysis upon beings who come 
+              in contact with them.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">How do I keep 
+              the trees from grabbing me in the scary forest?<br>
+              <font color="#333333">- Are you sure you're playing Space Quest 
+              II and not King's Quest IV?<br>
+              - I think I recall there being a scary forest with grabbing trees 
+              in King's Quest IV.<br>
+              - Okay. I think by now you know that this is another phony question.<br>
+              - Gotcha, didn't I!</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Help! The root 
+              monster keeps grabbing me!<br>
+              <font color="#333333">- You're going to have to slow down here, 
+              and I mean <i>real slow</i>.<br>
+              - Put yourself in &quot;slow mode&quot;. You'll never make it through 
+              the root monster maze if you don't.<br>
+              - Not only put yourself in &quot;slow mode&quot; but also save your 
+              game frequently as you make your way through the maze.<br>
+              - Put yourself in &quot;slow mode&quot; and save your game frequently 
+              as you go through the root maze. The object is to reach the berry 
+              bushes in the back of the picture.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I finally made 
+              it through the root monster maze but I can't go anywhere. I'm stuck!<br>
+              <font color="#333333">- See the berry bushes in the back of the 
+              picture...<br>
+              - I suppose you could pick some berries while you are here.<br>
+              - The objective is to pick the berries from the bushes. Unfortunately, 
+              after that, your only choice is to go back the way you came - through 
+              the root monster maze.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I want to cross 
+              the swamp but a swamp monster keeps attacking me!<br>
+              <font color="#333333">- You can't outrun the swamp monster.<br>
+              - You can't outsmart the swamp monster.<br>
+              - You're going to have to become disagreeable to the swamp monster.<br>
+              - Did you happen to observe the little pink alien rubbing berries 
+              on himself?<br>
+              - You know those berries you picked by the root monster? Well, rub 
+              the berries on yourself.<br>
+              - The smell and the taste of the berries is so bad that if you rub 
+              the berries on yourself the swamp monster won't want you.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I accidentally 
+              found a deep part of the swamp. Is that significant?<br>
+              <font color="#333333">- It sure is, honey!<br>
+              - The dark part leads down through an underwater tunnel to an underground 
+              cavern. It's important that you get to the underground cavern.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">When I dive 
+              under the water at the deep part of the swamp, I can only swim down 
+              so far before I run out of air and die. What gives?<br>
+              <font color="#333333">- What do you usually do before diving down 
+              into water?<br>
+              - I don't know about you, but I usually hold my breath.<br>
+              - &quot;Hold your breath&quot; before diving under water. Then swim 
+              <i>straight</i> there.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I see a glowing 
+              gem in the underground cavern! Should I get it?<br>
+              <font color="#333333">- That's a darn good idea!<br>
+              - Yes. Remember that it's <i>glowing</i>.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I'm at the edge 
+              of a deep fissure (crack in the ground). How do I cross it?<br>
+              <font color="#333333">- See that dead tree at the edge of the fissure...<br>
+              - Climb the tree and see what happens.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Should I hitch 
+              a ride with the little purple droid?<br>
+              <font color="#333333">- Seeing thing again?<br>
+              - You never learn, do you?<br>
+              - There is no little purple droid!<br>
+              - Now, don't read another phony question!</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">How can I avoid 
+              getting caught be the snares in the tress?<br>
+              <font color="#333333">- That's not the idea.<br>
+              - You are <i>supposed </i>to get caught by the snares.<br>
+              - The game cannot continue unless you are caught by the snares.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Okay! I can 
+              get the hunter to walk over to me while I'm in the cage. <i>Now</i> 
+              what do I do?<br>
+              <font color="#333333">- You need the hunter's help.<br>
+              - Get the hunter to come over to you while you are in the cage.<br>
+              - Call the hunter to you.<br>
+              - You will need to call the hunter<i> twice</i>. The first time 
+              he will not approach you. The second time he will.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Help! I found 
+              myself locked in a cage and I can't get out!<br>
+              <font color="#333333">- You need to immobilize the hunter.<br>
+              - Remember the spore?<br>
+              - Throw the spore at the hunter. He will be paralyzed.<br>
+              - Paralyze the hunter while he is standing in front of you at the 
+              cage be throwing the spore at him. Then search his pockets and find 
+              a key. Unlock the cage. Hurry, though!</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I found a cliff 
+              and can see the landing platform off in the distance. Problem is 
+              - a guard keeps shooting me in a hovercraft!<br>
+              <font color="#333333">- Don't linger here.<br>
+              - There's really nothing to do here, anyway.<br>
+              - The <i>real </i>answer is, though, that the guard in the hovercraft 
+              will only come and shoot you if you go up higher in the picture. 
+              As long as you stay down toward the bottom of the screen he will 
+              not show up.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Well, I've seem 
+              to have explored everywhere. I don't know where to go now.<br>
+              <font color="#333333">- Remember the fissure (large crack in the 
+              ground)...?<br>
+              - You can climb down into the fissure.<br>
+              - Tie the rope to the log that has fallen over the fissure. Climb 
+              down the rope. You should have gotten the rope from beside the cage.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Help me! I'm 
+              hanging at the end of a rope! I see a fierce beast on one side of 
+              me and a ledge on the other. I don't know what to do!<br>
+              <font color="#333333">- Try swinging the rope.<br>
+              - You need to get to the safe ledge!</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Either I let 
+              go of the rope too soon and fall to my death, or the beast gets 
+              me! How do I get to that ledge?!<br>
+              <font color="#333333">- Save your game right before you swing the 
+              rope. Then watch the pattern of the swing and the beast's swipes 
+              to be able to determine the best time to let go of the rope.<br>
+              - Notice that the beast will swipe at you three times before he 
+              finally gets you.<br>
+              - Let go of the rope at the end of your swing after the beast has 
+              swiped at you one to three times.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I'm in a dark 
+              cave. I can't see anything. I need a light!<br>
+              <font color="#333333">- You're right! You definitely need a source 
+              of light!<br>
+              - It would help to use something that is glowing.<br>
+              - You should have a glowing gem with you.<br>
+              - The glowing gem is found in the underground cavern below the deep 
+              part of the swamp (see question about the deep part of the swamp).<br>
+              - If you have the glowing gem, say &quot;use glowing gem&quot;. 
+              The gem is not glowing because you had put it in your pockets. When 
+              you take it out you can see where you're going.</font><br>
+              </font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">How do I keep 
+              the sand worms from getting me?<br>
+              <font color="#333333">- You poor dear. I think you're confused with 
+              Space Quest 1.<br>
+              - Now go back and look at the box. See, you're playing Space Quest 
+              2.<br>
+              - Sand worms are in Space Quest 1. Got it!<br>
+              - And <i>you</i> just got suckered in by another fake question!</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Some little 
+              pink aliens keep slinging rocks at me and killing me! How can I 
+              get past them?!<br>
+              <font color="#333333">- It's too late now. You can't get past them.<br>
+              - You should have done something earlier in the game. Remember the 
+              TWANG and the SHRIEK...?<br>
+              - After hearing the TWANG and the SHRIEK earlier in the game you 
+              should have found a little pink alien caught in a snare. You should 
+              have untied him from the snare. If you had done that, then they 
+              would not kill you now.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">The little pink 
+              aliens told me they would show me the way out of their canyon; but 
+              I can't make them do it!<br>
+              <font color="#333333">- Did you say &quot;pretty please&quot;?<br>
+              - No, I'm just kidding. That's not the answer. Remember, they told 
+              you to just say the word when you want to leave the canyon.<br>
+              - The little pink aliens told you to say the word when you want 
+              to leave the canyon. Well, type in &quot;say the word&quot;.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I'm in another 
+              dark cave! How can I get through it?<font color="#333333"><br>
+              - Again, you need the glowing gem.<br>
+              - This time, you can't hold the glowing gem in your hand.<br>
+              - You must &quot;hold the glowing gem in mouth&quot; as you need 
+              your hands to crawl through this maze of tunnels.<br>
+              - Can't find the exit of the maze? Don't worry, <a href="../mazemap/index.shtml">click 
+              here</a> for a map.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I found myself 
+              in a wonderful underground cavern with lost of waterfalls! Do I 
+              do anything here?<br>
+              <font color="#333333">- No, not really.<br>
+              - Just enjoy the sights and then continue on to the east.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I see some tunnels 
+              of water. Which way do I go?<br>
+              <font color="#333333">- I would suggest saving your game and then 
+              experimenting to see which way to go.<br>
+              - However, if you want the answer then <i>don't</i> go down the 
+              left tunnel. That ill lead you to a steep waterfall and death.<br>
+              - Take the right tunnel. That will send you through a whirlpool 
+              and ultimately out of the cave.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Okay, I made 
+              it to a clearing next to a pool of water. I see the landing platform 
+              nearby. Problem is - I'm stuck here! How do I get out?<br>
+              <font color="#333333">- I hope you have the whistle.<br>
+              - If you don't have the whistle then your out of luck.<br>
+              - You should have gotten the whistle at the mailbox by mailing the 
+              order form you found in your pocket.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">The spinning 
+              Terror Beats keeps killing me. How can I prevent this?<br>
+              <font color="#333333">- Try running away or give him a present.<br>
+              - Go into the pool of water and run to the west (change pictures). 
+              The Terror Beast will not follow you. He will not be there when 
+              you return. (However, this is the easy way out and will not yield 
+              many points)<br>
+              - Throw the Cubix Rube Puzzle to the Labion Terror Beast.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I'm at the bottom 
+              of the landing platform. There is an alien guard here. Can I do 
+              anything to get past the guard?<br>
+              <font color="#333333">- Try shooting him.<br>
+              - With what, you wonder?<br>
+              - First of all, stay hidden behind the bushes. If he sees you he 
+              will shoot you.<br>
+              - Second, there is a little rock that you should have gotten as 
+              you went through the opening in the boulder that the Terror Beast 
+              made.<br>
+              - Third, I hope you have the athletic supporter.<br>
+              - Fourth, be sneaky and hide often.<br>
+              - Fifth, &quot;Sling the rock at the guard&quot; with the athletic 
+              supporter. You will kill the guard that way.<br>
+              - Also, if timing is good and you're quick, while he is going to 
+              the left you can walk right up under the platform and he will not 
+              see you. You can then divert his attention by throwing the little 
+              rock or calling to him.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I can't get 
+              the elevator at the bottom of the landing platform!<br>
+              <font color="#333333">- Oh dear! I <i>do</i> hope you have the keycard.<br>
+              - If you don't have the keycard then <i>tough luck</i>.<br>
+              - The keycard is to be found on the body of one of the alien guards 
+              that crashed with you in the hovercraft. &quot;Search&quot; his 
+              body for it.<br>
+              - You must insert the keycard into the slot next to the elevator 
+              door. </font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">How do I keep 
+              from falling off the edge of the landing platform?<br>
+              <font color="#333333">- Slow down.<br>
+              - Put yourself in &quot;slow mode&quot;.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I can't get 
+              in the shuttle!<br>
+              <font color="#333333">- Go around to the back of the shuttle.<br>
+              - Go to the back of the shuttle. Get real close to it. Say &quot;open 
+              the door&quot;. Enter the shuttle.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Now that I'm 
+              in the shuttle, how do I fly it?<br>
+              <font color="#333333">- First &quot;look&quot; at the shuttle. You'll 
+              get some clues there.<br>
+              - &quot;Look&quot; at the console of the shuttle. You'll learn that 
+              there is a power button, an altitude dial, and an ascent thruster 
+              button.<br>
+              - First, press the power button. Next, turn the altitude dial and 
+              then press the ascent thruster button. Use the up and down arrows 
+              on your keyboard (or joystick) to control the up or down arrows 
+              of the shuttle. Hint - the &quot;up&quot; arrow will actually take 
+              you &quot;down&quot; and the &quot;down&quot; arrow will really 
+              take you &quot;up&quot;.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Can I avoid 
+              getting nabbed by Sludge Vohaul when I'm flying the shuttle?<br>
+              <font color="#333333">- No, you can't<br>
+              - You wouldn't want to anyway, because that is part of the game.</font><br>
+              <br>
+              </font></p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="50%"><font size="3" face="Arial, Helvetica, sans-serif" color="FFFFB1"><strong>Sludge 
+                  Vohaul's Asteroid Fortress</strong></font><font size="2" face="Arial, Helvetica, sans-serif"><a name="sludge"></a></font></td>
+                <td width="50%"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000">:: 
+                    <a href="#top"> Back to top</a> ::</font></div></td>
+              </tr>
+            </table>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Help! I keep 
+              falling off the edge of the elevated walkways?<br>
+              <font color="#333333">- Going slower would help.<br>
+              - Put yourself in &quot;slow mode&quot; when you are in places such 
+              as this. It is much easier to guide yourself when you are going 
+              more slowly.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I'm in a hallway 
+              caught between two barriers and a trap door is opening under me! 
+              There is a pool of sulphuric acid under the trap door! Help!<br>
+              <font color="#333333">- Maybe you should search for other areas 
+              of the fortress first.<br>
+              - I'm if you do not have the plunger you're out of luck.<br>
+              - You need to find the plunger. The plunger is on level three.<br>
+              - Once you have the plunger, you need to stick it on the wall of 
+              the barrier. Say &quot;stick plunger on wall&quot;. You will hold 
+              on to the plunger as the trap door opens.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">How do I keep 
+              the floor waxer from running me down?<br>
+              <font color="#333333">- The only thing you can do is to quickly 
+              go the other way.<br>
+              - Go to the nearest elevator and enter ti. The floor waxer will 
+              go on by.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">A black and 
+              white polka-dot robot is after me! Help!!<br>
+              <font color="#333333">- I don't know about a black polka-dot robot. 
+              How about a purple and green striped one?<br>
+              - No wait! How about an orange, blue and pink plaid one?<br>
+              - No! Even better! How about a mauve, lemon-yellow, chartreuse and 
+              hot pink paisley one?!!<br>
+              - I hope you realize that this is a fake question.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I'm in a hallway 
+              on level three but I don't know what to do here.<br>
+              <font color="#333333">- You're looking for a closet.<br>
+              - You will see a door in the wall of the hallway. There will be 
+              a button next to the door.<br>
+              - Press the button next to the door. The door will open. Enter it. 
+              You will see that it is a closet. &quot;Look&quot; in the closet. 
+              You will discover a plunger. Get it.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I'm in a hallway 
+              on level four but I don't know what to do here, either!<br>
+              <font color="#333333">- Your looking for a closet <i>and </i>a bathroom 
+              on this level.<br>
+              - You will see a couple of doors with white figures on them. Those 
+              are the bathroom doors. Push the button next to the doors to open 
+              them.<br>
+              - There will be another door by itself with a button next to it. 
+              Push the button to open the door. It us a closet. &quot;Look&quot; 
+              in the closet and discover a glass cutter. Get it.</font><br>
+              </font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I'm in a bathroom 
+              on level four. Am I supposed to do something in here?<br>
+              <font color="#333333">- What do people normally do in bathrooms?!<br>
+              - Oh, excuse me. I thought you meant something else (embarrassed).<br>
+              - &quot;Look&quot; in the empty stall. There is toilet paper there. 
+              Get it.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">What am I supposed 
+              to do on level five?<br>
+              <font color="#333333">- You are looking for another closet on this 
+              level.<br>
+              - Look for a door in the wall of the hallway. There will be a button 
+              next to the door.<br>
+              - Open the closet door by pressing the button. Enter the closet 
+              and say &quot;look in the closet&quot;. You will find a waste basket 
+              and dirty overalls. Get the basket and the overalls. A lighter will 
+              fall out of he overall. Get the lighter.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">A spiny alien 
+              kissed me! Is that okay?<br>
+              <font color="#333333">- Do you normally go around kissing spiny 
+              aliens? I'm really worried about you!<br>
+              - I <i>really</i> don't think that letting spiny aliens kiss you 
+              is a good idea!<br>
+              - Do you recall the movie &quot;Alien&quot;?<br>
+              - You know what happened to people in that movie, don't you? Well, 
+              it's too gruesome to talk about. Suffice it to say, it's <i>not</i> 
+              a good idea to let the spiny alien kiss you.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Okay, I covered 
+              levels three, four and five. Now where do I go?<br>
+              <font color="#333333">- Back to level one.<br>
+              - Back to level one and deal with the barrier and the trap door.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">What do I do 
+              with the pink blob?<br>
+              <font color="#333333">- Here a blob. There a blob. Everywhere a 
+              blob, blob.<br>
+              - Are you seeing things again?<br>
+              - I don't think that there's a blob in this game. How about a thing?<br>
+              - Yep, that's right! This is another phony question.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I encountered 
+              a room of nasty red robots! How do I get past them?<br>
+              <font color="#333333">- You cannot explore the hallway further until 
+              you get rid of the red robots (wallbots).<br>
+              - &quot;Look&quot; at the ceiling.<br>
+              - Hint - you use the waste basket, the toilet paper and the lighter.<br>
+              - In the middle room between the two red robots drop the waste basket 
+              and put paper in basket and then light the paper with the lighter. 
+              Watch and see what happens!</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Sludge Vohaul 
+              miniaturized me! Can he get away with this?!<br>
+              <font color="#333333">- He can and he does!<br>
+              - Unfortunately, there's nothing you can do about it.<br>
+              - It's part of the game.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I'm in a glass 
+              jar! Get me out of here!<br>
+              <font color="#333333">- Do you have a glass cutter?<br>
+              - If you don't, so sorry.<br>
+              - The glass cutter is in the closet on level four.<br>
+              - Use the glass cutter to get out of the jar.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Whew! I'm out 
+              of the glass jar. Where do I go from here?<br>
+              <font color="#333333">- &quot;Look&quot; around. What do you see?<br>
+              - You are on top of the machine that is Sludge Vohaul's life support 
+              system. There are vents nearby.<br>
+              - Enter the vents.</font><br>
+              </font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Now I'm inside 
+              Sludge Vohaul's life support machine. What am I supposed to do in 
+              here?<br>
+              <font color="#333333">- Look very carefully at all the mechanisms 
+              here.<br>
+              - Do you see something behind the pumping respirator?<br>
+              - There is a red button behind the pumping respirator. Push it. 
+              That will stop the machine and kill Sludge Vohaul.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Sludge Vohaul 
+              pushed a button before he died. What was that?<br>
+              <font color="#333333">- When Vohaul did that he started a timer 
+              which, when the timer runs out, will launch the clone door-to-door 
+              life insurance salesmen to infest Xenon. The timer is only about 
+              7 minutes, so you had better hurry to stop it!<br>
+              - Vohaul also started, at the same time, a timer which, when <i>it</i> 
+              runs out, will cause the asteroid you are currently on to burn up 
+              on the planet Labion's atmosphere. This timer is longer, though. 
+              It is about 40 minutes long. Basically, you should target to be 
+              off the asteroid within 40 minutes or you'll obviously die.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I want to be 
+              my normal size again! Help!<br>
+              <font color="#333333">- From the glass jar, walk to the left to 
+              the next picture. There you will see a computer screen and a keyboard. 
+              &quot;Look&quot; around.<br>
+              - You will see an off and on switch next to the computer keyboard. 
+              Lower the switch to &quot;on&quot;. That action will turn on the 
+              reducing or enlarging mechanism. Obviously choose &quot;enlarge&quot;. 
+              Then go back to the glass jar to become re-enlarged.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Now that I'm 
+              my normal size again, do I do with the dead Sludge Vohaul?<br>
+              <font color="#333333">- Well, the first thing you should do is &quot;Search&quot; 
+              his body.<br>
+              - In searching his body you will discover the letters SHSR written 
+              in pen on his hand.<br>
+              - Notice that one of the computer screens is blinking &quot;Look&quot; 
+              at it.<br>
+              - Type SHSR into the computer keyboard. That will stop the launch 
+              of the clone door-to-door life insurance salesmen infestation of 
+              Xenon (if you did it before the timer was up, anyway).</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">All right, I 
+              aborted the clone launch. Now where do I go?<br>
+              <font color="#333333">- See the stairs going up to the right...</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I'm in the clear 
+              tubular passage. As I walk along it, cracks appear and I die from 
+              lack of oxygen. How can I avoid the this?<br>
+              <font color="#333333">- When you first enter the clear tubular passage, 
+              &quot;look&quot; around.<br>
+              - When you &quot;look&quot; you will notice a red box. &quot;Look&quot; 
+              at the box. <br>
+              - The red box is an oxygen mask receptacle. &quot;Open&quot; the 
+              box. Get the oxygen mask and wear it right away.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">I see the escape 
+              pods but a long biped robot protects them. How can I get rid of 
+              the robot?<br>
+              <font color="#333333">- Quickly do the following. &quot;Push button&quot; 
+              and return to the hallway. Go through three rooms while the biped 
+              robot follows and return to the hallway through the doors and the 
+              robot will have lost interest and return to the pod room.<br>
+              - Go to the escape pods. The two-legged robot will begin to follow 
+              you. Go the other way and keep going that direction without stopping. 
+              The robot will follow you. You will outdistance the robot and arrive 
+              back at the escape pods before it does.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">The biped robot 
+              keeps killing me before I can enter the escape pod.<br>
+              <font color="#333333">- When arriving back at the pod, quickly press 
+              the button and enter the escape pod. Once you enter the pod, you 
+              are safe from the robot.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Okay, I'm in 
+              the escape pod. Now what?<br>
+              <font color="#333333">- Now &quot;look&quot; in the pod and see 
+              what you see.<br>
+              - You will see a panel in the escape pod when you &quot;look' at 
+              the pod. &quot;Looking&quot; at the panel will reveal a launch button. 
+              Press the button and you will take off.</font></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Oh no! I'm running 
+              out of air in the escape pod!<br>
+              <font color="#333333">- You only have a couple of minutes before 
+              the pod runs out of air. The oxygen mask will not help.<br>
+              - Just say &quot;look pod&quot; again. Now a sleep chamber will 
+              be revealed to you. Go over to the sleep chamber and say &quot;open 
+              the chamber&quot;. The sleep chamber will open and you can enter 
+              it. That action will put you in a deep sleep and you will end the 
+              game with hopes that someone will pick you up. But, you saves Xenon 
+              from clone door-to-door life insurance salesmen infestation. Congratulations!<br>
+              </font></font></p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="50%"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></td>
+                <td width="50%"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000">:: 
+                    <a href="#top"> Back to top</a> ::</font></div></td>
+              </tr>
+            </table>
+            <p align="justify">&nbsp;</p></td>
+        </tr>
+      </table></td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

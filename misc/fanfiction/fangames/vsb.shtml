@@ -1,0 +1,224 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Vohaul Strikes Back</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, mark crowe, josh mandel, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../../tabs/infobox.gif"><img src="../fanficup.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Vohaul
+                    Strikes Back &gt;</strong> Here
+                  you can find information  about the upcoming Vohaul Strikes
+                    Back fangame.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../fanficdown.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../../../navmenu/miscmenu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../../navmenu/lineleftgreyright.jpg"><img src="../fanficbetween.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../../navmenu/topblack.gif" width="100%" height="20"><br> 
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td colspan="2" valign="top"><p align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Vohaul
+                  Strikes Back - Basic Plot</strong></font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">With Space Quest 7 behind his back, Roger Wilco
+              needs a little break, so he and his true love, ambassador Beatrice
+              Wankmeister, decide to spend some quality time on the most romantic
+              planet in the known universe - Romanticon 7. As they are in the
+              middle of a lovely meal at Pie-ery, the only restaurant where every
+              single meal is made of pie, they get interrupted by an apeman.
+              Using sophisticated interrogation methods involving a banana, they
+              find out that the apeman was sent by Vohaul in order to capture
+              Roger. But wait, isn't Vohaul dead? Only physically. A pair of
+              apemen rummaging through the fortress ruins shortly after Space
+              Quest 12 found the disk with Vohaul's mind on it and brought it
+              back to the Space Quest 7 era. With the help of that disk, they
+              resurrected Vohaul in the form of a sentient robot. Before the
+              apeman draws his final breath, they also realise that capturing
+              Roger was only necessary in order to prevent him from ruining a
+              much larger evil plot by Vohaul which, if successful, would once
+              again result in the destruction of the entire universe. Naturally,
+              being the only one to know about it, Roger must now defeat his
+            arch-nemesis once again. And so, his next adventure begins...</font></p>
+            <p align="justify">&nbsp;</p>            <p align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Vohaul
+            Strikes Back - Screenshots</strong></font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><a href="vsbscreens/image_1.html" onClick="NewWindow(this.href,'popup','652','482','no');return false;">Screenshot
+                1</A> - 
+				<a href="vsbscreens/image_2.html" onClick="NewWindow(this.href,'popup','652','482','no');return false;">Screenshot
+				2</a> 
+				- <a href="vsbscreens/image_3.html" onClick="NewWindow(this.href,'popup','652','482','no');return false;">Screenshot
+				3</a>
+				- <a href="vsbscreens/image_4.html" onClick="NewWindow(this.href,'popup','652','482','no');return false;">Screenshot
+				4</a>
+				- <a href="vsbscreens/image_5.html" onClick="NewWindow(this.href,'popup','652','482','no');return false;">Screenshot
+				5</a>
+				- <a href="vsbscreens/beapre-walk.html" onClick="NewWindow(this.href,'popup','142','320','no');return false;">Beatrice
+				Animation</a></font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">More
+                information and up to date status releases may be found at their
+                website: <a href="http://www.vohaulstrikesback.com" target="_blank">www.vohaulstrikesback.com</a></font></p>            <p align="justify">&nbsp;</p>
+                <p align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Vohaul
+                        Strikes Back - Status Report January 4, 2005</strong></font></p>
+                <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">After
+                  several months of the character art department standing still
+                  (the reasons for which are explained below), we've finally got
+                  things off the ground again. We've chosen a relatively simple
+                  style for the characters, which would allow us to recruit more
+                  artists in addition to the two we already have (Justas and Tiki).
+                  We're going to use Macromedia Flash to create 2D sprites and
+                  animations, examples of which can be seen on <a href="http://vohaulstrikesback.com/" target="_blank">our
+                  website</a> (or <a href="http://vsb.bpcent.com/releases/rogpreview.png" target="_blank">here</a> and <a href="http://vsb.bpcent.com/releases/rogerwalktest2.swf" target="_blank">here</a>). </font><font size="2" face="Arial, Helvetica, sans-serif">If
+                  you think you (or somebody you know) could create similar animations
+                  and is willing to work for free, let us know! You can contact
+                  us via <a href="http://vsb.bpcent.com/vsbphp/" target="_blank">our
+                  forum</a>.<br>
+                  <br>
+    OVERALL - Work on the game has still been proceeding as usual. A bit slower
+    since September as most of the team still attends a school or a college, but
+    at least the development has been steady and there are no signs of even the
+    slightest thought of cancelling the project. The main reason for which being
+    Marty's backgrounds which would be impossible to simply throw away, due to
+    their infinite awesomeness.</font></p>
+                <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> CHARACTER
+                SPRITES - In the previous status report, we noted that Kain took
+                some time off after several conflicts in the team. However, he
+                managed to disappear completely once again and we haven't seen
+                him around for half a year, so we've decided to remove him from
+                the team line-up. It wasn't an easy decision as all the character
+                model files were only on his computer, so our only choice was
+                to start from scratch. Later, Tiki joined the team as the new
+                character artist, but he turned out to be quite busy with other
+                projects. So it soon became clear that he can't do all the work
+                alone and the only way to go is to choose a simple style and
+                try to recruit more artists to reduce individual workload. The
+                new style was developed by Justas, who is now also one of the
+                character artists.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">WRITING
+                - Writing is coming along quite nicely. We've made a lot of progress,
+                come up with new ideas and figured out many problems. The team
+                was expanded once again as Karmot, a fellow Estonian, offered
+                his services as a puzzle creation assistant after having noticed
+                an interview with the VSB team that was published at JustAdventure
+                in early December.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> BACKGROUNDS
+                - Apart from what I've said in the overall section, there's not
+                much to add. Marty is still popping out new backgrounds and touching
+                up / editing older ones wherever necessary. Despite him claiming
+                himself to be lazy, he actually tends to be always way ahead
+                in the schedule, compared to the rest of us.</font></p>
+            <p align="center"><font size="2" face="Arial, Helvetica, sans-serif"><img src="ss2.jpg" alt="Vohaul Strikes Back Fangame Screenshot" width="163" height="125"></font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> MUSIC
+                AND CODING - We haven't had much progress in these areas, but
+                they're mainly scheduled for later phases of the development
+                anyway. MusicallyInspired has returned after a long absence and
+                will be continuing his work. BlueMax has sorted out his software
+                problems and should also be able to begin composing soon. We
+                haven't started with coding yet, as character sprites are necessary
+                to make any demos and we haven't had any of those for a long
+                time.</font></p>
+            <p align="justify"><font color="#000000" size="2" face="Arial, Helvetica, sans-serif">__</font></p></td>
+        </tr>
+      </table>
+      
+    </td>
+    <td width="25" valign="top" background="../../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All
+           original content (c) Frans van Hofwegen. All Space Quest related
+          
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

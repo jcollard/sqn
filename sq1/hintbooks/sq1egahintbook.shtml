@@ -1,0 +1,789 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 1 EGA Hint Book</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center"> <a name="top"></a>
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq1up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 1 EGA Official Hint Book &gt; </strong>Being stuck on a 
+                puzzle for too long is frustrating. On this page you won't find 
+                a walk through but the hints from the official hint book. A hint 
+                doesn't spoil the game like a walk through does.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq1down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../../navmenu/sq1menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq1between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td valign="top"> <p align="justify"><font color="ffffb1" size="3" face="Arial, Helvetica, sans-serif"><strong>Space 
+              Quest 1 EGA Hint Book<font size="2"><br>
+              </font></strong></font><font size="2" face="Arial, Helvetica, sans-serif"><img src="egahintbookk.gif" alt="Space Quest 1 EGA hintbook" width="150" height="190" align="right">This 
+              page is about the official Space Quest 1 EGA hint book, released 
+              by Sierra in 1987. It's of the usual hint book size, namely 15 x 
+              11.5 centimeters. It consists of 38 pages and does not only include 
+              game hints but also maps, a point list and a terrific &quot;after 
+              the end of the game&quot; section featuring stuff you might have 
+              missed. The Space Quest 1 hint book used a special hint marker to 
+              reveal clues. You had to uncover a question using your marker. An 
+              answer would magically appear in redish letters. But after some 
+              time the hints will disappear again, while the yellow ink of the 
+              marker remains. You can't re-reveal the hints that have disappeared 
+              over time, meaning the hintbook is a one-time throw-away product. 
+              People had the tendency to lose their special marker. You could 
+              order a new one for $1.95 using <a href="orderform.html"  onClick="NewWindow(this.href,'popup','435','600','no');return false;">this 
+              order form</a> <font color="#CC0000">(52 KB)</font> but most people 
+              chucked out their hintbooks in pure frustration. Possibly because 
+              of all the disadvantages involved, a year later Sierra designed 
+              a new format that used the &quot;adventure window&quot; system. 
+              A funny note: the hintbook is written by Roberta Williams (designer 
+              of King's Quest). </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Scans: 
+              <a href="egahintbookcover.html" onClick="NewWindow(this.href,'popup','475','600','no');return false;">cover 
+              close-up</a> <font color="#CC0000">(28 KB)</font> - <a href="markerpeninaction.html" onClick="NewWindow(this.href,'popup','440','600','no');return false;">marker 
+              pen in action</a> <font color="#CC0000">(36 KB)</font> - <a href="egamap.html"  onClick="NewWindow(this.href,'popup','438','600','no');return false;">a 
+              map</a> <font color="#CC0000">(20 KB)</font><font size="2" face="Arial, Helvetica, sans-serif"> 
+              - <a href="egahintbookwindow.html" onClick="NewWindow(this.href,'popup','464','600','no');return false;"> 
+              adventure window version</a> <font color="#CC0000">(36 KB)</font></font></font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><a href="#general">General 
+              Questions</a><br>
+              <a href="#arcada">Aboard the Spaceship Arcada</a> <br>
+              <a href="#kerona">The desert of the Planet Kerona<br>
+              </a> <a href="#underground">The underground Caverns of Kerona</a><br>
+              <a href="#unlenceflats">The settlement of Ulence Flats</a><br>
+              <a href="#deltaur">The Sarien spaceship, the Deltaur</a></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif"><img src="../../extraimages/line.gif" width="100%" height="3"></font></p>
+            <p>&nbsp;</p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="50%"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>General 
+                  Questions</strong></font><font face="Arial, Helvetica, sans-serif" size="2"><a name="general"></a></font></td>
+                <td width="50%"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000">:: 
+                    <a href="#top"> Back to top</a> ::</font></div></td>
+              </tr>
+            </table>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">All I do is 
+              wander around! There must be more to an adventure game than this?!<br>
+              <font color="#333333">- &quot;Look&quot; a lot Perhaps you'll get 
+              a hint. Look for things laying around and take them with you. Every 
+              item you can &quot;get&quot; has a purpose, and is used for something.<br>
+              - Return to the library (a second time) and hang out.<br>
+              - A scientist will approach you in the library and give you valuable 
+              information toward beginning your quest.<br>
+              - Before you leave the doomed spacelab, find the cartridge &quot;Astral 
+              Body&quot;. It contains the instructions for destroying the captured 
+              Star Generator.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">This game is 
+              too fast. This game is too slow!<br>
+              <font color="#333333">- On some computers, you can type &quot;slow&quot;, 
+              &quot;normal&quot;, or &quot;fast&quot; to change speeds. Scenes 
+              with a lot of animation may run at &quot;normal&quot; speeds even 
+              in &quot;fast&quot; mode.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">How do I &quot;see&quot; 
+              the items I'm carrying?<br>
+              <font color="#333333">- Just type &quot;look&quot; and the name 
+              of the item.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">How do I &quot;drop&quot; 
+              things I'm carrying?<br>
+              <font color="#333333">- You don't. You're going to need everything 
+              you find. You may however, &quot;use&quot; things, thus consuming 
+              them.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">Am I the only 
+              one who keeps &quot;failing in my quest?&quot; I'm tired of starting 
+              all over again from the beginning of the game. What am I doing wrong?<br>
+              <font color="#333333">- Nothing. Everyone &quot;fails&quot; a lot 
+              in adventure games. That's one reason it's so satisfying to finally 
+              solve one. You problem is you aren't &quot;saving&quot; your game 
+              as you progress. Adventure games are designed to be saved periodically 
+              so you don't have to start at the beginning every time you make 
+              a mistake.<br>
+              - Look at <a href="../manuals/index.shtml">your manual</a> for instructions 
+              on how to &quot;save&quot; game on your particular computer<br>
+              - Once you know how to &quot;save&quot; a game, save it <i>a lot</i>! 
+              Especially right before you think something might happen to you, 
+              or when you want to try something risky. The more &quot;saved games&quot; 
+              you have, especially recent ones, the less you have to backtrack.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">Where does my 
+              character put all that stuff he's carrying?<br>
+              <font color="#333333">- The same place Superman puts his street 
+              clothes when he flies!</font><br>
+              <br>
+              </font></p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="50%"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Aboard 
+                  the Spaceship Arcada</strong></font><font face="Arial, Helvetica, sans-serif" size="2"><a name="arcada"></a></font></td>
+                <td width="50%"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000">:: 
+                    <a href="#top"> Back to top</a> ::</font></div></td>
+              </tr>
+            </table>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">How do I get 
+              the magnetic chair to release me?<br>
+              <font color="#333333">- This is the perfect example of a phony question. 
+              I put this here just to see if you'd fall for it. And... you did!<br>
+              - Why are you reading this? I <i>told you</i> this was a phony question!<br>
+              - In fact, there isn't even a magnetic chair in this game.<br>
+              - That <i>could</i> be an interesting sensation, though. A magnetic 
+              chair.<br>
+              - This just shows that even lots of answers don't validate a fake 
+              question.<br>
+              - From now on, you must promise not to go around reading all of 
+              the answers indiscriminately like this. Even a big answer like this 
+              one could well be phony. Even a seemingly logical question may be 
+              wrong. Now, repeat after me: I promise I will not look at answers 
+              I don't need. There, that's better!</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">There are so 
+              many cartridges in the library. Which is the one I want?<br>
+              <font color="#333333">- Be patient. Someone will come to your assistance.<br>
+              - A scientist will stumble into the Data Archives the second time 
+              you go to this room and give you valuable information.<br>
+              - Try to help the scientist. Listen carefully to what he has to 
+              say.<br>
+              - Key words are: Astral Body. Need I say more?</font><br>
+              </font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I want to put 
+              the cartridge n the cartridge slot. Every time I try an alien zaps 
+              me!<br>
+              <font color="#333333">- Well, that ought to tell you something.<br>
+              - I'm afraid those nasty Sariens don't want you to do that.<br>
+              - I'll be blunt, you can't.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">The ship keeps 
+              exploding on me! I don't like that. What can I do about it?<br>
+              <font color="#333333">- You can do nothing about the ship exploding.<br>
+              - Try hurrying. You don't have much time to get off the ship.<br>
+              - Get the heck out of there!<br>
+              - Save your game a lot at the beginning until you have learned what 
+              you need to do in the shortest amount of time.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">What happened 
+              to the Star Generator?<br>
+              <font color="#333333">- That's a good question!<br>
+              - The evil Sariens took it.<br>
+              - It's up to you, Space Cadet, to find and destroy it before the 
+              Sariens use it for their evil purposes.<br>
+              - It's on the Sarien spaceship, the Deltaur.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I see dead bodies 
+              lying around. Can I do anything with them?<br>
+              <font color="#333333">- Why would you want to? Ugh!<br>
+              - Well, actually you can. One dead crew mate can help you.<br>
+              - &quot;How?&quot; you ask. Search his body or uniform. You'll find 
+              something you need.<br>
+              - You can find a keycard in the pocket of his uniform.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">How can I open 
+              or close the bay doors of the Vehicle Bay?<br>
+              <font color="#333333">- From the Control Center overlooking the 
+              Vehicle Bay.<br>
+              - In the Control Center is a control panel with two buttons. One 
+              is &quot;open&quot; bay doors, and the other is &quot;close&quot; 
+              bay doors.<br>
+              - Flush the respective buttons on the panel in the Control Center 
+              to open or close the bay doors in the Vehicle Bay.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">The Sariens 
+              keep shooting me! How can I fight back?<br>
+              <font color="#333333">- You can't utter run away or hide.<br>
+              - On the Arcada, you will get a warning that they may be approaching. 
+              You will &quot;hear footsteps coming&quot;.<br>
+              - When you get the warning, exit the room as quickly as you can.<br>
+              - You can also try to hide from the Sariens. You can hide in the 
+              elevators (which incidentally will take you to another room), or 
+              try to get out of their line of sight be hiding behind the wall 
+              of an elevator.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">There's one 
+              elevator that won't open for me. How can I get into it?<br>
+              <font color="#333333">- You need a classified keycard to enter the 
+              elevator.<br>
+              - You can find a keycard in one of your dead crew mate's<br>
+              - Put the keycard into the slot in the panel next to the elevator. 
+              You now have &quot;security clearance&quot; to be able to enter 
+              the elevator.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I see two doors 
+              side by side in the Flight Preparation room. But, I don't know how 
+              to open them.<br>
+              <font color="#333333">- This one's awfully easy. Are you sure you 
+              don't want to figure it out yourself?<br>
+              - You're going to feel dumb when I give you the answer.<br>
+              - Okay, you win. In the middle of the two closets are two buttons 
+              (see them?); push the right button to open the right closet, and 
+              push the left button to open the left closet.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">How do I ride 
+              the janitor droid?<br>
+              <font color="#333333">- Ha, ha! You fell for another trick question!<br>
+              - There is no janitor droid.<br>
+              - In fact, <i>you</i> are the only janitor on this ship!</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">How do I enter 
+              the Vehicle Bay?<br>
+              <font color="#333333">- You need to open the door first.<br>
+              - The door opens from the Flight Preparation room ( the room with 
+              the two doors).<br>
+              - There is a recessed area in the Flight Preparation room. In that 
+              area is a control panel. Look at the control panel.<br>
+              - There is a button in the control panel called &quot;Airlock&quot;. 
+              Push it.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">When I enter 
+              the Vehicle Bay, I explode! How come?!<br>
+              <font color="#333333">- Tell me this - were the bay door open? Were 
+              you wearing your spacesuit?<br>
+              - You can't survive in the vacuum of space without wearing your 
+              spacesuit!<br>
+              - If you're not wearing your spacesuit, then you'd better make sure 
+              the bay doors are <i>closed</i> hen you enter the Vehicle Bay.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I need an escape 
+              vehicle. Is there one?<br>
+              <font color="#333333">- Yes. It's in the shaft in the middle of 
+              the Vehicle Bay.<br>
+              - There is a small control panel on the right side of the Vehicle 
+              Bay.<br>
+              - Press the button on the control panel and as small escape pod 
+              (one-man spaceship) will come up the cargo elevator. Neat, huh!</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">How can I get 
+              inside the escape pod?<br>
+              <font color="#333333">- You need to find a door in the space pod.<br>
+              - Keep trying to &quot;enter&quot; the pod. You'll eventually find 
+              the right place.<br>
+              - Stand at the left side of the pod and &quot;enter the pod&quot;.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">How do I fly 
+              the pod?<br>
+              <font color="#333333">- &quot;Look&quot; in the pod first.<br>
+              - &quot;Look&quot; at the control panel of the escape pod.<br>
+              - You will see a few buttons, like &quot;power&quot; and &quot;don't 
+              touch'. <br>
+              - You had to go an press it, didn't you? Well, I hope you saved 
+              your game first. Did you enjoy your visit to Daventry?<br>
+              - Turning the power on and pulling the throttle will get the pod 
+              going. First, close the door and buckle your seat belt!</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I took off in 
+              the pod, but I keep getting &quot;lost in space&quot;.<br>
+              <font color="#333333">- Oh, I forgot to tell you in the previous 
+              question that there is <i>another</i> important button. That is 
+              the &quot;Auto Nav&quot; button.<br>
+              - Push the Auto Nav button. It will lock you in on the first planet 
+              you come to. The pod will automatically land there. Be quick about 
+              it, though. You only have about a minute to push that button after 
+              you take off. <br>
+              <br>
+              </font></font></p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="50%" height="2"><font size="3" color="FFFFB1" face="Arial, Helvetica, sans-serif"><strong>The 
+                  desert of the Planet Kerona</strong></font><font face="Arial, Helvetica, sans-serif" size="2"><font color="#333333"><a name="kerona"></a></font></font></td>
+                <td width="50%" height="2"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000">:: 
+                    <a href="#top"> Back to top</a> ::</font></div></td>
+              </tr>
+            </table>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">Now that I've 
+              crash-landed on a desert planet, should I just leave the pod?<br>
+              <font color="#333333">- You might want to &quot;look&quot; in the 
+              pod once again to make sure you won't be forgetting anything.<br>
+              - There's something <i>very</i> important in the pod that you should 
+              take.<br>
+              - You won't know that it's there until you crash-land on the planet.<br>
+              - A survival kit jarred loose inside the pod during the crash.<br>
+              - Open the survival kit. You'll see a couple of interesting items.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">The sand creatures 
+              keep getting me!<br>
+              <font color="#333333">- Don't wander around off into the open desert!<br>
+              - From the crashed pod, only go to the right or east.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">Meteorites keep 
+              smashing me!<br>
+              <font color="#333333">- I hate to have to point this out, but apparently 
+              sand creatures and meteorites like to hang out together.<br>
+              - Look at the previous question.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I saw a UFO 
+              land and little green men got out!<br>
+              <font color="#333333">- Say what! Have you been drinking too much 
+              Xenonian Ale?<br>
+              - You don't think you've been seeing this, do you?<br>
+              - Guess what? That's right. You fell for a phony question again!</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I can't get 
+              away from the spider droid! It keeps blowing me up!<br>
+              <font color="#333333">- When the spider droid comes, <i>run</i>.<br>
+              - The spider droid won't go up the ramp to the cliffs. You'll be 
+              safe there.<br>
+              - If you're patient, you can kill the spider droid by pushing a 
+              boulder that is on top of the rock bridge. Take careful aim.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">The rock bridge 
+              crumbled and fell; with <i>me</i> on it!<br>
+              <font color="#333333">- Watch how many times you cross the rock 
+              bridge.<br>
+              - Notice small cracks appearing each time you cross the bridge.<br>
+              - Crossing the bridge too many times will make the bridge collapse.<br>
+              - On the fifth crossing, you die!</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I looked in 
+              a hole in the cliff. Unfortunately, I got sucked in and my bones 
+              got spit out! What happened?!<br>
+              <font color="#333333">- I hope you saved your game!<br>
+              - Did you ever hear the old saying &quot;Curiosity killed the cat.&quot; 
+              Well, it certainly killed you!<br>
+              - Don't go looking in strange holes again!</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I keep wandering 
+              around! Where am I supposed to go?<br>
+              <font color="#333333">- It's not readily apparent where you're supposed 
+              to go. Look for any strange rock formations.<br>
+              - Have you seen two stone pillars up on the cliffs?<br>
+              - Walk between the stone pillars. You will be in for a surprise.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I found a cave, 
+              but it was empty.<br>
+              <font color="#333333">- Later on, there will be &quot;something&quot; 
+              in the cave.<br>
+              - A beast called Orat, lives in the cave.<br>
+              - Be very careful of Orat. He can be <i>very</i> ferocious.<br>
+              - He might not see you if you hide behind a rock in his cave. <br>
+              <br>
+              </font></font></p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="50%" height="2"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>The 
+                  underground Caverns of Kerona</strong></font><font face="Arial, Helvetica, sans-serif" size="2"><font color="#333333"><a name="underground"></a></font></font></td>
+                <td width="50%" height="2"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000">:: 
+                    <a href="#top"> Back to top</a> ::</font></div></td>
+              </tr>
+            </table>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">How do I get 
+              past the grate? A tentacled beast keeps grabbing me!<br>
+              <font color="#333333">- No, you can't get rid of the beast.<br>
+              - Look very carefully at the grate. Do you see any way around it?<br>
+              - You <i>have</i> to go around the grate.<br>
+              - Very carefully, go to the far wall of the cave, get as close to 
+              it as you can, and then scootch along the wall of the cave, across 
+              the grate. The beast will try to grab you, but can't.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I see a door 
+              past the grate, but I can't open it.<br>
+              <font color="#333333">- You need to do something with the small 
+              geyser.<br>
+              - Remember, coming down the elevator? Well, there is a small rock 
+              at the bottom that you can pick up.<br>
+              - Put the small rock on top of the geyser. The door will open, but 
+              don't ask me how it works.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">Laser beams 
+              just cut me to ribbons! How can I get past them?<br>
+              <font color="#333333">- Now, let's think back to crash-landing the 
+              pod. Remember the broken windshield...?<br>
+              - If you &quot;look&quot; at the front of the pod when you are standing 
+              outside of it (on the open desert), then you will discover a broken 
+              piece of windshield on the ground. Get it.<br>
+              - You can &quot;use&quot; the piece of glass to reflect the laser 
+              beams back into the laser units, and burn them out, thereby, disabling 
+              them.<br>
+              - Pretty smart, huh?</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">The drops of 
+              acid fall on me, killing me!<br>
+              <font color="#333333">- &quot;Raindrops keep falling on my head...&quot;<br>
+              - Sorry. Got carried away there. Anyway, it's best to be in &quot;slow 
+              mode&quot; when trying to get past the acid drops.<br>
+              - Type &quot;slow&quot; and press the return button to put yourself 
+              in &quot;slow mode&quot;. Watch the acid drops for awhile. Time 
+              your movements very carefully and stop between the drips.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I met a big 
+              alien head, but couldn't understand him! what'll I do?<br>
+              <font color="#333333">- Did you listen carefully? No, just kidding.<br>
+              - There is a translator device you need to be able to understand 
+              him.<br>
+              - You can find this translator device in the flight preparation 
+              room of your old spaceships, the Arcada. If you didn't retrieve 
+              it, then tough luck.<br>
+              - The translator device you need is in one of the two closets in 
+              the Flight Preparation room of the spaceship Arcada.<br>
+              - Don't forget to turn it on!</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I stepped in 
+              space slime and it's stuck to my feet! Yuck!<br>
+              <font color="#333333">- Don't you know better than to step in space 
+              slime?<br>
+              - Just kiddin'. But, I caught you with a fake question. Better watch 
+              out for that!<br>
+              - Be glad! Space Slime is disgusting!</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">Where is Orat? 
+              I can't find him!<br>
+              <font color="#333333">- Orat lives in a cave in the desert of Kerona.<br>
+              - Orat's cave is hard to see, so look carefully at the sides of 
+              cliffs.<br>
+              - Orat's cave is located in a cliffside in the room just east of 
+              the rock bridge.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I keep dying 
+              of thirst on the desert planet!<br>
+              <font color="#333333">- Well, it's obvious. You need to drink something.<br>
+              - I hope you found the can of dehydrated water.<br>
+              - The can of dehydrated water is in your survival kit.<br>
+              - The survival kit can be found in the pod.<br>
+              - &quot;Look&quot; in the pod after it crashes.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"> I need to kill 
+              Orat, but I don't know how.<br>
+              <font color="#333333">- It would be tough to do it alone. Try getting 
+              someone to help you.<br>
+              - How about your old friend, the spider droid? If he can kill you 
+              then I bet he could kill Orat.<br>
+              - Enter Orat's cave with the spider droid following. Immediately, 
+              hide behind the big rock inside the cave. The spider droid will 
+              go to Orat and kill him instead of you!</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I killed Orat, 
+              but the big alien head won't help me. Now what?<br>
+              <font color="#333333">- You forgot to give him something.<br>
+              - The big alien head wants proof that Orat is really dead.<br>
+              - You need to bring the big alien head a body part of Orat to prove 
+              that he is truly dead,<br>
+              - After you kill Orat, a body part will be left lying on the cave 
+              floor. Get it, and take it to the big alien head. He will then help 
+              you.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">Help! How do 
+              I get the skimmer to go?<br>
+              <font color="#333333">- How do you get a car to go?<br>
+              - It's easy. Turn the key.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I can't control 
+              the skimmer. I keep hitting rocks!<br>
+              <font color="#333333">- Relax. Take it easy. Slow down.<br>
+              - Go in &quot;slow mode&quot; when you are riding the skimmer. Even 
+              going slow, it's hard to keep from hitting rocks.<br>
+              - The skimmer moves to the left en right <i>only</i>. If you are 
+              having trouble controlling it with your joystick or mouse, try using 
+              the keyboard.<br>
+              - When riding the skimmer, &quot;aim high&quot;. Focus on a point 
+              on the horizon and don't take your eyes off it. Steer the skimmer 
+              at the point on the horizon. Your peripheral vision will see the 
+              approaching rocks and you'll be able to maneuver around them more 
+              easily. <br>
+              <br>
+              </font></font></p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="50%" height="2"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>The 
+                  settlement of Ulence Flats</strong></font><font face="Arial, Helvetica, sans-serif" size="2"><font color="#333333"><a name="unlenceflats"></a></font></font></td>
+                <td width="50%" height="2"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000">:: 
+                    <a href="#top"> Back to top</a> ::</font></div></td>
+              </tr>
+            </table>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">How do I know 
+              how many buckazoids I have?<br>
+              <font color="#333333">- Just &quot;look&quot; at your buckazoids 
+              (when you have them in your inventory). When you do this, you will 
+              be told how many you have.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">How do I order 
+              a drink in the bar?<br>
+              <font color="#333333">- Soo, ya want to drink, do ya? I hear that 
+              Keronian Ale is pretty potent stuff.<br>
+              - But, if you insist on drinking, you have to wait for the bartender 
+              to ask you for your order.<br>
+              - The bartender will ask you for your order when you stand at the 
+              right end of the bar.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">The bartender 
+              won't serve me because I don't have any money. How can I get some 
+              money?<br>
+              <font color="#333333">- Sometimes you can find money on the ground 
+              outside...<br>
+              - Or perhaps you have something that you could sell.<br>
+              - You can increase your money supply by playing the slot machine.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">How do I play 
+              the slot machine in the bar?<br>
+              <font color="#333333">- First, you gotta wait for the first guy 
+              finish playing.<br>
+              - Second, you need to walkup to the slot machine and stand real 
+              close to it. When you are close enough, you will see a close-up 
+              screen of the slots. Follow the instructions to play. When you are 
+              finished, push F10.<br>
+              - But.... third, you need some cash. Buckazoids.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I keep losing 
+              money at the slot machine! Help me!<br>
+              <font color="#333333">- Well, gambling <i>is</i> gambling. Gambling 
+              is <i>never</i> a safe bet.<br>
+              - Did you think you would always win at the slot machine?<br>
+              - Okay. Okay. I'll help you the best I can... and this is something 
+              you could <i>never</i> do in Las Vagas. Save your game <i>a lot</i> 
+              when you play the slot machine. Every time you win some money, save 
+              your same. That way, you'll eventually get some bucks.<br>
+              - Just don't get the triple skulls. That means death!</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">Should I buy 
+              the smaller, green droid from Droids R Us?<br>
+              <font color="#333333">- Never trust a used droid salesman. If you're 
+              not careful, you'll get a lemon.<br>
+              - The small green droid is nothing but a walking pile of nuts and 
+              bolts.<br>
+              - Stay away from the small green droid. It'll fall apart on you.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I bought a gelatinous 
+              gimpadrome. What do I do with it?<br>
+              <font color="#333333">- Aha! Gotcha! You just fell for another fake 
+              hint!<br>
+              - You're got to quit doing this. Just stick to the <i>real questions</i>.<br>
+              - I'm kinda curious myself, though. What do you do with a gelatinous 
+              gimpadrome?</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I bought a sleep, 
+              silver spaceship. Now, how do I fly it?<br>
+              <font color="#333333">- You can't. You need assistance.<br>
+              - Only pilot droids can fly a spaceship of this kind.<br>
+              - You need to get a pilot droid from somewhere.<br>
+              - You can buy the taller, white droid from Droids R Us. That droid 
+              is a pilot droid. &quot;Load&quot; it into the spaceship, and it 
+              will fly the ship for you. </font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">How do I know 
+              which sector to fly my spaceship to?<br>
+              <font color="#333333">- Keep your ears open. Do a bit of eavesdropping.<br>
+              - Bar patrons do a lot of talking.<br>
+              - Keep hanging out in the bar. You might overhear something.<br>
+              - You need to drink beer in the bar. Keep drinking beer until you 
+              overhear some guys talking. They will mention the sector you need 
+              to go to. Don't drink too much beer, though!<br>
+              - Sector HH <br>
+              </font></font></p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="50%" height="2"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>The 
+                  Sarien spaceship, the Deltaur</strong></font><font face="Arial, Helvetica, sans-serif" size="2"><font color="#333333"><a name="deltaur"></a></font></font></td>
+                <td width="50%" height="2"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000">:: 
+                    <a href="#top"> Back to top</a> ::</font></div></td>
+              </tr>
+            </table>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I want to enter 
+              the Sarien spaceship, the Deltaur. But, I keep floating off into 
+              space!<br>
+              <font color="#333333">- You need something to guide you in space.<br>
+              - A jetpack would help!<br>
+              - Don't tell me you don't have a jetpack! I think it's too late 
+              now.<br>
+              - Back in Ulence Flats you could have obtained a jetpack. Remember 
+              the guy that offered to buy your skimmer...?<br>
+              - In Ulence Flats, don't sell the guy your skimmer the <i>first</i> 
+              time he asks. He'll come back again with a second offer. Part of 
+              his second offer is a jetpack. Then, sell him the skimmer.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I managed to 
+              enter the airlock of the Deltaur. But, the other door will not open.<br>
+              <font color="#333333">- Have you seen the robots come through the 
+              door?<br>
+              - There is an opportunity here.<br>
+              - Wait for a robot to come through the door and then <i>hurry</i> 
+              through it before the door closes again.</font><br>
+              </font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I see a trunk, 
+              but I don't know what to do with it.<br>
+              <font color="#333333">- You can &quot;look&quot; in it and see that 
+              it is empty.<br>
+              - You can put something in it.<br>
+              - You can put your jetpack in it.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I'm in a room 
+              with a trunk in the middle of it. How can I leave? I keep getting 
+              shot by Sarien guards if I try leaving.<br>
+              <font color="#333333">- Did you expect to be welcomed with open 
+              arms?<br>
+              - You probably don't want to walk around in open corridors teeming 
+              with Sarien guards.<br>
+              - There are other ways to leave a room besides a door.<br>
+              - You might try the vent.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I see a vent, 
+              but I can't reach it.<br>
+              <font color="#333333">- You can stand on the trunk to reach the 
+              vent.<br>
+              - But first, you need to push the trunk to the wall where the vent 
+              is.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I want to open 
+              the vent, but I can't. Now what?<br>
+              <font color="#333333">- You need to pry the vent open.<br>
+              - But, you need something with which to pry.<br>
+              - I hope you got the survival kit from the pod when you crash-land 
+              in the desert of Kerona.<br>
+              - After you crash-land on Kerona in your pod, you needed to &quot;look&quot; 
+              in the pod before exiting it. You would have discovered a survival 
+              kit. In the survival kit is a Xenon Army Knife. Use the knife to 
+              pry open the vent.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I pressed a 
+              button and turned into a holographic image! How do I get out of 
+              this?<br>
+              <font color="#333333">- Actually, it's probably an improvement.<br>
+              - No, but seriously folks, you just ran into another fake question.<br>
+              - I'm pretty good at coming up with fake questions, don't you think? 
+              Maybe I'm good enough to write my own adventure game.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I managed to 
+              enter a ventilation shaft. I discovered another vent, but I can't 
+              open it.<br>
+              <font color="#333333">- The vent is stuck.<br>
+              - No, the Xenon army knife won't help here.<br>
+              - You need to &quot;kick&quot; the grate to unstick it.<br>
+              - After &quot;kicking&quot; the grate, you still need to &quot;open&quot; 
+              it.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">The Sariens 
+              keep shooting at me! What can I do?<br>
+              <font color="#333333">- As you are, you are easily recognizable 
+              as an enemy alien.<br>
+              - The Sariens need to believe that you're one of them.<br>
+              - You need a disguise.<br>
+              - In the &quot;laundry&quot; room, enter the washing machine. You 
+              will discover a Sarien uniform in it.<br>
+              - As longs as you have the <i>entire</i> uniform on, you will be 
+              safe.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I lost my helmet!<br>
+              <font color="#333333">- Oh, oh! You're in trouble now.<br>
+              - Without your helmet the Sariens can see that you're not green 
+              like them.<br>
+              - I hope you have your pulseray. You're going to need it for protection.<br>
+              - From this point on, use &quot;slow&quot; or &quot;normal&quot; 
+              mode to be able to shoot the Sariens before they shoot you. If you 
+              are in &quot;fast&quot; mode, you will never have time to shoot 
+              them first.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I need an identification 
+              card. Where do I find that?<br>
+              <font color="#333333">- Are you wearing the Sarien Uniform?<br>
+              - Have you looked at the Sarien uniform?<br>
+              - Have you looked in the pocket of the Sarien uniform?<br>
+              - Well, if you haven't, then I suggest you do!</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I see a gas 
+              grenade I want! How can I get it?<br>
+              <font color="#333333">- You don't have authorization to carry a 
+              gas grenade.<br>
+              - Of course, if you don't ask permission, you cannot be refused.<br>
+              - Try to get the droid out of the room so you can steal the grenade.<br>
+              - Show the droid your ID card. When he has left the room to check 
+              your records, <i>quickly</i> take a gas grenade.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I found the 
+              Star Generator! But, I can't do anything with it.<br>
+              <font color="#333333">- Of course you can't. There is a force field 
+              around it.<br>
+              - Get rid of the force field.<br>
+              - &quot;How?&quot; you ask. That's a good question. The guard with 
+              the Star Generator has a remote control device on him. If you could 
+              only get that device...!<br>
+              - The only way to get the remote control device is to kill the guard.<br>
+              - But, be careful how you kill him!<br>
+              - Kill the guard with the gas grenade.<br>
+              - Kill the guard with the gas grenade from the upper level of the 
+              Star Generator room. Then, search his uniform for the remote control 
+              device. Use it to turn off the force field around the Star Generator.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I know I'm supposed 
+              to set the Star Generator to self-destruct. How do I do that?<br>
+              <font color="#333333">- First, you need to turn off the force field 
+              (look at the prior question).<br>
+              - I hope you know the code that sets the Star Generator to self-destruct. 
+              You don't!? Then, you're in a bad way, I'd say!<br>
+              - Do you remember the Keronian piston room? The place where you 
+              go the skimmer? Well, you should have put the &quot;Astral Body&quot; 
+              cartridge in the computer. Doing so would have given you the Star 
+              Generator self-destruct code. O hope you saved your game at that 
+              point.<br>
+              - Once you know the self-destruct code, key it into the Star Generator's 
+              control panel. &quot;Look&quot; at the control panel of the Star 
+              Generator.<br>
+              - The Star Generator's self-destruct code is - 6858.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">There's an elevator 
+              in the Deltaur that won't work. Will it <i>ever</i> work?<br>
+              <font color="#333333">- Yes, eventually it will.<br>
+              - But, it won't until you have set the Star Generator to self-destruct.<br>
+              - Then, you can enter it to make your escape.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I set the Star 
+              Generator to self-destruct. Now what?<br>
+              <font color="#333333">- Get the heck out of here!!<br>
+              - you've got five minutes to leave the Sarien spaceship before it 
+              blows up!!<br>
+              - Hop on the broken elevator to speeds up your escape.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2">I found a little 
+              spacecraft on the Deltaur. Is that my salvation?<br>
+              <font color="#333333">- Yes!! Grab it while you have time!<br>
+              - Get in it and <i>leave</i> before the Deltaur blows up!!<br>
+              - Congratulations on finding this spaceship and leaving the Deltaur 
+              in one piece. You have saved the universe from certain tyranny by 
+              the evil Sariens. You are a <i>hero</i>!</font></font></p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="50%" height="2"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></td>
+                <td width="50%" height="2"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#CC0000">:: 
+                    <a href="#top"> Back to top</a> ::</font></div></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table> </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

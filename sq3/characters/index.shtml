@@ -1,0 +1,204 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 3 Characters</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq3up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 3 Characters &gt; </strong> This page offers a description 
+                of the most important characters. Please keep in mind that you 
+                might not want to see the information below if you're new to the 
+                game.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq3down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../../navmenu/sq3menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq3between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td colspan="2" valign="top"> <table width="100%" border="0" cellspacing="1" cellpadding="1">
+              <tr> 
+                <td align="left" valign="top" height="110"> <p align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Arnoid 
+                    The Annihilator</strong></font><font face="Arial, Helvetica, sans-serif"><br>
+                    <img 
+src="arnoid.gif" alt="Arnoid: Bill collector from hell" width="159" height="89" border="0" align=left><font size="2">Roger 
+                    forgot to pay for that &quot;free&quot; Labion Terror Beast 
+                    mating call whistle back in Space Quest 2. Nonpayment is a 
+                    serious offense, and Arnoid is programmed to deal with Roger 
+                    in person! After all, Roger still owns the good people at 
+                    Gippazoid Novelty Co. some 400,000 buckazoids. &quot;Sooo...This 
+                    is Roger Wilco, the man I have been sent across the universe 
+                    to track down and terminate. I am not impressed.&quot;</font></font></p></td>
+              </tr>
+            </table>
+            <font face="Arial, Helvetica, sans-serif"><br>
+            </font> <table width="100%" border="0" cellspacing="1" cellpadding="1">
+              <tr> 
+                <td align="left" valign="top" height="75"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Fester 
+                    Blatz</strong></font><font face="Arial, Helvetica, sans-serif" size="3" color="#CC0000"><br>
+                    </font><font face="Arial, Helvetica, sans-serif"><img 
+src="fester2.gif" alt="Fester Blatz" width="115" height="101" border="0" align=left><font size="2">The 
+                    proprietor of World O' Wonders. He looks like the unfortunate 
+                    offspring of a union between a squid and a Vorlian gas beast. 
+                    His keen business mind and utter lack of scruples afford him 
+                    a comfortable living on the stormy planet Phleebhut (the backside 
+                    of civilization). He loves collecting various stuff, like 
+                    rare gems (he has quite a collection too). His assortment 
+                    of other junk is really astonishing. He will do just about 
+                    anything to squeeze every buckazoid out of you. Be sure to 
+                    THINK first before buying anything.</font></font></div></td>
+              </tr>
+            </table>
+            <font face="Arial, Helvetica, sans-serif"><br>
+            </font> <table width="100%" border="0" cellspacing="1" cellpadding="1">
+              <tr> 
+                <td height="115"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>The 
+                    Two Guys from Andromeda</strong></font><font face="Arial, Helvetica, sans-serif" size="3" color="#CC0000"><br>
+                    <img 
+src="twoguys.gif" alt="Two Guys from Andromeda" width="171" height="94" border="0" align=left></font><font face="Arial, Helvetica, sans-serif" size="2">Famous 
+                    software authors known through out the universe. Captured 
+                    and forced to write software for ScumSoft. In their latest 
+                    cheap arcade game called Astro Chicken, they encoded a secret 
+                    message in the hope to get rescued one day. Roger infiltrated 
+                    ScumSoft and managed to free the Two Guys.</font></div></td>
+              </tr>
+            </table>
+            <font face="Arial, Helvetica, sans-serif"><br>
+            </font> <table width="100%" border="0" cellspacing="1" cellpadding="1">
+              <tr> 
+                <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Ueffo 
+                    Bleeblenarf</strong></font><font face="Arial, Helvetica, sans-serif" size="3" color="#CC0000"><br>
+                    <img 
+src="counterclerk.gif" alt="Ueffo Bleeblenarf" width="85" height="83" border="0" align=left></font><font face="Arial, Helvetica, sans-serif" size="2">Counter 
+                    clerk and employee of the month for Monolith Burger. Always 
+                    helping out customers: the smile is guaranteed.</font></div></td>
+              </tr>
+            </table>
+            <font face="Arial, Helvetica, sans-serif"><br>
+            </font> <table width="100%" border="0" cellspacing="1" cellpadding="1">
+              <tr> 
+                <td height="88"> <p align="justify"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Elmo 
+                    Pug</strong></font><font face="Arial, Helvetica, sans-serif" size="3" color="#CC0000"><br>
+                    </font><font face="Arial, Helvetica, sans-serif"><img 
+src="elmo.gif" alt="Elmo Pug" width="72" height="67" border="0" align=left><font size="2">What 
+                    a nerd... Uhmm, I mean this is the 14 year old boss of ScumSoft. 
+                    </font><font face="Arial, Helvetica, sans-serif" size="2">When 
+                    Elmo Pug's father mysteriously disappeared a few months ago, 
+                    this 14 year old child inherited ScumSoft . He reigns the 
+                    with an iron fist. Programmers are working around the clock 
+                    to produce low-quality arcade games. Elmo has an army armed 
+                    with side arms called &quot;jello pistols&quot; to keep his 
+                    slaves (read: employees) in line. Though, sometimes even the 
+                    employees are allowed to have some relaxation. And that is 
+                    watching the Nukem Dukem robots fight in the Arena, with Elmo 
+                    as a frequent participant. Don't you dare putting your money 
+                    on the other guy!</font></font></p>
+                  <p align="justify"><font color="#000000" size="2" face="Arial, Helvetica, sans-serif">___</font></p></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

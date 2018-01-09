@@ -1,0 +1,200 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 1 Spoofs and References</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center"> <a name="top"></a>
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq1up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 1 Spoofs and References &gt; </strong>Space Quest 1 is chockfull 
+                with cool spoofs and references. This page lists them all.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq1down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../../navmenu/sq1menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq1between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td valign="top"><p align="justify"><font color="ffffb1" size="3" face="Arial, Helvetica, sans-serif"><strong>Space 
+              Quest 1 </strong></font><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Spoofs 
+              and References EGA version<font size="2"><br>
+              </font></strong></font><font size="2" face="Arial, Helvetica, sans-serif"><img src="beer.gif" alt="Keronian Ale" width="83" height="62" align="right">The 
+              name of the planet Kerona is based upon the name of a Mexican beer 
+              called &quot;Corona&quot;, which was the favorite beverage of The 
+              Two Guys back in 1986. And it's my favorite beer now, thanks to 
+              my dear Space Quest friend Paul 'Xenon' Ibes. My roommate at the 
+              Starcon Academy back in 1998. </font><font size="2" face="Arial, Helvetica, sans-serif">There's 
+              also another reason, but that was too sophomoric for even Scott 
+              to mention.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">When 
+              you approach the Deltaur, the inside view of the ship with your 
+              droid resembles the rebel attack on the Death Star from Star Wars.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              They're both from 'Hitchhiker's Guide to The Galaxy', that grand 
+              Adams satire/comedy/many things.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              weaponsdroid aboard the Deltaur is a ripoff of Marvin the Paranoid 
+              Android from Hitchhiker's Guide to The Galaxy. The weaponsdroid 
+              is, just like Marvin, always depressed and saying the same stock 
+              sort of lines.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><img src="../../extraimages/newitem.gif" width="62" height="44" align="right">The
+                name &quot;Sarien&quot; sounds a lot like  &quot;Arien&quot;. You
+                know, the  blond ubermenschen from the Nazis.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Another 
+              reference to the Hitchhiker's Guide are the Sariens, who seem to 
+              resemble Vogons quite closely.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              Sarien Spider Droid is actually derived from the Imperial Scout 
+              Droid from the Empire Strikes Back.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              building of Tiny's Used Spaceships at Ulence Flats has a similar 
+              design to Luke Skywalker's home on Tattoine.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              mugger at Ulence Flats is one of the headhunters working for Jabba, 
+              who tried to kill Han Solo in the Mos Eisley cantina in the first 
+              Star Wars film.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">You 
+              can actually kiss the Sarien guard aboard the Deltaur, who happens 
+              to be a King's Quest fan. Besides his mention of King's Quest 2, 
+              which awards you bonus points, you can talk with him about King's 
+              Quest 3. Yes, he just bought is for a mere 128.000 buckazoids at 
+              Tiny's Holodisk Shop. Not to mention his favorite massacre was the 
+              Great Daventry Rout. Turns out that Ken Williams (CEO of Sierra 
+              at that time) programmed this into the game. Scott Murphy: &quot;Kissing 
+              the Sarien was all Ken Williams' doing as were the KQ2 references. 
+              We let him do some programming and just because he runs the company 
+              (not anymore -ed) he thinks he can do whatever he wants. Go figure.&quot; 
+              </font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">A 
+              movie from 1983 with Eddy Murphy and Jamie Lee Curtis is called 
+              &quot;Trading Places&quot;. &quot;Beek Security&quot; is being mentioned 
+              in the movie. It is some kind of security company. The Two Guys 
+              used this as a spoof in SQ1 for the keycard description.</font></p>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="ffffb1" size="3" face="Arial, Helvetica, sans-serif"><strong>Space 
+              Quest 1</strong></font> <font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Spoofs 
+              and References VGA version<font size="2"><br>
+              </font></strong></font><font size="2" face="Arial, Helvetica, sans-serif"><img src="driodsbus.jpg" alt="Droids-B-Us" width="159" height="81" align="right">Not 
+              only is the Droid-B-Us store still there, it even has a modified 
+              version of the Toys-R-Us giraffe logo. In one of the many lawsuits 
+              concerning the Space Quest series, Scott and Mark were sent to court 
+              concerning their in-game spoof of Toys-R-Us (Droid-B-Us). They won 
+              the lawsuit, but they needed to change Droids-R-Us into Droids-B-Us 
+              in the EGA version. You might think they would have learned from 
+              this and that they would be a little bit more careful in the future. 
+              Not quite: years later the Two Guys even added a spoof of the official 
+              logo to the Droids-B-Us store in the remake of Space Quest 1! Oddly 
+              enough, they weren't sued again for that one. What's more, in Space 
+              Quest 4 when you return to Ulence Flats a remark states: &quot;Smells 
+              like another lawsuit coming back to haunt the Two Guys from Andromeda.&quot;</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">When 
+              entering the hologram's area of Kerona, the theme song starts out 
+              like the song from &quot;2001: A Space Odyssey&quot;. but then changes 
+              into something different.</font></p>
+            <p align="justify"><font color="#000000" size="2" face="Arial, Helvetica, sans-serif">__</font></p>
+          </td>
+        </tr>
+      </table> </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

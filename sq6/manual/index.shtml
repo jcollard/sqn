@@ -1,0 +1,263 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 6 Documentation</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq6up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 6 Documentation &gt; </strong>Here you can download high 
+                resolution scans of the documentation that shipped with Space 
+                Quest 6.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq6down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> <!--#include virtual="../../navmenu/sq6menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq6between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td valign="top"> <p align="left"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Space 
+              Quest 6 Game Manual</strong></font><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              Contains information about game installation, game interface, game 
+              strategy, technical support and credits.<font color="278b1f"> </font>Also 
+              contains some cool design sketches. You can also download the handy 
+              dandy PDF file. <a href="sq6gamemanual.pdf"> Click here</a> <font color="#CC0000">(712 
+              KB)</font> to download it. You'll need the free Adobe Acrobat Reader 
+              to open PDF files.</font></p>
+            <table width="100%" border="0" height="86">
+              <tr align="left" valign="top"> 
+                <td width="19%"><font face="Arial, Helvetica, sans-serif" size="2"><img src="frontcoverklein.jpg" width="150" height="146"></font></td>
+                <td valign="top" width="28%"> <p><font face="Arial, Helvetica, sans-serif" size="2"><a href="frontcover.jpg" target="_blank">Frontcover</a> 
+                    <font color="#CC0000">(72,9 KB)</font><br>
+                    <a href="pag01.gif" target="_blank">Page 1</a> <font color="#CC0000">(20,2 
+                    KB)</font><br>
+                    <a href="pag02.gif" target="_blank">Page 2</a> <font color="#CC0000">(24,3 
+                    KB)</font><br>
+                    <a href="pag03.gif" target="_blank">Page 3</a> <font color="#CC0000">(45,3 
+                    KB)</font><br>
+                    <a href="pag04.gif" target="_blank">Page 4</a> <font color="#CC0000">(41,4 
+                    KB)</font><br>
+                    <a href="pag05.gif" target="_blank">Page 5</a> <font color="#CC0000">(19,4 
+                    KB)</font><br>
+                    <a href="pag06.gif" target="_blank">Page 6</a> <font color="#CC0000">(28,7 
+                    KB)</font></font></p></td>
+                <td valign="top" width="28%"> <p><font face="Arial, Helvetica, sans-serif" size="2"><a href="pag07.gif" target="_blank">Page 
+                    7</a> <font color="#CC0000">(33,7 KB)<br>
+                    </font><a href="pag08.gif" target="_blank">Page 8</a><font color="#CC0000"> 
+                    (32,3 KB)</font><br>
+                    <a href="pag09.gif" target="_blank">Page 9</a><font color="#CC0000"> 
+                    (33,6 KB)<br>
+                    </font></font><font face="Arial, Helvetica, sans-serif"><font size="2"><a href="pag10.gif" target="_blank">Page 
+                    10</a><font color="#CC0000"> (31,4 KB)</font><br>
+                    <a href="pag11.gif" target="_blank">Page 11</a><font color="#CC0000"> 
+                    (28,1 KB)</font><br>
+                    <a href="pag12.gif" target="_blank">Page 12</a><font color="#CC0000"> 
+                    (25,2 KB)</font><br>
+                    <a href="pag13.gif" target="_blank">Page 13</a> <font color="#CC0000">(35,1 
+                    KB)</font></font></font></p></td>
+                <td valign="top" width="25%"><font face="Arial, Helvetica, sans-serif" size="2"><a href="pag14.gif" target="_blank">Page 
+                  14</a><font color="#CC0000"> (37,1 KB)</font><br>
+                  <a href="pag15.gif" target="_blank">Page 15</a> <font color="#CC0000">(20,9 
+                  KB)<br>
+                  </font><a href="pag16.gif" target="_blank">Page 16</a> <font color="#CC0000">(23,5 
+                  KB)</font><br>
+                  <a href="pag17.gif" target="_blank">Page 17</a> <font color="#CC0000">(21,8 
+                  KB)</font></font> <font face="Arial, Helvetica, sans-serif" size="2"><br>
+                  <a href="pag18.gif" target="_blank">Page 18</a> <font color="#CC0000">(32,5 
+                  KB)</font></font> <font face="Arial, Helvetica, sans-serif" size="2"><br>
+                  <a href="rearcover.jpg" target="_blank">Rearpage</a> <font color="#CC0000">(53,9 
+                  KB)</font></font></td>
+              </tr>
+            </table>
+            <p><font face="Arial, Helvetica, sans-serif" size="3" color="#CC0000"><br>
+              <strong><font color="FFFFB1">Popular Janitronics</font></strong></font><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              This funny documentation (in tradition of the Space Piston Magazines 
+              and the Galactic Inquirer) came with Space Quest 6. You can also 
+              download the handy dandy PDF file. <a href="popjani/sq6popularmagazine.pdf"> 
+              Click here</a> <font color="#CC0000">(3 MB)</font> to download it. 
+              You'll need the free Adobe Acrobat Reader to open PDF files.</font></p>
+            <table width="100%" border="0">
+              <tr align="left" valign="top"> 
+                <td width="14%"><font face="Arial, Helvetica, sans-serif" size="2"><img src="popjani/frontcoverklein.jpg" alt="Popular Janitronics" width="150" height="230"></font></td>
+                <td valign="top" width="43%"> <p><font face="Arial, Helvetica, sans-serif" size="2"><a href="popjani/frontcover.jpg" target="_blank">Frontcover</a> 
+                    <font color="#CC0000">(217 KB)</font><br>
+                    <a href="popjani/pag00.jpg" target="_blank">Page 0</a> <font color="#CC0000">(157KB)</font><br>
+                    <a href="popjani/pag01.jpg" target="_blank">Page 1</a> <font color="#CC0000">(208 
+                    KB)</font><br>
+                    <a href="popjani/pag02.jpg" target="_blank">Page 2</a> <font color="#CC0000">(202 
+                    KB)</font><br>
+                    <a href="popjani/pag03.jpg" target="_blank">Page 3</a> <font color="#CC0000">(209 
+                    KB)</font><br>
+                    <a href="popjani/pag04.jpg" target="_blank">Page 4</a> <font color="#CC0000">(196 
+                    KB)</font><br>
+                    <a href="popjani/pag05.jpg" target="_blank">Page 5</a> <font color="#CC0000">(216 
+                    KB)</font><br>
+                    <a href="popjani/pag06.jpg" target="_blank">Page 6</a> <font color="#CC0000">(205 
+                    KB)</font></font></p></td>
+                <td valign="top" width="43%"> <p><font face="Arial, Helvetica, sans-serif" size="2"><a href="popjani/pag07.jpg" target="_blank">Page 
+                    7</a> <font color="#CC0000">(181 KB)</font><br>
+                    <a href="popjani/pag08.jpg" target="_blank">Page 8</a><font color="#CC0000"> 
+                    (214 KB)</font><br>
+                    <a href="popjani/pag09.jpg" target="_blank">Page 9</a><font color="#CC0000"> 
+                    (126 KB)<br>
+                    </font><a href="popjani/pag10.jpg" target="_blank">Page 10</a> 
+                    <font color="#CC0000">(212 KB)</font><br>
+                    <a href="popjani/pag11.jpg" target="_blank">Page 11</a> <font color="#CC0000">(204 
+                    KB)</font><br>
+                    <a href="popjani/pag12.jpg" target="_blank">Page 12</a> <font color="#CC0000">(196 
+                    KB)</font><br>
+                    <a href="popjani/pag13.jpg" target="_blank">Page 13</a> <font color="#CC0000">(138 
+                    KB)</font><br>
+                    <a href="popjani/rearcover.jpg" target="_blank">Rearpage</a> 
+                    <font color="#CC0000">(216 KB)</font></font></p></td>
+              </tr>
+            </table>
+            <p><font size="3" face="Arial, Helvetica, sans-serif" color="#CC0000"><strong><font color="FFFFB1">Quickstart 
+              Manual</font></strong><br>
+              </font><font size="2" face="Arial, Helvetica, sans-serif">The quickstart 
+              manual comes in handy when you don't have a clue how to get started 
+              with Space Quest 6. It offers some hints and screenshots. It was 
+              only supplied with the original retail version and is not included 
+              in the Space Quest Collection. The quickstart manual consists of 
+              3 pages that can be unfolded to make one large page. The front side 
+              shows a beautiful panorama view onto the streets of Polysorbate 
+              LX and the other side contains the hints and screenshots.</font></p>
+            <p align="left"><font size="2" face="Arial, Helvetica, sans-serif"><a href="quickstart/panoramacompleet.jpg" target="_blank"><img src="quickstart/panoramacompleetk.jpg" alt="Picture from the Quickstart Manual" width="150" height="109" border="0" align="left"></a>This 
+              manual is actually very special because it offers an unique view 
+              onto the streets of Polysorbate LX, which differs from the game. 
+              The artist team of Space Quest 6 created a &quot;Panorama view&quot;. 
+              The Popular Janitronics magazine has a very small picture of this 
+              special view (click on the picture on the left for a close up). 
+              However, the quickstart manual offers a cool full color version. 
+              If you compare the two picture with each other, you'll notice the 
+              small black and white picture has been &quot;cut off&quot; on the 
+              left and right side, while the quickstart version hasn't. However, 
+              the quickstart version has these &quot;Having trouble getting started? 
+              Don't get frustrated. Get a clue! Look inside.&quot; text blocks 
+              thingies covering up most of the right page. Too bad huh? Maybe 
+              this panorama view was part of a rejected intro cinema movie (like 
+              the Deepship 86 Shuttle launch and the Delta Burksilon V arrival)? 
+              We may never know.</font></p>
+            <table width="100%" border="0">
+              <tr> 
+                <td valign="top"><font face="Arial, Helvetica, sans-serif"><img src="quickstart/frontcoverk.jpg" alt="The Quickstart Manual" width="150" height="213" align="left"></font><font face="Arial, Helvetica, sans-serif" size="2"><a href="quickstart/side1left.jpg" target="_blank">Side 
+                  1 left</a> <font color="#CC0000">(209 KB)</font><br>
+                  <a href="quickstart/side1middle.jpg" target="_blank">Side 1 
+                  middle</a> <font color="#CC0000">(221 KB)</font><br>
+                  <a href="quickstart/side1right.jpg" target="_blank">Side 1 right</a> 
+                  <font color="#CC0000">(263 KB)</font></font> <p><font face="Arial, Helvetica, sans-serif" size="2"><a href="quickstart/side2left.jpg" target="_blank">Side 
+                    2 left</a> <font color="#CC0000">(227 KB)</font><br>
+                    <a href="quickstart/side2middle.jpg" target="_blank">Side 
+                    2 middle</a> <font color="#CC0000">(246 KB)</font><br>
+                    <a href="quickstart/side2right.jpg" target="_blank">Side 2 
+                    right</a> <font color="#CC0000">(248 KB)</font></font></p>
+                  <p><font face="Arial, Helvetica, sans-serif" size="2"><a href="quickstart/panoramahigh.jpg" target="_blank">Panorama 
+                    view (high resolution)</a> <font color="#CC0000">(612 KB)</font><br>
+                    <a href="quickstart/panorama.jpg" target="_blank">Panorama 
+                    view</a> <font color="#CC0000">(132 KB)</font></font></p></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table> </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

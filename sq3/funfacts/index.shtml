@@ -1,0 +1,245 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 3 Fun Facts</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center"> <a name="top"></a>
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq3up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 3 Fun Facts &gt; </strong> This page contains everything 
+                you wanted to know about Space Quest 3 and then some!</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq3down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../../navmenu/sq3menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq3between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td colspan="2" valign="top"> <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Space 
+              Quest 3 Fun Facts<font size="2"><br>
+              </font></strong></font><font size="2" face="Arial, Helvetica, sans-serif">There's 
+              a bug in Space Quest 3 that makes Roger act like Houdini. In the 
+              Garbage Freighter where the Aluminum Mallard is buried in junk, 
+              place the ladder next to the Aluminum Mallard and then walk back 
+              up the screen to the Robot's neck and type &quot;climb ladder&quot; 
+              instead of &quot;climb neck&quot;. Roger will disappear from the 
+              neck and instantly reappear climbing the ladder onto the roof of 
+              the Mallard.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><img src="../../extraimages/newitem.gif" alt="New since the last update!" width="62" height="44" align="right"></font> 
+              <font size="2" face="Arial, Helvetica, sans-serif">There's another 
+              interesting bug in the game. The first time to reach to Monolith 
+              Burger, and buy the Monolith Meal (Choosing choice 7 on the menu), 
+              sit down when you get your food. Type ''eat'' for Roger to eat. 
+              The message will say that you've found a Decoder Ring (Giving you 
+              10 points). After seeing the message, quickly push the 'UP' key 
+              to stand up before the message that says that you've finished your 
+              food appears. When you do that, you'll still have that original 
+              food bag with you. Sit down again to ''EAT'' and wait for the Decoder 
+              Ring message to appear again and quickly press up again before the 
+              finished food message appears. Once again, this gives you 10 points. 
+              However, this doesn't seem to work with game version 1.018 supplied 
+              with the Space Quest Collection. If you made this work, <a href="../../contact/index.shtml">let 
+              me know</a>.</font></p>
+            <div align="justify"> 
+              <table width="100%" border="0" cellspacing="1" cellpadding="1">
+                <tr> 
+                  <td><p><font face="Arial, Helvetica, sans-serif"><img src="chickenhat.gif" alt="Roger with Astro Hat" width="28" height="77" align="right"><font size="2">Although 
+                      there is no use for it, you can wear the Astro Chicken Flight 
+                      Hat. Wear the hat before you leave Fester's World O' Wonders. 
+                      Too bad this silly joke doesn't give you any points.</font></font></p>
+                    <p><font face="Arial, Helvetica, sans-serif"><img src="throwup.gif" alt="Barfing Roger" width="28" height="40" align="left"> 
+                      <font size="2">Buy the Big Belcher Combo at Monolith Burger 
+                      and return to your ship. See what happens!</font></font></p></td>
+                </tr>
+              </table>
+              <br>
+              <table width="100%" border="0">
+                <tr align="left" valign="top"> 
+                  <td height="1"><font face="Arial, Helvetica, sans-serif"><img src="signature.gif" alt="Signature of Mark Crowe" width="180" height="52" align="left"><font size="2">Everybody 
+                    who owns a copy of Space Quest 3 owns a signature of Mark 
+                    Crowe. Mark is one of the Two Guys of Andromeda and made the 
+                    graphics of the game. Have you found it already? </font></font></td>
+                </tr>
+              </table>
+              <font face="Arial, Helvetica, sans-serif"><br>
+              <font size="2">Space Quest 3 was one of the first games ever with 
+              soundcard support. A very popular device at that time was the Roland 
+              Multi Timbral Sound Module 32, or Roland MT 32 for short. This device 
+              was one of the best and most expensive on the market. You can say 
+              it was an external soundcard with a display. The hilarious part 
+              is, though, that it displays &quot;INSERT BUCKAZOID&quot; by itself 
+              on the MT-32 display after you quit the game.</font></font></div>
+            <p align="justify"> <font size="2" face="Arial, Helvetica, sans-serif">You'll 
+              find some buckazoids when searching the pilot's seat of the Aluminum 
+              Mallard. This will award you with some points too.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Scott 
+              Murphy explains where the idea of Astro Chicken comes from: &quot;Astro 
+              Chicken was inspired by a little ditty of a program [originally 
+              called Chicken Lander] by this guy named Doug something-or-the-other. 
+              What was his name? Damn! Oh yeah, now I remember. Doug Oldyard, 
+              Newfeld... ah, Oldfield. Doug Oldfield. (I'm kidding, of course.)&quot;</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">An 
+              early release of Space Quest 3 is somewhat different. One obvious 
+              difference is that the Aluminum Mallard's cockpit computer had the 
+              option &quot;Lite Speed&quot; instead of &quot;Light Speed&quot; 
+              as seen in later versions.</font></p>
+            <div align="justify"> 
+              <table width="100%" border="0" cellspacing="1" cellpadding="1">
+                <tr> 
+                  <td valign="top"> <p align="justify"> <font size="2" face="Arial, Helvetica, sans-serif">When 
+                      I was playing Space Quest 3 for the first time, the most 
+                      challenging thing about it was destroying Arnoid the Annihilator 
+                      droid. I found out there are a lot of ways of &quot;how 
+                      to destroy Arnoid&quot; and &quot;how to get his belt&quot;.</font></p>
+                    <p align="justify"><font face="Arial, Helvetica, sans-serif" size="3"><img 
+src="killarnoid1.gif" alt="Arnoid getting smashed" width="280" height="122" align=left></font><font size="2" face="Arial, Helvetica, sans-serif">The 
+                      first is the most common. I guess most of you guys have 
+                      killed him this way. Go into the cavernous interior of Mog's 
+                      belly. Walk upstairs and walk to where you see Roger standing 
+                      in the screen shot. Wait until Arnoid comes and push a pulley 
+                      at him. He will fall into the engine and BONK, your special 
+                      Terminator crashed sandwich a la ketchup! Now, getting his 
+                      belt is the easy part. Just walk down the stair and get 
+                      the belt. But there is another way to kill Arnoid and you'll 
+                      get more points with it! It is more difficult though, so 
+                      be sure to save your game before trying anything stupid.</font></p>
+                    <p align="justify"><font face="Arial, Helvetica, sans-serif"><img 
+src="killarnoid2.gif" alt="Arnoid getting eaten" width="200" height="160" align=right><font size="2">When 
+                      you've &quot;talked&quot; to Arnoid for the first time, 
+                      he will give you his usual 10 seconds to get the hell off 
+                      the planet. Now, walk to the large rock overhang with the 
+                      pulsating pods. Wait until Arnoid approaches (notice his 
+                      footsteps, remember?) and lure him under the pods without 
+                      getting yourself killed in the process. You might have to 
+                      practice a little bit, but it is not a tough as it looks. 
+                      If you do this right, one of the pulsating pods will enjoy 
+                      your special Terminator crashed sandwich a la ketchup!</font></font></p></td>
+                </tr>
+              </table>
+              <table width="100%" border="0" cellspacing="1" cellpadding="1">
+                <tr align="left" valign="top"> 
+                  <td height="131"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><img 
+src="getbelt2.gif" alt="Roger getting Arnoid's Belt" width="200" height="129" align="right">You 
+                      can get his invisibility belt by using your Orat-on-a-stick. 
+                      You did buy it at the World O' Wonders, didn't you? Getting 
+                      the belt is simple if you know where to stand. Just look 
+                      at the picture, if you haven't notice it by now.</font></div></td>
+                </tr>
+                <tr align="left" valign="top"> 
+                  <td><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><img 
+src="getbelt3.gif" alt="Roger getting Arnoid's Belt (ALT)" width="200" height="141" align="right">Now, 
+                      this is the most interesting part. I don't think many of 
+                      you Space Questers know this. But I found out you can also 
+                      use the pole from Ortega to get the belt! As you can see 
+                      from the screen shot, you'll have to stand in the same place 
+                      when getting the belt with your Orat-on-a-stick. Try this 
+                      method if you forgot to buy the Orat-on-a-stick.</font></div></td>
+                </tr>
+              </table>
+            </div>
+            </td>
+        </tr>
+      </table></td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

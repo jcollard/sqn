@@ -1,0 +1,223 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 4 Inventory Items</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq4up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 4 Inventory Items &gt; </strong>This page describes the 
+                inventory items of Space Quest 4 and includes information on their 
+                location and usage. You might not want to see the information 
+                below if you're new to the game.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq4down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../../navmenu/sq4menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq4between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td align="left" valign="top"> <div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><img 
+src="buckazoid.gif" alt="Buckazoids" width="60" height="60" align=left>You have 
+              59 recession-riddles buckazoids. You already have some buckazoids 
+              when starting the game. Used to buy things.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+            <img 
+src="rope.gif" alt="A piece of Rope" width="60" height="60" align=left>A crummy
+             piece of rope. Found on the Xenon streets. Used to catch the bunny.</font></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+            <img 
+src="ordnance.gif" alt="Unstable Ordnance" width="60" height="60" align=left> 
+            A piece of unstable ordnance. Found inside the Xenon Battle Tank. 
+            Used to get yourself killed, okay?</font></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+            <img 
+src="bunny2.gif" alt="A Bunny" width="60" height="60" align=left>A darn cute bunny. 
+            Found on the street of Xenon. Used for the battery it has.</font></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+            <img 
+src="battery.gif" alt="A Battery" width="60" height="60" align=left>A battery. 
+            Found inside the fluffy pink bunny. Used to power the PocketPal.</font></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img 
+src="pocketpal.gif" alt="A PocketPal" width="100" height="60" align=left>This 
+              is just a dumb terminal. It won't do anything by itself. Found inside 
+              the trashed skimmer. Used inside the Super Computer.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+            <img 
+src="jar.gif" alt="Jar with green acid" width="60" height="60" align=left>You 
+            have a jar of green acid. Found inside the Sanitation Office. Used 
+            to scoop up the slime.</font></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img 
+src="gumrapper.gif" alt="Papper-wrapped wad" width="60" height="60" align=left>This 
+              humpy paper-wrapped wad looks mighty interesting. Found inside the 
+              pocket of a Sequel Policeman. It possesses as part of the code for 
+              the time pod.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+            <img 
+src="tank.gif" alt="An Oxygen Tank" width="60" height="60" align=left> An oxygen 
+            tank. Found inside the Latex Babes' cavern. Used to kill the Seaslug.</font></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+            <img 
+src="atmcard.gif" alt="An ATM card" width="100" height="60" align=left>An Autobucks
+             Teller Machine card! Found on the escalator. Used to get money.</font></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+            <img 
+src="hintbook.gif" alt="An SQ4 Hintbook" width="60" height="60" align=left>A 
+             SQ4 hintbook! Found in the bargain bin of the Software store and
+            is 
+            used for the (time pod) codes.</font></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+            <img 
+src="hintrevealer.gif" alt="Hint Revealer" width="60" height="60" align=left>Oh 
+            yes, it's a reveal-o-matic electric hint revealer. What do you think 
+            it does?</font></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+            <img 
+src="sigar.gif" alt="Cigar Butt" width="60" height="60" align=left>A cute looking 
+            cigar butt. Found on the escalator platform. Used inside the laser 
+            tunnel.</font></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+            <img 
+src="matches.gif" alt="A Book of Matches" width="100" height="60" align=left> 
+            A book of matches. Used to light the cigar butt.</font></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img 
+src="disk.gif" alt="A Computer Disk" width="60" height="60" align=left>The label 
+              on the disk reads: Roger Jr., Brain Tools, Stunt Flyer. Found inside 
+              the Super Computer complex. Used to switch Vohaul's brain with Roger 
+              Jr.'s.</font></div></td>
+        </tr>
+      </table> </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All
+          original content (c) Frans van Hofwegen. All Space Quest related
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

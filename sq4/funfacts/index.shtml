@@ -1,0 +1,361 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 4 Fun Facts</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq4up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 4 Fun Facts &gt; </strong> This page contains everything 
+                you wanted to know about Space Quest 4 and then some!</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq4down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../../navmenu/sq4menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq4between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td colspan="2" valign="top"> <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Space 
+              Quest 4 Fun Facts <br>
+              </strong></font></font><font size="2" face="Arial, Helvetica, sans-serif">Space
+              Quest 4 was the first Space Quest game to feature a voice talkie.
+              Fans where introduced to Gary Owens - the popular narrator voice
+              in Space Quest 4 (and later again in Space Quest 6). Here are some
+              cool funfacts you might not know about Gary and a photo to match
+              that famous voice:</font></p>
+            <p align="justify"> <font size="2" face="Arial, Helvetica, sans-serif"><img src="smgaryowens4yg.jpg" alt="Gary Owens - narrator of Space Quest 4 and 6." width="108" height="108" hspace="5" vspace="0" align="right">Gary Owens ... <br>
+... was born on May 10, 1936<br>
+... was born in Mitchell, South Dakota<br>
+              ... appeared in The Love Bug<br>
+... appeared in Border to Border<br>
+... appeared in Spy Hard<br>
+... appeared in Eek! the Cat<br>
+... appeared in The Hudson Brothers Razzle Dazzle Show<br>
+... appeared in Rowan &amp; Martin's Laugh-In<br>
+... appeared in That '70s Show<br>
+... wrote a book called How to Make a Mllion Dollars with Your Voice: (or Lose
+Your Voice Trying)<br>
+... wrote a book called Crazy Gary's Mobile Disco<br>
+... wrote a book called The Drowned World<br>
+... acted in the movie ''Midnight Cowboy''</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The
+                 Multimedia PC CD-Rom (the one with the garbage bin and transport
+                
+              shuttle) features a nice typo. On the edge of the CD, it reads: &quot;trademards&quot; instead of &quot;trademarks&quot;. Woopsie.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">There's
+                 a bug in the CD-Rom version that sometimes forget to give you
+                points. 
+              So it might be possible you did everything right but don't have
+                 full score at the end of the game!</font></p> 
+            <div align="justify">
+<p><font color="#CC0000" size="3" face="Arial, Helvetica, sans-serif"><img 
+src="note.gif" alt="A Music Note" width="62" height="80" align=right> </font><font size="2" face="Arial, Helvetica, sans-serif">The 
+                resource.aud file that contains all the sound files of Space Quest 
+                4 is NOT coded as is the case with other resource.aud files from 
+                Sierra games. Download <a href="../../downloads/gap.zip">this 
+                sound player for Windows</a>, load the resource file and you can 
+                listen to it! You can find this file on your Space Quest 4 cd. 
+                Or, if you have the Space Quest Collection in the Space Quest 
+                4 folder. Some of the sounds aren't in the actual game, like Roger 
+                reading the items in Hz So Good, instead of Barry Smith.</font></p>
+            </div>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">&quot;Amazingly 
+              enough, no women's organization sued us. I was practically astounded 
+              and disappointed by the lack of protest. NOT that I want that. No 
+              way. I just thought someone would say something.&quot; - Scott Murphy.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">All 
+              the foreign versions of Space Quest 4 (and SQ1VGA) also have the 
+              English language files included. Just go to the control panel and 
+              click on the Sierra About Logo. The last button on the right changes 
+              it from English to whatever the foreign language you're playing. 
+              Apparently, SQ4 and SQ1VGA are the only Sierra games that include 
+              this option. This concerns foreign versions of the disk release 
+              of Space Quest 4.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">The 
+              Super Computer's hard disk contains King's Quest XLIII and Leisure 
+              Suit Larry IV. The hologram of the scientist talks about a virus 
+              actually emerging from an LSL game, and Roger Jr. refers to it as 
+              the &quot;Vohaul Virus&quot;. In this case, Al Lowe really wrote 
+              LSL4.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><img src="../../extraimages/newitem.gif" width="62" height="44" align="right">There's
+                a timepod code that takes you to the surface of Ortega (<a href="../eastereggs/index.shtml">see
+                easter eggs</a>). Obviously you
+              don't
+              have
+              your thermal
+              underwear
+              so you will die. The death message is a direct spoof from an American
+drug campaign. A man gets some eggs and says: &quot;This
+is your brain&quot;. He then proceeds to fry them and says: &quot;This is your
+brain
+on
+drugs&quot;. He then looks churlishly at the camera: &quot;Any questions?&quot;</font></p>
+            <p align="justify"> <font size="2" face="Arial, Helvetica, sans-serif"><img src="../../extraimages/newitem.gif" width="62" height="44" align="right">If
+                you wait  long enough in
+                  the Xenon Sewers (about 2 
+                minutes), Roger looks at the screen, shrugs, 
+                and asks you player: &quot;So why am I standing around?&quot; He
+                can also scratch his ass, instead of shrugging.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">You 
+              can talk to the ingredients in Monolith Burger. Also try sniffing 
+              and tasting them. This can only be done in the CD-Rom version.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><img src="bunny.gif" alt="Bunny Rabit" width="34" height="40" align="right">In 
+              Space Quest 4, there's an appearance by an Eveready Engergizer-bunny. 
+              Sierra wrote Duracell and asked for permission, since the bunny 
+              is owned by Duracell everywhere except in the States, where they 
+              lost it to Eveready. Later, they got an angry letter about it. Scott 
+              Murphy adds to the story: &quot;Our legal counsel at the time did 
+              contact Duracell asking permission to use a likeness of the bunny 
+              in our game. I'm sure they thought this as amusing as the rest of 
+              us did. I don't think he'll ever forget nor live it down. He eventually 
+              contacted someone by phone at Eveready and got a verbal agreement 
+              with a token fee in exchange and all looked fine. Hey, free advertising 
+              or &quot;product placement&quot;, as they call it now. After the 
+              disk version had been out for a full year and we had been working 
+              away on the CD speech version of SQ4 we did get one of those letters 
+              from a different member of the Eveready company. Ken's thought and 
+              rationalization for continuing to use it on the CD version was that 
+              we had already sold most of the number of units we expected to sell, 
+              we had the verbal agreement, it was a legal parody blah blah blah... 
+              Anyway, the back of the rabbit has a black and copper looking battery 
+              in it, it was ignored and finally went away.&quot;</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Contributed 
+              writer Josh Mandel posed as Hymie Lipschitz for the parody box cover. 
+              The glasses, hair and other accessories aren't his own, but it's 
+              him under there.</font></p>
+            <div align="justify"> 
+              <p><font size="2" face="Arial, Helvetica, sans-serif"> Neil Matz, 
+                one of the programmers for Space Quest 4, dropped by at <a href="http://forum.spacequest.net">the 
+                Janitorial Times</a> and shared a nice easteregg with us: &quot;In 
+                the room under the grate (where the jar &amp; the holograph are), 
+                move just to the left of the table and then walk as far south 
+                as possible (you should not be able to see your feet). Then walk 
+                as far left as possible. In the inventory select the buckazoid 
+                and click it on the lower left part of the screen (you will only 
+                see a quarter of it when you click). Where you are standing and 
+                where you click the buckazoid are different locations, btw.&quot; 
+                And the egg does work! <a href="sq4slide2.html" onClick="NewWindow(this.href,'popup','301','165','no');return false;">This 
+                picture</a> shows what happens. For those of you who like to see 
+                Neil in action: the Pickle in Monolith Burger is his voice. And, 
+                can you remember the Current Inside Copy video that came with 
+                the Space Quest Collection? Neil's the SQ-Fanatic at the end of 
+                the movie.</font></p>
+            </div>
+            <div align="justify"> 
+              <table width="100%%" border="0" cellspacing="1" cellpadding="1">
+                <tr> 
+                  <td height="4" valign="top"><font color="#CC0000" size="3" face="Arial, Helvetica, sans-serif"><img 
+src="comix.gif" alt="Two Guys Comix" width="100" height="100" align=left></font><font size="2" face="Arial, Helvetica, sans-serif"> 
+                    Shortly after Space Quest 4 was released the famous Two Guys 
+                    from Andromeda (aka Scott Murphy and Mark Crowe; the designers 
+                    of the Space Quest series) broke up! Mark Crowe moved to Oregon, 
+                    to work for Dynamix (a Sierra sister company at that time) 
+                    and Scott Murphy stayed working in Oakhurst. Scott Murphy: 
+                    &quot;It wasn't so much 'running out of ideas' as it was that 
+                    we needed some change.&quot; Scott and Mark would never again 
+                    work together on a Space Quest game.&nbsp;</font></td>
+                </tr>
+              </table>
+            </div>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              Most people who play Space Quest 4 today, play the cd-rom version. 
+              That's because this version is supplied with the Space Quest collections 
+              and because after the cd-rom version was released, the disk version 
+              wasn't sold anymore (or not sold in those quantities as the cd-rom 
+              version). You probably think there are tiny differences between 
+              these versions. After all, it's the same game. That's true, but 
+              there are some remarkable changes....<br>
+              <img src="closeup.gif" alt="Speech Close Up" width="100" height="109" align="left"> 
+              - Speech: that's the main difference. But we all knew that.... I 
+              hope. In the cd-rom version, you can choose between speech <i>or</i> 
+              text, not both. Too bad the Two Guys didn't thought of this (though, 
+              that's not entirely true, read the last funfact for more info). 
+              The cd version has nicer icons, and character close ups. Just like 
+              the image to the right.<br>
+              - The disk version is a DOS only game. The cd-rom version was adapted 
+              for Windows 3.11 and later for Windows 95. Windows was pretty new 
+              back then and Sierra wanted to make sure their games would run perfectly 
+              on this new operating system. Now, that's all fine with me but I 
+              think they did a half ass job! Why?<b> </b>Space Quest 4 is designed 
+              to run in a resolution of 640 x 480 at 256 colors. Not only does 
+              the disk version runs perfectly in Windows 95 or 98, but also if 
+              your screen is set to a color mode higher than 256 colors (16bit 
+              or 32bit), and a resolution higher than 640 x 480. The game will 
+              still run in full screen and the colors will look as they should. 
+              You won't have that luck with the cd-rom version. You'll need to 
+              turn down the settings yourself to 640 x 480 at 256 colors to fully 
+              enjoy the game. Space Quest 4 (and 6) are not the only Sierra games 
+              with these problems. They could have programmed something into the 
+              games to automatically adjust the resolution and color pallet of 
+              Windows. Only because they wanted their games to run in a stupid 
+              window, sheesh! Not to mention that the disk version has <i>no</i> 
+              <a href="../../misc/timerissues/index.shtml">timer problems</a>.<br>
+              </font><font color="#CC0000" size="3" face="Arial, Helvetica, sans-serif"><img 
+src="clerkanimated.jpg" alt="Software Excess Clerk" width="81" height="61" align=right></font><font size="2" face="Arial, Helvetica, sans-serif"> 
+              - There are also some cosmetic changes to the game. The clerk of 
+              the Software Excess store, for instance, actually waves with his 
+              hands all the time when it is talking, while the cd counter part 
+              version is a stationary lump, so to speak! The design team also 
+              changed the monochrome bikes. In the disk version, the bikes are 
+              colored. But in the cd-rom version, the bike are monochrome, just 
+              like the boys who ride them. Then there's the Super Computer structure. 
+              The disk version has a beautiful sky color which looks more &quot;threatening&quot; 
+              than the sky in the cd-rom version. The lightning in the back also 
+              looks better, I think.</font></p>
+            <div align="justify"> 
+              <table width="100%" border="0">
+                <tr> 
+                  <td><font size="2" face="Arial, Helvetica, sans-serif"> Cd-rom 
+                    version<br>
+                    <img src="monobikes.gif" alt="Mono Bikes" width="150" height="71"></font></td>
+                  <td><font size="2" face="Arial, Helvetica, sans-serif">Disk 
+                    version<br>
+                    <img src="colorbikes.gif" alt="Colour Bikes" width="150" height="71"></font></td>
+                </tr>
+              </table>
+              <font size="2" face="Arial, Helvetica, sans-serif"><br>
+              </font> 
+              <table width="100%" border="0">
+                <tr align="left" valign="top"> 
+                  <td width="50%"> <font size="2" face="Arial, Helvetica, sans-serif">Cd-rom 
+                    version<br>
+                    <img src="supercpucd.gif" alt="Supercomputer Complex" width="175" height="129"></font></td>
+                  <td width="50%"><font size="2" face="Arial, Helvetica, sans-serif">Disk 
+                    version<br>
+                    <img src="supercpudisk.gif" alt="Supercomputer Complex" width="175" height="129"></font></td>
+                </tr>
+              </table>
+              <p><font size="2" face="Arial, Helvetica, sans-serif">You can actually 
+                get speech <em>and</em> text at the same time. Here's how it's 
+                done. You have to be in the Software Excess-store in the Galaxy 
+                Galleria. Look at a box in the bargain bin. While the narrator 
+                is talking, press space. The guy will keep talking, but a box 
+                will appear, asking you weather you want to keep the box or what. 
+                Choose exit. There! Text and speech! Now you can't get rid of 
+                it, unfortunately. The following also works. During the introduction, 
+                when Gary says &quot;We rejoin our friend and semi-hero Roger 
+                Wilco ...&quot;, hit the space key. A window will pop up, asking 
+                whether you want to skip the introduction. Note how Gary still 
+                yabbers on, even though the game is now paused. Elect to SKIP 
+                the introduction. Okay, so you won't get to see the introduction 
+                but the rest of the game will now have text AND speech. This little 
+                bug might cause some funny things to the game - for instance, 
+                some of the speech seems to disappear in certain places.</font></p>
+              <p><font size="2" face="Arial, Helvetica, sans-serif">When playing 
+                the disk version of Space Quest 4, you can avoid the guards in 
+                a different way to the standard skate-o-rama sequence. Go to the 
+                arcade and get the sequel police on your ass. Now, if you go to 
+                across the skate-o-rama arena, losing the sequel police, and go 
+                out the other side. Now, go to the entrance screen of the mall 
+                and turn around again, go past the software store and into Radio 
+                Shock. If you're quick enough <a href="getpassedme.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;">this</a> 
+                will happen.</font></p>
+            </div>
+            <div align="justify">
+              <p><font color="#000000" size="2" face="Arial, Helvetica, sans-serif">___</font></p>
+          </div></td>
+        </tr>
+      </table> </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

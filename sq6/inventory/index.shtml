@@ -1,0 +1,522 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 6  Inventory Items</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq6up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 6 Inventory Items &gt; </strong> This page describes the 
+                inventory items and includes information on their location and 
+                usage. Please keep in mind that you might not want to see the 
+                information below if you're new to the game.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq6down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> <!--#include virtual="../../navmenu/sq6menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq6between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td height="31" align="left" valign="top"> <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><img src="buckazoid.gif" width="83" height="70" align="left"> 
+              That's your current Buckazoid collection. This intergalactic money 
+              (aka spendola) is used to buy photo's, Coldsorian Brandy, a night 
+              at the Dew Beam Inn and several other junk.</font></p></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img src="dustpan.gif" width="67" height="73" align="left"> It's 
+              your trusty whisk broom and dust pan. It's right there inside your 
+              pockets from the very start of the game. You took it with you to 
+              the surface of Polysorbate LX with the thought: &quot;Don't go on 
+              shoreleave unequipped&quot;. Used to mop up the frosen endodroid.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img src="photos.gif" width="32" height="86" align="left"> Never 
+              knew our Roger was a photo model. You can get the photos in the 
+              Qodrac Mobile Photo Booth (recently recalled by the manufacturer) 
+              and it's used on the alien ID card.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img src="securitycard.gif" width="75" height="51" align="left"> 
+              It's the alien ID you snagged from that rusty bike. That's a fairly 
+              hideous picture of the former owner. It makes the average Department 
+              of Motor Vehicles photographer look like Ansel Adams. Used to make 
+              people think you're somebody important. It'll get you that special 
+              drink in the Orion's Belt bar when you show it to the right person.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img src="datacorder.gif" width="59" height="88" align="left"> This 
+              is the datacorder you got from that endodroid hunter dude. Used 
+              for hunting down the endodroid and used to make a homing beacon.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img src="hookahhose.gif" width="87" height="85" align="left">It's 
+              a twisted mass of hookah hoses. Found at the druggies' table and 
+              used to capture the endodroid.<br>
+              </font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img src="pipe.gif" width="53" height="90" align="left"> It's a 
+              fairly heavy and solid piece of pipe. Found in the basement of the 
+              Orion's Belt Bar and used to capture the endodroid.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"> <div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img src="icecube.gif" width="72" height="32" align="left">It's 
+              an icecube tray! Found inside the fridge and used to capture the 
+              endodroid.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"> <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img src="brandy.gif" width="46" height="74" align="left"> It's 
+              that Coldsorian brandy. Yuck! It has a fish floating in the bottom. 
+              Oh well, to each their own. It can be aquired in the Boot Liquor 
+              store and is used to get the cheat sheet from Elmo.</font></p></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img src="cheatsheet.gif" width="51" height="69" align="left"> It's 
+              the Stooge Fighter 3 cheat sheet you got from Elmo. You'll need 
+              it if you want to beat good ol' Djurkwhad.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img src="dewbeaminncard.gif" width="69" height="41" align="left"> 
+              It's the keycard to your luxurious suite at the charming Dew Beam 
+              Inn. The room number is 1220 J. You get it from the Dew Beam Inn 
+              manager and is used for... Well, what do you think this is used 
+              for?</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img src="nail.gif" width="36" height="79" align="left"> That's 
+              the keyring nail you got from the wall. Found inside Singent's room 
+              and used to free yourself from those chains.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img src="pelvisrug.gif" width="58" height="90" align="left">It's 
+              that static-laden cheapo polystyrene rug you ripped from the wall. 
+              It's used to disable Lard Boy (aka Singent).<br>
+              </font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img src="keycard.gif" width="68" height="84" align="left"> It's 
+              that lardmaster's keyring. Used to open the door of Singent's room.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img src="damagedcd.gif" width="57" height="57" align="left"> It's 
+              a somewhat damaged CD Rom disc. Found on Singent's desk and used 
+              to find information about the datacorder.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img src="burlesquemoddie.gif" width="81" height="52" align="left"> 
+              It's a burlesque moddie. Found on the portable dehumidifier and 
+              used to evade Nigel.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img src="churlishmody.gif" width="75" height="54" align="left">That's 
+              the churlish moddie you found in that box. Used to evade Nigel. 
+              Better look up the word &quot;churlish&quot; before doing something 
+              &quot;stupid&quot;. </font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img src="nigelsbelt.gif" width="71" height="52" align="left"> It's 
+              Nigel's belt, complete with the Damping Field Actuator and nifty 
+              Personal Grooming Assistant. Ironicly, the belt itself is fairly 
+              useless.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img src="personalgroomingassistant.gif" width="51" height="93" align="left"> 
+              A Personal Grooming Assistant. Found on Nigel's belt and used to 
+              retrieve the hair.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              <img src="dampingfieldactuator.gif" width="42" height="68" align="left">A 
+              Damping Field Actuator. Found on Nigel's belt and used to shut down 
+              the damping field. I hope you have the unreclaimed actuator from 
+              &quot;My First Damping Field&quot;, though. The reclaimed version 
+              had the nasty habbit of blocking out all forms of tele communications 
+              within a 5 mile radius (a nice legacy from the famous Telecommunications 
+              War). Needless to say, those (illegal) versions are rather in demand 
+              on the black market.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="hairball.gif" width="67" height="72" align="left"> Yuck, 
+              it's the hair you pulled from Nigel's Personal Grooming Assistant. 
+              It's used to find information about that thug's past. That is, if 
+              you find a way to pursuade Jebba the Hop to use the DNA Analyser. 
+              Offering him a free plunge job might just do the trick! </font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="datacard.gif" width="74" height="53" align="left">This 
+              is the Subroutine Program Card you got from the sickbay DNA Analyzer. 
+              When used on one of those ComPosts, you'll be able to retrieve information 
+              about Nigel's Information Superhighway file.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="piston.gif" width="79" height="29" align="left"> It's 
+              the Crap-O-Matic adjustable piston. Found inside the Delta Burksilon 
+              hospital room and used to open the elevator doors.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="eulogy.gif" width="55" height="73" align="left">That's 
+              your relatively pathetic eugoly for Stellar. It took us only 5 sequels 
+              to find out Roger is a worthless writer. I wonder how many more 
+              it'll take find out how good the guy is in bed... On a second thought, 
+              I'm not sure if I want to know, actually.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="fooddoll.gif" width="75" height="97" align="left">That, 
+              my friends, is Roger's only friend and only means of escaping the 
+              brig. Made up of Yoda Ears, Bobbit Kabobs, a Rack of Orat, two Baguettes, 
+              Tubers, a Melon and Gragh.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="donut.gif" width="78" height="52" align="left"> It's the 
+              doughnut you fliched from the food cart. Mix this item with some 
+              Morphin, feed it to your mom (or some other pet) and in return you'll 
+              get hours'o'fun. it's used to get passed the Shuttle Bay Guards.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="morphine.gif" width="53" height="92" align="left"> It's 
+              a bottle of Morphin. It's used to poison the doughnut.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="sidneysarm.gif" width="84" height="95" align="left"> It's 
+              the right arm Circuit Sydney was so kind to lend you. It's used 
+              to open the Shuttle Bay entrance doors.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="eyeball.gif" width="57" height="55" align="left"> This 
+              is Sydney's left eye. Making miss use of your friends (organic or 
+              mechanic) and you shall go to places where no man has mopped the 
+              floor! Really! That is, when using it in the Shuttle to pass the 
+              Retinal Scan.</font></div></td>
+        </tr>
+        <tr> 
+          <td height="44" align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="keybuttonthing.gif" width="86" height="87" align="left"> 
+              It's a key with a little button thingie attached to it. Found in 
+              the pockets of Chesbro, it's used to disable the Shuttle's alarm.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="gluzall.gif" width="48" height="84" align="left"> It's 
+              a tube of Elmo's Gluzall. This seriously means it glues all, including 
+              pets, the mouths of little kids and Modulating Crystals. It's found 
+              inside the Shuttle's glove compartment.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="divaliumcristal.gif" width="100" height="81" align="left"> 
+              It's a piece of Divalium crystal. It's found inside the Datacorder/Homingbeacon 
+              and it's used to power the Datacorder/Homingbeacon and to fix the 
+              Modulating Crystal. These babies sure beat the crap out of those 
+              20th century energizer cylinders.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="recallnotice.gif" width="71" height="50" align="left">It's 
+              the recall notice for the owner's manual. it reads &quot; Dear Hamm 
+              Shuttle Owner. It has come to our attention that there is a minor 
+              misprint in the owner's manual for the 1000 series of shuttles. 
+              Until a new manual can be acquired, please disregard page 73, paragraph 
+              4 of that manual.&quot; Yikes! It's found at the back of the chair 
+              and is used to jump-start the engines.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="helpsign.gif" width="84" height="58" align="left"> It's 
+              the &quot;Help!&quot; sign from the shuttle's trunk. It's used to.... 
+              You guessed it: Getting help.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="jumpercables.gif" width="82" height="79" align="left">These 
+              are the shuttle's jumper cables. That sure doesn't make you feel 
+              real secure about this spacecraft if those are standard equipment. 
+              Found inside the shuttle's trunk and used to jump-start the engines 
+              (if supplied with an alien infested ship).</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="photos2.gif" width="74" align="left">This is a photo taken 
+              with the Photo Triangulation System. It's found inside the shuttle's 
+              cockpit, and used to make it back to Polysorbate LX.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="callahanmoddie.gif" width="62" height="57" align="left">It's 
+              the Callahan moddie you scavenged from Delta Burksilon V. It's found 
+              inside that &quot;Hi-Tek&quot; box on Delta Burksilon V and used 
+              to get the cyberspace jack.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="transportersignaler.gif" width="76" height="64" align="left">It's 
+              a transport signaler. Given to you by a virtual assistant called 
+              Manual, this real-life signaler is used to beam from and to the 
+              Shuttle.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="cyberheadset.gif" width="79" height="86" align="left"> 
+              That's the cyberspace jack, used to enter the Information Superhighway. 
+              Can be aquired at Implants'n'Stuff. Good to see that's store isn't 
+              completely useless after all.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="screwdriver.gif" width="82" height="84" align="left"> 
+              It's the screwdriver you found outside the cyberspace trailer. It's 
+              used to match the card's number with the counter.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="number.gif" width="55" height="72" align="left"> It's 
+              the number three card you took from the card dispenser. It's used 
+              to gain access into the File Room.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="superhighwayfile.gif" width="78" height="57" align="left">It's 
+              a virtual folder from the virtual file room, containing several 
+              highly sensitive virtual information sheets.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="printeddocuments.gif" width="79" height="92" align="left"> 
+              These are the printouts of the virtual files you've collected from 
+              cyberspace as evidence against Dr. Beleauxs.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="plank.gif" width="78" height="84" align="left"> It's the 
+              virtual plank you found at the construction site. It's used to cross 
+              the cap of the Information Superhighway. Boy, they sure compress 
+              data efficiently these days. This baby can easily fit in one's pocket!</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="subroutineprogramdisk.gif" width="57" height="57" align="left"> 
+              It's the Subroutine Program Disc the doctor gave you. It enables 
+              you to navigate through Stellar's body and locate the nanites. The 
+              disk will be given to Roger prior to his inner journey.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="ducttape.gif" width="58" height="60" align="left"> It's 
+              the most indespensible item in the universe: duct tape. It's found 
+              inside shuttle's glove box and used to tape the capillaries together.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="fuelpump.gif" width="79" height="77" align="left">It's 
+              the pump you retrieved from the shuttle trunk. It reminds you of 
+              one of those hand pumps you use when the astrohead plugs up. It's 
+              used to pump some bile into your helmet.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="helmet.gif" width="67" height="72" align="left"> That's 
+              your helmet. It's used to, uuhmmm, I mean for... Man, what is more 
+              obvious than this item? You can find it inside the shuttle. Have 
+              fun with it.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="capallaries.gif" width="80" height="94" align="left">It's 
+              the bundle of capillaries you appropriated from Stellar. It's used 
+              to pump up some bile.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="alveoli.gif" width="62" height="73" align="left"> You're 
+              the first one on your block to actually possess someone else's alveoli! 
+              It's found on the shuttle when you're inside Stellar's body, and 
+              used to open up the blockage in the duct.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="grapplinghook.gif" width="96" height="96" align="left"> 
+              It's a piece of that stringy stuff from celery and a piece of staple. 
+              You wonder what was on the menu for Stellar's last meal. The two 
+              items make a perfect grappling hook. The items can be found in the 
+              stomach, and is used to get inside the Esophagus. What ever that 
+              means.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="candy.gif" width="61" height="40" align="left"> These 
+              are the candies you retrieved from Stellar's stomach. They melt 
+              in your hands, not in the stomach.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="feather.gif" width="57" height="43" align="left"> It's 
+              one of those ticklish pinfeather things. Found inside the stomach 
+              and used to make Stellar swallow.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="gallstones.gif" width="63" height="46" align="left">Those 
+              are the gallstoned you collected as souvenirs from Stellar's common 
+              bile duct. Used to make the nanobots fight with each other. </font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="timedreleasetimepills.gif" width="76" height="72" align="left"> 
+              It's one of those neat little timed-release time pills. Used to 
+              convince the tapeworm of actually doing something useful.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="paperclip.gif" width="51" height="84" align="left"> It's 
+              a paper clip from Stellars' appendix. You're definitely going to 
+              have to talk to Stellar about her eating habits -- that is, if you 
+              make it out of her body. Used to stimulate Stellar's Cough Center.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="fingernail.gif" width="42" height="62" align="left"> It's 
+              a broken fingernail tip you scavenged from Stellar's appendix. Used 
+              to cut an opening in the brain's lining.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="toothfilling.gif" width="47" height="54" align="left"> 
+              It's a chunk of silver tooth filling you found in Stellar's appendix. 
+              Used to supply the ship with a nice new load of silver.</font></div></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><div align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <img src="fish.gif" width="86" height="77" align="left"> A fish 
+              from that bottle of Coldsorian Brandy you got from Elmo... And it's 
+              rotting, I might add. It's used to take care of the grandmother 
+              of ages - Sharpei.</font></div></td>
+        </tr>
+      </table> </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

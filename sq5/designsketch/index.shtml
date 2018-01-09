@@ -1,0 +1,515 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 5 Design Sketches</title>
+<STYLE TYPE="text/css">
+
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq5up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 5 Design Sketches &gt; </strong>SpaceQuest.Net is proud 
+                to offer you a large amount of exclusive Space Quest 5 Design 
+                Sketches. This page also includes an interview with Sharp Sharp, 
+                Art Director for Space Quest 5.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq5down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> <!--#include virtual="../../navmenu/sq5menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq5between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td colspan="2" valign="top"><p align="justify"><font color="ffffb1" size="3" face="Arial, Helvetica, sans-serif"><strong>Space 
+              Quest 5 Design Sketches<font size="2"><br>
+              </font></strong></font><font size="2" face="Arial, Helvetica, sans-serif">Shawn 
+              Sharp is a refugee from the world of advertising and graphic design. 
+              He hopped the fence from commercial storyboarding and junk-mail 
+              design to greener pastures at Dynamix in 1990. Shawn, Art Director 
+              for Space Quest 5, penciled over 200 sketches in a two month period 
+              (around februari or march 1992). I'm very proud to present a great 
+              deal of those to you.</font></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><em>&quot;I'm 
+              now living up in Seattle, Washington and working on a MMORP for 
+              a company by the name of Arena.net (we're part of NC Soft). With 
+              Dynamix closing years ago, the team that did Space Quest 5 has of 
+              course all gone their own ways. But still consider SQ5 to be one 
+              of the most fun titles they've worked on.&quot; - </em> Shawn Sharp 
+              in an e-mail to me (October 2003).</font></p>
+            <p align="justify"><img src="../../extraimages/line.gif" width="100%" height="3"></p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr valign="top"> 
+                <td width="50%"> 
+                  <p><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Characters:</strong></font></p>
+                  <p><font face="Arial, Helvetica, sans-serif"><a href="roger.html" onClick="NewWindow(this.href,'popup','650','489','no');return false;"><font size="2">Roger 
+                    Wilco</font></a><font size="2"> <font color="#CC0000">(68 
+                    KB)<br>
+                    </font><a href="roger2.html" onClick="NewWindow(this.href,'popup','650','544','no');return false;">Roger 
+                    Wilco 2</a><font color="#CC0000" size="2"> (72 KB)<br>
+                    </font></font></font><font face="Arial, Helvetica, sans-serif"><a href="roger3.html" onClick="NewWindow(this.href,'popup','287','600','no');return false;"><font size="2">Roger 
+                    Wilco 3</font></a><font size="2"> <font color="#CC0000">(40 
+                    KB)<br>
+                    </font><a href="roger4.html" onClick="NewWindow(this.href,'popup','650','468','no');return false;">Roger 
+                    Wilco 4</a><font color="#CC0000" size="2"> (56 KB)</font></font></font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+                    <a href="rogerblast.html" onClick="NewWindow(this.href,'popup','455','600','no');return false;">Roger 
+                    Wilco &quot;Blast&quot;</a> <font color="#CC0000">(32 KB)</font></font><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif"> 
+                    </font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><a href="droole.html" onClick="NewWindow(this.href,'popup','270','600','no');return false;">Droole</a><font color="#CC0000" size="2"> 
+                    (32 KB)<br>
+                    </font><a href="droole2.html" onClick="NewWindow(this.href,'popup','457','600','no');return false;">Droole 
+                    2</a><font color="#CC0000" size="2"> (40 KB)<br>
+                    </font><a href="droole3.html" onClick="NewWindow(this.href,'popup','479','600','no');return false;">Droole 
+                    3</a><font color="#CC0000" size="2"> (48 KB)</font><font color="#CC0000" size="2"> 
+                    </font></font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><a href="cliffy.html" onClick="NewWindow(this.href,'popup','650','416','no');return false;">Cliffy</a> 
+                    <font color="#CC0000">(56 KB)<br>
+                    </font><a href="cliffy2.html" onClick="NewWindow(this.href,'popup','650','466','no');return false;">Cliffy 
+                    2</a> <font color="#CC0000">(64 KB)<br>
+                    </font><a href="cliffy3.html" onClick="NewWindow(this.href,'popup','431','557','no');return false;">Cliffy 
+                    3</a><font color="#CC0000" size="2"> (48 KB)<br>
+                    </font><a href="cliffy4.html" onClick="NewWindow(this.href,'popup','328','600','no');return false;">Cliffy 
+                    4</a> <font color="#CC0000">(36 KB)</font></font></p>
+                  <p><font face="Arial, Helvetica, sans-serif"><a href="bea.html" onClick="NewWindow(this.href,'popup','436','600','no');return false;"><font size="2">Beatrice 
+                    Wankmeister</font></a><font size="2"><font color="#CC0000"> 
+                    (52 KB)</font><br>
+                    </font><a href="bea2.html" onClick="NewWindow(this.href,'popup','605','394','no');return false;"><font size="2">Beatrice 
+                    Wankmeister 2</font></a><font color="#CC0000" size="2"> (52 
+                    KB)</font></font></p>
+                  <p>&nbsp;</p>
+                  <p><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Other 
+                    Cool Stuff:</strong></font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><a href="transporterroom.html" onClick="NewWindow(this.href,'popup','650','481','no');return false;">Transporterroom</a> 
+                    <font color="#CC0000">(100 KB)<br>
+                    </font></font><font face="Arial, Helvetica, sans-serif"><a href="engineeringsection.html" onClick="NewWindow(this.href,'popup','650','439','no');return false;"><font size="2">Engineering 
+                    Room</font></a><font color="#CC0000" size="2"> (88 KB)</font><font size="2"><a href="goliath.html" onClick="NewWindow(this.href,'popup','650','438','no');return false;"><br>
+                    Goliath</a><font color="#CC0000" size="2"> (44 KB)</font><br>
+                    </font><font size="2" face="Arial, Helvetica, sans-serif"><a href="mainrotunda.html" onClick="NewWindow(this.href,'popup','650','427','no');return false;">Main 
+                    Rotunda</a><font color="#CC0000" size="2"> (68 KB)</font></font><font size="2"> 
+                    <br>
+                    <a href="uss-sanitation.html" onClick="NewWindow(this.href,'popup','650','377','no');return false;">USS 
+                    Sanitation</a><font color="#CC0000" size="2"> (48 KB)<br>
+                    </font><a href="attackfromearth.html" onClick="NewWindow(this.href,'popup','650','496','no');return false;">Attack 
+                    from Earth</a> <font color="#CC0000">(64 KB)</font><br>
+                    <a href="boxsketch.html" onClick="NewWindow(this.href,'popup','483','600','no');return false;">Box 
+                    Sketch</a><font color="#CC0000" size="2"> (92 KB)</font><br>
+                    <a href="starconuniforms.html" onClick="NewWindow(this.href,'popup','650','521','no');return false;"> 
+                    StarCon Uniforms</a> <font color="#CC0000">(72 KB)<br>
+                    </font><a href="thrakus.html" onClick="NewWindow(this.href,'popup','650','493','no');return false;">Thrakus</a> 
+                    <font color="#CC0000">(92 KB)<br>
+                    </font><a href="thrakus2.html" onClick="NewWindow(this.href,'popup','650','494','no');return false;">Thrakus 
+                    2</a> <font color="#CC0000">(84 KB)</font><font color="#CC0000" size="2"> 
+                    </font></font></font></p></td>
+                <td width="50%"> 
+                  <p><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Characters:</strong></font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><a href="flo.html" onClick="NewWindow(this.href,'popup','454','600','no');return false;">Flo</a><font color="#CC0000" size="2"> 
+                    (44 KB)<br>
+                    </font><a href="harrykerry.html" onClick="NewWindow(this.href,'popup','371','459','no');return false;">Harry 
+                    Kerry</a><font color="#CC0000" size="2"> (24 KB)</font><font color="#CC0000" size="2"> 
+                    <br>
+                    </font><a href="characters.html" onClick="NewWindow(this.href,'popup','449','600','no');return false;">Misc 
+                    Characters</a> <font color="#CC0000">(64 KB)</font><font color="#CC0000" size="2"> 
+                    <br>
+                    </font></font><font size="2" face="Arial, Helvetica, sans-serif"><a href="unkowncharacter.html" onClick="NewWindow(this.href,'popup','427','600','no');return false;">One 
+                    of Roger's class mates</a> <font color="#CC0000">(36 KB)</font></font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><a href="pukoid.html" onClick="NewWindow(this.href,'popup','650','504','no');return false;">Pukoid</a><font color="#CC0000" size="2"> 
+                    (72 KB)<br>
+                    </font><a href="pukoid2.html" onClick="NewWindow(this.href,'popup','650','386','no');return false;">Pukoid 
+                    2</a><font color="#CC0000" size="2"> (60 KB)</font></font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><a href="quirk.html" onClick="NewWindow(this.href,'popup','413','600','no');return false;">Captain 
+                    Quirk</a><font color="#CC0000" size="2"> (20 KB)<br>
+                    </font><a href="quirk2.html" onClick="NewWindow(this.href,'popup','572','355','no');return false;">Captain 
+                    Quirk 2</a><font color="#CC0000" size="2"> (52 KB)<br>
+                    </font><a href="quirk3.html" onClick="NewWindow(this.href,'popup','512','526','no');return false;">Captain 
+                    Quirk 3</a><font color="#CC0000" size="2"> (40 KB)</font></font></p>
+                  <p><font face="Arial, Helvetica, sans-serif"><font size="2" face="Arial, Helvetica, sans-serif"><a href="wd40.html" onClick="NewWindow(this.href,'popup','349','600','no');return false;">WD-40</a> 
+                    <font color="#CC0000">(40 KB)</font></font><br>
+                    <font size="2" face="Arial, Helvetica, sans-serif"><a href="wd40-2.html" onClick="NewWindow(this.href,'popup','632','579','no');return false;">WD-40 
+                    2</a> <font color="#CC0000">(64 KB)</font></font><font size="2" face="Arial, Helvetica, sans-serif"><a href="wd40-3.html" onClick="NewWindow(this.href,'popup','650','517','no');return false;"><br>
+                    WD-40 3</a><font color="#CC0000"> (56 KB)<br>
+                    </font><a href="wd40-4.html" onClick="NewWindow(this.href,'popup','332','600','no');return false;">WD-40 
+                    4</a><font color="#CC0000"> (36 KB)<em><br>
+                    </em></font><a href="wd40-5.html" onClick="NewWindow(this.href,'popup','464','600','no');return false;">WD-40 
+                    5</a><font color="#CC0000"> (50 KB)</font></font></font></p>
+                  <p>&nbsp;</p>
+                  <p><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Exclusives:</strong></font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><a href="exwd40.html" onClick="NewWindow(this.href,'popup','392','600','no');return false;">Exclusive 
+                    WD-40</a> <font color="#CC0000">(36 KB)<br>
+                    </font></font><font size="2" face="Arial, Helvetica, sans-serif"><a href="exspike.html" onClick="NewWindow(this.href,'popup','650','561','no');return false;">Exclusive 
+                    Spike</a> <font color="#CC0000">(40 KB)<br>
+                    </font><a href="exroger.html" onClick="NewWindow(this.href,'popup','548','600','no');return false;">Exclusive 
+                    Roger</a> <font color="#CC0000">(28 KB)<br>
+                    </font><a href="exquirkbea.html" onClick="NewWindow(this.href,'popup','650','456','no');return false;">Exclusive 
+                    Quirk and Bea</a> <font color="#CC0000">(68 KB)</font><a href="expukoid.html" onClick="NewWindow(this.href,'popup','650','519','no');return false;"><br>
+                    Exclusive Pukoid</a> <font color="#CC0000">(48 KB)</font><font color="#CC0000"><br>
+                    </font><a href="exflo1.html" onClick="NewWindow(this.href,'popup','471','600','no');return false;">Exclusive 
+                    Flo 1</a> <font color="#CC0000">(24 KB)</font><a href="exflo2.html" onClick="NewWindow(this.href,'popup','650','490','no');return false;"><br>
+                    Exclusive Flo 2</a> <font color="#CC0000">(32 KB)</font><a href="exdroole.html" onClick="NewWindow(this.href,'popup','650','545','no');return false;"><br>
+                    Exclusive Droole</a> <font color="#CC0000">(36 KB)</font><a href="exbea.html" onClick="NewWindow(this.href,'popup','406','600','no');return false;"><br>
+                    Exclusive Beatrice</a> <font color="#CC0000">(28 KB)</font></font></p>
+                  </td>
+              </tr>
+            </table>
+            <p><img src="../../extraimages/line.gif" width="100%" height="3"></p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Shawn 
+              agreed to do an exclusive interview with <img src="../../extraimages/sqnet.gif" alt="SpaceQuest.Net" width="87" height="11">. 
+              It was conducted in November 2003 as part of the Shawn Sharp Special.</font></p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Shawn 
+              Sharp, could you please introduce yourself to the fans out there? 
+              Who are you? Where do you live? What kind of work do you do?</font></p>
+            <blockquote> 
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><img 
+src="shawnk.jpg" align=left width="145" height="188" alt="Shawn Sharp">Why is 
+                this suddenly sounding like an AA meeting? Hi, my name is Shawn 
+                Sharp, I&#8217;m a gameaholic&#8230; Ok, anyhow, yes, I was an 
+                art director at Dynamix for 9 years and in that time did Space 
+                Quest 5 along with a slew of other PC games. Dynamix is of course, 
+                no more, and, after a three year stint in hell, um, I mean Texas, 
+                I&#8217;m back where I belong: in the Pacific Northwest &#8211; 
+                Seattle specifically &#8211; and still doing games.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">As 
+                far as the kind of work I do. Damn good thank you very much! No, 
+                seriously, the role of art director (AD) really varies a lot from 
+                project to project and from company to company. It&#8217;s also 
+                changed as the industry has changed. Back in the ol' days (he 
+                says with a 49er accent), for instance, on SQ5, I was doing the 
+                look and feel stuff, drawing backgrounds, designing characters, 
+                scheduling, animating, and managing the art staff. In the later 
+                years of Dynamix many of the projects were big enough that I focused 
+                mainly on the look and feel and other people handled the staff 
+                and asset management stuff. However, after Dynamix I moved down 
+                to Austin to do PS2 titles and was once again doing all of the 
+                above as well as modeling, producer-like stuff, technical R&amp;D 
+                and, I dunno, sweeping floors or some such. Whatever it takes 
+                to get a project out of the door. In my current gig I&#8217;m 
+                focused entirely on the production design aspects as a concept 
+                artist.</font></p>
+            </blockquote>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">How 
+              come you got landed working on computer games?</font></p>
+            <blockquote> 
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+                Hmm, it&#8217;s a long ugly story full of treachery and deceit. 
+                Or, not so much. Actually I was working in graphic design and 
+                advertising and had been doing free-lance illustration for Iron 
+                Crown Enterprises (a pen and paper RPG company) when Dynamix contacted 
+                me. Randy Dersham called me to see if I wanted to move down to 
+                Eugene, Oregon to art direct computer games. We had just moved 
+                to Portland, Oregon from Pittsburgh, my wife was in school and 
+                we really didn&#8217;t want to move again so soon. Besides, I 
+                had no idea what a computer game was. A year later he called again 
+                and we decided the money was right and did the move.</font></p>
+              <p align="justify">&nbsp;</p>
+            </blockquote>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif"><img src="shawn2.jpg" alt="Shawn a few  years after SQ5." width="300" height="186" align="right">Got 
+              any wifes/kids/dogs/water-buffalos or grandma's roaming around your 
+              slummy hut... er, I mean manor?</font></p>
+            <blockquote> 
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+                Yes, I have two wives and one kid. Wait, reverse that: I have 
+                a wife and two boys, a really cool cat and two evil jack russells, 
+                the bane of my existence. How I hate them.</font></p>
+            </blockquote>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">What 
+              kind of work did you do with Sierra? Your most important projects? 
+              How does your avarage day looks like?</font></p>
+            <blockquote> 
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+                Art directing. I could glut your site with describing just what 
+                that means so I&#8217;ll spare you, but the Reader&#8217;s Digest 
+                version would be to say, &#8220;make the art go.&#8221; Actually 
+                that sounds more like Homer Simpson.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+                Most important project? That&#8217;s hard to say. I suppose the 
+                biggest anyhow would have been Tribes and Starsiege; I was the 
+                senior art director managing the look, feel and much of the creative 
+                direction of those two titles.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+                Normal day? Ah, really depended on the project and my role on 
+                it. At times my normal day was only 10 hours or so, at times it 
+                was as much as 56 hours. Typical tasks would include designing 
+                locations, characters, vehicles, modeling, texturing (in the 3D 
+                days) directing photo shoots, and lots of creative brain storming. 
+                All-in-all, a blast. </font></p>
+            </blockquote>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">When 
+              did you leave Sierra and why?</font></p>
+            <blockquote> 
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+                I decided that when the company closed, and consequently stopped 
+                paying me, that it was time to move on. Actually the death spiral 
+                was dragged out over a year&#8217;s time until Vivendi finally 
+                had the good sense to simply lock the doors. Don&#8217;t get me 
+                wrong: It was a great company and we did some wonderful games 
+                over 9 years I was there, but, towards the end it had turned into 
+                a political cesspool and when it finally closed I doubt anyone 
+                was too surprised.</font></p>
+            </blockquote>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">How 
+              was it like to work on the Space Quest 5 project? How was it to 
+              work with David Selle, Mark Crowe and all the others?</font></p>
+            <blockquote> 
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+                Mark Crowe? Mark Crowe, boy, that name sounds familiar. Is he 
+                related to Russell Crowe? Mark was an absolute pleasure to work 
+                with. To this day when I&#8217;m asked what my favorite project 
+                was to work on I always say SQ5 and I feel Mark was mainly responsible 
+                for that. </font><font size="2" face="Arial, Helvetica, sans-serif">It 
+                was just fun all around. It was a lot of work too but we had a 
+                great team and I think part of it was that it was also at a time 
+                when the company and the industry itself was young and maybe a 
+                bit cavalier. Granted that was only a few years ago but things 
+                have changed a lot in those few years. Also, I was one of the 
+                few experienced artists Dynamix ever hired &#8211; we mostly hired 
+                right out of school &#8211; so for most of the team it was the 
+                first art job they had ever had and we excited to be doing what 
+                they were doing.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+                Since that time most of the team has gone on to other industry 
+                jobs. Rhonda Conely for instance went on to co-design and art 
+                direct several of the key titles for Humongous. Sean Murphy is 
+                at The Fizz Factor in Austin, Mark Crowe was at Pipeworks last 
+                I knew and I think everyone else are now assassins for the CIA.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+                There was that time Mark, Dave and I were in Tijuana with those 
+                women and the fake passports when the Rabbi and the two &#8220;farmers&#8221; 
+                walk in&#8230;um, maybe I shouldn&#8217;t share that one.</font></p>
+            </blockquote>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Did 
+              you actually create and invent the stuff you sketched yourself? 
+              Or did you had to work with idea's from Mark? How much &quot;free 
+              room&quot; did you have to sketch your own stuff without interference 
+              from the team?</font></p>
+            <blockquote> 
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+                I&#8217;d say it was a really cool mix. One of the reasons it 
+                was such a pleasure to work on SQ5 was that Mark was really good 
+                at describing what he had in mind but at the same time was very 
+                open to my ideas. Mark started out as an artist so he knew how 
+                to describe what he wanted. On many if not most projects coming 
+                out of Dynamix we would typically end up producing a ton of work 
+                that would end up getting tossed due to an attitude of &#8220;I&#8217;ll 
+                know it when I see it.&#8221; Mark, the team and I were able to 
+                work together in such a way that we threw out little if any art 
+                as I recall. I also want to point out that the team contributed 
+                a lot of great ideas as well. This is often not the case on a 
+                project.</font></p>
+            </blockquote>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">What's 
+              the resemblance between Dr. Phill and junk mail, except that both 
+              are pure evil?</font></p>
+            <blockquote> 
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+                Funny you should ask. It happens that they are both a conspiracy 
+                perpetrated by the government in conjunction with the Illuminati 
+                against the American people as a diversionary tactic. Also included 
+                in this vile architecture of evil are such things as the infomercial, 
+                home owner&#8217;s associations, telemarketers, credit card companies 
+                and low fat Twinkies. Ya know, I&#8217;ve never actually had a 
+                Twinkie, low fat or otherwise.</font></p>
+            </blockquote>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">According 
+              to the SQ5 hint book, you created over 200 sketches for the project. 
+              How many survived the hands of time?</font></p>
+            <blockquote> 
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+                Oh good god, I have no idea. I tend to hold on to art from past 
+                projects so in fact I probably have most of them. I&#8217;ve recently 
+                scanned a bunch and sent them your way. Somewhere, no doubt, there 
+                are more.</font></p>
+            </blockquote>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">If 
+              there's any stuff you created that wasn't used later on for the 
+              actual game? Do you still have that/those thing(s)?</font></p>
+            <blockquote> 
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+                There were a lot of sketches building up to the final designs 
+                but actually not nearly the number of iterations one often sees.</font></p>
+            </blockquote>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">How 
+              was it creating a landscape like Klorox II, or the Genetix Lab, 
+              where everything was desolate and menacing?</font></p>
+            <blockquote> 
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Did 
+                I mention living in Texas? I&#8217;m all about desolate and menacing 
+                baby. Actually desolate is a lot easier to do than lush and green. 
+                In the game I&#8217;m working on now I&#8217;m designing forests, 
+                swamps and jungles. Man I&#8217;m tired of designing trees and 
+                plants!</font></p>
+            </blockquote>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+              <font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif"><img src="artinterview.jpg" alt="The USS Sanitation: not used in the game itself." width="250" height="234" align="left"></font><font color="#CC0000">Do 
+              you collect plugs?</font></font></p>
+            <blockquote> 
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+                I have one of the most extensive collections of nose plugs in 
+                north America including one owned by Elvis and one made for Napoleon.</font></p>
+            </blockquote>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Who, 
+              in god's name, created the awful Goliath labyrinth?</font></p>
+            <blockquote> 
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+                MARK, MARK, MARK! It was him, all him, not me! Actually I suspect 
+                it came down from Sierra. Roberta Williams seemed to be a big 
+                fan of mazes.</font></p>
+            </blockquote>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">If 
+              given the opportunity, would you work on a new SQ game?</font></p>
+            <blockquote> 
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">Oh 
+                hell yeah! Although a flock of wild platypii couldn&#8217;t drag 
+                me away from my current job. </font></p>
+            </blockquote>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">When 
+              looking back at the work you've done for the project, what do you 
+              think of it?</font></p>
+            <blockquote> 
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+                It&#8217;s just ever so embarrassing. Actually some of it wasn&#8217;t 
+                so bad but it was a looooong time ago. I&#8217;d like to think 
+                I&#8217;ve gotten better.</font></p>
+            </blockquote>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif"> 
+              What does it mean to you, that after so long, people still care 
+              about Space Quest?</font></p>
+            <blockquote> 
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">It&#8217;s 
+                sad really. Well, maybe sad is too strong a word. No, no sad pretty 
+                much covers it *grin*. Seriously I think it&#8217;s really cool. 
+                I have way too many role-playing manuals and comic books to criticize 
+                any one else&#8217;s hobbies. It&#8217;s actually really encouraging. 
+                So often we do a game and, once it&#8217;s off the shelves or 
+                out of the trade journals it seems like it&#8217;s just lost to 
+                the ether. I&#8217;m always taken aback to learn someone is playing 
+                a game I did a year ago much less still fans of a game from so 
+                many years ago. </font></p>
+            </blockquote>
+            <p align="justify">&nbsp;</p>
+            <p align="justify"><font color="#CC0000" size="2" face="Arial, Helvetica, sans-serif">Any 
+              last words for the fans out there?</font></p>
+            <blockquote> 
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+                You mean other than &#8220;get a real hobby?&#8221; No really, 
+                I think it&#8217;s great that people still appreciate some of 
+                the old games. In many ways I miss the old adventure games and 
+                the old days of game development. It was more of a seat of your 
+                pants learn while you go sort of atmosphere and could be a real 
+                blast. Makes me want to dig out my copy of SQ5 and see if I could 
+                get it to run on one of my systems.</font></p>
+            </blockquote>
+            <p><font color="#000000">___</font></p></td>
+        </tr>
+      </table> </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

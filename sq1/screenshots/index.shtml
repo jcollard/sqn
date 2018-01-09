@@ -1,0 +1,157 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 1 Screenshots</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center"> <a name="top"></a>
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq1up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 1 Screenshots &gt; </strong>Here are some cool screenshots 
+                taken right from the game. You might notice from the EGA screenshots 
+                that the point count doesn't seem to be right. Well, what can 
+                I say? I cheated.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq1down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../../navmenu/sq1menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq1between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td valign="top"><p align="justify"><font color="ffffb1" size="3" face="Arial, Helvetica, sans-serif"><strong>Space
+                   Quest 1 EGA Screenshots</strong></font></p>
+            <p align="left"><a href="8.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"><img src="8k.gif" width="150" height="93" border="0"></a> 
+              <a href="9.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"><img src="9k.gif" width="150" height="93" border="0"></a> 
+              <a href="17.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"><img src="17k.gif" width="150" height="93" border="0"></a> 
+              <a href="11.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"><img src="11k.gif" width="150" height="93" border="0"></a> 
+              <a href="12.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"><img src="12k.gif" width="150" height="93" border="0"></a> 
+              <a href="13.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"><img src="13k.gif" width="150" height="93" border="0"></a> 
+              <a href="15.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"><img src="15k.gif" width="150" height="93" border="0"></a> 
+              <a href="14.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"><img src="14k.gif" width="150" height="93" border="0"></a> 
+              <a href="19.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"><img src="19k.gif" width="150" height="93" border="0"></a> 
+              <a href="24.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"><img src="24k.gif" width="150" height="93" border="0"></a> 
+              <a href="20.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"><img src="20k.gif" width="150" height="93" border="0"></a> 
+              <a href="23.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"><img src="23k.gif" width="150" height="93" border="0"></a> 
+              <a href="21.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"><img src="21k.gif" width="150" height="93" border="0"></a> 
+              <a href="22.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"><img src="22k.gif" width="150" height="93" border="0"></a> 
+              <a href="16.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"> 
+              <img src="16k.gif" width="150" height="93" border="0"></a> <a href="18.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"><img src="18k.gif" width="150" height="93" border="0"></a> 
+              <a href="25.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"><img src="25k.gif" width="150" height="93" border="0"> 
+              </a></p>
+            <p align="left"><font color="ffffb1" size="3" face="Arial, Helvetica, sans-serif"><strong>Space
+            Quest 1 VGA Screenshots</strong></font></p>            <p align="left"><a href="1.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"><img src="1k.jpg" width="150" height="93" border="0"></a> 
+              <a href="3.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"><img src="3k.jpg" width="150" height="93" border="0"></a> 
+              <a href="4.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"><img src="4k.jpg" width="150" height="93" border="0"></a> <a href="new12.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"><img src="new12k.jpg" width="150" height="93" border="0"></a> 
+              <a href="5.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"><img src="5k.jpg" width="150" height="93" border="0"></a> <a href="new11.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"><img src="new11k.jpg" width="150" height="93" border="0"></a>  <a href="new10.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"><img src="new10k.jpg" width="150" height="93" border="0"> </a><a href="new9.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"><img src="new9k.jpg" width="150" height="93" border="0"> </a> 
+              <a href="new6.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"><img src="new6k.jpg" width="150" height="93" border="0"></a> <a href="new5.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"><img src="new5k.jpg" width="150" height="93" border="0"></a> <a href="6.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"><img src="6k.jpg" width="150" height="93" border="0"> </a> 
+              <a href="new1.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"> <img src="new1k.jpg" width="150" height="93" border="0"></a> <a href="65.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"><img src="6.5k.jpg" width="150" height="93" border="0"></a> <a href="new4.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"><img src="new4k.jpg" width="150" height="93" border="0"> </a> <a href="new3.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"><img src="new3k.jpg" width="150" height="93" border="0"></a> 
+              <a href="81.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"><img src="8k.jpg" width="150" height="93" border="0"></a> 
+               <a href="new2.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"><img src="new2k.jpg" width="150" height="93" border="0"> </a><a href="72.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"><img src="7k.jpg" width="150" height="93" border="0"></a> 
+              <a href="93.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"><img src="9k.jpg" width="150" height="93" border="0"></a>  <a href="new8.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"><img src="new8k.jpg" width="150" height="93" border="0"> </a><a href="new7.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"><img src="new7k.jpg" width="150" height="93" border="0"></a> 
+              <a href="100.html" onClick="NewWindow(this.href,'popup','640','400','no');return false;"><img src="10k.jpg" width="150" height="93" border="0"> 
+              </a></p>
+            <p align="left">&nbsp;             </p></td>
+        </tr>
+      </table> </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All
+          original content (c) Frans van Hofwegen. All Space Quest related
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

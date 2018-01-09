@@ -1,0 +1,214 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 5 Planets</title>
+<STYLE TYPE="text/css">
+
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq5up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 5 Planets &gt; </strong>Commanding his own garbage scow 
+                opens up brand new possibilities. Roger will be able to visit 
+                more planets then ever before. You might not want to see the information 
+                below if you're new to the game.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq5down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> <!--#include virtual="../../navmenu/sq5menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq5between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td><div align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Kiz 
+              Urazgubi</strong></font><font face="Arial, Helvetica, sans-serif"><br>
+              <font size="2"><a href="kizurasgubi.htm" onClick="NewWindow(this.href,'popup','600','357','no');return false;"><img src="kizurasgubi.jpg" alt="Kiz Urazgubi" width="103" height="115" border="0" align="left"></a>Kiz 
+              Urazgubi, frequently mistaken for Kiss-Your-Ass-Goodbye, is a class 
+              M planet, capable of sustaining humanoid lifeforms. Its geological 
+              structure is that of a young planet; mountains and seas are making 
+              up the surface. This &quot;Eden&quot; is the perfect place to find 
+              rocky canyons and waterfalls. It reminds our friend Roger of the 
+              decor of a resort on Eroticon 6 where he once vacationed. All that's 
+              missing are six bathing latex beauties and a tube of crazy glue. 
+              Click on the planet to see more.</font></font></div></td>
+        </tr>
+        <tr> 
+          <td height="139"><div align="justify"><font face="Arial, Helvetica, sans-serif"><br>
+              <font size="3" color="FFFFB1"><strong>Thrakus</strong></font><font size="3" color="#CC0000"><br>
+              </font></font><font size="2" face="Arial, Helvetica, sans-serif"><img src="thrakus.gif" alt="Thrakus" width="72" height="100" border="0" align="left">This 
+              planet has a highly toxic atmosphere. Be sure to have your own rebreather 
+              mask ready before beaming down to the surface. The climate of this 
+              planet is very warm and it's home to the largest mushrooms known 
+              to man. You can make some good stroganoff out of these beauties! 
+              This planet has an asteroid belt. Must be from a former moon or 
+              something.</font></div></td>
+        </tr>
+        <tr> 
+          <td height="114"><div align="justify"><font face="Arial, Helvetica, sans-serif"><br>
+              <font size="3" color="FFFFB1"><strong>Lukaszuk II</strong></font><font size="3" color="#CC0000"><br>
+              </font></font><font size="2" face="Arial, Helvetica, sans-serif"><img src="lukaszuk.jpg" alt="Lukaszuk II" width="54" height="75" align="left">This 
+              relative small planet is unsuitable for humanoid lifeforms. StarCon 
+              Expedition teams never returned home from it.</font><font color="#CC0000" size="3" face="Arial, Helvetica, sans-serif">&nbsp; 
+              </font></div></td>
+        </tr>
+        <tr> 
+          <td height="114"><div align="justify"><font face="Arial, Helvetica, sans-serif"><br>
+              <font size="3" color="FFFFB1"><strong>Gingivitis</strong></font><font size="3" color="#CC0000"><br>
+              </font></font><font size="2" face="Arial, Helvetica, sans-serif"><img src="gingivitis.jpg" alt="Gingivitis" width="49" height="75" align="left">This 
+              planet is geologically active and highly unstable and sole planet 
+              of the Halitosis system. A perfect spot for a honeymoon!</font><font color="#CC0000" size="3" face="Arial, Helvetica, sans-serif">&nbsp; 
+              </font></div></td>
+        </tr>
+        <tr> 
+          <td height="105"><div align="justify"><font face="Arial, Helvetica, sans-serif"><br>
+              <font size="3" color="FFFFB1"><strong>Monostadt VII</strong></font><font size="3" color="#CC0000"><br>
+              </font></font><font size="2" face="Arial, Helvetica, sans-serif"><img src="monostadtVII.jpg" alt="Monostadt VII" width="50" height="66" align="left">On 
+              this inhospitable and forbidden planet, surface winds can exceed 
+              500 kilometers per hour. Surf's up dude!</font><font color="#CC0000" size="3" face="Arial, Helvetica, sans-serif">&nbsp; 
+              </font></div></td>
+        </tr>
+        <tr> 
+          <td height="138"><div align="justify"><font face="Arial, Helvetica, sans-serif"><br>
+              <font size="3" color="FFFFB1"><strong>Klorox II</strong></font><font size="3" color="#CC0000"><br>
+              </font></font><font size="2" face="Arial, Helvetica, sans-serif"><img src="kloroxplanet.jpg" alt="Klorox II" width="80" height="99" border="0" align="left">An 
+              early survey team found rare minerals on this planet. It was inevitable 
+              that this planet was going to be colonized. The planet itself has 
+              a breathable atmosphere with an average surface temperature of 27 
+              degrees Celsius. After the visit of the starship Goliath, strange 
+              things happened. Nowadays, this colony is abandoned. Klorox II is 
+              accompanied by three moons: Larry, Moe and Curly (named by the first 
+              colonists)...</font></div></td>
+        </tr>
+        <tr> 
+          <td><div align="justify"><font face="Arial, Helvetica, sans-serif"><br>
+              <font size="3" color="FFFFB1"><strong>Gangularis</strong></font><font size="3" color="#CC0000"><br>
+              </font></font><font size="2" face="Arial, Helvetica, sans-serif"><img src="gangularis.jpg" alt="Gangularis" width="200" height="109" align="left">Labeled 
+              &quot;The Green Paradise&quot; by the Galactic Inquirer issue 3008. 
+              This planet is a very popular vacation hotspot.</font><font color="#CC0000" size="3" face="Arial, Helvetica, sans-serif">&nbsp; 
+              </font></div></td>
+        </tr>
+        <tr> 
+          <td height="150"> <p align="justify"><font color="#CC0000" size="3" face="Arial, Helvetica, sans-serif"><br>
+              <strong><font color="FFFFB1">Commodore LXIV</font></strong><br>
+              </font><font size="2" face="Arial, Helvetica, sans-serif"><img src="commodore.jpg" alt="Commodore LXIV" width="72" height="110" align="left">A 
+              very small planet... Humans can not survive on this planet without 
+              a complete vac suit.</font><font color="#CC0000" size="3" face="Arial, Helvetica, sans-serif"> 
+              </font></p></td>
+        </tr>
+        <tr> 
+          <td><div align="justify"><font face="Arial, Helvetica, sans-serif"><br>
+              <font size="3" color="FFFFB1"><strong>Peeyu</strong></font><font size="3" color="#CC0000"><br>
+              </font></font><font size="2" face="Arial, Helvetica, sans-serif"><img src="peeyu.jpg" alt="Peeyu" width="200" height="119" align="left">This 
+              planet is located near the borders of the G4 quadrant. The nearest 
+              sun is 5 billion miles away, which makes this planet awfully cold...</font><font color="#CC0000" size="3" face="Arial, Helvetica, sans-serif">&nbsp; 
+              </font></div></td>
+        </tr>
+        <tr> 
+          <td height="157"><div align="justify"><font face="Arial, Helvetica, sans-serif"><br>
+              <font size="3" color="FFFFB1"><strong>Spittoonie</strong></font><br>
+              <font size="2"><img src="spittoonie.jpg" alt="Spittoonie" width="71" height="118" align="left">The 
+              surface temperature of this planet is minus 200 degrees. Further 
+              more, this planet is low on natural resources. VERY uninteresting, 
+              indeed. </font></font></div></td>
+        </tr>
+      </table> </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

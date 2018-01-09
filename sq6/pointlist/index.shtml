@@ -1,0 +1,922 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 6  Pointlist</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq6up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 6 Point List &gt; </strong>Get maximum points with Space 
+                Quest 6! Please keep in mind that you might not want to see the 
+                information below if you're new to the game.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq6down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> <!--#include virtual="../../navmenu/sq6menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq6between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td height="31" align="left" valign="top"> <p align="justify"><font size="3"><strong><font color="ffffb1" face="Arial, Helvetica, sans-serif">Space 
+              Quest 6 Point List</font></strong></font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              You can get a maximum score of 500 points with Space Quest 6. However, 
+              there's a bug in the game that enables you to get even more! When 
+              inside Stellar's stomach, you can retrieve secretion from the Isles 
+              of Langerhans, return to the stomach, pour the contents over the 
+              pill, then return and get more - and you get three points for it 
+              every time! So, in theory, you can get as many points as you want.</font></p>
+            <table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#333333" align="center">
+              <tr> 
+                <td width="80%"><font color="#CC0000" face="Arial, Helvetica, sans-serif" size="2">On 
+                  the street of Polysorbate LX</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2">Grabbing 
+                  the passing robot to free yourself from the concrete</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">10</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2">Get 
+                  the ID card from the bike</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2">Make 
+                  photos inside the photo booth</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2">Combine 
+                  the photos and the alien ID card</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2">Visit 
+                  the Dew Beam Inn and talk to the manager</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">1</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Talk to Blaine Rohmer and get the datacorder</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">2</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Go to the Orion's Belt and kick in the basement door</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">1</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Steal buckazoid from the Waintron</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Scare the nitrogensucking druggies with your fake badge</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Take the hookah hoses</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">1</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Drag the nitrogen tank to the right and attach it to the conduit</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">6</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2">Order 
+                  a Regular Drink from the bartender</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">1</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Show ID to the bartender</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Order the Special Drink</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Go behind the bar and get the ice tray from the freezer</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2">Untangle 
+                  the hookah hoses</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2">Open 
+                  the third valve from the left</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Pull on the pipe to open it</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Attach the hose to the conduit at the far left wall and to the 
+                  pipe that you opened</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2">Go 
+                  back upstairs and turn on the nitrogen before the bartender 
+                  disconnects the hose</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Open the basement door</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Pick up the pipe at the bottom of the basement stairs</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Hit the frozen endodroid</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Use the broom and dustpan to sweep up the cubes</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Place the cubes in the ice tray</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Put the tray in the freezer</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Give the tray to Rohmer and collect the 50 buckazoids</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">20</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Talk to Elmo Pug</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">1</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  While in Boot Liquors, make the extraterrestrial fart</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Give Elmo the brandy</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">7</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Get the cheat sheet and the fish from Elmo</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">4</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Read the cheat sheet</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Beat Djurkwad at Stooge Fighter III and collect 300 buckazoids</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">7</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Go to the Dew Beam Inn and get the keycard for your room from 
+                  the hotel manager</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Go upstairs, use the keycard on the correct door, and get nabbed 
+                  by the alien goons</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2" color="#CC0000">Captured!</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%" height="2"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Use your feet to knock down the keys</font></td>
+                <td width="20%" valign="top" height="2"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Use your feet to get the nail, use the nail on the handcuffs</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">8</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Take the Pelvis rug and stretch it out on the floor</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%" height="2"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Walk on the Pelvis rug to build up a charge of electricity</font></td>
+                <td width="20%" valign="top" height="2"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Touch Singent on the back of the head</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%" height="2"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Take the key from Singent</font></td>
+                <td width="20%" valign="top" height="2"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">1</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Take the Burlesque moddie from the top of the humidifier</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">1</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Take the Popular Tecktronics CD from the desk</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%" height="2"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Use the 3DOA player to read about the datacorders</font></td>
+                <td width="20%" valign="top" height="2"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Use the key to go into the next room</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Take the Churlish moddie from the box</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">1</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Attach its label to the Burlesque moddie to Nigel</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">6</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Give the relabeled Burlesque moddie to Nigel</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%" height="2"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Pick up the belt with the Personal Grooming Assistant (PGA) 
+                  and Damping Field Modulator (DFM)</font></td>
+                <td width="20%" valign="top" height="2"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Take the PGA</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">1</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Remove the DFM and use it to drop the field</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">4</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Convert the datacorder into a homing beacon and get saved by 
+                  Stellar</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">20</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%" height="9"><font face="Arial, Helvetica, sans-serif" size="2" color="#CC0000">Stellar's 
+                  predicament </font></td>
+                <td width="20%" valign="top" height="9"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Talk to Jebba in the Sickbay</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">1</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Get the wad of hair from the PGA</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Use the analyzer on the hairball</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Get the datacard</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">1</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Use the datacard on the ComPost</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Make the game crash because of the error 47</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">0</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Return to your room for your Delta Burksilon V assignment</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Clean Sharpei's room and mop the floor</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Rattle the toilet handle</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">1</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Go to the bathroom to get Sharpei's medicine when she asks</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Take the Crapmatic's hydraulic actuator</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  When the gas flows in from the vent, use the hydraulic actuator 
+                  on the floor</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%" height="2"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></td>
+                <td width="20%" valign="top" height="2"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  At Stellar's funeral, read the eulogy (found in your Pockets) 
+                  when prompted</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Return to your room and get the surprise message from Stellar</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Go to the bridge and talk to Commander Kielbasa</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">1</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Go to the Holocabana and run the 555-1212 program</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%" height="2"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Go to the Shuttle Bay and use the Vulgar Nerve pinch on Chesbro</font></td>
+                <td width="20%" valign="top" height="2"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  In the Brig, take the food off the cart</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">1</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Start making a fake Roger out of food</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">1</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Finish making a fake Roger</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">1</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Put the fake Roger on the cot</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Hide under the cart, Dorff will take the cart out of the cell</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Take the morphine from the cabinet in the Sickbay</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Put the morphine on the donut</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Talk to Circuit Sidney in 8-Rear to get his right arm and eye</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">6</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Go to the Shuttle Bay and sneak the laced donut onto Opus' tray</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  After Opus has morphed out, use the Vulgar Nerve Pinch on Chesbro 
+                  again</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Use Sidney's arm to open the Shuttle Bay door</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Get and use the alarm key to find the right shuttle in the Bay</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">4</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Turn on the shuttle and set the fuel mixture</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">7</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Use Sidney's eye for the retinal scan</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2" color="#CC0000">The 
+                  return to Delta Burksilon V</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  After the shuttle stalls, take the glue from the glove compartment 
+                  and pop the trunk and hood latches</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">7</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Get the Modulating crystal from the homing beacon</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">1</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Put glue on the Modulating crystal and on the Divalium crystal</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">2</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Glue the Modulating crystal from the datacorder to the Divalium 
+                  crystal</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Read the recall notice</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">1</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Get the EVA suit and helmet, put them on, and go outside</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">2</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Get the fish from the engine</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">1</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Take the jumper cables and help sign from the trunk</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">2</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Place the help sign on the shuttle</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">1</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  When Wriggley stops, place your end of the cables on the terminals 
+                  as shown in the recall notice</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Press the Manual Override button</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Confront Dr. Beleauxs</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  After Dr. Beleauxs leaves the room, search the Hi-Tek Stuff 
+                  box and take the Callahan moddie</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">1</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Click the Photo Triangulation Button twice and peel the negatives 
+                  from both photos</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">2</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Place the positive print from the second photo on the PTS monitor. 
+                  Put the negative print from the first photo on top of that</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2" color="#CC0000">The 
+                  Information Super Highway</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Trade the Callahan moddie for a cyberjack at Implants 'n Stuff</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  In Lab A, jack into Cyberspace on Dr. Beleauxs's computer</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Navigate through cyberspace to the Information Superhighway 
+                  Construction Office</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Pick up the board and the screwdriver outside</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">2</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Ring the bell in the office or talk to Sis Inny</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Take a number (3)</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">1</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Use the screwdriver on the counter to change the number</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Give the number to Sys Inny, who lets you into the File Room</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2">Get 
+                  the files for Nigel Rancid, Stellar Santiago, Sharpei, Dr. Beleauxs, 
+                  and Project Immortality</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">10</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Print the files on the cyberprinter in the construction office 
+                  lobby</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Exit the office, navigate back, and use the board to cross the 
+                  gap in the bridge</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Back in Lab a, take the printouts from the printer and confront 
+                  Dr. Beleauxs again</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Get subroutine card and get ready for inner space</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">1</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%" height="2"><font face="Arial, Helvetica, sans-serif" size="2" color="#CC0000">Inner 
+                  Space</font></td>
+                <td width="20%" valign="top" height="2"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  When you land outside the Stomach, insert the subroutine disk 
+                  into the left disk slot</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Get the hand pump and duct tape from the glove compartment</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">2</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Exit the shuttle, collect the capillaries from the engine and 
+                  the alveoli from the shuttle front</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">6</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Pick up the candy, staple, feather and celery string at the 
+                  pit of the Stomach</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">4</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Throw the candy in the acid to see the acid rise</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Attach the staple to the celery string to make a grappling hook</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%" height="10"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Climb back up to the ulcer, catch the Esophagus opening with 
+                  the grappling hook, and climb up</font></td>
+                <td width="20%" valign="top" height="10"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Use the feather to dislodge the Tinkoid, making Stellars' stomach 
+                  acid rise and kill the nanites</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%" height="4"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Dislodge the antihistamine pill from the vocal chords</font></td>
+                <td width="20%" valign="top" height="4"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Put the alveoli in the duct</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Use the alveoli on the blockage to clear it</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Use the EVA helmet to take a dollop of enzymes from the Isles 
+                  of Langerhans</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Make a hose with duct tape and capillaries</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Use the pump, duct tape, and capillaries to pump bile into the 
+                  helmet</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Pick up a couple of gallstones</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">1</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Melt the antihistamine in the stomach with the enzyme/bile mix</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Pick up some tiny time pills</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">1</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%" height="2"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Give tiny time pills to the tapeworm</font></td>
+                <td width="20%" valign="top" height="2"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Ride the tapeworm to the Appendix</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Collect the silver, paper clip section, and fingernail sliver</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Return to the shuttle and add the silver to the fuel tank behind 
+                  the flashing red light</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Use the paper clip to cut an opening in the brain membrane</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Go to the left and jump over the chasm, then keep walking left</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Throw a gallstone at the first nanobot, then at the second nanobot, 
+                  then at the first nanobot again</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Move the elevator halfways up the shaft and use the fingernail 
+                  to stimulate the Cough Center to clear the blockage</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">3</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Use the paper clip section with the nerver fibers to destroy 
+                  Sharpei's nanorobot</font></td>
+                <td width="20%" valign="top"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%" height="2"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                  Give the fish to Sharpei's brain, which will eat it because 
+                  it's brain food</font></td>
+                <td width="20%" valign="top" height="2"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div></td>
+              </tr>
+              <tr> 
+                <td width="80%" height="2"><font color="#000000" face="Arial, Helvetica, sans-serif">.</font></td>
+                <td width="20%" valign="top" height="2"><font color="#000000" face="Arial, Helvetica, sans-serif">.</font></td>
+              </tr>
+              <tr> 
+                <td width="80%"><font face="Arial, Helvetica, sans-serif" size="2">Highest 
+                  possible score:</font></td>
+                <td width="20%"> <div align="right"><font size="2" face="Arial, Helvetica, sans-serif">500</font></div></td>
+              </tr>
+            </table>
+            
+          <p><font color="#000000">___</font></p></td>
+        </tr>
+      </table> </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

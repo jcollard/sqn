@@ -1,0 +1,695 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Space Quest 5 Point List</title>
+<STYLE TYPE="text/css">
+
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="../sq5up.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Space 
+                Quest 5 Point List &gt; </strong>Get maximum points with Space 
+                Quest 5! Please keep in mind that you might not want to see the 
+                information below if you're new to the game.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="../sq5down.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> <!--#include virtual="../../navmenu/sq5menu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="../sq5between.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br>
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td align="left" valign="top"> <div align="justify"> 
+              <p><font size="3"><strong><font color="ffffb1" face="Arial, Helvetica, sans-serif">Space 
+                Quest 5 Point List</font></strong></font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+                You can get a maximum score of 5000 points with Space Quest 5. 
+                A rediculous high amount of points if you compare it with other 
+                Space Quest games. What a bit of playing captain doesn't do these 
+                days. </font></p>
+              <p><font size="2" face="Arial, Helvetica, sans-serif"><img src="../../extraimages/line.gif" width="100%" height="3"></font></p>
+              <table width="100%" border="1" bordercolor="#333333" cellpadding="0" cellspacing="0" align="center">
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>StarCon</strong></font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Going 
+                    to class</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Cheating 
+                    off big-head cadet (first time)</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%" height="19"><font face="Arial, Helvetica, sans-serif" size="2">Passing 
+                    SAT test (awarded at &quot;Captain&quot; transformation)</font></td>
+                  <td width="27%" height="19"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">100</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Taking 
+                    the safety cones from the closet</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">10</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Getting 
+                    the floor scrubber from the closet</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">10</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Completion 
+                    of scrubbing detail on Academy Crest</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">50</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">StarCon 
+                    Region Total</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">180</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></td>
+                  <td width="27%"> <div align="right"><font color="#000000" face="Arial, Helvetica, sans-serif"><font size="2">.</font></font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Eureka</strong></font></td>
+                  <td width="27%"> <div align="right"><font color="#000000" face="Arial, Helvetica, sans-serif"><font size="2">.</font></font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Garbage 
+                    pickup (100 for each)</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">200</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Rescuing 
+                    Spike from the trash</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">20</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Putting 
+                    Spike in the specimen tank (first time)</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">20</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Getting 
+                    antacids from Cliffy's toolbox</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">15</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Giving 
+                    anatacids to Spike in the specimen tank</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">20</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Taking 
+                    the hole puncher from Cliffy's toolbox</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Taking 
+                    the torch from Cliffy's toolbox</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Taking 
+                    the fuse from Cliffy's toolbox</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Successful 
+                    beam in from KU (first time)</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">175</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Beaming 
+                    back from the Space Bar after rescuing Cliffy</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">200</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Arriving 
+                    at Klorox II (orbiting)</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">10</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Hailing 
+                    ship (Quirk) at Klorox II</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">10</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Orbiting 
+                    Genetix (after it's been blown up)</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">10</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Orbiting 
+                    Thrakus (when Bea is there)</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">20</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Getting 
+                    the air mask from the locker</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Putting 
+                    on air mask (before beaming to Thrakus</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">20</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Activating 
+                    the cryo-chamber at the correct time</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2"> 
+                      20</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Putting 
+                    Bea in the chamber</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">20</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Successfully 
+                    freezing Bea in the cryo-chamber</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">75</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Defrosting 
+                    Bea (when you know how to cure her)</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">50</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Putting 
+                    Bea in the transporter (to cure her)</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">50</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Choosing 
+                    EVASIVE ACTION in the asteroids</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">35</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Getting 
+                    the oxygen tank</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">25</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Grappling 
+                    Cliffy with the EVA pod arm</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">100</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Successfully 
+                    returning to the Eureka with Cliffy</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">50</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Cloaking 
+                    the Eureka at the correct time</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">50</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Taking 
+                    the EVA pod to the Goliath</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">300</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Successfully 
+                    attaching the EVA pod to the Goliath</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">50</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Using 
+                    the laser torch on the Goliath's hull</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">100</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Firing 
+                    on the Quirkoid blob while it's attacking the Goliath</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">50</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Sucking 
+                    the Blob up with the RRS</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">200</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Giving 
+                    Flo the order to abandon ship (at right time)</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">10</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Activating 
+                    the self-destruct (at the right time)</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">100</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Fizing 
+                    the transporter (by replacing the fuse in the service tunnel 
+                    sub-panel)</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">175</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Getting 
+                    Spike before you leave</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">10</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Getting 
+                    Bea before you leave</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">10</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Eureka 
+                    Region Total</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">2220</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Kiz 
+                    Urazgubi</strong></font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Beaming 
+                    in before Eureka is blown up</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">10</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Picking 
+                    up the branch</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">10</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Taking 
+                    the banana-like fruit</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">25</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Hitting 
+                    WD40 with the boulder</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">100</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Shoving 
+                    banana in WD40's jet-pack tailpipe</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">200</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Picking 
+                    up her decapitated head</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">25</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Getting 
+                    WD40's ship open</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">100</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Taking 
+                    the cloaking device from WD-40's ship</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">200</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Kiz 
+                    Urazgubi Region Total</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">670</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Space 
+                    Bar </strong></font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Beaming 
+                    in (1st time)</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">10</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Putting 
+                    Space Monkeys in your drink</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">50</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Beating 
+                    Quirk at Star Cruiser (25 pts per ship)</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">100</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Turning 
+                    off the force-field in the detention area</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">25</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Using 
+                    Spike to dissolve the bars of Cliffy's cell</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">50</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Space 
+                    Bar Region Total</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">235</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Klorox 
+                    II </strong></font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Beaming 
+                    in</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Surviving 
+                    the Pukoid's phlegm attack</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">50</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Finding 
+                    the piece of paper</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Entering 
+                    the pass code in computer</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">20</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Finding 
+                    the Genetix &quot;Primordial Soup&quot; canister</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">50</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Klorox 
+                    II Region Total</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">130</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Thrakus</strong></font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Taking 
+                    the frock from the escape pod</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">10</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Deactivating 
+                    the escape pod homing beacon button</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">35</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Lowering 
+                    frock to Bea while dangling</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">35</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Using 
+                    communicator at right time (while dangling)</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">25</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Grabbing 
+                    the vine</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Thrakus 
+                    Regiog Total</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">110</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Genetix</strong></font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Getting 
+                    the Mwog (mutant amphibian) to jump on the communicator</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">100</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Using 
+                    communicator (Talking to Flo)</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">40</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Flying 
+                    into keycard slot</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">20</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Activating 
+                    computer</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">10</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Finding 
+                    payoffs to Quirk in data banks</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">15</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Finding 
+                    Primordial Soup information in data banks</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">20</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Taking 
+                    liquid nitrogen</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">50</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Landing 
+                    on Cliffy (as fly0</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Leading 
+                    Cliffy to the dumpster (as a fly)</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">10</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Getting 
+                    restored to human form</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">50</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Using 
+                    hole punch on business card</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Opening 
+                    lab door lock:</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">1st 
+                    try</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">500</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">2nd 
+                    try</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">300</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">3rd 
+                    try</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">100</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">4th 
+                    try</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">50</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">5 
+                    th try</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">25</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Genetix 
+                    Region Total</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">825</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="3" color="FFFFB1"><strong>Goliath</strong></font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Getting 
+                    inside engineering section</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">20</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Replacing 
+                    the warp distributor cap</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">100</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Getting 
+                    into sub floor</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">100</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Finding 
+                    shield generator terminal</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">350</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Turning 
+                    shield off</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">20</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Giving 
+                    &quot;NOW&quot; signal at the right time</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">20</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Beaming 
+                    back to Eureka</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">20</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Goliath 
+                    Region Total</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">630</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">.</font></div></td>
+                </tr>
+                <tr> 
+                  <td width="73%"><font face="Arial, Helvetica, sans-serif" size="2">Highest 
+                    possible score:</font></td>
+                  <td width="27%"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5000</font></div></td>
+                </tr>
+              </table>
+              
+              <p><font color="#000000">___</font></p>
+            </div></td>
+        </tr>
+      </table> </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>

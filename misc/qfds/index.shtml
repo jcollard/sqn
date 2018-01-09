@@ -1,0 +1,265 @@
+<!-- 
+PLEASE DO NOT STEAL CONTENT
+PLEASE DO NOT LEECH CONTENT
+PLEASE RESPECT THIS WEBSITE'S CONTENT
+Please don't steal this work. SpaceQuest.Net has gone through a great deal of time, energy, 
+and personal expense to provide it to you. If you would like to show it to others, 
+please just link to www.spacequest.net. Thank you.  
+-->
+<html>
+<head>
+<title>SpaceQuest.Net - Quest for Disk Space</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+H4 { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px } 
+--> 
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=0'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+<meta name="keywords" content="space quest, roger wilco, news, updates, scott murphy, mark crowe, josh mandel, adventure games, fansite, sierra, space quest 7, space quest hints">
+<LINK REL="SHORTCUT ICON" HREF="http://www.spacequest.net/favicon.ico" type="image/x-icon" />
+</head>
+<body bgcolor="#373737" text="#FFFFFF" link="#FFFFFF" vlink="#CC0000" alink="#00FF00" leftmargin="0" topmargin="1" marginwidth="1" marginheight="1" onLoad="MM_preloadImages('http://www.spacequest.net/tabs/maintabover.gif','http://www.spacequest.net/tabs/sq1tabover.gif','http://www.spacequest.net/tabs/sq2tabover.gif','http://www.spacequest.net/tabs/sq3tabover.gif','http://www.spacequest.net/tabs/sq4tabover.gif','http://www.spacequest.net/tabs/sq5tabover.gif','http://www.spacequest.net/tabs/sq6tabover.gif','http://www.spacequest.net/tabs/sq7tabover.gif','http://www.spacequest.net/tabs/misctabover.gif')">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top" background="../../tabs/tabback.gif"> 
+      <div align="center">
+<!--#include virtual="../../tabs/tabmenu.html" -->
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="353" background="../../tabs/infobox.gif"><img src="qfmdsup.jpg" width="353" height="76" border="0"></td>
+          <td height="76" background="../../tabs/infobox.gif"> <blockquote> 
+              <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Quest 
+                for Disk Space &gt;</strong> This article is about the different 
+                data carriers Sierra used for the Space Quest Series. It features 
+                scans of both 5.25&quot; and 3.5&quot; floppies and cd-rom disks.</font></p>
+            </blockquote></td>
+        </tr>
+      </table>
+     </td>
+  </tr>
+  <tr> 
+    <td background="../../navmenu/greybackground.gif"> 
+      <div align="left"> 
+        <H4><img src="qfmdsdown.jpg" width="875" height="74" border="0"></h4>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="142" valign="top" background="../../navmenu/greybackground.gif">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="../../navmenu/bluemenuspacer.gif"> 
+            <!--#include virtual="../../navmenu/miscmenu.html" -->
+          </td>
+        </tr>
+      </table>
+      <img src="../../navmenu/undergrey2.gif" width="142" height="25"></td>
+    <td width="25" valign="top" background="../../navmenu/lineleftgreyright.jpg"><img src="qfmdsbetween.jpg" width="25" height="102"></td>
+    <td valign="top" bgcolor="#000000"><img src="../../navmenu/topblack.gif" width="100%" height="20"><br> 
+      <table width="95%" border="0" align="center" cellpadding="1" cellspacing="1">
+        <tr> 
+          <td colspan="2" valign="top"> <div align="left"> 
+              <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>Quest 
+                for Disk Space</strong></font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+                <img src="qfmsp.jpg" alt="Quest for Disk Space" width="150" height="166" align="right"> 
+                Back in the old days, Sierra On-Line didn't take uniformity very 
+                seriously. At one point you could get that popular new Sierra 
+                game your friends were talking about. With all the cool box inserts 
+                and stuff. But if you were unlucky, you could have bought the 
+                budget release instead, which came with just the game disks and 
+                that sloppy fast start instruction.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+                As is the case with the games itself, the disks and cd's are a 
+                pretty good indication of how the gaming industry changed over 
+                the years. I guess you could say Sierra was saved when the new 
+                CD-Rom format was introduced in the early '90's, as some games 
+                were shipped with a ludicrous amount of disks. Around that time, 
+                the &quot;Roger Wilco Other World Series Collection&quot; (SQ1 
+                to 3) became available, with 3.5&quot; but also with 5.25&quot; 
+                disks (those sloppy bendable disks grandpa used to have). Twelve 
+                of those babies were needed for a complete product! A later collection 
+                release, the &quot;Space Quest Saga&quot; collection (SQ1 to 4), 
+                contained FIFTEEN 3.5&quot; disks!</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">This 
+                article is about the different data carriers Sierra used for the 
+                Space Quest Series.</font></p>
+              <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>5.25&quot; 
+                floppy disks<br>
+                </strong></font><font size="3" face="Arial, Helvetica, sans-serif"><img src="5.25diskk.gif" width="100" height="100" align="left"></font><font size="2" face="Arial, Helvetica, sans-serif"><a href="20.html" onClick="NewWindow(this.href,'popup','600','600','no');return false;">Blue 
+                label</a> <font color="#CC0000">(44 KB)</font>: This disk is one 
+                of the first disks ever made by Sierra for the Space Quest Series. 
+                Sierra used to have a whole team of employees who copied the disks 
+                manually. What a huge task that would have been. This one shows 
+                a Space Quest 1 disk, but there's also <a href="bluelabelsq2.html" onClick="NewWindow(this.href,'popup','589','600','no');return false;">a 
+                Space Quest 2 version</a>.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><a href="19.html" onClick="NewWindow(this.href,'popup','580','600','no');return false;">Halfdome 
+                picture label</a><font color="#CC0000"> (52 KB)</font>: The label 
+                on this disk is the most common. It followed up the blue label.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><a href="5.html" onClick="NewWindow(this.href,'popup','600','600','no');return false;">Boring 
+                white/green/blue label</a> <font color="#CC0000">(64 KB)</font>: 
+                This is the latest label version Sierra used. This disk itself 
+                is from a late Space Quest Collection and quite possibly one of 
+                the latest 5.25&quot; disks produced.</font></p>
+              <p align="justify">&nbsp;</p>
+              <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>3.5&quot; 
+                floppy disks<br>
+                </strong></font><font size="3" face="Arial, Helvetica, sans-serif"><img src="applediskk.jpg" width="100" height="105" align="left"></font><font size="2" face="Arial, Helvetica, sans-serif"><a href="17.html" onClick="NewWindow(this.href,'popup','574','600','no');return false;">Blue 
+                disk with cool blue Space Quest label</a> <font color="#CC0000">(56 
+                KB)</font>: This is one of the first 3.5&quot; disks produced 
+                for the Space Quest Series. It's a double side, double density 
+                disk containing Space Quest 1 EGA in the Apple Mactintosh format. 
+                It's one of the most rare disks out there. There's also <a href="oldwhitedisk.html" onClick="NewWindow(this.href,'popup','567','600','no');return false;">a 
+                white version</a> (this one contains Space Quest 2). which is 
+                possibly even more rare.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><a href="3.html" onClick="NewWindow(this.href,'popup','575','600','no');return false;">Blue 
+                disk with the commonly used Halfdome label</a> <font color="#CC0000">(48 
+                KB)</font>: Sierra continued to use blue floppies for the Space 
+                Quest Series for quite some time. In the end, an enormous amount 
+                of these were produced. This one features the familiar Halfdome 
+                picture are a rare (and odd) black protective slide thingie, which 
+                doesn't really suit the floppy, does it? Anyway, the are many 
+                different flavours of this one. Like this <a href="2.html" onClick="NewWindow(this.href,'popup','576','600','no');return false;">black 
+                disk with black slide cover</a> <font color="#CC0000">(64 KB)</font> 
+                and the more common <a href="1.html" onClick="NewWindow(this.href,'popup','571','600','no');return false;">black 
+                disk with metal slide cover</a> <font color="#CC0000">(72 KB)</font>. 
+                Can you believe all these different disks are from the same box?</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><a href="4.html" onClick="NewWindow(this.href,'popup','571','600','no');return false;">Blue 
+                disk with the boring white/green/blue label</a> <font color="#CC0000">(64 
+                KB)</font>: This disk contains (a portion of) Space Quest 2 so 
+                it can therefore be concluded this disk is not an original 1987 
+                release but a later collection disk... And guess what? This is 
+                indeed the case! All gets pretty confusing, doesn't it? This label 
+                was also used on <a href="18.html" onClick="NewWindow(this.href,'popup','570','600','no');return false;">black 
+                disks</a> <font color="#CC0000">(60 KB)</font>. Guess there is 
+                also a grey version out there and God knows how many other flavours.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><a href="15.html" onClick="NewWindow(this.href,'popup','577','600','no');return false;">Grey 
+                disk with the boring office style logo</a> <font color="#CC0000">(36 
+                KB)</font>: This disk is from one of the last floppy Space Quest 
+                Collections. The label is not widely used. None the less, quite 
+                a few of these babies saw the light of day. In the same box there's 
+                <a href="16.html" onClick="NewWindow(this.href,'popup','572','600','no');return false;">a 
+                black</a> <font color="#CC0000">(48 KB)</font> and a <a href="14.html" onClick="NewWindow(this.href,'popup','579','600','no');return false;">blue 
+                disk</a> <font color="#CC0000">(48 KB)</font>.</font></p>
+              <p align="justify">&nbsp;</p>
+              <p align="justify"><strong><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif">C</font></strong><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>D-Roms<br>
+                </strong></font><font size="3" face="Arial, Helvetica, sans-serif"><img src="cdromk.jpg" width="100" height="100" align="left"></font><font size="2" face="Arial, Helvetica, sans-serif"><a href="7.html" onClick="NewWindow(this.href,'popup','599','600','no');return false;">Space 
+                Quest 4 (first version)</a> <font color="#CC0000">(72 KB)</font>: 
+                There are two versions of the Space Quest 4 CD-Rom out there. 
+                I think this is the first version as the second used an art which 
+                was created later on for the 15th Anniversary.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><a href="6.html" onClick="NewWindow(this.href,'popup','600','597','no');return false;">Space 
+                Quest 4 (second version)</a> <font color="#CC0000">(76 KB)</font>: 
+                This CD-Rom features the logo from the 15th Sierra Anniversary 
+                Collector's Edition. The data on the two versions are identical.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><a href="21.html" onClick="NewWindow(this.href,'popup','595','600','no');return false;">Space
+                  Quest 4 (Sierra Originals)</a> <font color="#CC0000">(44
+                    KB)</font>: A CD-Rom disc from the popular Sierra Originals
+                    budget versions.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><a href="13.html" onClick="NewWindow(this.href,'popup','599','600','no');return false;">Space 
+                Quest Collector's Edition (original retail version)</a> <font color="#CC0000">(60 
+                KB)</font>: This is one of my personal favorites. It features 
+                the same art as the box does.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><a href="12.html" onClick="NewWindow(this.href,'popup','599','600','no');return false;">Space 
+                Quest Collector's Edition (European version)</a> <font color="#CC0000">(52 
+                KB)</font>: This particular item was made in France.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><a href="11.html" onClick="NewWindow(this.href,'popup','596','600','no');return false;">Space 
+                Quest 6 (original retail version)</a> <font color="#CC0000">(52 
+                KB)</font>: This design was featured on the first edition of Space 
+                Quest 6 CD-Roms.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><a href="10.html" onClick="NewWindow(this.href,'popup','592','600','no');return false;">Space 
+                Quest 6 (European export version)</a> <font color="#CC0000">(56 
+                KB)</font>: As is the case with many European Sierra products, 
+                there are also Italien, German and France CD-Roms out there.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><a href="9.html" onClick="NewWindow(this.href,'popup','600','600','no');return false;">Space 
+                Quest Collection CD-Rom (1/2)</a> (original retail version) <font color="#CC0000">(68 
+                KB)</font>: This particular CD-Rom has an unofficial street value 
+                of about $50 to $60 US dollars. Collections like these are sold 
+                for over $100 US these days at <a href="http://www.ebay.com" target="_blank">Ebay</a>.</font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><a href="8.html" onClick="NewWindow(this.href,'popup','599','600','no');return false;">Space 
+                Quest Collection CD-Rom (2/2)</a> (European export version) <font color="#CC0000">(52 
+                KB)</font>: This is a very special release for me. It so happens 
+                that this the first official data carrier from Sierra containing 
+                Space Quest I've ever touched. It also marks the end of the Space 
+                Quest era. This CD-Rom was one the latest produced for the Series.</font></p>
+              <p align="justify">&nbsp;</p>
+              <p align="justify"><font color="FFFFB1" face="Arial, Helvetica, sans-serif"><strong>Rare 
+                items</strong></font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"><a href="amiga32colordisk.html"  onClick="NewWindow(this.href,'popup','575','600','no');return false;">Amiga 
+                32 colour version of Space Quest 1</a></font></p>
+              <p align="justify">&nbsp;</p>
+              <p align="justify"><font color="FFFFB1" size="3" face="Arial, Helvetica, sans-serif"><strong>The 
+                Missing Floppies</strong></font></p>
+              <p align="justify"><font size="2" face="Arial, Helvetica, sans-serif"> 
+                I'm afraid this page is not complete. I know for sure it's missing the Space Quest 6 Sierra Originals version. Sadly, this two item was in my possession once. I recall selling the CD-Rom, but 
+                keeping the box and stuff. After all, what's a guy to do with 
+                8 legal copies of Space Quest 6? <a href="../../contact/index.shtml">Give 
+                me a sign</a> if you have this item, or other items I've 
+                missed.</font></p>
+            </div>
+            <p><font color="#000000">___</font></p>
+      </td>
+        </tr>
+      </table>
+      
+    </td>
+    <td width="25" valign="top" background="../../navmenu/linerightgreyleft.gif" bgcolor="393939"><img src="../../navmenu/spacer_leftbar.gif" width="25" height="25"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="393939">&nbsp;</td>
+    <td height="18" valign="bottom" background="../../navmenu/undergrey.gif" bgcolor="393939"> 
+      <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#CCCCCC">All 
+        original content (c) 2004 Frans van Hofwegen. All Space Quest related 
+        material (c) by Sierra Entertainment.</font></div></td>
+    <td height="18" bgcolor="393939">&nbsp;</td>
+  </tr>
+</table>
+</html>
